@@ -283,4 +283,13 @@ highlight_shrink:
 1. 关闭访问量、阅读量统计以及访客地图。
 2. 创建主页：[Home](https://home.si-on.top/)
 <!-- endtimeline -->
+
+<!-- timeline 04-16 -->
+听说Vercel速度不错，开启了镜像站，顺便绑定上上了之前的两个域名。
+1. [Vercel镜像站](http://sion.tk/)=[vercel](https://sion-eta.vercel.app/)
+2. [Netify镜像站](https://aornus.tk)=[netlify](https://625a6bec72983054d0757833--cheery-fudge-471d5e.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd86e249-261e-449c-832f-ae47b14d3f78/deploy-status)](https://app.netlify.com/sites/cheery-fudge-471d5e/deploys)
+
+> 由于找不到哪里有违禁内容，一个多月来，giteepages一直部署不了。4月16日，彻底跟gitee断绝关系，网站源码转移到github上。
+<!-- endtimeline -->
 {% endtimeline %}
