@@ -160,7 +160,7 @@ feed:
 sitemap:
   path: sitemap.xml
   tag: false
-  category: false
+  category: true
 
 # hexo-tag-aplayer
 aplayer:

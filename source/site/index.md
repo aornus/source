@@ -292,4 +292,9 @@ highlight_shrink:
 
 > 由于找不到哪里有违禁内容，一个多月来，giteepages一直部署不了。4月16日，彻底跟gitee断绝关系，网站源码转移到github上。
 <!-- endtimeline -->
+
+<!-- timeline 04-17 -->
+开启赞赏功能，目前仅支持加密货币（赞赏二维码采用极限识别设计，inspired by Minor'book.）
+<!-- endtimeline -->
+
 {% endtimeline %}

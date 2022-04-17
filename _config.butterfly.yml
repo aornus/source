@@ -198,11 +198,11 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-     - img: https://i.proxy.ustclug.org/2021/09/11/CUy3Kr2MBuotAZa.png
-    #   link:
-       text: wechat
+     - img: /coin.png
+       link: https://etherscan.io/address/0x6c8610854e29a5771a17bed715d29e78bd2c7f02
+       text: 欢迎使用加密货币捐赠 ( $ _ $ )
     # - img: /img/alipay.jpg
     #   link:
     #   text: alipay
