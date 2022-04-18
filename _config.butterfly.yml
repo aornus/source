@@ -84,11 +84,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://i.loli.net/2021/09/10/4nAC3cNw5xb98kQ.png 
+favicon: /images/logo.svg
 
 # Avatar (頭像)
 avatar:
-  img: /images/sion.png
+  img: /images/ava.svg
   effect: false
 
 # Disable all banner image
@@ -133,9 +133,9 @@ cover:
   default_cover:
     #     - https://i.proxy.ustclug.org/2020/05/01/gkihqEjXxJ5UZ1C.jpg
     #     - https://images3.alphacoders.com/117/1172476.jpg            #boy on sea
-    - https://images4.alphacoders.com/114/thumb-1920-1145053.png #girl
+    #  - https://images4.alphacoders.com/114/thumb-1920-1145053.png #girl
     #     - https://i.proxy.ustclug.org/2021/09/08/oRyzaAr1QMCKg6V.png
-    # -  /img/bg.jpg
+     - /images/bg.svg
     # - https://gitee.com/aornus/blogimage/raw/master/202201032139713.jpg
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -147,7 +147,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: /images/bg.svg
 
 post_meta:
   page: # Home Page
@@ -200,7 +200,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-     - img: /coin.png
+     - img: /images/reward.svg
        link: https://etherscan.io/address/0x6c8610854e29a5771a17bed715d29e78bd2c7f02
        text: 欢迎使用加密货币捐赠 ( $ _ $ )
     # - img: /img/alipay.jpg
