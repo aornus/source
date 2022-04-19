@@ -161,6 +161,9 @@ sitemap:
   path: sitemap.xml
   tag: false
   category: true
+#hexo-generator-baidu-sitemap
+baidusitemap:
+  path: baidusitemap.xml
 
 # hexo-tag-aplayer
 aplayer:
