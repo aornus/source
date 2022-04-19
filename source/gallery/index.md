@@ -24,3 +24,9 @@ typora-root-url: ../
 {% galleryGroup Sky 碧霄·心驰神往 /gallery/Sky /gallery/sky/IMG_20220303_171236.jpg %}
 {% galleryGroup 500px 到500px亮过相的作品 /gallery/500px /gallery/500px/pic33.jpeg %}
 </div>
+
+----
+
+<div class="gallery-group-main">
+{% galleryGroup Watched 看过的影片 /gallery/Watch /gallery/Watch/cover.jpg %}
+</div>

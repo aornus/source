@@ -1,10 +1,10 @@
 ---
-title: 阁主自白
+title: Of The Blogger
 date: 2021-08-30 18:06:59
 comments: false
 ---
 
-> 什么都可以做，什么都可以不做；什么都可以想，什么都可以不想。
+> 什么都可以做，什么都可以不做；什么都可以想，什么都可以不想。这就是自由。
 <div class="btn-center">
 {% btn 'https://cheers.bio/0x6c8610854E29A5771a17BeD715d29e78bd2C7f02',Cheers,far fa-hand-point-right,outline larger %}
 {% btn 'https://www.zhihu.com/people/ming-yue-71-72',Zhihu,far fa-hand-point-right,outline blue larger %}
@@ -15,5 +15,5 @@ comments: false
 
 好远游，然不可常得。故常耍玩近郊，或徐行，或骑车，觅未知之境，观非常之景，专好行殊途以归。或见诸山林俊美，流雾霞光，往往欣欣然喜不自胜。
 
-少不更事，常为新奇技术所迷。曾为黑莓Priv优化、系统重装而接触Linux，继而有志建站，期年之后，建成部落阁**基地**一座。后常著文章于阁中以自娱，颇示己志。忘怀得失，以此自终。近又为三代网（web3.0）所魂颠，欲售作品获以太以自足。
+少不更事，常为新奇技术所迷。曾为黑莓Priv优化、系统重装而接触Linux，继而有志建站，期年之后，建成部落阁**基地**一座。后常著文章于阁中以自娱，颇示己志。忘怀得失，以此自终。近又为三代网（web3.0）所惑，欲售作品获以太以自足。
 
