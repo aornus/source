@@ -2,6 +2,8 @@
 title: Of The Blogger
 date: 2021-08-30 18:06:59
 comments: false
+cover: false
+aside: false
 ---
 
 > 什么都可以做，什么都可以不做；什么都可以想，什么都可以不想。这就是自由。
