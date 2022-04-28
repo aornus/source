@@ -661,7 +661,7 @@ snackbar:
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: true
+instantpage: false
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
@@ -780,7 +780,7 @@ CDN:
   canvas_nest: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-nest.min.js
 
   lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js
-  instantpage: https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js
+  instantpage: https://cdn.staticfile.org/instant.page/5.1.0/instantpage.min.js
   typed: https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js
   pangu: https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js
 
