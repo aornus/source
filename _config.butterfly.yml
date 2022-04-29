@@ -710,7 +710,7 @@ inject:
     - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     - <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
-    - <link rel="preconnect" href="https://fonts-gstatic.proxy.ustclug.org">
+    - <link rel="preconnect" href="https://gstatic.loli.net">
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>
     - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
     - <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
