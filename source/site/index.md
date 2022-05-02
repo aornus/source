@@ -16,7 +16,7 @@ highlight_shrink:
 {
     title: {
         text: "",
-        subtext: "2021-8~2022-4"
+        subtext: "2021-8~2022-5"
     },
     tooltip: {
         trigger: "axis"
@@ -115,7 +115,7 @@ highlight_shrink:
                 }
             },
             name: "文章",
-            data: [4, 12, 11, 6, 6, 1, 8, 9, 5,],
+            data: [4, 12, 11, 6, 6, 1, 8, 9, 8,],
             symbol: "emptyCircle",
             smooth: true,
             markPoint: {
