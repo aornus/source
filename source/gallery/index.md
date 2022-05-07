@@ -11,6 +11,7 @@ aside: false
 typora-root-url: ../
 ---
 
+
 <div class="gallery-group-main">
 {% galleryGroup Color 颜色狂热 /gallery/Color /gallery/Color/IMG_20201203_0916500-01.jpeg %}
 {% galleryGroup Composition 构图 /gallery/Composition /gallery/Composition/1637674710564-01.jpeg %}

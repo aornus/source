@@ -512,7 +512,7 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 🌻花儿盛开，蝶儿自来。
+    content: 🌻Xin Ru！ 生日快乐！
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
