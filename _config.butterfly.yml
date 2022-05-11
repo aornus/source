@@ -446,17 +446,19 @@ beautify:
 font:
     global-font-size: 16px
     code-font-size:
-    #font-family: "Noto Serif SC"
-    font-family: 'Ma Shan Zheng'
+    font-family: "Noto Serif SC"
+    #font-family: 'Ma Shan Zheng'
     code-font-family: "Anonymous Pro"
       #    font-family: STSong,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif
       #    code-font-family: Menlo
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
+# # https://fonts.proxy.ustclug.org/css2?family=Reggae+One&display=swap" rel="stylesheet
 blog_title_font:
-  font_link: https://fonts.proxy.ustclug.org/css2?family=Reggae+One&display=swap" rel="stylesheet
-  font-family: 'Reggae One'
+  font_link: "https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap"
+  font-family: Noto Serif SC
+#'Reggae One'
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
@@ -512,7 +514,7 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 🌻Xin Ru！ 生日快乐！
+    content: 💧学需静也
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
@@ -566,7 +568,7 @@ newest_comments:
 # --------------------------------------
 
 # Change font size
-change_font_size: false
+change_font_size: true
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
@@ -706,14 +708,15 @@ inject:
     # - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:ital,wght@600;900&display=swap" rel="stylesheet">
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Regular.otf" type="font/otf" crossorigin="anonymous">
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Bold.otf" type="font/otf" crossorigin="anonymous">
-    - <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+SC:wght@300;400;500;600;700&display=swap" crossorigin >
-    - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+    - <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700" crossorigin >
+    # - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     - <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     - <link rel="preconnect" href="https://gstatic.loli.net">
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>
     - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
-    - <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
+    #- <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
 
   bottom:
   # - <script src="xxxx"></script>
