@@ -1,12 +1,9 @@
 ---
 title: HoloiSO安装
 tags:
-- linux
 - steam
-- game
 categories:
   - Linux
-  - 系统狂魔
 katex: true
 date: 2022-05-11 10:08:34
 cover:
@@ -15,18 +12,20 @@ copyright:
 aside:
 password:
 hidden:
-description:
+description: 第三方SteamOS安装教程|不建议国内安装使用
 sticky:
 ---
+
+>  注意：本文主要是翻译自仓库里的说明，仅供参考。
 
 > <center>Yes, Gabe. SteamOS functions well on a toaster.</center>
 > <p align="right">——Adam Jafarov</p>
 
 # HololSO简介
 
-> 来自SteamOS 3(版本名:Holo)的archiso魔改。
+> 来自SteamOS 3(版本名:Holo)的archiso安装**脚本**，仅仅是个脚本而已。
 
-这个项目给最近新出来的Steam Deck的Holo操作系统了一个通用的、可安装的格式，使得其可以像普遍的linux发行版一样，可以在任何X86_64的PC上安装，而且HoloISo还提供一个接近官方的SteamOS体验。
+此项目给最近新出来的Steam Deck的Holo操作系统了一个通用的、可安装的格式，使得其可以像普遍的linux发行版一样，可以在任何X86_64的PC上安装，而且HoloISo还提供一个接近官方的SteamOS体验。
 
 ## 更新记录
 
@@ -77,7 +76,7 @@ sticky:
 
 不推荐，未开发完全，不稳定
 
-### 甲板体验
+### Steam Deck体验
 
 完整的SteamOS 3体验，包括流畅的会话切换，KDE桌面环境+KDE全家桶，以及预装的Chromium。
 
@@ -86,15 +85,9 @@ sticky:
 ## 安装步骤
 
 1. 从Release里下载镜像，使用 [BalenaEtcher](https://www.balena.io/etcher/), [Rufus](https://rufus.ie/)的DD模式烧录。
-
-   ![烧录成功](image-20220511111028782.png)
-
 2. 从U盘启动该镜像
-
 3. 在终端输入：`holoinstall`，回车运行
-
 4. 当系统提示时，输入磁盘名称，例如`sda`或`nvme0n1`
-
 5. 带上你喜欢的热饮☕，等待它的安装😑
 
 ### 安装后
@@ -116,6 +109,12 @@ sticky:
 这个配置包括Valve的pacman.conf仓库、holoinstall脚本和holoinstall安装后二进制文件。
 
 这个配置建立了一个基于releng的ISO，这是默认的Arch Linux重新分配的风格。
+
+# 踩坑记录
+
+此系统的安装过程实则为arch的安装（曾经前前后后安装过七八次Arch，仅有两次成功，一看到那个iwctl我就烦），此项目不过是提供了一个脚本。
+
+官方提供的`holoinstall`脚本在国内慢的要死，挂了代理都贼慢的那种，强烈不建议安装使用，还是等到steam OS 3正式版出来了，再用官方镜像的装吧。
 
 
 
