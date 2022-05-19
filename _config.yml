@@ -34,6 +34,7 @@ skip_render:
   - "robots.txt"
   - .nojekyll
   - "home/**"
+  - "cdn/**"
   - "Periadic/**"
 
 # Writing

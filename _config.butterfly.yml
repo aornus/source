@@ -739,7 +739,7 @@ inject:
 CDN:
   # main
   main_css: /css/index.css
-  jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
+  jquery: https://si-on.top/cdn/jquery.min.js
   main: /js/main.js
   utils: /js/utils.js
 
@@ -754,7 +754,7 @@ CDN:
   disqusjs_css: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
   utterances: https://utteranc.es/client.js
   twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
-  waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js
+  waline: https://si-on.top/cdn/Waline.min.js
 
   # share
   addtoany: https://static.addtoany.com/menu/page.js
@@ -788,18 +788,18 @@ CDN:
   pangu: https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js
 
   # photo
-  fancybox_css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css
-  fancybox: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js
+  fancybox_css: https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.css
+  fancybox: https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.js
   medium_zoom: https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js
 
   # snackbar
-  snackbar_css: https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css
-  snackbar: https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js
+  snackbar_css: https://si-on.top/cdn/snackbar.min.css
+  snackbar: https://si-on.top/cdn/snackbar.min.js
 
   # effect
-  activate_power_mode: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/activate-power-mode.min.js
+  activate_power_mode: https://si-on.top/cdn/activate-power-mode.min.js
   fireworks: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js
-  click_heart: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-heart.min.js
+  click_heart: https://si-on.top/cdn/click-heart.min.js
   ClickShowText: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-show-text.min.js
 
   # fontawesome
