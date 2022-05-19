@@ -294,7 +294,12 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 04-17 -->
-开启赞赏功能，目前仅支持加密货币（赞赏二维码采用极限识别设计，inspired by Minor'book.）
+开启赞赏功能--加密货币（赞赏二维码采用极限识别设计，inspired by Minor's book.）
+<!-- endtimeline -->
+
+<!-- timeline 05-19 -->
+琐事繁杂，心神涣散，短暂放空，为期一月。
+红鱼（核心要义：删繁就简、奥卡姆剃刀原则）计划正式启动
 <!-- endtimeline -->
 
 {% endtimeline %}

@@ -198,7 +198,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
      - img: /images/reward.svg
        link: https://etherscan.io/address/0x6c8610854e29a5771a17bed715d29e78bd2c7f02
@@ -217,7 +217,7 @@ post_edit:
 
 # Related Articles
 related_post:
-  enable: true
+  enable: false
   limit: 3 # Number of posts displayed
   date_type: updated # or created or updated 文章日期顯示創建日或者更新日
 
@@ -514,7 +514,7 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 💧学需静也
+    content: 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
@@ -739,7 +739,8 @@ inject:
 CDN:
   # main
   main_css: /css/index.css
-  jquery: https://si-on.top/cdn/jquery.min.js
+  jquery: 
+  # https://si-on.top/cdn/jquery.min.js
   main: /js/main.js
   utils: /js/utils.js
 
@@ -754,7 +755,8 @@ CDN:
   disqusjs_css: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
   utterances: https://utteranc.es/client.js
   twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
-  waline: https://si-on.top/cdn/Waline.min.js
+  waline: 
+  # https://si-on.top/cdn/Waline.min.js
 
   # share
   addtoany: https://static.addtoany.com/menu/page.js
@@ -793,13 +795,16 @@ CDN:
   medium_zoom: https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js
 
   # snackbar
-  snackbar_css: https://si-on.top/cdn/snackbar.min.css
-  snackbar: https://si-on.top/cdn/snackbar.min.js
+  snackbar_css: 
+  # https://si-on.top/cdn/snackbar.min.css
+  snackbar: 
+  # https://si-on.top/cdn/snackbar.min.js
 
   # effect
   activate_power_mode: https://si-on.top/cdn/activate-power-mode.min.js
   fireworks: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js
-  click_heart: https://si-on.top/cdn/click-heart.min.js
+  click_heart: 
+  # https://si-on.top/cdn/click-heart.min.js
   ClickShowText: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-show-text.min.js
 
   # fontawesome

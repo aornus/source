@@ -56,10 +56,10 @@ aside: false
       link: https://www.sttmedia.com/
       avatar: https://www.sttmedia.com/favicon.ico
       descr: Software and Web Solutions（超级工具集合）
-    - name: 
+    - name: 不死鸟
       link: https://dalao.ru/
       avatar: https://npm.elemecdn.com/niaosu/dalao/vzDtmMFg.png
-      descr: 不死鸟·资源聚合搜索
+      descr: 资源聚合搜索
       
 
 {% endflink %}

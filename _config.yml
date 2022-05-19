@@ -101,6 +101,7 @@ include:
 - .nojekyll
 - sitemaps.xml
 - ".github/workflows/sync.yml"
+- "robots.txt"
 
 exclude:
 ignore: 
