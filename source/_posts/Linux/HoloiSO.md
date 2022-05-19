@@ -2,8 +2,9 @@
 title: HoloiSO安装
 tags:
 - steam
+- Linux
 categories:
-  - Linux
+- ISO
 katex: true
 date: 2022-05-11 10:08:34
 cover:
@@ -116,7 +117,15 @@ sticky:
 
 官方提供的`holoinstall`脚本在国内慢的要死，挂了代理都贼慢的那种，强烈不建议安装使用，还是等到steam OS 3正式版出来了，再用官方镜像的装吧。
 
+# 渔
 
+这里推荐一个github镜像加速的网站：https://d.serctl.com/
+
+现在GitHub没有完全被墙，可以通过改变host的方式进入github找到项目的地址，然后利用此网站获取加速链接。
+
+如果是没办法获取直接下载链接的（比如通过action生成的文件）可以通过[这个直链获取工具](https://nightly.link/)来获取直链，然后再利用上面的网站来加速下载。
+
+> 也可以通过[浏览器插件](https://chrome.zzzmh.cn/#/search)来加速下载
 
 [^valve]: **威尔乌**, 美国电子游戏开发和数字发行公司。steamOS的开发商。*2021年7月16日，Valve发布游戏掌机Steam Deck；Steam Deck可以登陆Steam账户，并同步用户数据。*
 [^game]: 这部分目前正在开发中。
