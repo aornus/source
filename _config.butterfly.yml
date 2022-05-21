@@ -703,7 +703,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/static-butterfly/dist/css/index.min.css">
+    # - <link rel="stylesheet" href="https://unpkg.zhimg.com/static-butterfly/dist/css/index.min.css">
     # - <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css">
     # - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:ital,wght@600;900&display=swap" rel="stylesheet">
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Regular.otf" type="font/otf" crossorigin="anonymous">
@@ -740,72 +740,71 @@ CDN:
   # main
   main_css: /css/index.css
   jquery: 
-  # https://si-on.top/cdn/jquery.min.js
   main: /js/main.js
   utils: /js/utils.js
 
   # pjax
-  pjax: https://cdn.jsdelivr.net/npm/pjax/pjax.min.js
+  pjax: https://unpkg.zhimg.com/pjax/pjax.min.js
 
   # comments
-  gitalk: https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js
-  gitalk_css: https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css
-  valine: https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js
-  disqusjs: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqus.js
-  disqusjs_css: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
+  gitalk: https://unpkg.zhimg.com/gitalk@latest/dist/gitalk.min.js
+  gitalk_css: https://unpkg.zhimg.com/gitalk/dist/gitalk.min.css
+  valine: https://unpkg.zhimg.com/valine/dist/Valine.min.js
+  disqusjs: https://unpkg.zhimg.com/disqusjs@1/dist/disqus.js
+  disqusjs_css: https://unpkg.zhimg.com/disqusjs@1/dist/disqusjs.css
   utterances: https://utteranc.es/client.js
-  twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
-  waline: 
+  twikoo: https://unpkg.zhimg.com/twikoo/dist/twikoo.all.min.js
+  waline: https://unpkg.zhimg.com/@waline/client/dist/Waline.min.js
   # https://si-on.top/cdn/Waline.min.js
 
   # share
   addtoany: https://static.addtoany.com/menu/page.js
-  sharejs: https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js
-  sharejs_css: https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css
+  sharejs: https://unpkg.zhimg.com/social-share.js/dist/js/social-share.min.js
+  sharejs_css: https://unpkg.zhimg.com/social-share.js/dist/css/share.min.css
 
   # search
   local_search: /js/search/local-search.js
   algolia_js: /js/search/algolia.js
-  algolia_search: https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.js
-  algolia_search_css: https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.css
+  algolia_search: https://unpkg.zhimg.com/instantsearch.js@2.10.5/dist/instantsearch.min.js
+  algolia_search_css: https://unpkg.zhimg.com/instantsearch.js@2.10.5/dist/instantsearch.min.css
 
   # math
-  mathjax: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  mathjax: https://unpkg.zhimg.com/mathjax@3/es5/tex-mml-chtml.js
   katex: https://cdn.staticfile.org/KaTeX/0.15.2/katex.min.css
   katex_copytex: https://cdn.staticfile.org/KaTeX/0.15.2/contrib/copy-tex.min.js
   katex_copytex_css: https://cdn.staticfile.org/KaTeX/0.15.2/contrib/copy-tex.css
-  mermaid: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+  mermaid: https://unpkg.zhimg.com/mermaid/dist/mermaid.min.js
 
   # count
-  busuanzi: //busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+  busuanzi: #//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
   # background effect
-  canvas_ribbon: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-ribbon.min.js
-  canvas_fluttering_ribbon: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-fluttering-ribbon.min.js
-  canvas_nest: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-nest.min.js
+  canvas_ribbon: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/canvas-ribbon.min.js
+  canvas_fluttering_ribbon: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/canvas-fluttering-ribbon.min.js
+  canvas_nest: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/canvas-nest.min.js
 
-  lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js
+  lazyload: https://unpkg.zhimg.com/vanilla-lazyload/dist/lazyload.iife.min.js
   instantpage: https://cdn.staticfile.org/instant.page/5.1.0/instantpage.min.js
-  typed: https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js
-  pangu: https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js
+  typed: https://unpkg.zhimg.com/typed.js/lib/typed.min.js
+  pangu: https://unpkg.zhimg.com/pangu/dist/browser/pangu.min.js
 
   # photo
   fancybox_css: https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.css
   fancybox: https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.js
-  medium_zoom: https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js
+  medium_zoom: https://unpkg.zhimg.com/medium-zoom/dist/medium-zoom.min.js
 
   # snackbar
-  snackbar_css: 
+  snackbar_css: https://unpkg.zhimg.com/node-snackbar/dist/snackbar.min.css
   # https://si-on.top/cdn/snackbar.min.css
-  snackbar: 
+  snackbar: https://unpkg.zhimg.com/node-snackbar/dist/snackbar.min.js
   # https://si-on.top/cdn/snackbar.min.js
 
   # effect
   activate_power_mode: https://si-on.top/cdn/activate-power-mode.min.js
-  fireworks: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js
-  click_heart: 
+  fireworks: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/fireworks.min.js
+  click_heart: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/click-heart.min.js
   # https://si-on.top/cdn/click-heart.min.js
-  ClickShowText: https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-show-text.min.js
+  ClickShowText: https://unpkg.zhimg.com/butterfly-extsrc@1/dist/click-show-text.min.js
 
   # fontawesome
   fontawesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.0.0/css/all.min.css
@@ -814,15 +813,15 @@ CDN:
   translate: /js/tw_cn.js
 
   # justifiedGallery
-  justifiedGallery_js: https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js
-  justifiedGallery_css: https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css
+  justifiedGallery_js: https://unpkg.zhimg.com/justifiedGallery/dist/js/jquery.justifiedGallery.min.js
+  justifiedGallery_css: https://unpkg.zhimg.com/justifiedGallery/dist/css/justifiedGallery.min.css
 
   # aplayer
-  aplayer_css: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
-  aplayer_js: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  aplayer_css: https://unpkg.zhimg.com/aplayer/dist/APlayer.min.css
+  aplayer_js: https://unpkg.zhimg.com/aplayer/dist/APlayer.min.js
   meting_js: https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js
 
   # Prism.js
-  prismjs_js: https://cdn.jsdelivr.net/npm/prismjs/prism.min.js
-  prismjs_lineNumber_js: https://cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js
-  prismjs_autoloader: https://cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
+  prismjs_js: https://unpkg.zhimg.com/prismjs/prism.min.js
+  prismjs_lineNumber_js: https://unpkg.zhimg.com/prismjs/plugins/line-numbers/prism-line-numbers.min.js
+  prismjs_autoloader: https://unpkg.zhimg.com/prismjs/plugins/autoloader/prism-autoloader.min.js
