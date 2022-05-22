@@ -124,6 +124,7 @@ plugins:
  - hexo-tag-aplayer
  - hexo-pdf
  - hexo-generator-seo-friendly-sitemap
+ - hexo-tag-abcjs
 
 # hexo-deployer-git
 deploy:
@@ -217,6 +218,32 @@ markdown:
 #       breaks: true
 #       smartLists: true
 #       smartypants: true
+
+# abc.js添加音乐支持
+abcjs:
+  js: 'http://7th-chord.jp/sara_tsukiyono/abcjs/js/abcjs_midi_5.12.0-min.js'
+ # js: 'https://cdn.staticfile.org/abcjs/3.1.1/abcjs_basic_midi-min.js'
+  css: 'http://7th-chord.jp/sara_tsukiyono/abcjs/js/abcjs-midi.css'
+ #'/css/abcjs-midi.css'
+  midi: true
+  animation: true
+  animationColors: ['#000000', '#3d9afc']
+  options: {
+    startingTune: 0,
+    print: false,
+    visualTranspose: 0,
+    scale: 1,
+    responsive: 'resize',
+    inlineControls: {
+      loopToggle: true,
+      standard: true,
+      tooltipLoop: 'Click to toggle play once/repeat.',
+      tooltipReset: 'Click to go to beginning.',
+      tooltipPlay: 'Click to play/pause.',
+      tooltipProgress: 'Click to change the playback position.'
+    }
+  }
+  scriptId: 'hexo-tag-abcjs'
 
 
 

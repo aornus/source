@@ -93,8 +93,8 @@ hidden:
    npm un hexo-renderer-marked hexo-renderer-kramed --save
    ```
    
-   ```
-   npm install hexo-renderer-pug hexo-renderer-stylus hexo-deployer-git  hexo-wordcount hexo-hide-posts  hexo-blog-encrypt  hexo-generator-feed  hexo-generator-sitemap  hexo-tag-aplayer  hexo-pdf  hexo-renderer-markdown-it  @neilsustc/markdown-it-katex  --save
+   ```shell butterfly主题常用包2022-5-22
+   npm install hexo-renderer-pug hexo-renderer-stylus hexo-deployer-git  hexo-wordcount hexo-hide-posts  hexo-blog-encrypt  hexo-generator-feed  hexo-generator-sitemap  hexo-tag-aplayer  hexo-pdf  hexo-renderer-markdown-it  @neilsustc/markdown-it-katex  hexo-butterfly-extjs--save
    ```
    
 6. picgo配置（gitee）
