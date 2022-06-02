@@ -17,6 +17,7 @@
     "hexo-blog-encrypt": "^3.1.6",
     "hexo-butterfly-extjs": "^1.1.8",
     "hexo-butterfly-tag-plugins-plus": "^1.0.13",
+    "hexo-butterfly-vanta": "^1.0.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-deployer-rss3": "^0.0.4",
     "hexo-generator-archive": "^1.0.0",

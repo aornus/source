@@ -3014,6 +3014,11 @@
   "resolved" "https://registry.npmmirror.com/hexo-butterfly-tag-plugins-plus/-/hexo-butterfly-tag-plugins-plus-1.0.17.tgz"
   "version" "1.0.17"
 
+"hexo-butterfly-vanta@^1.0.0":
+  "integrity" "sha512-S+yfQTVhrSszYrZDbfIa8HvsvKtSFeZK/BNo96ud7Ydv1gYGpdGDIUHHIjbuGUl0IwUlFvP4+3iAvSWT+0w/9A=="
+  "resolved" "https://registry.npmmirror.com/hexo-butterfly-vanta/-/hexo-butterfly-vanta-1.0.0.tgz"
+  "version" "1.0.0"
+
 "hexo-cli@^4.0.0":
   "integrity" "sha512-lr46h1tK1RNQJAQZbzKYAWGsmqF5DLrW6xKEakqv/o9JqgdeempBjIm7HqjcZEUBpWij4EO65X6YJiDmT9LR7g=="
   "resolved" "https://registry.npmmirror.com/hexo-cli/-/hexo-cli-4.3.0.tgz"
@@ -4618,9 +4623,9 @@
     "kind-of" "^3.0.3"
 
 "object-inspect@^1.12.0", "object-inspect@^1.9.0":
-  "integrity" "sha512-Ho2z80bVIvJloH+YzRmpZVQe87+qASmBUKZDWgx9cu+KDrX2ZDH/3tMy+gXbZETVGs2M8YdxObOh7XAtim9Y0g=="
-  "resolved" "https://registry.npmmirror.com/object-inspect/-/object-inspect-1.12.0.tgz"
-  "version" "1.12.0"
+  "integrity" "sha512-Y/jF6vnvEtOPGiKD1+q+X0CiUYRQtEHp89MLLUJ7TUivtH8Ugn2+3A7Rynqk7BRsAoqeOQWnFnjpDrKSxDgIGA=="
+  "resolved" "https://registry.npmmirror.com/object-inspect/-/object-inspect-1.12.1.tgz"
+  "version" "1.12.1"
 
 "object-is@^1.0.1":
   "integrity" "sha512-3cyDsyHgtmi7I7DfSSI2LDp6SK2lwvtbg0p0R1e0RvTqF5ceGx+K2dfSjm1bKDMVCFEDAQvy+o8c6a7VujOddw=="

@@ -260,7 +260,7 @@ addThis:
 # https://github.com/overtrue/share.js
 sharejs:
   enable: true
-  sites: facebook,twitter,wechat,weibo,qq
+  sites: wechat,weibo,qq
 
 # AddToAny
 # https://www.addtoany.com/
@@ -560,7 +560,7 @@ canvas_nest:
   color: '200,200,200' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)线条颜色
   opacity: 0.5 # the opacity of line (0~1), default: 0.5.线条透明度
   zIndex: -1 # z-index property of the background, default: -1.画面层级
-  count: 4 # the number of lines, default: 99.线条数量
+  count: 10 # the number of lines, default: 99.线条数量
   mobile: falseDatalore Community plan
 
 # Typewriter Effect (打字效果)
