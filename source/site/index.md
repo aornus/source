@@ -16,7 +16,7 @@ highlight_shrink:
 {
     title: {
         text: "",
-        subtext: "2021-8~2022-5"
+        subtext: "2021-8~2022-6"
     },
     tooltip: {
         trigger: "axis"
@@ -52,7 +52,7 @@ highlight_shrink:
         {
             type: "category",
             boundaryGap: true,
-            data: ["8", "9", "10", "11", "12", "1", "2", "3", "4"],
+            data: ["8", "9", "10", "11", "12", "1", "2", "3", "4", "5"],
             position: "bottom",
             name: "月份",
             nameLocation: "end",
@@ -115,7 +115,7 @@ highlight_shrink:
                 }
             },
             name: "文章",
-            data: [4, 12, 11, 6, 6, 1, 8, 9, 8,],
+            data: [4, 12, 11, 6, 6, 1, 8, 9, 8,4,],
             symbol: "emptyCircle",
             smooth: true,
             markPoint: {
@@ -302,4 +302,9 @@ highlight_shrink:
 红鱼（核心要义：删繁就简、奥卡姆剃刀原则）计划正式启动
 <!-- endtimeline -->
 
+<!-- timeline 6-4 -->
+* 添加[摘句页面](\clip)，主要是来用kindle读书过程中的杂七杂八的混乱想法，通过kindle fere 生成。
+* 添加[笔记](\cache)，想了好久了，每次不凑巧想记些东西都不知道放哪里好。
+* 菜单描述微调
+<!-- endtimeline -->
 {% endtimeline %}
