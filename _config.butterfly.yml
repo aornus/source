@@ -231,7 +231,7 @@ related_post:
   date_type: updated # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
-photofigcaption: false
+photofigcaption: true
 
 # post_pagination (分頁)
 # value: 1 || 2 || false
@@ -562,13 +562,13 @@ canvas_nest:
   color: '200,200,200' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)线条颜色
   opacity: 0.5 # the opacity of line (0~1), default: 0.5.线条透明度
   zIndex: -1 # z-index property of the background, default: -1.画面层级
-  count: 10 # the number of lines, default: 99.线条数量
-  mobile: falseDatalore Community plan
+  count: 3 # the number of lines, default: 99.线条数量
+  mobile: false 
 
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: true
+  enable: false
   colorful: true # open particle animation (冒光特效)
   shake: false #  open shake (抖動特效)
   mobile: true
@@ -581,7 +581,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -781,7 +781,7 @@ fancybox: true
 # mermaid
 # see https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # built-in themes: default/forest/dark/neutral
   theme:
     light: default
@@ -824,7 +824,7 @@ aplayerInject:
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
   enable: false
-  position: bottom-left
+  position: top-center
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
   bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
 
@@ -835,7 +835,7 @@ instantpage: false
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: true
+  enable: false
   field: site # site/post
 
 # Lazyload (圖片懶加載)
@@ -844,7 +844,7 @@ lazyload:
   enable: true
   field: site # site/post
   placeholder:
-  blur: true
+  blur: false
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
