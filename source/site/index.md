@@ -143,7 +143,7 @@ highlight_shrink:
 
 <!-- ![逐云雀·新希望](https://cdn.jsdelivr.net/gh/aornus/blogimg/2022b&amp_bo_HgedAwAAAAARALA_&rf_viewer_311.jpg) --> 
 
-域名：[ **sky-lark.top**](https://sky-lark.top)
+* Domin ：[ **sky-lark.top**](https://sky-lark.top)
 
 <!-- endtimeline -->
 
@@ -181,7 +181,7 @@ highlight_shrink:
 <!-- timeline 08-29 -->
 摸索了一个下午，成功在本地termux上部署hexo,配合gitee的pages服务(等了几个月了)，第二次建站开始。
 
-域名：**aornus.gitee.io**
+* Domin ：**aornus.gitee.io**
 
 <!-- endtimeline -->
 
@@ -224,7 +224,7 @@ highlight_shrink:
 
 转移部署到githubpages，
 
-域名：**aornus.github.io**
+* Domin ：**aornus.github.io**
 
 <!-- endtimeline --> 
 
@@ -232,7 +232,7 @@ highlight_shrink:
 
 使用Freenom免费域名服务+Cloudflare CDN
 
-域名：**aornus.tk**
+* Domin ：**aornus.tk**
 
 <!-- endtimeline --> 
 
@@ -240,7 +240,7 @@ highlight_shrink:
 
 起了一个英文名sion，更改域名
 
-域名：**sion.tk**
+* Domin：**sion.tk**
 
 <!-- endtimeline --> 
 
@@ -254,7 +254,8 @@ highlight_shrink:
 
 购买新域名，配合cloudflare反代了tg频道
 
-域名:  [**si-on.top**]( https://si-on.top)
+* New Domin:  [**si-on.top**]( https://si-on.top)
+* Telegram Channel:  [**Thus Spake Sion**]( https://tg.si-on.top)
 
 <!-- endtimeline --> 
 
@@ -267,7 +268,9 @@ highlight_shrink:
 <!-- endtimeline --> 
 
 <!-- timeline 03-24 -->
-建立写作专用子域：[🪶](https://ink.si-on.top/)
+建立阅读与写作专用子域🪶：
+
+* Domin: https://ink.si-on.top/
 <!-- endtimeline -->
 
 <!-- timeline 03-28 -->
@@ -276,12 +279,14 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 03-29 -->
-利用Vercel建立云盘，名之为[SionCloud](https://sionedrive.vercel.app)
+利用Vercel建立onedrive云盘，主要存是一些学习资料与技术文档，也会不定期更新[外刊](https://sionedrive.vercel.app/journal)
+
+* onecloud：https://sionedrive.vercel.app
 <!-- endtimeline -->
 
 <!-- timeline 04-15 -->
-1. 关闭访问量、阅读量统计以及访客地图。
-2. 创建主页：[Home](https://home.si-on.top/)
+关闭访问量、阅读量统计以及访客地图。创建了主页
+* Home：https://home.si-on.top/
 <!-- endtimeline -->
 
 <!-- timeline 04-16 -->
@@ -303,8 +308,15 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 6-4 -->
-* 添加[摘句页面](\clip)，主要是来用kindle读书过程中的杂七杂八的混乱想法，通过kindle fere 生成。
-* 添加[笔记](\cache)，想了好久了，每次不凑巧想记些东西都不知道放哪里好。
+* 添加[摘句页面](/clip)，主要是来用kindle读书过程中的杂七杂八的混乱想法，通过kindle fere 生成。
+* 添加[笔记](/cache)，想了好久了，每次不凑巧想记些东西都不知道放哪里好。
 * 菜单描述微调
 <!-- endtimeline -->
+
+<!-- timeline 06-10 -->
+博客部署到IPFS (interplanetary File System)
+
+* Domin: https://ipfs.si-on.top
+<!-- endtimeline -->
+
 {% endtimeline %}

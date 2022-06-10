@@ -674,7 +674,8 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
+    content: 秉!旭!隼!迹!这次六级我必过500！
+    # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
