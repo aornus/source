@@ -6,8 +6,8 @@ menu:
  #Home: /||fas fa-home
  工具||fas fa-briefcase:
 #  钢琴: https://www.xiwnn.com/piano/ || fas fa-music
-  云盘: https://sionedrive.vercel.app || fas fa-cloud
-  笔记: /cache/ || fas fa-pencil
+  云盘: https://cloud.si-on.top || fas fa-cloud
+  笔记: https://note.si-on.top || fas fa-pencil
  私人||fas fa-coffee:
   乱耳: /music/|| fas fa-headphones
   捉影: /gallery/ || fas fa-camera
@@ -674,7 +674,8 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 秉!旭!隼!迹!这次六级我必过500！
+    content: 沉静下来，才能发现更深微的世界。
+    # 秉!旭!隼!迹! 这次六级我必过500！
     # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
   card_recent_post:
     enable: false

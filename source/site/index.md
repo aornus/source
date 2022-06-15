@@ -147,6 +147,9 @@ highlight_shrink:
 
 <!-- endtimeline -->
 
+<!-- timeline 4-15 -->
+备案成功
+<!-- endtimeline -->
 <!-- timeline 6-15 -->
 重装系统为centos，使用宝塔后台+Wordpress休整。
 
@@ -255,7 +258,7 @@ highlight_shrink:
 购买新域名，配合cloudflare反代了tg频道
 
 * New Domin:  [**si-on.top**]( https://si-on.top)
-* Telegram Channel:  [**Thus Spake Sion**]( https://tg.si-on.top)
+* Telegram Channel:  [**Thus Speak Sion**]( https://tg.si-on.top)
 
 <!-- endtimeline --> 
 
@@ -287,6 +290,7 @@ highlight_shrink:
 <!-- timeline 04-15 -->
 关闭访问量、阅读量统计以及访客地图。创建了主页
 * Home：https://home.si-on.top/
+> 2022-6-15：已经作为[主页](https://www.si-on.top)启用
 <!-- endtimeline -->
 
 <!-- timeline 04-16 -->
@@ -316,7 +320,19 @@ highlight_shrink:
 <!-- timeline 06-10 -->
 博客部署到IPFS (interplanetary File System)
 
-* Domin: https://ipfs.si-on.top
+* Domin: [ipfs.si-on.top](https://ipfs.si-on.top/)
+<!-- endtimeline -->
+
+<!-- timeline 06-15 -->
+域名整合:把各个镜像站以及几个小的工具站点都整合到主域名下的二级域名下,将home页设置为了主页。
+* 主页：[www.si-on.top](https://www.si-on.top/)
+    * 博客：[blog.si-on.top](https://blog.si-on.top/)
+    * 云盘：[cloud.si-on.top](https://cloud.si-on.top/)
+    * 笔记：[note.si-on.top](https://note.si-on.top/)
+    * 短文：[ink.si-on.top](https://ink.si-on.top/)
+    * 镜一：[vercel.si-on.top](https://vercel.si-on.top/)
+    * 镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)
+    * 镜三：[nelify.si-on.top](https://netlify.si-on.top/)
 <!-- endtimeline -->
 
 {% endtimeline %}
