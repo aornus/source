@@ -11,9 +11,9 @@ menu:
  私人||fas fa-coffee:
   乱耳: /music/|| fas fa-headphones
   捉影: /gallery/ || fas fa-camera
-  摘句: /clip/ || fas fa-book
+  # 摘句: /clip/ || fas fa-book
   随念: https://tg.si-on.top/ || fas fa-paper-plane
-  关于: /about/|| fas fa-heart
+  # 关于: /about/|| fas fa-heart
  站点||fas fa-cube:
   归档: /archives/||fas fa-archive
   标签: /tags/|| fas fa-tags
@@ -886,6 +886,7 @@ inject:
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>
     - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
     #- <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
+    - <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css">
 
   bottom:
   # - <script src="xxxx"></script>
