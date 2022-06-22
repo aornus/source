@@ -333,6 +333,7 @@ highlight_shrink:
     * 镜一：[vercel.si-on.top](https://vercel.si-on.top/)
     * 镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)
     * 镜三：[nelify.si-on.top](https://netlify.si-on.top/)
+    * 国镜：[si-on.gitee.io](https://si-on.gitee.io/) (6-19 恢复了gitee国内镜像)
 <!-- endtimeline -->
 
 {% endtimeline %}
