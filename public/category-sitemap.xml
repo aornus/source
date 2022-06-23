@@ -9,29 +9,8 @@
 
 
     <url>
-        <loc>https://blog.si-on.top/categories/%25E6%259D%2582%25E8%25B0%2588/</loc>
-        <lastmod>2022-06-22T14:46:31.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://blog.si-on.top/categories/%25E6%2595%25B0%25E5%25AD%25A6/</loc>
         <lastmod>2022-06-22T14:06:50.443Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/humor/</loc>
-        <lastmod>2022-06-21T14:29:40.318Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/%25E8%2587%25AA%25E7%259C%2581/</loc>
-        <lastmod>2022-06-21T14:25:17.983Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -51,20 +30,6 @@
     </url>
 
     <url>
-        <loc>https://blog.si-on.top/categories/ISO/</loc>
-        <lastmod>2022-05-19T05:28:11.170Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/%25E5%2591%25A8%25E5%2588%258A/</loc>
-        <lastmod>2022-04-24T10:03:01.506Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://blog.si-on.top/categories/Code/</loc>
         <lastmod>2022-04-17T08:40:26.737Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -79,6 +44,13 @@
     </url>
 
     <url>
+        <loc>https://blog.si-on.top/categories/%25E5%2591%25A8%25E5%2588%258A/</loc>
+        <lastmod>2022-03-27T14:37:04.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.si-on.top/categories/LaTeX/</loc>
         <lastmod>2022-03-26T02:14:25.557Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +60,6 @@
     <url>
         <loc>https://blog.si-on.top/categories/%25E6%259D%2590%25E6%2596%2599%25E7%25A7%2591%25E5%25AD%25A6/</loc>
         <lastmod>2022-03-26T02:10:15.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/%25E8%2587%25AA%25E5%258A%25A8%25E6%258E%25A7%25E5%2588%25B6/</loc>
-        <lastmod>2022-02-25T08:07:30.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -6,16 +6,17 @@ tags:
 - 绘画
 categories:
 cover: https://i.loli.net/2021/10/23/hZD6uNs5LHR7Co3.jpg
-description: 到写的时候反而没得说了，把闲画来充数。
 katex:
 comments:
 copyright:
 password:
 hidden:
+hidden: true
+
 ---
 # 模仿线条习作
 
-
+> 到写的时候反而没得说了，把闲画来充数。
 
 ![IMG_20211023_224633](https://i.loli.net/2021/10/23/lYxZCvy5QjpG1nO.jpg)
 ![IMG_20211023_224618](https://i.loli.net/2021/10/23/3xeC5wTQc9A6K14.jpg)

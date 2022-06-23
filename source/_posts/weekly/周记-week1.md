@@ -11,6 +11,7 @@ description: “相信思考🤔，勇于改变🐣。”
 mathjax: false
 password: think
 highlight_shrink:
+hidden: true
 ---
 
 > All our dignity consists then in thought. --Blaise Pascal

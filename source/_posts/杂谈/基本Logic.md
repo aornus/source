@@ -11,7 +11,7 @@ katex: true
 comments:
 copyright: false
 password:
-hidden:
+hidden: true
 ---
 
 > Not necessarily. This is a classic example of Munchhausen's Trilemma:

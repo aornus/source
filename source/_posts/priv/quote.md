@@ -5,6 +5,7 @@ tags:
 - Quote
 cover: ../../../../images/bg.jpg
 katex: true
+hidden: true
 ---
 # 《平凡的世界》--*路遥*
 

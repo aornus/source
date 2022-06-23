@@ -14,7 +14,7 @@ comments:
 copyright:
 aside:
 password:
-hidden: 
+hidden:  true
 ---
 > 声明：本教程是在主题`butterfly 4.1.0`上进行测试的，该主题提供了现成的引用接口，对于其他主题可以参考[这篇文章](https://stackoverflow.com/questions/63066096/hexo-can-not-load-style-sheet)实现。
 

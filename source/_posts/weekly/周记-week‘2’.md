@@ -11,6 +11,7 @@ keywords:
 description: “人，生而局限。”
 mathjax: false
 password: 
+hidden: true
 highlight_shrink:
 ---
 

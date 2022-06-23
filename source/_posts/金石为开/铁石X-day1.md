@@ -11,7 +11,7 @@ comments:
 copyright:
 aside:
 password:
-hidden:
+hidden: true
 sticky:
 description: 第一二天记录
 ---
