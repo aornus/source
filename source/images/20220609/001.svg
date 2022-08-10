@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 495 350"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73317201"
+     inkscape:cx="504.65647"
+     inkscape:cy="408.49896"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient177">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1"
+         offset="0"
+         id="stop173" />
+      <stop
+         style="stop-color:#00d455;stop-opacity:1"
+         offset="1"
+         id="stop175" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient177"
+       id="linearGradient179"
+       x1="28.532473"
+       y1="140.89404"
+       x2="173.83205"
+       y2="96.452278"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3078744,0,0,1.2012682,-30.345695,-89.613723)" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient179);fill-opacity:1;stroke-width:0.331638"
+       id="rect171"
+       width="493.06863"
+       height="345.96524"
+       x="1.2075289"
+       y="1.1916133" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.30538;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 121.93355,175.6259 251.31455,0.0477"
+       id="path745" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.6913px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.609963"
+       x="119.83414"
+       y="163.24121"
+       id="text571"><tspan
+         sodipodi:role="line"
+         id="tspan569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.6913px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.609963"
+         x="119.83414"
+         y="163.24121">铀石周结<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.6913px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.609963"
+   id="tspan2197">001</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.7335px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d5fff6;stroke:none;stroke-width:0.966358;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="206.1463"
+       y="337.31995"
+       id="text2303"><tspan
+         sodipodi:role="line"
+         id="tspan2301"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.7335px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d5fff6;stroke:none;stroke-width:0.966358"
+         x="206.1463"
+         y="337.31995">20220810</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15.9177px;font-family:'Source Han Serif TC';-inkscape-font-specification:'Source Han Serif TC, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;stroke-width:1.95886;stroke-linecap:round"
+       x="177.57751"
+       y="220.07211"
+       id="text983"><tspan
+         sodipodi:role="line"
+         id="tspan1037"
+         x="177.57751"
+         y="220.07211"
+         style="display:inline;fill:#ffffff;stroke-width:1.95886">景行行止，高山仰止。</tspan></text>
+  </g>
+</svg>
