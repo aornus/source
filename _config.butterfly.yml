@@ -888,8 +888,12 @@ inject:
     - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
     #- <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
     - <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css">
-
+    - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/mainColor/heoMainColor.css">
+    - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/categoryBar/categoryBar.css">
+  
   bottom:
+  - <script async src="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/categoryBar/categoryBar.js"></script>
+
   # - <script src="xxxx"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>
