@@ -674,12 +674,12 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 嗯，一个，新计划。
+    content: 🌇🌉🌃🌌
     # 沉静下来，才能发现更深微的世界。
     # 秉!旭!隼!迹! 这次六级我必过500！
     # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
   card_recent_post:
-    enable: false
+    enable: true
     limit: 5 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
@@ -887,12 +887,9 @@ inject:
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>
     - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
     #- <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
-    - <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css">
-    - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/mainColor/heoMainColor.css">
-    - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/categoryBar/categoryBar.css">
-  
+   
   bottom:
-  - <script async src="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/categoryBar/categoryBar.js"></script>
+  -
 
   # - <script src="xxxx"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>

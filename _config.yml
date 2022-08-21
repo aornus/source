@@ -126,6 +126,7 @@ plugins:
  - hexo-generator-seo-friendly-sitemap
  - hexo-tag-abcjs
  - hexo-butterfly-vanta
+ - hexo-butterfly-categories-card
 
 # hexo-deployer-git
 deploy:
@@ -245,6 +246,7 @@ abcjs:
     }
   }
   scriptId: 'hexo-tag-abcjs'
+
 # hexo-butterfly-vanta
 vanta:
   enable: false
@@ -259,5 +261,66 @@ vanta:
     xOffset: -0.03,
     size: 0.50
   
+# hexo-butterfly-categories-card
+# see https://akilar.top/posts/a9131002/
+categoryBar:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: / # 应用页面
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 1
+  column: odd # odd：3列 | even：4列
+  row: 1 #显示行数，默认两行，超过行数切换为滚动显示
+  message:
+    - descr: 新鲜的玩意儿
+      cover: /gallery/Color/IMG_20220406_233105.jpg
+    - descr: 玩转静态站点
+      cover: /gallery/Geometric/IMG_20220407_090557.jpg
+    - descr: LaTeX笔记
+      cover: /gallery/Geometric/IMG_20210817_233649.jpg
+    - descr: 苟日新，日日新，又日新。
+      cover: /gallery/500px/pic17.jpg
+    - descr: 想啥说啥
+      cover: /gallery/Geometric/IMG_20210820_064450.jpg
+    - descr: Changlish
+      cover: /images/20220609/1660020701773.jpg
+    - descr: 术业有专攻
+      cover: https://i.loli.net/2021/09/23/XDjekcqYQIvUGoC.jpg
+    - descr: 不愚蠢证明
+      cover: /gallery/500px/pic39.jpeg
+    - descr: 每天快乐一点点
+      cover: /gallery/500px/pic11.jpg
+  custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
 
+# hexo-butterfly-swiper
+# see https://akilar.top/posts/8e1264d1/
+swiper:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  timemode: date #date/updated
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  default_descr: 再怎么看我也不知道怎么描述它的啦！
+  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
+  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
+  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
+  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
 
+  # 统计图表，支持发布文章统计、发布日历、Top标签统计、分类统计、分类雷达。
+# see https://www.npmjs.com/package/hexo-butterfly-charts
+charts:
+  enable: true # 是否启用功能
+  postsChart:
+    title: 室铭 # 设置文章发布统计的标题，默认为空
+    interval: 1 # 横坐标间隔
+  tagsChart:
+    title: Top 10 标签统计 # 设置标签统计的标题，默认为空
+    interval: 1 # 横坐标间隔
+  postsCalendar_Title: #文章发布日历 # 设置发布日历的标题，默认为空
+  categoriesChart_Title: # 设置分类统计的标题，默认为空
+  categoriesRadar_Title: # 设置分类雷达的标题，默认为空
