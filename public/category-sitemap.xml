@@ -9,22 +9,43 @@
 
 
     <url>
+        <loc>https://blog.si-on.top/categories/%25E5%2591%25A8%25E5%2588%258A/</loc>
+        <lastmod>2022-08-21T03:45:30.961Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/Code/</loc>
+        <lastmod>2022-08-21T02:47:19.193Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/LaTeX/</loc>
+        <lastmod>2022-08-21T02:47:12.327Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/Hexo/</loc>
+        <lastmod>2022-08-21T02:47:00.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/%25E6%2595%25B0%25E5%25AD%25A6/</loc>
+        <lastmod>2022-08-21T02:46:02.979Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.si-on.top/categories/Daily/</loc>
         <lastmod>2022-08-13T04:34:40.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/%25E5%2591%25A8%25E5%2588%258A/</loc>
-        <lastmod>2022-08-13T04:28:03.518Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/Note/</loc>
-        <lastmod>2022-08-10T06:02:12.913Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -37,36 +58,8 @@
     </url>
 
     <url>
-        <loc>https://blog.si-on.top/categories/%25E6%2595%25B0%25E5%25AD%25A6/</loc>
-        <lastmod>2022-06-22T14:06:50.443Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/Hexo/</loc>
-        <lastmod>2022-05-21T23:53:55.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/Code/</loc>
-        <lastmod>2022-04-17T08:40:26.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://blog.si-on.top/categories/China-Cultural/</loc>
         <lastmod>2022-04-08T09:43:42.263Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/LaTeX/</loc>
-        <lastmod>2022-03-26T02:14:25.557Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

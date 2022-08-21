@@ -13,7 +13,7 @@ copyright:
 aside:
 password: 
 hidden:
-sticky: 80
+swiper_index: 6
 ---
 
 <div class="heti heti--vertical", align="right",style="font-family: 'Noto Serif SC', serif;" > 

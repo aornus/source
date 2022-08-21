@@ -125,6 +125,9 @@ highlight_shrink:
     ]
 }
 {% endecharts %}
+<div id="tags-chart" data-length="10" class="js-pjax"></div>
+<div id="categories-chart" class="js-pjax"></div>
+
 <div class="btn-center">
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->
@@ -334,6 +337,13 @@ highlight_shrink:
     * 镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)
     * 镜三：[nelify.si-on.top](https://netlify.si-on.top/)
     * 国镜：[si-on.gitee.io](https://si-on.gitee.io/) (6-19 恢复了gitee国内镜像)
+<!-- endtimeline -->
+
+<!-- timeline 08-21 -->
+参考网上教程，对博客页面进行了修改
+ * 首页轮播图
+ * 分类框
+ * 表格统计
 <!-- endtimeline -->
 
 {% endtimeline %}

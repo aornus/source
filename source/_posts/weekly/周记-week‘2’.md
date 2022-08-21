@@ -6,7 +6,6 @@ tags:
 - think
 cover: https://www.pngkey.com/png/detail/117-1171115_visit-icon-the-thinker-png.png
 categories:
-- 周刊
 keywords:
 description: “人，生而局限。”
 mathjax: false

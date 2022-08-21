@@ -5,7 +5,6 @@ tags:
 - think
 cover: https://www.pngkey.com/png/detail/117-1171115_visit-icon-the-thinker-png.png
 categories:
-- 周刊
 keywords:
 description: “相信思考🤔，勇于改变🐣。”
 mathjax: false

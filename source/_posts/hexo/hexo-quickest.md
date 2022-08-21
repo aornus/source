@@ -16,6 +16,7 @@ copyright:
 aside:
 password:
 hidden:
+swiper_index: 8
 ---
 
 # hexo 一条龙服务
