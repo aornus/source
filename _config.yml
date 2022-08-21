@@ -264,7 +264,7 @@ vanta:
 # hexo-butterfly-categories-card
 # see https://akilar.top/posts/a9131002/
 categoryBar:
-  enable: true # 开关
+  enable: false # 开关
   priority: 5 #过滤器优先权
   enable_page: / # 应用页面
   layout: # 挂载容器类型
@@ -290,7 +290,7 @@ categoryBar:
       cover: https://i.loli.net/2021/09/23/XDjekcqYQIvUGoC.jpg
     - descr: 不愚蠢证明
       cover: /gallery/500px/pic39.jpeg
-    - descr: 每天快乐一点点
+    - descr: 每周进步一点点
       cover: /gallery/500px/pic11.jpg
   custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
 

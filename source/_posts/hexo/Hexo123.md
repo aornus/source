@@ -12,7 +12,7 @@ copyright:
 aside:
 password:
 hidden:
-sticky: 92
+swiper_index: 8
 ---
 
 本文目的：

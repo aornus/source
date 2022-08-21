@@ -3,7 +3,7 @@ title: 铁石X_day1
 tags:
   - 
 categories:
-  - 自省
+  - 周结
 katex: true
 date: 2022-06-05 10:34:08
 cover: ../../images/202205/63d9f2d3572c11df215704b3712762d0f603c298.png

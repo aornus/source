@@ -11,6 +11,20 @@ aside: false
 typora-root-url: ../
 ---
 
+{% flink %}
+- class_name: 摄影全媒体
+  class_desc: 平凡的摄影爱好者，兴趣使然。在2019年加入500px,2022年加入图虫，请让我在旷野里野蛮生长吧。
+  link_list:
+    - name: 500Px
+      link: https://500px.com.cn/siontine
+      avatar: https://500px.com.cn/images/favicon_n.ico
+      descr: 主要发布平台，各种风格。
+    - name: 图虫
+      link: https://sion.tuchong.com
+      avatar: https://static.tuchong.com/images/favicon.ico?1
+      descr: 只发布黑白风格作品
+      
+{% endflink %}
 
 <div class="gallery-group-main">
 {% galleryGroup Color 颜色狂热 /gallery/Color /gallery/Color/IMG_20201203_0916500-01.jpeg %}

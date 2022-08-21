@@ -13,7 +13,7 @@ menu:
   捉影: /gallery/ || fas fa-camera
   摘句: /read/ || fas fa-book
   随念: https://tg.si-on.top/ || fas fa-paper-plane
-  # 关于: /about/|| fas fa-heart
+  关于: /about/|| fas fa-heart
  站点||fas fa-cube:
   归档: /archives/||fas fa-archive
   标签: /tags/|| fas fa-tags
@@ -125,8 +125,8 @@ category_per_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: true
-  aside_enable: true
+  index_enable: false
+  aside_enable: false
   archives_enable: false
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
@@ -166,7 +166,7 @@ post_meta:
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -189,7 +189,7 @@ anchor: true
 
 # toc (目錄)
 toc:
-  post: false
+  post: true
   page: true
   number: true
   expand: false
@@ -197,8 +197,8 @@ toc:
 
 post_copyright:
   enable: true
-  decode: false
-  author_href:
+  decode: true
+  author_href: 
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -226,7 +226,7 @@ post_edit:
 
 # Related Articles
 related_post:
-  enable: false
+  enable: true
   limit: 6 # Number of posts displayed
   date_type: updated # or created or updated 文章日期顯示創建日或者更新日
 
@@ -609,7 +609,7 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-    global-font-size: 16px
+    global-font-size: 18px
     code-font-size:
     font-family: "Noto Serif SC"
     #font-family: 'Ma Shan Zheng'
@@ -674,7 +674,7 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 🌇🌉🌃🌌
+    content: 沉静下来，才能发现更深微的世界。
     # 沉静下来，才能发现更深微的世界。
     # 秉!旭!隼!迹! 这次六级我必过500！
     # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
@@ -751,7 +751,7 @@ readmode: false
 darkmode:
   enable: true
   # Toggle Button to switch dark/light mode
-  button: false
+  button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
   # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
@@ -762,7 +762,7 @@ darkmode:
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
 rightside_item_order:
-  enable: false
+  enable: true
   hide: # readmode,translate,darkmode,hideAside
   show: # toc,chat,comment
 
@@ -784,7 +784,7 @@ fancybox: true
 # mermaid
 # see https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: true
+  enable: false
   # built-in themes: default/forest/dark/neutral
   theme:
     light: default
@@ -912,7 +912,11 @@ CDN:
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: local/jsdelivr
   # when set it to local, you need to install hexo-butterfly-extjs
-  third_party_provider: local
+  third_party_provider: cdnjs
+
+  # Add version number to CDN, true or false  
+  version: false
+
   option:
     # main_css:
     # main:
