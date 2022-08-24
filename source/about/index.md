@@ -7,6 +7,13 @@ aside: false
 ---
 
 > 什么都可以做，什么都可以不做；什么都可以想，什么都可以不想。这就是自由。
+
+写了好几次都写不好！
+
+我是谁？？
+
+呵呵，我怎么会知道呢？
+
 <div class="btn-center">
 {% btn 'https://cheers.bio/0x6c8610854E29A5771a17BeD715d29e78bd2C7f02',Cheers,far fa-hand-point-right,outline larger %}
 {% btn 'https://www.zhihu.com/people/siontine',Zhihu,far fa-hand-point-right,outline blue larger %}

@@ -22,7 +22,7 @@ highlight_shrink:
         trigger: "axis"
     },
     legend: {
-        data: ["文章统计"],
+        data: ["实际文章统计"],
         selectedMode: false
     },
     toolbox: {
@@ -52,7 +52,7 @@ highlight_shrink:
         {
             type: "category",
             boundaryGap: true,
-            data: ["8", "9", "10", "11", "12", "1", "2", "3", "4", "5"],
+            data: ["8", "9", "10", "11", "12", "1", "2", "3", "4", "5", "6","7","8"],
             position: "bottom",
             name: "月份",
             nameLocation: "end",
@@ -76,7 +76,7 @@ highlight_shrink:
     yAxis: [
         {
             type: "value",
-            name: "文章",
+            name: "实际文章",
             nameLocation: "end",
             nameTextStyle: {
                 align: "right",
@@ -115,7 +115,7 @@ highlight_shrink:
                 }
             },
             name: "文章",
-            data: [4, 12, 11, 6, 6, 1, 8, 9, 8,4,],
+            data: [4, 12, 11, 6, 6, 1, 8, 9, 8, 4, 1, 1, 3,],
             symbol: "emptyCircle",
             smooth: true,
             markPoint: {
@@ -184,9 +184,9 @@ highlight_shrink:
 
 <!-- endtimeline -->
 
-<!-- timeline 08-29 -->
-摸索了一个下午，成功在本地termux上部署hexo,配合gitee的pages服务(等了几个月了)，第二次建站开始。
-
+<!-- timeline 08-25 -->
+**摸索了一个下午，成功在本地termux上部署hexo,配合gitee的pages服务(等了几个月了)，第二次建站开始。**
+以第一次代码提交的时间：`2021/8/25 15:10:05`，为此博客的诞生时间。
 * Domin ：**aornus.gitee.io**
 
 <!-- endtimeline -->
@@ -339,10 +339,13 @@ highlight_shrink:
     * 国镜：[si-on.gitee.io](https://si-on.gitee.io/) (6-19 恢复了gitee国内镜像)
 <!-- endtimeline -->
 
+<!-- timeline 08-14 -->
+当gitee开始审核图片的时候，我彻底明白了：独立博客国内的限制只会越来越多。便果断放弃，彻底删除了码云上的所有仓库，提交了销号申请。
+<!-- endtimeline -->
+
 <!-- timeline 08-21 -->
 参考网上教程，对博客页面进行了修改
  * 首页轮播图
- * 分类框
  * 表格统计
 <!-- endtimeline -->
 

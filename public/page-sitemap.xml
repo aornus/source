@@ -10,8 +10,8 @@
     
     
     <url>
-        <loc>https://blog.si-on.top/gallery/</loc>
-        <lastmod>2022-08-21T15:00:56.488Z</lastmod>
+        <loc>https://blog.si-on.top/about/</loc>
+        <lastmod>2022-08-24T14:43:51.456Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -19,8 +19,8 @@
     
     
     <url>
-        <loc>https://blog.si-on.top/about/</loc>
-        <lastmod>2022-08-21T10:06:56.777Z</lastmod>
+        <loc>https://blog.si-on.top/music/</loc>
+        <lastmod>2022-08-24T14:42:05.202Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +29,16 @@
     
     <url>
         <loc>https://blog.si-on.top/site/</loc>
-        <lastmod>2022-08-21T04:06:52.570Z</lastmod>
+        <lastmod>2022-08-24T14:14:50.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.si-on.top/gallery/</loc>
+        <lastmod>2022-08-21T15:00:56.488Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -129,15 +138,6 @@
     <url>
         <loc>https://blog.si-on.top/gallery/500px/</loc>
         <lastmod>2022-04-16T05:01:58.259Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.si-on.top/music/</loc>
-        <lastmod>2022-04-15T02:31:37.291Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

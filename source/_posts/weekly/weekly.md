@@ -1,6 +1,6 @@
 ---
 title: weekly
-aside: 
+aside:
 date: 2021-10-23 22:50:01
 tags:
 - 绘画
@@ -11,7 +11,6 @@ comments:
 copyright:
 password:
 hidden:
-hidden: true
 ---
 # 模仿线条习作
 
