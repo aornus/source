@@ -6,7 +6,7 @@
   <link href="https://blog.si-on.top/atom.xml" rel="self"/>
   
   <link href="https://blog.si-on.top/"/>
-  <updated>2022-08-21T14:46:03.408Z</updated>
+  <updated>2022-09-13T02:39:37.861Z</updated>
   <id>https://blog.si-on.top/</id>
   
   <author>
@@ -17,20 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>🌈Yours Rainbow Observe Guide</title>
+    <link href="https://blog.si-on.top/2022/09/07/fefab434b329/"/>
+    <id>https://blog.si-on.top/2022/09/07/fefab434b329/</id>
+    <published>2022-09-07T12:32:18.000Z</published>
+    <updated>2022-09-13T02:39:37.861Z</updated>
+    
+    
+    <summary type="html">你的彩虹观测指南--彩虹形成原理的科学解释。</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="彩虹" scheme="https://blog.si-on.top/tags/%E5%BD%A9%E8%99%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>铀石周结002</title>
     <link href="https://blog.si-on.top/2022/08/21/f85fb90f36b5/"/>
     <id>https://blog.si-on.top/2022/08/21/f85fb90f36b5/</id>
     <published>2022-08-21T13:26:58.000Z</published>
-    <updated>2022-08-21T14:46:03.408Z</updated>
+    <updated>2022-08-30T03:16:01.958Z</updated>
     
     
     <summary type="html">我们就像一个刚刚醒来的睡梦者一样，看待人生用的是一种清醒的眼光，而不是带着昨晚梦境的浪漫色彩。</summary>
     
     
     
-    <category term="Daily" scheme="https://blog.si-on.top/categories/Daily/"/>
-    
     <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
+    
+    <category term="Daily" scheme="https://blog.si-on.top/categories/Daily/"/>
     
     
     <category term="摄影" scheme="https://blog.si-on.top/tags/%E6%91%84%E5%BD%B1/"/>
@@ -157,9 +176,9 @@
     <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="Linux" scheme="https://blog.si-on.top/tags/Linux/"/>
-    
     <category term="steam" scheme="https://blog.si-on.top/tags/steam/"/>
+    
+    <category term="Linux" scheme="https://blog.si-on.top/tags/Linux/"/>
     
     <category term="HololSO" scheme="https://blog.si-on.top/tags/HololSO/"/>
     
@@ -231,7 +250,7 @@
     <link href="https://blog.si-on.top/2022/04/03/01900a63c2f3/"/>
     <id>https://blog.si-on.top/2022/04/03/01900a63c2f3/</id>
     <published>2022-04-03T10:24:42.000Z</published>
-    <updated>2022-08-21T02:45:46.301Z</updated>
+    <updated>2022-09-15T09:40:02.114Z</updated>
     
     
     <summary type="html">通过100/2个极限的计算，来体会刷题的快感。</summary>
@@ -346,7 +365,7 @@
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
         
       
     
@@ -390,25 +409,6 @@
     
     <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo123</title>
-    <link href="https://blog.si-on.top/2022/02/25/4fc0f72f1322/"/>
-    <id>https://blog.si-on.top/2022/02/25/4fc0f72f1322/</id>
-    <published>2022-02-25T08:19:10.000Z</published>
-    <updated>2022-08-21T14:13:48.939Z</updated>
-    
-    
-    <summary type="html">建站半年有余，谨以此文重新记录在 windows 平台上搭建静态博客的过程以及一些问题的解决方法。</summary>
-    
-    
-    
-    <category term="Hexo" scheme="https://blog.si-on.top/categories/Hexo/"/>
-    
-    
-    <category term="Git" scheme="https://blog.si-on.top/tags/Git/"/>
     
   </entry>
   

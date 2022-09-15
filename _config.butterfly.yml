@@ -34,7 +34,7 @@ code_word_wrap: false
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
-  enable: false
+  enable: true
   copyright:
     enable: false
     limit_count: 50
@@ -734,9 +734,9 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
-  default: 繁
+  default: 2
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -887,7 +887,7 @@ inject:
     - <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     - <link rel="preconnect" href="https://gstatic.loli.net">
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>
-    - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
+    # - <meta name="baidu-site-verification" content="code-JsoFZlcau7" />
     #- <meta name="sogou_site_verification" content="Gzg8KZxJ83" />
    
   bottom:
