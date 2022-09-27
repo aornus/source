@@ -17,11 +17,11 @@ typora-root-url: ../
   link_list:
     - name: 500Px
       link: https://500px.com.cn/siontine
-      avatar: https://500px.com.cn/images/favicon_n.ico
+      avatar: https://img.500px.me/dff7efb584b12a50d685e413b053d3302_1655971589025.jpg!a1
       descr: 主要发布平台，各种风格。
     - name: 图虫
       link: https://sion.tuchong.com
-      avatar: https://static.tuchong.com/images/favicon.ico?1
+      avatar: https://p3-tuchong.byteimg.com/obj/tuchong-avatar/ll_27060316_1
       descr: 只发布黑白风格作品
       
 {% endflink %}
