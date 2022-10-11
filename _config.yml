@@ -126,7 +126,8 @@ plugins:
  - hexo-generator-seo-friendly-sitemap
  - hexo-tag-abcjs
  - hexo-butterfly-vanta
- - hexo-butterfly-categories-card
+ - hexo-filter-image
+
 
 # hexo-deployer-git
 deploy:
@@ -260,39 +261,6 @@ vanta:
     amplitudeFactor: 1.60,
     xOffset: -0.03,
     size: 0.50
-  
-# hexo-butterfly-categories-card
-# see https://akilar.top/posts/a9131002/
-categoryBar:
-  enable: false # 开关
-  priority: 5 #过滤器优先权
-  enable_page: / # 应用页面
-  layout: # 挂载容器类型
-    type: id
-    name: recent-posts
-    index: 1
-  column: odd # odd：3列 | even：4列
-  row: 1 #显示行数，默认两行，超过行数切换为滚动显示
-  message:
-    - descr: 新鲜的玩意儿
-      cover: /gallery/Color/IMG_20220406_233105.jpg
-    - descr: 玩转静态站点
-      cover: /gallery/Geometric/IMG_20220407_090557.jpg
-    - descr: LaTeX笔记
-      cover: /gallery/Geometric/IMG_20210817_233649.jpg
-    - descr: 苟日新，日日新，又日新。
-      cover: /gallery/500px/pic17.jpg
-    - descr: 想啥说啥
-      cover: /gallery/Geometric/IMG_20210820_064450.jpg
-    - descr: Changlish
-      cover: /images/20220609/1660020701773.jpg
-    - descr: 术业有专攻
-      cover: https://i.loli.net/2021/09/23/XDjekcqYQIvUGoC.jpg
-    - descr: 不愚蠢证明
-      cover: /gallery/500px/pic39.jpeg
-    - descr: 每周进步一点点
-      cover: /gallery/500px/pic11.jpg
-  custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
 
 # hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
@@ -324,3 +292,8 @@ charts:
   postsCalendar_Title: #文章发布日历 # 设置发布日历的标题，默认为空
   categoriesChart_Title: # 设置分类统计的标题，默认为空
   categoriesRadar_Title: # 设置分类雷达的标题，默认为空
+
+  # hexo-filter-image
+filter_image:
+  # 日志是否启用
+  log: false
