@@ -29,10 +29,6 @@
     
     
     
-    <category term="考研" scheme="https://blog.si-on.top/tags/%E8%80%83%E7%A0%94/"/>
-    
-    <category term="英语" scheme="https://blog.si-on.top/tags/%E8%8B%B1%E8%AF%AD/"/>
-    
   </entry>
   
   <entry>
@@ -40,7 +36,7 @@
     <link href="https://blog.si-on.top/2022/10/13/70a79635c9e7/"/>
     <id>https://blog.si-on.top/2022/10/13/70a79635c9e7/</id>
     <published>2022-10-13T07:01:17.000Z</published>
-    <updated>2022-10-13T13:36:12.218Z</updated>
+    <updated>2022-10-13T17:43:33.769Z</updated>
     
     
     <summary type="html">高数的一些要点总结归纳。</summary>
@@ -68,12 +64,6 @@
     
     
     
-    <category term="默写本" scheme="https://blog.si-on.top/categories/%E9%BB%98%E5%86%99%E6%9C%AC/"/>
-    
-    
-    <category term="考研" scheme="https://blog.si-on.top/tags/%E8%80%83%E7%A0%94/"/>
-    
-    <category term="政治" scheme="https://blog.si-on.top/tags/%E6%94%BF%E6%B2%BB/"/>
     
   </entry>
   
@@ -89,10 +79,6 @@
     
     
     
-    <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="彩虹" scheme="https://blog.si-on.top/tags/%E5%BD%A9%E8%99%B9/"/>
     
   </entry>
   
@@ -108,16 +94,6 @@
     
     
     
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
-    
-    <category term="Daily" scheme="https://blog.si-on.top/categories/Daily/"/>
-    
-    
-    <category term="摄影" scheme="https://blog.si-on.top/tags/%E6%91%84%E5%BD%B1/"/>
-    
-    <category term="思考" scheme="https://blog.si-on.top/tags/%E6%80%9D%E8%80%83/"/>
-    
-    <category term="生活" scheme="https://blog.si-on.top/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -133,18 +109,6 @@
     
     
     
-    <category term="Daily" scheme="https://blog.si-on.top/categories/Daily/"/>
-    
-    
-    <category term="摄影" scheme="https://blog.si-on.top/tags/%E6%91%84%E5%BD%B1/"/>
-    
-    <category term="材料科学" scheme="https://blog.si-on.top/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="思考" scheme="https://blog.si-on.top/tags/%E6%80%9D%E8%80%83/"/>
-    
-    <category term="刻奇" scheme="https://blog.si-on.top/tags/%E5%88%BB%E5%A5%87/"/>
-    
-    <category term="备案" scheme="https://blog.si-on.top/tags/%E5%A4%87%E6%A1%88/"/>
     
   </entry>
   
@@ -159,8 +123,6 @@
     <summary type="html">源起|铀石为坚</summary>
     
     
-    
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
     
     
   </entry>
@@ -177,8 +139,6 @@
     
     
     
-    <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
     
   </entry>
   
@@ -194,10 +154,6 @@
     
     
     
-    <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="摄影" scheme="https://blog.si-on.top/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
@@ -214,12 +170,6 @@
     
     
     
-    <category term="terraria" scheme="https://blog.si-on.top/tags/terraria/"/>
-    
-    <category term="ultraman" scheme="https://blog.si-on.top/tags/ultraman/"/>
-    
-    <category term="game" scheme="https://blog.si-on.top/tags/game/"/>
-    
   </entry>
   
   <entry>
@@ -234,14 +184,6 @@
     
     
     
-    <category term="杂谈" scheme="https://blog.si-on.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="steam" scheme="https://blog.si-on.top/tags/steam/"/>
-    
-    <category term="Linux" scheme="https://blog.si-on.top/tags/Linux/"/>
-    
-    <category term="HololSO" scheme="https://blog.si-on.top/tags/HololSO/"/>
     
   </entry>
   
@@ -257,12 +199,6 @@
     
     
     
-    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="导数" scheme="https://blog.si-on.top/tags/%E5%AF%BC%E6%95%B0/"/>
-    
-    <category term="微分" scheme="https://blog.si-on.top/tags/%E5%BE%AE%E5%88%86/"/>
     
   </entry>
   
@@ -278,14 +214,6 @@
     
     
     
-    <category term="Code" scheme="https://blog.si-on.top/categories/Code/"/>
-    
-    
-    <category term="opencv" scheme="https://blog.si-on.top/tags/opencv/"/>
-    
-    <category term="python" scheme="https://blog.si-on.top/tags/python/"/>
-    
-    <category term="傅里叶变换" scheme="https://blog.si-on.top/tags/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/"/>
     
   </entry>
   
@@ -300,8 +228,6 @@
     <summary type="html">A short artical about qingming festival</summary>
     
     
-    
-    <category term="China Cultural" scheme="https://blog.si-on.top/categories/China-Cultural/"/>
     
     
   </entry>
@@ -318,12 +244,6 @@
     
     
     
-    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="极限" scheme="https://blog.si-on.top/tags/%E6%9E%81%E9%99%90/"/>
-    
-    <category term="收藏" scheme="https://blog.si-on.top/tags/%E6%94%B6%E8%97%8F/"/>
     
   </entry>
   
@@ -338,8 +258,6 @@
     <summary type="html">活在当下--没有什么时刻比现在更美好。</summary>
     
     
-    
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
     
     
   </entry>
@@ -356,8 +274,6 @@
     
     
     
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
-    
     
   </entry>
   
@@ -372,8 +288,6 @@
     <summary type="html">曲线、曲面面积分复习笔记。</summary>
     
     
-    
-    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
   </entry>
@@ -390,10 +304,6 @@
     
     
     
-    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="微积分" scheme="https://blog.si-on.top/tags/%E5%BE%AE%E7%A7%AF%E5%88%86/"/>
     
   </entry>
   
@@ -408,8 +318,6 @@
     <summary type="html">web3.0入门与学习方法的思考</summary>
     
     
-    
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
     
     
   </entry>

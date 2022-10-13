@@ -36,6 +36,7 @@ skip_render:
   - "home/**"
   - "clip/**"
   - "Periadic/**"
+  - "pdf/**"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -179,6 +180,8 @@ aplayer:
  pdf:
   enable: true
   height: 100
+# 利用pdf.js的新解决方法
+# 用法：<iframe src='/pdf/pdfjs/web/viewer.html?file=<src-to-pdf>' style='width:100%;height:100%'></iframe>
 
 # Artitalk
 # see https://artitalk.js.org/
