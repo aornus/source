@@ -6,7 +6,7 @@
   <link href="https://blog.si-on.top/atom.xml" rel="self"/>
   
   <link href="https://blog.si-on.top/"/>
-  <updated>2022-10-06T13:55:31.493Z</updated>
+  <updated>2022-10-13T13:32:48.027Z</updated>
   <id>https://blog.si-on.top/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>考研英语阶段性展望</title>
+    <link href="https://blog.si-on.top/2022/10/13/8142c3d976c7/"/>
+    <id>https://blog.si-on.top/2022/10/13/8142c3d976c7/</id>
+    <published>2022-10-13T13:01:17.000Z</published>
+    <updated>2022-10-13T13:32:48.027Z</updated>
+    
+    
+    <summary type="html">平时多流汗，战时少流血，以200%的状态来备战才能确保80%的成功。大纲变化不大，但是策略还是要有的。</summary>
+    
+    
+    
+    
+    <category term="考研" scheme="https://blog.si-on.top/tags/%E8%80%83%E7%A0%94/"/>
+    
+    <category term="英语" scheme="https://blog.si-on.top/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微分要义</title>
+    <link href="https://blog.si-on.top/2022/10/13/70a79635c9e7/"/>
+    <id>https://blog.si-on.top/2022/10/13/70a79635c9e7/</id>
+    <published>2022-10-13T07:01:17.000Z</published>
+    <updated>2022-10-13T13:36:12.218Z</updated>
+    
+    
+    <summary type="html">高数的一些要点总结归纳。</summary>
+    
+    
+    
+    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="高数" scheme="https://blog.si-on.top/tags/%E9%AB%98%E6%95%B0/"/>
+    
+    <category term="中值定理" scheme="https://blog.si-on.top/tags/%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>马克思主义哲学-要点</title>
+    <link href="https://blog.si-on.top/2022/10/12/5f699162f597/"/>
+    <id>https://blog.si-on.top/2022/10/12/5f699162f597/</id>
+    <published>2022-10-12T15:45:03.000Z</published>
+    <updated>2022-10-12T17:02:21.941Z</updated>
+    
+    
+    <summary type="html">学学半，以输出来促进学习，马原要点默写。</summary>
+    
+    
+    
+    <category term="默写本" scheme="https://blog.si-on.top/categories/%E9%BB%98%E5%86%99%E6%9C%AC/"/>
+    
+    
+    <category term="考研" scheme="https://blog.si-on.top/tags/%E8%80%83%E7%A0%94/"/>
+    
+    <category term="政治" scheme="https://blog.si-on.top/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>🌈Yours Rainbow Observe Guide</title>
@@ -145,7 +206,7 @@
     <link href="https://blog.si-on.top/2022/05/31/18e8825ad439/"/>
     <id>https://blog.si-on.top/2022/05/31/18e8825ad439/</id>
     <published>2022-05-31T04:12:44.000Z</published>
-    <updated>2022-10-06T13:59:14.454Z</updated>
+    <updated>2022-10-13T09:58:23.958Z</updated>
     
     
     <summary type="html">笔记本|长期记录影视、游戏中的英语tips</summary>
@@ -345,65 +406,6 @@
     
     
     <summary type="html">web3.0入门与学习方法的思考</summary>
-    
-    
-    
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>数值积分</title>
-    <link href="https://blog.si-on.top/2022/03/12/dee62bd754ca/"/>
-    <id>https://blog.si-on.top/2022/03/12/dee62bd754ca/</id>
-    <published>2022-03-12T15:19:49.000Z</published>
-    <updated>2022-06-22T00:01:56.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="数学" scheme="https://blog.si-on.top/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="数值分析" scheme="https://blog.si-on.top/tags/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>家谱图</title>
-    <link href="https://blog.si-on.top/2022/03/05/63c787dd579c/"/>
-    <id>https://blog.si-on.top/2022/03/05/63c787dd579c/</id>
-    <published>2022-03-05T04:37:41.000Z</published>
-    <updated>2022-08-21T02:47:12.327Z</updated>
-    
-    
-    <summary type="html">绘制一幅家谱图</summary>
-    
-    
-    
-    <category term="LaTeX" scheme="https://blog.si-on.top/categories/LaTeX/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>金石周刊004期</title>
-    <link href="https://blog.si-on.top/2022/02/26/891046da0667/"/>
-    <id>https://blog.si-on.top/2022/02/26/891046da0667/</id>
-    <published>2022-02-26T15:40:39.000Z</published>
-    <updated>2022-08-21T13:45:29.090Z</updated>
-    
-    
-    <summary type="html">考研复习计划。</summary>
     
     
     
