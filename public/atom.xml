@@ -6,7 +6,7 @@
   <link href="https://blog.si-on.top/atom.xml" rel="self"/>
   
   <link href="https://blog.si-on.top/"/>
-  <updated>2022-10-13T13:32:48.027Z</updated>
+  <updated>2022-10-14T16:48:36.815Z</updated>
   <id>https://blog.si-on.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>魔戒制造手册</title>
+    <link href="https://blog.si-on.top/2022/10/14/a72a9cfff686/"/>
+    <id>https://blog.si-on.top/2022/10/14/a72a9cfff686/</id>
+    <published>2022-10-14T07:01:17.000Z</published>
+    <updated>2022-10-14T16:48:36.815Z</updated>
+    
+    
+    <summary type="html">魔戒制造原理大解密</summary>
+    
+    
+    
+    <category term="娱乐" scheme="https://blog.si-on.top/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+    
+    <category term="铸造" scheme="https://blog.si-on.top/tags/%E9%93%B8%E9%80%A0/"/>
+    
+    <category term="金属学" scheme="https://blog.si-on.top/tags/%E9%87%91%E5%B1%9E%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>考研英语阶段性展望</title>
@@ -40,7 +61,7 @@
     <link href="https://blog.si-on.top/2022/10/13/70a79635c9e7/"/>
     <id>https://blog.si-on.top/2022/10/13/70a79635c9e7/</id>
     <published>2022-10-13T07:01:17.000Z</published>
-    <updated>2022-10-13T17:54:57.470Z</updated>
+    <updated>2022-10-14T01:53:35.179Z</updated>
     
     
     <summary type="html">高数的一些要点总结归纳。</summary>
@@ -394,23 +415,6 @@
     
     
     <category term="微积分" scheme="https://blog.si-on.top/tags/%E5%BE%AE%E7%A7%AF%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>金石周刊006期</title>
-    <link href="https://blog.si-on.top/2022/03/13/02d5de4f34da/"/>
-    <id>https://blog.si-on.top/2022/03/13/02d5de4f34da/</id>
-    <published>2022-03-13T07:20:38.000Z</published>
-    <updated>2022-08-21T13:45:29.089Z</updated>
-    
-    
-    <summary type="html">web3.0入门与学习方法的思考</summary>
-    
-    
-    
-    <category term="周结" scheme="https://blog.si-on.top/categories/%E5%91%A8%E7%BB%93/"/>
-    
     
   </entry>
   
