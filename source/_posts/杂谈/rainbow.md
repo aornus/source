@@ -1,7 +1,7 @@
 ---
 title: 🌈Yours Rainbow Observe Guide
 tags:
-  - 彩虹
+  - 科学
 categories:
   - 杂谈
 katex: true

@@ -3,9 +3,8 @@ title: latex自带的pdf加密指令
 date: 2021-12-10 18:40:13
 update: 2022-2-25 20:15:20
 tags: 
-- latex
-- pdf 
-- 加密
+- LaTeX
+- 密码
 categories:
 - LaTeX
 cover: ../../../../images/bg.jpg

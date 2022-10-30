@@ -3,8 +3,8 @@ title: Hexo添加tikz支持
 date: 2022-02-27 10:54:48
 update: 2022-3-18 15:03:15
 tags:
-- hexo
-- Latex
+- Hexo
+- LaTeX
 categories:
 - Hexo
 cover: https://www.ctan.org/teaser/pkg/pgf

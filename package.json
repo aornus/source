@@ -42,6 +42,7 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-tag-echarts3": "^1.1.2",
     "hexo-theme-next": "^8.10.1",
+    "hexo-url-submission": "^1.0.9",
     "hexo-wordcount": "^6.0.1",
     "three": "^0.138.3",
     "uuid": "^8.3.2"

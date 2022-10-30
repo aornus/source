@@ -2,10 +2,7 @@
 title: hexo 一条龙
 date: 2021-12-19 19:43:42
 tags:
-- hexo
-- npm
-- git
-- ssh
+- Hexo
 categories:
 - Hexo
 cover: ../../../../images/blogimage/raw/master/hexo-logo.png

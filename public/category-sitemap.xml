@@ -9,8 +9,29 @@
 
 
     <url>
+        <loc>https://blog.si-on.top/categories/%25E6%259D%2582%25E8%25B0%2588/</loc>
+        <lastmod>2022-10-24T14:44:02.521Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.si-on.top/categories/%25E5%25A8%25B1%25E4%25B9%2590/</loc>
-        <lastmod>2022-10-14T16:48:36.815Z</lastmod>
+        <lastmod>2022-10-24T14:43:58.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/LaTeX/</loc>
+        <lastmod>2022-10-24T14:39:24.453Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/categories/Hexo/</loc>
+        <lastmod>2022-10-24T14:37:37.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -25,13 +46,6 @@
     <url>
         <loc>https://blog.si-on.top/categories/%25E9%25BB%2598%25E5%2586%2599%25E6%259C%25AC/</loc>
         <lastmod>2022-10-12T17:02:21.941Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/%25E6%259D%2582%25E8%25B0%2588/</loc>
-        <lastmod>2022-10-06T13:58:38.509Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -74,20 +88,6 @@
     <url>
         <loc>https://blog.si-on.top/categories/Code/</loc>
         <lastmod>2022-08-25T07:04:13.259Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/Hexo/</loc>
-        <lastmod>2022-08-21T14:13:48.939Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/categories/LaTeX/</loc>
-        <lastmod>2022-08-21T02:47:12.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
