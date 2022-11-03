@@ -307,13 +307,13 @@ filter_image:
   url_submission:
    enable: true
    type: 'latest' # latest or all( latest: modified pages; all: posts & pages)
-   channel: ['baidu'] # Included channels are `baidu`, `google`, `bing`, `shenma`
-   prefix: ['/2022', '/archives'] # URL prefix
+   channel: ['baidu','bing',] # Included channels are `baidu`, `google`, `bing`, `shenma`
+   prefix: ['2022/', 'archives/'] # URL prefix
    count: 15 # Submit limit
    proxy: '' # Set the proxy used to submit urls to Google
    urls_path: 'submit_url.txt' # URL list file path
    baidu_token: 'lai1Su1QeskQzoHx' 
-   bing_token: '' # Bing private key
+   bing_token: 'd1a0c76992c54e9fa84ff940bf3c9790' 
    google_key: '' # Google key path (e.g. `google_key.json` or `data/google_key.json`)
    shenma_token: '' # ShenMa private key
    shenma_user: '' # Username used when registering

@@ -887,6 +887,7 @@ inject:
     - <link rel="preconnect" href="https://gstatic.loli.net">
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>   
   bottom:
+    - <script src="https://unpkg.com/heti/umd/heti-addon.min.js"></script>
   # - <script src="xxxx"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>
@@ -895,7 +896,7 @@ inject:
   # <script type="module" src="https://cdn.skypack.dev/three@r120"></script>
   # - <script type="text/javascript" src="/js/tikzjax.js"></script>
   #- <script src="/js/madethree.js"></script>
- # - <script src="//unpkg.com/heti/umd/heti-addon.min.js"></script>
+
   
 # CDN
 # Don't modify the following settings unless you know how they work
