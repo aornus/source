@@ -5,6 +5,7 @@ top_img:
 aplayer:
 comments: false
 aside: false
+description: 以下来自QQ随心贴的转移,挑选了一些有用的废话.
 ---
 
 <center>汝所为人，故行其事；汝所行事，终成汝身。</center>

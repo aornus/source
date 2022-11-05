@@ -6,4 +6,5 @@ top_img:
 aplayer:
 comments: false
 aside: false
+description: 博客的分类页，主要分为“学习”与“生活”两大类。
 ---

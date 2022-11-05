@@ -2,7 +2,7 @@
 title: Gallery📷
 date: 2022-02-19 15:19:58
 updated:
-description: 杂乱风格，请谨慎欣赏。
+description: 本博主SionTian的摄影作品集，风格比较乱，请谨慎欣赏。
 keywords:
 top_img: /gallery/500px/pic106.jpeg
 aplayer:

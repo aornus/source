@@ -4,8 +4,8 @@ mathjax: true
 date: 2022-02-03 11:00:32
 updated:
 type:
-description:
-keywords:
+description: 包含从初高中时代到大学时代喜欢的歌，有很多在导入时候丢失了，歌单没有特别的顺序。
+keywords: 歌单, Spotify
 top_img:
 aplayer: true
 comments: false

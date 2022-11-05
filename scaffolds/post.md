@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
+abbrlink: 永久链接
 tags:
 categories:
 cover:
@@ -12,6 +13,7 @@ password:
 hidden:
 description: 
 sticky: 
+keywords:
 root: ../../
 ---
 

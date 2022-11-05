@@ -3,7 +3,7 @@ title: MessageBoard📨
 mathjax: true
 date: 2021-09-13 21:59:16
 updated:
-description: 欢迎大家畅所欲言
+description: 友联页面，欢迎大家来交换友链。
 keywords:
 top_img: 
 aside: false

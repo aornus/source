@@ -14,6 +14,7 @@
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
     "hexo": "^5.0.0",
+    "hexo-abbrlink": "^2.2.1",
     "hexo-blog-encrypt": "^3.1.6",
     "hexo-butterfly-charts": "^1.1.3",
     "hexo-butterfly-extjs": "^1.0.0",
@@ -42,7 +43,6 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-tag-echarts3": "^1.1.2",
     "hexo-theme-next": "^8.10.1",
-    "hexo-url-submission": "^1.0.9",
     "hexo-wordcount": "^6.0.1",
     "three": "^0.138.3",
     "uuid": "^8.3.2"

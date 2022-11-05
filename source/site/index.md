@@ -4,7 +4,7 @@ mathjax: true
 date: 2022-02-18 21:50:32
 updated:
 type:
-description:
+description: 本站的通览，包含建站日志，分类、标签统计等
 keywords:
 top_img:
 aplayer:
@@ -131,9 +131,9 @@ highlight_shrink:
 <div class="btn-center">
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->
-{% btn '/categories/数学/',数学,far fa-hand-point-right,outline red larger %}
+<!-- {% btn '/categories/数学/',数学,far fa-hand-point-right,outline red larger %}
 {% btn '/categories/杂谈/',杂谈,far fa-hand-point-right,outline purple larger %}
-{% btn '/categories/材料科学/',材料科学,far fa-hand-point-right,outline orange larger %}
+{% btn '/categories/材料科学/',材料科学,far fa-hand-point-right,outline orange larger %} -->
 <!--{% btn '/categories/Hexo/',Hexo,far fa-hand-point-right,outline green larger %}-->
 </div>
 
@@ -349,4 +349,7 @@ highlight_shrink:
  * 表格统计
 <!-- endtimeline -->
 
+<!-- timeline 11-05 -->
+对分类与标签进行了重新规划
+<!-- endtimeline -->
 {% endtimeline %}

@@ -14,8 +14,22 @@ timezone: Asia/Shanghai
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.si-on.top/
-permalink: :year/:month/:day/:hash/
+permalink: :year/:abbrlink.html
 permalink_defaults:
+# abbrlink config
+abbrlink:
+  alg: crc32      #support crc16(default) and crc32
+  rep: hex        #support dec(default) and hex
+  drafts: false   #(true)Process draft,(false)Do not process draft. false(default) 
+  # Generate categories from directory-tree
+  # depth: the max_depth of directory-tree you want to generate, should > 0
+  auto_category:
+     enable: false  #true(default)
+     depth:        #3(default)
+     over_write: false 
+  auto_title: false #enable auto title, it can auto fill the title by path
+  auto_date: false #enable auto date, it can auto fill the date by time today
+  force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink. This only updates abbrlink rather than other front variables.
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: false # Set to false to remove trailing '.html' from permalinks
@@ -129,7 +143,7 @@ plugins:
  - hexo-tag-abcjs
  - hexo-butterfly-vanta
  - hexo-filter-image
- - hexo-url-submission
+ #- hexo-url-submission
 
 
 # hexo-deployer-git
@@ -304,17 +318,17 @@ filter_image:
   log: false
 
   # hexo-url-submission 
-  url_submission:
-   enable: true
-   type: 'latest' # latest or all( latest: modified pages; all: posts & pages)
-   channel: ['baidu','bing',] # Included channels are `baidu`, `google`, `bing`, `shenma`
-   prefix: ['2022/', 'archives/'] # URL prefix
-   count: 15 # Submit limit
-   proxy: '' # Set the proxy used to submit urls to Google
-   urls_path: 'submit_url.txt' # URL list file path
-   baidu_token: 'lai1Su1QeskQzoHx' 
-   bing_token: 'd1a0c76992c54e9fa84ff940bf3c9790' 
-   google_key: '' # Google key path (e.g. `google_key.json` or `data/google_key.json`)
-   shenma_token: '' # ShenMa private key
-   shenma_user: '' # Username used when registering
-   sitemap: '' # Sitemap path(e.g. the url is like this https://abnerwei.com/baidusitemap.xml, you can fill in `baidusitemap.xml`)
+  # url_submission:
+  #  enable: true
+  #  type: 'latest' # latest or all( latest: modified pages; all: posts & pages)
+  #  channel: ['baidu','bing',] # Included channels are `baidu`, `google`, `bing`, `shenma`
+  #  prefix: ['2022/', 'archives/'] # URL prefix
+  #  count: 15 # Submit limit
+  #  proxy: '' # Set the proxy used to submit urls to Google
+  #  urls_path: 'submit_url.txt' # URL list file path
+  #  baidu_token: 'lai1Su1QeskQzoHx' 
+  #  bing_token: 'd1a0c76992c54e9fa84ff940bf3c9790' 
+  #  google_key: '' # Google key path (e.g. `google_key.json` or `data/google_key.json`)
+  #  shenma_token: '' # ShenMa private key
+  #  shenma_user: '' # Username used when registering
+  #  sitemap: '' # Sitemap path(e.g. the url is like this https://abnerwei.com/baidusitemap.xml, you can fill in `baidusitemap.xml`)
