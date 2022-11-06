@@ -2,27 +2,30 @@
 title: Gallery📷
 date: 2022-02-19 15:19:58
 updated:
-description: 本博主SionTian的摄影作品集，风格比较乱，请谨慎欣赏。
+description: 一位摄影爱好者的摄影作品集，风格比较乱，请谨慎欣赏。
 keywords:
 top_img: /gallery/500px/pic106.jpeg
 aplayer:
 comments: false
 aside: false
-typora-root-url: ../
 ---
 
 {% flink %}
-- class_name: 摄影全媒体
-  class_desc: 平凡的摄影爱好者，兴趣使然。在2019年加入500px,2022年加入图虫，请让我在旷野里野蛮生长吧。
+- class_name: 
+  class_desc: 
   link_list:
     - name: 500Px
       link: https://500px.com.cn/siontine
-      avatar: https://img.500px.me/dff7efb584b12a50d685e413b053d3302_1655971589025.jpg!a1
+      avatar: \images\blogimage\raw\master\202203051031219.jpg
       descr: 主要发布平台，各种风格。
     - name: 图虫
       link: https://sion.tuchong.com
       avatar: https://p3-tuchong.byteimg.com/obj/tuchong-avatar/ll_27060316_1
       descr: 只发布黑白风格作品
+    - name: 像素蜜蜂
+      link: https://app.pxbee.com.cn/photographer/p21803270
+      avatar: /images/sion%20(2).svg
+      descr: 一些随便画的玩意儿
       
 {% endflink %}
 
@@ -41,7 +44,3 @@ typora-root-url: ../
 </div>
 
 ----
-
-<div class="gallery-group-main">
-{% galleryGroup Watched 看过的影片 /gallery/Watch /gallery/Watch/cover.jpg %}
-</div>

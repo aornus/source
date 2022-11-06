@@ -12,7 +12,7 @@ comments: false
 highlight_shrink:
 ---
 
-# Sion 的歌单（2016-2022.8）
+## Sion 的歌单（2016-2022.8）
 
 包含从多米音乐（诺基亚E72，初高中时代），到虾米音乐与QQ音乐（后高中时代），再到Spotify（大学时代）的歌曲，有很多在导入时候丢失了，歌单没有特别的顺序。
 
@@ -667,12 +667,12 @@ highlight_shrink:
 |                   Something Just Like This                   |                       The Chainsmokers                       |                   Something Just Like This                   |
 
 
-# 网易云测试歌单
+## 网易云测试歌单
 
-## Sion+ Cowboybebop
+### Sion+ Cowboybebop
 
 {% meting "7304688535" "netease" "playlist" "order:random" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
 
-## Sion + life
+### Sion + life
 
 {% meting "7304737427" "netease" "playlist" "order:random" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}

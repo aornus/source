@@ -6,7 +6,7 @@ tags:
 categories:
   - 学习
   - 软件编程
-cover: ../../../../images/blogimage/raw/master/hexo-logo.png
+cover: ../../../../images/blogimage/raw/master/hexo.svg
 description: 让hexo快速从云端落地
 swiper_index: 8
 abbrlink: hexo-quickest

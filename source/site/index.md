@@ -125,9 +125,9 @@ highlight_shrink:
     ]
 }
 {% endecharts %}
-<div id="tags-chart" data-length="10" class="js-pjax"></div>
-<div id="categories-chart" class="js-pjax"></div>
 
+<div id="tags-chart" data-length="20" class="js-pjax"></div>
+<div id="categories-chart" class="js-pjax"></div>
 <div class="btn-center">
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->
@@ -137,7 +137,7 @@ highlight_shrink:
 <!--{% btn '/categories/Hexo/',Hexo,far fa-hand-point-right,outline green larger %}-->
 </div>
 
-# 网站小事记
+## 网站小事记
 
 {% timeline 2020 %}
 

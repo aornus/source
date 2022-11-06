@@ -125,9 +125,9 @@ category_per_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: false
+  index_enable: true
   aside_enable: false
-  archives_enable: false
+  archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
   position: right
@@ -453,7 +453,7 @@ microsoft_clarity:
 google_adsense:
   enable: false
   auto_ads: true
-  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+  js: 
   client:
   enable_page_level_ads: true
 
@@ -520,8 +520,8 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: # 留空或 index
-tag_ui: # 留空或 index
+category_ui: index # 留空或 index
+tag_ui: index # 留空或 index
 
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
@@ -568,7 +568,7 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
   shake: false #  open shake (抖動特效)
   mobile: true
@@ -581,7 +581,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
+  enable: true
   mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -602,7 +602,7 @@ display_mode: light
 # Beautify (美化頁面顯示)
 beautify:
   enable: false
-  field: post # site/post
+  field: site # site/post
   title-prefix-icon: '\f0c1'
   title-prefix-icon-color: '#F47466'
 
@@ -914,6 +914,10 @@ CDN:
   # Add version number to CDN, true or false  
   version: false
 
+# Custom format
+  # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
+  custom_format:
+
   option:
     # main_css:
     # main:
@@ -931,8 +935,8 @@ CDN:
     # disqusjs:
     # disqusjs_css:
     # twikoo:
-    # waline_js:
-    # waline_css:
+    waline_js: https://unpkg.com/@waline/client@v2/dist/waline.js
+    waline_css: https://unpkg.com/@waline/client@v2/dist/waline.css
     # sharejs:
     # sharejs_css:
     # mathjax:
