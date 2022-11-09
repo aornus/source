@@ -1,16 +1,17 @@
 ---
 title: Daily
 aside: false
-date: 2021-09-15 22:18:43
-tags:
-categories:
-cover:
-description: 
 katex: true
 comments: false
 copyright: false
 password: soberup
 hidden: true
+abbrlink: 4f5c846e
+date: 2021-09-15 22:18:43
+tags:
+categories:
+cover:
+description:
 ---
 
 # 2021-9-15  八月初九 晴 *没人的时候，自己在吞噬自己。*

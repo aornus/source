@@ -1,9 +1,10 @@
 ---
 title: child poem
+cover: ../../../../images/bg.jpg
+hidden: true
+abbrlink: eccaa576
 date: 2015-03-15 13:40:17
 tags:
-cover: ../../../../images/bg.jpg
-hidden: true 
 ---
 > 开始于2012年，正式开写于2015年3月15日13:40。
 > 起源于：六年级毕老师随口一吟

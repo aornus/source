@@ -9,8 +9,40 @@
 
 
     <url>
+        <loc>https://blog.si-on.top/2022/A-moon-night-at-urumqi.html</loc>
+        <lastmod>2022-11-09T15:27:41.581Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/2022/short-history-of-sions-avatar.html</loc>
+        <lastmod>2022-11-08T13:29:33.904Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/2022/blogwriteguide.html</loc>
+        <lastmod>2022-11-08T10:59:07.252Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://blog.si-on.top/2022/foliate.html</loc>
-        <lastmod>2022-11-06T15:04:48.307Z</lastmod>
+        <lastmod>2022-11-08T08:22:48.830Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/2021/Ockham4Android.html</loc>
+        <lastmod>2022-11-07T01:45:11.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -27,14 +59,6 @@
     <url>
         <loc>https://blog.si-on.top/2021/hexo-quickest.html</loc>
         <lastmod>2022-11-06T11:49:04.733Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/2022/blogwriteguide.html</loc>
-        <lastmod>2022-11-06T04:47:36.473Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

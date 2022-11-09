@@ -1,11 +1,12 @@
 ---
 title: quote
-date: 2021-08-31 23:58:11
 tags:
-- Quote
+  - Quote
 cover: ../../../../images/bg.jpg
 katex: true
 hidden: true
+abbrlink: 6b71cbf4
+date: 2021-08-31 23:58:11
 ---
 # 《平凡的世界》--*路遥*
 

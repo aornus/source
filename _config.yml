@@ -10,7 +10,10 @@ language:
   - en
 
 timezone: Asia/Shanghai
-
+server:
+  port: 40401
+  compress: true
+  header: true
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.si-on.top/
@@ -49,7 +52,7 @@ skip_render:
   - "BingSiteAuth.xml"
   - "baidusitemap.xml"
   - "shenma-site-verification.txt"
-
+  - "search.xml" 
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -167,13 +170,13 @@ encrypt:
 feed:
   type: atom
   path: atom.xml
-  limit: 20
+  limit: 30
   hub:
-  content:
+  content: true
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: icon.png
+  icon: /images/logo.svg
   autodiscovery: true
   template:
 #hexo-generator-seo-friendly-sitemap
@@ -303,3 +306,8 @@ filter_image:
   #  shenma_token: '' # ShenMa private key
   #  shenma_user: '' # Username used when registering
   #  sitemap: '' # Sitemap path(e.g. the url is like this https://abnerwei.com/baidusitemap.xml, you can fill in `baidusitemap.xml`)
+search:
+  path: search.xml
+  field: post # post:文章范围、page:页面范围、all:覆盖所有
+  content: true # 内容是否包含每一篇文章的全部内容
+  template: # search.xml # 指定定制的XML模板

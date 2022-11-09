@@ -1,9 +1,10 @@
 ---
 title: sunrise
-date: 2014-8-19 05:16:21
-tags:
 cover: ../../../../images/bg.jpg
 hidden: true
+abbrlink: 82fb67cc
+date: 2014-08-19 05:16:21
+tags:
 ---
 
 # 第一次认真记录的**日出**(七年级)
