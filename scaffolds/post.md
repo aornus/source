@@ -1,14 +1,14 @@
 ---
 title: {{ title }}
 date: {{ date }}
-abbrlink: 永久链接
+abbrlink: 42
 tags:
 categories:
 cover:
 katex: true
 comments:
 copyright:
-aside: 
+aside: false
 password:
 hidden:
 description: 

@@ -311,3 +311,12 @@ search:
   field: post # post:文章范围、page:页面范围、all:覆盖所有
   content: true # 内容是否包含每一篇文章的全部内容
   template: # search.xml # 指定定制的XML模板
+
+  hexo-tag-dplayer:
+  cdn:
+    - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js
+    - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.css
+  default: 
+    api: https://api.prprpr.me/dplayer/
+    loop: yes
+    screenshot: yes
