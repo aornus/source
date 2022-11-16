@@ -1,7 +1,6 @@
 ---
 title: quote
 tags:
-  - Quote
 cover: ../../../../images/bg.jpg
 katex: true
 hidden: true

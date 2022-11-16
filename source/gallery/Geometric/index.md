@@ -2,6 +2,8 @@
 title: Geometric
 top_img: false
 katex: false
+tags:
+  - 相册
 aside: false
 date: 2022-04-16 12:30:53
 comments:

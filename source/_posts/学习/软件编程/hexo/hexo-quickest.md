@@ -25,7 +25,7 @@ hidden:
 
 1. git 配置（全局）
    
-   ```
+   ```shell
    git config --global user.name "aoenus"
    git config --global user.email aornus@matrixmail.com
    git config --list
@@ -45,7 +45,7 @@ hidden:
    
    * ssh连接成功后，在.ssh 下创建`config`，内容如下：
    
-   ```xml
+   ```
    Host github.com
    HostName git***.com
    User aornus(用户名)
@@ -55,13 +55,13 @@ hidden:
    
    * 克隆远端项目
    
-   ```
+   ```bash
    git clone git@git***.com:aornus/aornus.git
    ```
 
 3. npm配置
    
-   ```
+   ```bash
    sudo pacman -S npm   
    ```
    
@@ -76,7 +76,7 @@ hidden:
    
    安装hexo包 （全局）
    
-   ```
+   ```shell
    npm install -g hexo-cli
    ```
 
@@ -90,7 +90,7 @@ hidden:
 
 4. 安装常用hexo插件包并启用数学公式支持
    
-   ```
+   ```shell
    npm un hexo-renderer-marked hexo-renderer-kramed --save
    ```
    

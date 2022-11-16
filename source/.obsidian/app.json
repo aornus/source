@@ -1,0 +1,13 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_drafts",
+  "attachmentFolderPath": "images/20221012",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "autoPairMarkdown": true,
+  "legacyEditor": false
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "line:(自荐)",
+      "color": {
+        "a": 1,
+        "rgb": 65322
+      }
+    },
+    {
+      "query": "line:(奇技淫巧)",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "tag:#周记",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#相册",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.40666666666667,
+  "lineSizeMultiplier": 1.95791666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.6875,
+  "repelStrength": 10.8333333333333,
+  "linkStrength": 0.745833333333333,
+  "linkDistance": 101,
+  "scale": 0.5514169161041284,
+  "close": true
+}

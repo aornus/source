@@ -27,7 +27,7 @@ hidden:
 
 使用 LaTeX 撰写文档并生成 `PDF` 文件时，可以通过 Knuth 在 TeX 里留的一个后门：`\special` 命令来让后面的驱动完成这些工作（牛人就是牛）。这条命令一般放在 `\documentclass` 之前，对于文档加密来说，命令的格式为：
 
-```
+```tex
 \special{pdf:encrypt userpw (<userpassword>) ownerpw (<ownerpassword>) length <num1> perm <num2>}
 \documentclass{xxxx}
 ```
@@ -52,13 +52,13 @@ hidden:
 
 如果希望文档仅仅允许高质量打印，则 `12` 位与 `3` 位应设置为 `1`，其余位设置为 `0`，即 `100000000100`，该数值转化为十进制数即为：`2052`；假定加密键长度为 128，用户密码留空，所有者密码为 `mypassword`，则编译文档中这条命令应写成为：
 
-```
+```latex
 \specail{pdf:encrypt userpw () ownerpw (mypassword) length 128 perm 2052}
 ```
 
 文件加密也可以通过 `xdvipdfmx` (或 `dvipdfm(x)`) 命令参数实现，编译命令为：
 
-```
+```bash
 xdvipdfmx -S -K <num1> -P <0xNUM2> file.xdv
 ```
 
@@ -68,7 +68,7 @@ xdvipdfmx -S -K <num1> -P <0xNUM2> file.xdv
 
 上述方法是在撰写文档时对文档进行加密的方法。大多数情况下，我们是面对一个既有 `pdf` 文件希望对其进行加密处理，这时可以借用 `pdfpages` 宏包重新生成文档的方式，在编译中对其进行加密。假定加密语句同上，对于一个既有 `file.pdf` 文档，可以编写如下 `tex` 源代码：
 
-```
+```latex
 \specail{pdf:encrypt userpw () ownerpw (mypassword) length 128 perm 2052}
 \documentclass{article}
 \usepackage{pdfpages}

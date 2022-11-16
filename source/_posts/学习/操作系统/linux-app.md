@@ -1,7 +1,7 @@
 ---
 title: linux 开源播客客户端评测
 tags:
-  - 奇技淫巧
+  - #奇技淫巧
 categories:
   - 学习
   - 软件编程
