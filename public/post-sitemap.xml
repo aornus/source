@@ -10,7 +10,15 @@
 
     <url>
         <loc>https://blog.si-on.top/2022/blogwriteguide.html</loc>
-        <lastmod>2022-11-16T05:26:34.000Z</lastmod>
+        <lastmod>2022-11-16T13:01:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/2022/Jinstone003.html</loc>
+        <lastmod>2022-11-16T04:40:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -435,14 +443,6 @@
     <url>
         <loc>https://blog.si-on.top/2022/Jinstone004.html</loc>
         <lastmod>2022-11-05T04:31:55.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/2022/Jinstone003.html</loc>
-        <lastmod>2022-11-05T04:31:49.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

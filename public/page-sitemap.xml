@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://blog.si-on.top/music/</loc>
+        <lastmod>2022-11-16T04:41:49.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.si-on.top/gallery/Geometric/</loc>
         <lastmod>2022-11-15T06:55:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,15 +111,6 @@
     <url>
         <loc>https://blog.si-on.top/shuoshuo/</loc>
         <lastmod>2022-11-06T12:25:58.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.si-on.top/music/</loc>
-        <lastmod>2022-11-06T12:24:43.461Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
