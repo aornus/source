@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/杂谈/博客写作方法论.md",
-                "mode": "preview",
+                "file": "_drafts/微分方程要义.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "00e5c6ad41256c29",
@@ -92,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/杂谈/博客写作方法论.md",
+            "file": "_drafts/微分方程要义.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/杂谈/博客写作方法论.md",
+            "file": "_drafts/微分方程要义.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,14 +122,14 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/杂谈/博客写作方法论.md"
+            "file": "_drafts/微分方程要义.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "88ebb9874284853f",
+  "active": "a55d9289aac749e4",
   "lastOpenFiles": [
     "_posts/生活/杂谈/博客写作方法论.md",
     "_drafts/text.md",

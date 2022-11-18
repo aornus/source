@@ -855,7 +855,7 @@ lazyload:
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
 pwa:
-  enable: true
+  enable: false
   manifest: /pwa/manifest.json
   apple_touch_icon: /pwa/logo.svg
   favicon_32_32: /pwa/logo.svg
@@ -874,22 +874,18 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
-    # - <link rel="stylesheet" href="https://unpkg.zhimg.com/static-butterfly/dist/css/index.min.css">
-    # - <link rel="stylesheet" href="//unpkg.com/heti/umd/heti.min.css">
     # - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:ital,wght@600;900&display=swap" rel="stylesheet">
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Regular.otf" type="font/otf" crossorigin="anonymous">
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Bold.otf" type="font/otf" crossorigin="anonymous">
-    - <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700" crossorigin >
+    - <link href="https://fonts.proxy.ustclug.org/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700" crossorigin >
     # - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
-    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
+    - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     - <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     - <link rel="preconnect" href="https://gstatic.loli.net">
     # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>   
   bottom:
-    - <script src="https://unpkg.com/heti/umd/heti-addon.min.js"></script>
-  # - <script src="xxxx"></script>
+    - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.js"></script>

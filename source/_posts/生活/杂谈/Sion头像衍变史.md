@@ -24,6 +24,20 @@ keywords: 设计，头像，Sion
 > <p align="right">——诗经·陈风·月出</p>
 
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [起源 2019](#起源-2019)
+- [滤镜时期](#滤镜时期)
+- [像素画](#像素画)
+- [第一次矢量化](#第一次矢量化)
+- [第二次矢量化](#第二次矢量化)
+- [其他衍生](#其他衍生)
+
+<!-- /code_chunk_output -->
+
+
 
 ## 起源 2019
 
