@@ -4,6 +4,7 @@ katex: true
 
 tags:
   - 奇技淫巧
+  - 阅读
 categories:
   - 学习
   - 软件编程
@@ -182,6 +183,8 @@ sudo mkfontscale && mkfontdir && fc-cache -fv
 
 ### 安装Foliate
 
+> 在配置好了前面这些东西之后，理论上是可以安任何Linux软件，并且可直接以gui的形式运行。
+
 1. 更新系统
 
    ```bash
@@ -202,3 +205,8 @@ sudo mkfontscale && mkfontdir && fc-cache -fv
 ![Ubuntu子系统·完美运行](images/20221012/image-20221103235644741.png)
 ![标注、字体、侧边栏正常](images/20221012/image-20221103230015744.png)
 ![直排、图片、主题正常](images/20221012/image-20221103233512932.png)
+#### 其他推荐
+KOreader 是另外一个同样优秀的阅读器，其操作习惯与Kindle一样，有各种各样的复杂功能。实际上搭配在安卓上也很不错的，比如我这个过气的黑莓Priv上:
+![运行kOreader的blackberry Priv](../../../images/20221012/Screenshot_2022-11-20-20-52-22-230-edit_com.miui.gallery.jpg)
+它的界面也挺好看的
+![中间还可以设置两条快速阅读线。](../../../images/20221012/Screenshot_20221120-204907.png)

@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cff7fae8b12e737c",
+        "id": "f4a585f4c33e7fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "617c5e522bb19513",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "cd57eff8e4e1a9e8",
+            "id": "d6d076a43d169c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/杂谈/博客写作方法论.md",
+                "file": "_posts/学习/操作系统/换源.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be7c97e5a097baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Rss成精.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/杂谈/博客写作方法论.md",
+                "file": "_drafts/Rss成精.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/杂谈/博客写作方法论.md",
+                "file": "_drafts/Rss成精.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/杂谈/博客写作方法论.md"
+                "file": "_drafts/Rss成精.md"
               }
             }
           }
@@ -147,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd57eff8e4e1a9e8",
+  "active": "3be7c97e5a097baf",
   "lastOpenFiles": [
+    "_posts/学习/软件编程/latex/家谱图.md",
+    "_drafts/Rss成精.md",
+    "_drafts/text.md",
+    "_posts/学习/操作系统/换源.md",
+    "_drafts/未命名.md",
     "_drafts/微分方程要义.md",
+    "site/index.md",
     "_posts/生活/杂谈/博客写作方法论.md",
     "_posts/生活/杂谈/Qingming.md",
-    "_posts/生活/杂谈/博客写作方法论 (conflicted copy 2022-11-16 205606).md",
-    "_drafts/().md",
-    "_posts/生活/杂谈/Godzilla.md",
-    "_drafts/text.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/杂谈/博客写作方法论 1.md",
-    "_posts/学习/软件编程/hexo/域名邮箱折腾.md"
+    "_posts/生活/杂谈/博客写作方法论 (conflicted copy 2022-11-16 205606).md"
   ]
 }

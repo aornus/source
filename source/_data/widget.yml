@@ -1,0 +1,10 @@
+
+bottom:
+  - class_name: subscribe
+    id_name: newsletter 
+    name: 电子报
+    icon: fa-envelope
+    html: '<div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f><form data-v-2f850a8c="" action="https://api.follow.it/subscription-form/VGRFRVZXMndjMTd4Q3M2cU1kZU1OZTVrZitZdHhlWlNiVlhENVlBclBXRmJLRkFCejlNQ2hsVE1DUHZudlRPek1TQlNwUG0rZ1RmbXBmY00rZVRab2wvT0pnOEpPOTdkb3JIRnVxZFNyV3BXd25pZjRMTncrYVRlbzhHR0tCNDV8SEt6aHVpVDRDeE9nd3Q2Z2trYjlNcHRUVTA2NEQ2Tk9UK3lUbkM0UlBqaz0=/8" method="post"><div data-v-2f850a8c="" class="form-preview" style="background-color: rgb(255, 255, 255); position: relative;"><div data-v-2f850a8c="" class="preview-heading"><h5 data-v-2f850a8c="" style="text-transform: none !important; font-family: initial; font-weight: 800; color: rgb(0, 0, 0); font-size: 16px; text-align: center;">
+                  键入邮箱以获得RSS推送:</h5></div> 
+<div data-v-2f850a8c="" class="preview-input-field">    <input data-v-2f850a8c="" type="email" name="email" required="required" placeholder="君之邮箱地址" spellcheck="false" style="text-transform: none !important; font-family: Montserrat; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);" _mstplaceholder="30226742"></div> <div data-v-2f850a8c="" class="preview-submit-button"><button data-v-2f850a8c="" type="submit" style="text-transform: none !important; font-family: Montserrat; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0);">
+                  订阅</button></div></div></form></a></div>'

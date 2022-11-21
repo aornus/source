@@ -883,9 +883,10 @@ inject:
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     - <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     - <link rel="preconnect" href="https://gstatic.loli.net">
-    # - <link href="/css/custom.css" type="text/css" rel="stylesheet"/>   
+    - <link href="/css/follow.css" type="text/css" rel="stylesheet"/>   
   bottom:
     - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
+
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.js"></script>

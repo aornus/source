@@ -352,4 +352,12 @@ highlight_shrink:
 <!-- timeline 11-05 -->
 对分类与标签进行了重新规划
 <!-- endtimeline -->
+
+
+<!-- timeline 11-21 -->
+* 搭配Obsidian，Nextcloud实现了多平台同步写作。
+* 添加了批注
+* 添加了Newsletter电子报订阅
+<!-- endtimeline -->
+
 {% endtimeline %}
