@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a585f4c33e7fa2",
+        "id": "146ad89d4a87fa32",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d076a43d169c0d",
+            "id": "3fa84ff4b51570d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/操作系统/换源.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3be7c97e5a097baf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Rss成精.md",
+                "file": "_posts/学习/软件编程/RSS使用手册.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Rss成精.md",
+                "file": "_posts/学习/软件编程/RSS使用手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Rss成精.md",
+                "file": "_posts/学习/软件编程/RSS使用手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Rss成精.md"
+                "file": "_posts/学习/软件编程/RSS使用手册.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3be7c97e5a097baf",
+  "active": "3fa84ff4b51570d6",
   "lastOpenFiles": [
-    "_posts/学习/软件编程/latex/家谱图.md",
     "_drafts/Rss成精.md",
+    "_posts/学习/软件编程/RSS使用手册.md",
+    "_posts/学习/软件编程/foliate阅读器安装.md",
+    "_posts/学习/课程笔记/机械控制基础/机械控制基础.md",
+    "images/20221012/Pasted image 20221126122715.png",
+    "_posts/学习/课程笔记/机械控制基础/时域响应分析.md",
+    "_posts/学习/课程笔记/机械控制基础/机械控制基础-概念总结.md",
     "_drafts/text.md",
-    "_posts/学习/操作系统/换源.md",
-    "_drafts/未命名.md",
     "_drafts/微分方程要义.md",
-    "site/index.md",
-    "_posts/生活/杂谈/博客写作方法论.md",
-    "_posts/生活/杂谈/Qingming.md",
-    "_posts/生活/杂谈/博客写作方法论 (conflicted copy 2022-11-16 205606).md"
+    "_drafts/第五次作业.md"
   ]
 }

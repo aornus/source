@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "system",
   "translucency": false,
-  "interfaceFontFamily": "LXGW WenKai"
+  "interfaceFontFamily": "LXGW WenKai",
+  "baseFontSize": 22
 }

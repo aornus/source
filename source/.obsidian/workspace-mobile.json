@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/软件编程/foliate阅读器安装.md",
-                "mode": "preview",
+                "file": "_drafts/微分方程要义.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/学习/软件编程/foliate阅读器安装.md",
+            "file": "_drafts/微分方程要义.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/学习/软件编程/foliate阅读器安装.md",
+            "file": "_drafts/微分方程要义.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,22 +122,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/学习/软件编程/foliate阅读器安装.md"
+            "file": "_drafts/微分方程要义.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "e86bef541d3b16c7",
+  "active": "a55d9289aac749e4",
   "lastOpenFiles": [
-    "_posts/学习/操作系统/linux-app.md",
+    "_drafts/未命名.md",
+    "_drafts/Rss成精.md",
     "_drafts/Windows使用记录.md",
+    "_drafts/text.md",
+    "_posts/学习/软件编程/foliate阅读器安装.md",
+    "_posts/学习/操作系统/linux-app.md",
     "_posts/学习/操作系统/note-for-linux.md",
     "_posts/生活/杂谈/博客写作方法论.md",
-    "_drafts/text.md",
     "_drafts/微分方程要义.md",
-    "music/index.md",
-    "_posts/生活/金石为开/金石周刊003期.md"
+    "music/index.md"
   ]
 }

@@ -354,10 +354,13 @@ highlight_shrink:
 <!-- endtimeline -->
 
 
-<!-- timeline 11-21 -->
+<!-- timeline 11-19 -->
 * 搭配Obsidian，Nextcloud实现了多平台同步写作。
 * 添加了批注
 * 添加了Newsletter电子报订阅
 <!-- endtimeline -->
 
+<!-- timeline 11-21 -->
+* 开启Rss3上的站点 https:/sion.xlog.app
+<!-- endtimeline -->
 {% endtimeline %}
