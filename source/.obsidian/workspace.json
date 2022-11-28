@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "146ad89d4a87fa32",
+        "id": "3468390ac37a9c28",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa84ff4b51570d6",
+            "id": "1a807c9f71c499ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/软件编程/RSS使用手册.md",
+                "file": "_posts/学习/操作系统/linux-app.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/软件编程/RSS使用手册.md",
+                "file": "_posts/学习/操作系统/linux-app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/软件编程/RSS使用手册.md",
+                "file": "_posts/学习/操作系统/linux-app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/软件编程/RSS使用手册.md"
+                "file": "_posts/学习/操作系统/linux-app.md"
               }
             }
           }
@@ -137,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3fa84ff4b51570d6",
+  "active": "1a807c9f71c499ea",
   "lastOpenFiles": [
-    "_drafts/Rss成精.md",
-    "_posts/学习/软件编程/RSS使用手册.md",
-    "_posts/学习/软件编程/foliate阅读器安装.md",
-    "_posts/学习/课程笔记/机械控制基础/机械控制基础.md",
-    "images/20221012/Pasted image 20221126122715.png",
-    "_posts/学习/课程笔记/机械控制基础/时域响应分析.md",
-    "_posts/学习/课程笔记/机械控制基础/机械控制基础-概念总结.md",
-    "_drafts/text.md",
+    "_posts/学习/操作系统/linux-app.md",
+    "_drafts/Linux使用记录.md",
+    "_drafts/Windows使用记录.md",
+    "_posts/学习/操作系统/note-for-linux.md",
+    "_posts/生活/金石为开/铁石周刊003-004期.md",
     "_drafts/微分方程要义.md",
-    "_drafts/第五次作业.md"
+    "_drafts/第五次作业.md",
+    "_drafts/text.md",
+    "about/index.md",
+    "_drafts/Rss成精.md"
   ]
 }

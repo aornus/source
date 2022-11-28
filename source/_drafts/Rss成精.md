@@ -20,6 +20,34 @@ keywords:
 root: ../../
 ---
 
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+
+<!-- code_chunk_output -->
+
+- [订阅源](#订阅源)
+  - [格式](#格式)
+  - [源之源](#源之源)
+    - [Innoreader（2012~）](#innoreader2012~)
+    - [Feedx（2016.5~）](#feedx20165~)
+    - [RSSHub（2018~）](#rsshub2018~)
+    - [Feedd（2021~）](#feedd2021~)
+- [阅读器订阅](#阅读器订阅)
+  - [Fluent Reader](#fluent-reader)
+- [邮箱订阅](#邮箱订阅)
+  - [Follow.it](#followit)
+    - [订阅源获取](#订阅源获取)
+    - [订阅源管理](#订阅源管理)
+  - [Blogtrottr.com](#blogtrottrcom)
+  - [体验结果](#体验结果)
+    - [缺点](#缺点)
+- [RSS阅读流程](#rss阅读流程)
+- [阅读的过程](#阅读的过程)
+- [整合式订阅](#整合式订阅)
+
+<!-- /code_chunk_output -->
+
 > <q>RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。</q>[^1]
 > <p align="right">——维基百科编者</p>
 

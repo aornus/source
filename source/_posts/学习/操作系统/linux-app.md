@@ -1,15 +1,16 @@
 ---
-title: linux 开源播客客户端评测
+title: linux 软件评测
 tags:
-  - #奇技淫巧
+  - 奇技淫巧
 categories:
   - 学习
   - 软件编程
 cover: ../../../../images/bg.jpg
-description: 播客客户端
+description: Linux软件使用记录。
 abbrlink: linuxapp
+swiper_index: 6
 date: 2021-12-20 10:15:02
-update: 2022-02-25 20:20:20
+update: 2022-11-29 20:20:20
 katex:
 comments:
 copyright:
@@ -17,10 +18,69 @@ aside:
 password:
 hidden:
 ---
+{% markmap 400px %}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 
-> 声明：我没有资格对这些开源软件评头论足，只是作为使用者的看法。
+<!-- code_chunk_output -->
 
-## Vocal-（为现代桌面而生，播客客户端巨作）
+- [声音可视化](#声音可视化)
+  - [cava](#cava)
+  - [Recidia](#recidia)
+  - [glava-git](#glava-git)
+  - [projectm-pulseaudio](#projectm-pulseaudio)
+  - [Panon](#panon)
+- [播客](#播客)
+  - [Vocal-（为现代桌面而生，播客客户端巨作）](#vocal-为现代桌面而生播客客户端巨作)
+  - [gPodder-（古老的免费播客客户端）](#gpodder-古老的免费播客客户端)
+  - [Gonme podcast](#gonme-podcast)
+  - [Spotify](#spotify)
+  - [Clemencine](#clemencine)
+- [社交](#社交)
+  - [微信客户端](#微信客户端)
+    - [微信安装](#微信安装)
+    - [评测](#评测)
+
+<!-- /code_chunk_output -->
+{% endmarkmap %}
+## 声音可视化
+### cava
+基于终端的的ALSA[^1]音频可视化工具。
+主要控制方式是在进入界面后按以下按键：
+* Up ------>        体高灵敏度
+* Down ------>      降低灵敏度
+* Left  ------>     减少分割栏数
+* Right  ------>   增大分割栏数
+* r  ------>        重载配置文件
+* c  ------>        仅仅重载颜色
+* f  ------>       循环前景色
+* b  ------>       循环背景色
+* q  ------>       退出
+![](/images/20221012/pic-28232152.png)
+### Recidia
+默认模式相对于cava多了很多可控性。（自带的“宇宙”背景很烧内存。）
+![](images/20221012/pic-29001731.png)
+### glava-git
+以驱动OpenGL，绘制一个音频可视化的窗口。这个很有意思，使用`-d`指令可以直接在桌面上添加一个类似挂件的可视化频谱，很是实用。其效果与cava差不多，都是对称分布的频谱。
+![](images/20221012/pic-29000736.png)
+### projectm-pulseaudio
+ProjectM(M计划)是一个基于Milkdrop插件Windows/Winamp的开源音乐可视化工具。它现在有一个QtGUI，除了libvisual组件外，它还可以通过JACK或PulseAudio[^2]可视化音频输出。这个很好玩，在GUI里按m可以打开菜单，有几个自带的插件：
+1. 魔性小人
+	![](/images/20221012/pic-28235721.png)
+2. Fractal坠落
+	![](/images/20221012/pic-28235926.png)
+其他的几个都比较花哨，颜色比较混乱。
+### Panon
+虽然它只是KDE的一个插件，但是里面的特效贼好看
+
+![](/images/20221012/pic-29002743.png)
+![](/images/20221012/pic-29002442.png)
+[^1]:ALSA是Advanced Linux Sound Architecture的缩写，高级Linux声音架构的简称,它在Linux操作系统上提供了音频和MIDI（Musical Instrument Digital Interface，音乐设备数字化接口）的支持。
+[^2]:PulseAudio（以前叫Polypaudio）是一个跨平台的、可通过网络工作的声音服务，其一般使用于Linux和FreeBSD操作系统。它可以用来作为一种简易改进的开放声音后台（ESD）替换。
+
+
+
+## 播客
+### Vocal-（为现代桌面而生，播客客户端巨作）
 
 ![Vocal](../../../../images/blogimage/raw/master/Aornus_shot_20211220_102138.png)
 
@@ -30,21 +90,21 @@ hidden:
 
 ![详细页面](../../../../images/blogimage/raw/master/Aornus_shot_20211220_102545.png)
 
-## gPodder-（古老的免费播客客户端）
+### gPodder-（古老的免费播客客户端）
 
 ![gPodder](../../../../images/blogimage/raw/master/Aornus_shot_20211220_102038.png)
 
 确实很强大，在很多软件里都有gpodder的插件，同步功能很强大，但我就是不能注册，真令人头痛，明明官网好好的，可能被滥用以至于停止注册了，客户端里搜索太慢。总是卡住，不是太好用。
 
-## Gonme podcast
+### Gonme podcast
 
 很简单，很现代，但是很慢！无法在线播放，只能下载之后播放。
 
-## Spotify
+### Spotify
 
 这个不必多说，声田本身就是一个很好的播客客户端，包括流媒体，下载，同步等各种功能，唯一不能做的就是外部网站的订阅。
 
-## 终极解决方案：Clemencine
+### Clemencine
 
 内存占用不大，反应快速，功能强大。
 
@@ -62,7 +122,8 @@ hidden:
 
 ![播放页面](../../../../images/blogimage/raw/master/20211222211953.png)
 
-## 微信客户端
+## 社交
+### 微信客户端
 
 > 写于时间：2021-12-31 21:40:17
 
@@ -72,7 +133,7 @@ hidden:
 
 废话不多说，软件装起来。
 
-## 微信安装
+#### 微信安装
 
 本人使用的Garuda linux,去年发行的arch系，个人感觉比manjaro跟漂亮，更安全（文件系统默认`btrfs`），各种工具都包装好了，简直就是一个开源软件大杂烩，这个教程理论上适用于所有Arch系的操作系统。
 
@@ -92,7 +153,7 @@ yay -S com.tencent.weixin
 >
 > 全部安装大小：  423.39 MiB
 
-## 评测
+#### 评测
 
 * 支持群聊，文件与图片发送，*输入好像有问题，每修改一次，光标自动回到句尾了*
 
@@ -107,3 +168,4 @@ yay -S com.tencent.weixin
 ![](../../../../images/blogimage/raw/master/202112312132942.png)
 
 >  下次更新不知道要到猴年马月了
+

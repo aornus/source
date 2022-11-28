@@ -1,7 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#4f36a1",
   "theme": "system",
   "translucency": false,
   "interfaceFontFamily": "LXGW WenKai",
-  "baseFontSize": 22
+  "baseFontSize": 18,
+  "cssTheme": "Wasp",
+  "nativeMenus": true
 }

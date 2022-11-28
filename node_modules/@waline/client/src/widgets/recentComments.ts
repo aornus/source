@@ -1,5 +1,6 @@
+import { getRecentComment } from '../api';
 import { useUserInfo } from '../composables';
-import { fetchRecentComment, getRoot } from '../utils';
+import { getRoot } from '../utils';
 
 import type { WalineComment } from '../typings';
 
@@ -61,7 +62,7 @@ export const RecentComments = ({
   const root = getRoot(el);
   const controller = new AbortController();
 
-  return fetchRecentComment({
+  return getRecentComment({
     serverURL,
     count,
     lang,

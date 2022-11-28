@@ -11,7 +11,7 @@ categories:
 description: 通过先进的WSL2，简便地在windows上使用Foliate、Koreader等linux专有的优质阅读器！！！
 abbrlink: foliate
 date: 2022-11-03 18:52:31
-cover: false
+cover: /images/20221012/Foliate.svg
 comments:
 copyright:
 aside:
@@ -19,15 +19,29 @@ password:
 hidden:
 sticky:
 ---
-
-
-[000](/2022/4e9a9ed6)
-
-![](/images/20221012/Foliate.svg)
-
 {% note warning %}
 本文所讨论的电子书不包括PDF格式
 {% endnote %}
+![](/images/20221012/Foliate.svg)
+
+
+{% markmap 400px %}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
+
+<!-- code_chunk_output -->
+
+1. [楔子](#楔子)
+2. [安装](#安装)
+    1. [原理](#原理)
+    2. [安装WSL子系统](#安装wsl子系统)
+    3. [子系统初始化](#子系统初始化)
+    4. [本土化与字体](#本土化与字体)
+    5. [安装Foliate](#安装foliate)
+3. [测试与展示](#测试与展示)
+        1. [其他推荐](#其他推荐)
+
+<!-- /code_chunk_output -->
+{% endmarkmap %}
 
 ## 楔子
 

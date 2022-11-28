@@ -10,7 +10,6 @@ categories:
 cover: ../../../../images/bg.jpg
 description: 直排|此乃妖法！
 katex: true
-swiper_index: 6
 abbrlink: Tabular-Method
 date: 2022-01-03 21:32:02
 comments:

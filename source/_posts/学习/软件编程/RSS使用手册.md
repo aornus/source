@@ -22,6 +22,46 @@ root: ../../
 ---
 ![](../../../images/20221012/RSS-03.svg)
 
+{% markmap 400px %}
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=true} -->
+
+
+<!-- code_chunk_output -->
+
+1. [订阅源](#订阅源)
+    1. [格式](#格式)
+    2. [源之源](#源之源)
+        1. [Innoreader（2012~）](#innoreader2012~)
+        2. [Feedx（2016.5~）](#feedx20165~)
+        3. [RSSHub（2018~）](#rsshub2018~)
+        4. [Feedd（2021~）](#feedd2021~)
+2. [阅读器订阅](#阅读器订阅)
+    1. [Fluent Reader（Windows）](#fluent-readerwindows)
+    2. [Feeder（Android）](#feederandroid)
+3. [邮箱订阅](#邮箱订阅)
+    1. [格式](#格式-1)
+    2. [自力更生](#自力更生)
+        1. [rss2email（Python）](#rss2emailpython)
+        2. [Calibre](#calibre)
+    3. [第三方服务](#第三方服务)
+        1. [Follow.it](#followit)
+            1. [订阅源获取](#订阅源获取)
+            2. [订阅源管理](#订阅源管理)
+        2. [Blogtrottr.com](#blogtrottrcom)
+    4. [体验结果](#体验结果)
+4. [RSS阅读流程的简化](#rss阅读流程的简化)
+    1. [RSS阅读流程](#rss阅读流程)
+    2. [阅读流程](#阅读流程)
+    3. [整合式订阅](#整合式订阅)
+        1. [自力更生](#自力更生-1)
+        2. [第三方服务](#第三方服务-1)
+    4. [阅读与批注](#阅读与批注)
+    5. [笔记整理](#笔记整理)
+
+<!-- /code_chunk_output -->
+{% endmarkmap %}
+
 > <q>RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易信息聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。</q>[^1]
 > <p align="right">——维基百科编者</p>
 
