@@ -16,23 +16,10 @@ aside: false
 - class_name: 友情链接
   class_desc: 🎵找啊找啊找朋友，找到许多好朋友~
   link_list:
-    - name: JerryC
-      link: https://jerryc.me/
-      avatar: https://jerryc.me/img/avatar.png
-      descr: butterfly主题作者
     - name: 始终 
       link: https://liam.page/ 
       avatar: https://liam.page/images/avatar/avatar.webp
       descr: 不忘初心(Latex技术博客)
-    - name: Jonna jinton
-      link: https://jonnajintonsweden.com/blog/
-      avatar: https://jonnajintonsweden.com/wp-content/uploads/2020/09/logga.png
-      descr: My name is Jonna Jinton, and I’m a Swedish artist, photographer and YouTuber. This is my blog where I share glimpses from my work and daily life in the beautiful north of Sweden. 
-    - name: 善用佳软
-      link: https://xbeta.info/
-      avatar: https://xbeta.info/wp-content/uploads/2021/12/cropped-shan-150x150.gif
-      descr: IT义工的个人博客,善用佳软= (善意+善于)应用优秀软件 xbeta= x(未知数)+β(改进测试版)
-
 
 
 - class_name: 网站
@@ -76,3 +63,6 @@ deacr: Sion'Blog #简短的介绍自己的博客或座右铭
       avatar: https://npm.elemecdn.com/niaosu/dalao/vzDtmMFg.png
       descr: 不死鸟·资源聚合搜索
 ```
+
+<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="suVzREf8" data-limit="5" data-color="E22F38" data-dislikes="1" data-outlined="1" data-colorful="1"></script>
+    

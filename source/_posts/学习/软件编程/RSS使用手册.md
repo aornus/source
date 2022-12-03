@@ -20,7 +20,7 @@ sticky:
 keywords:
 root: ../../
 ---
-![](../../../images/20221012/RSS-03.svg)
+![](https://img2023.cnblogs.com/blog/2222783/202212/2222783-20221201231332000-1556226501.png)
 
 {% markmap 400px %}
 
@@ -131,7 +131,7 @@ RSS订阅源，本质上是一个xml类型的文件，在十来年前已经形�
 ### Fluent Reader（Windows）
 可以自定义字体，排版。
 
-![直排](/images/20221012/Pasted%20image%2020221126122715.png)
+![直排](../../../images/20221012/Pasted%20image%2020221126122715.png)
 
 ### Feeder（Android）
 很理想的移动端阅读器
@@ -193,7 +193,7 @@ border-collapse: collapse;
 ### 自力更生
 这里推荐一个项目，都是可以实现推送与样式自定义的。
 #### rss2email（Python）
-A python script that converts RSS/Atom newsfeeds to email.[![Monthly Downloads](https://warehouse-camo.ingress.cmh1.psfhosted.org/557a5eb3bb756cf2c243f5cddb6eda0c320cc733/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f72737332656d61696c)](https://pypi.python.org/pypi/rss2email/) [![Latest Version](https://warehouse-camo.ingress.cmh1.psfhosted.org/73f4060f650f76e02441d21dbf54a66d92d70f6b/68747470733a2f2f62616467652e667572792e696f2f70792f72737332656d61696c2e737667)](https://pypi.python.org/pypi/rss2email/) [![GPL v2.0 License](https://warehouse-camo.ingress.cmh1.psfhosted.org/e76ab7d80e26731c77495927198fa896b963c932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c5f76322d626c75652e737667)](https://pypi.python.org/pypi/rss2email/)
+A python script that converts RSS/Atom newsfeeds to email.
 #### Calibre
 可以把订阅制成电子书发送到邮箱。
 ### 第三方服务
@@ -278,7 +278,7 @@ https://inkread.com/
 这个网站是我最先的选择，但是限制太多了，直到看到了后者时......
 http://wheremylife.cn
 这是现阶段最佳的选择，就文件而言，排版没有太大错误，文首还有推送情况介绍，每篇文章都有目录，跳转极为方便，没有付费服务，作者用爱发电好多年......
-![推送概况与目录](/images/20221012/Pasted%20image%2020221126183318.png)
+![推送概况与目录](../../../images/20221012/Pasted%20image%2020221126183318.png)
 
 ### 阅读与批注
 就文件格式而言，epub，pdf格式是通用的，epub的阅读性是更胜一筹。然后再上找一个阅读器就可以很好的阅读批注了，至于各个平台上理想的阅读器，推荐读这篇文章：[Foliate安装](/2022/foliate)。

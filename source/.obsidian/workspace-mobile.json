@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/微分方程要义.md",
+                "file": "_drafts/笔记本.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/微分方程要义.md",
+            "file": "_drafts/笔记本.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_drafts/微分方程要义.md",
+            "file": "_drafts/笔记本.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_drafts/微分方程要义.md"
+            "file": "_drafts/笔记本.md"
           }
         }
       }
@@ -131,6 +131,7 @@
   },
   "active": "a55d9289aac749e4",
   "lastOpenFiles": [
+    "_drafts/微分方程要义.md",
     "_drafts/未命名.md",
     "_drafts/Rss成精.md",
     "_drafts/Windows使用记录.md",
@@ -139,7 +140,6 @@
     "_posts/学习/操作系统/linux-app.md",
     "_posts/学习/操作系统/note-for-linux.md",
     "_posts/生活/杂谈/博客写作方法论.md",
-    "_drafts/微分方程要义.md",
     "music/index.md"
   ]
 }
