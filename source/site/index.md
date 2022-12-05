@@ -274,7 +274,7 @@ highlight_shrink:
 <!-- endtimeline --> 
 
 <!-- timeline 03-24 -->
-建立阅读与写作专用子域🪶：
+建立阅读与写作专用子域🪶--"细墨"：
 
 * Domin: https://ink.si-on.top/
 <!-- endtimeline -->
@@ -285,9 +285,9 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 03-29 -->
-利用Vercel建立onedrive云盘，主要存是一些学习资料与技术文档，也会不定期更新[外刊](https://sionedrive.vercel.app/journal)
+利用Vercel建立onedrive云盘，主要存是一些学习资料与技术文档，~~也会不定期更新[外刊](https://sionedrive.vercel.app/journal)~~
 
-* onecloud：https://sionedrive.vercel.app
+* SiOneDrive：https://sionedrive.vercel.app
 <!-- endtimeline -->
 
 <!-- timeline 04-15 -->
@@ -300,13 +300,12 @@ highlight_shrink:
 听说Vercel速度不错，开启了镜像站，顺便绑定上上了之前的两个域名。
 1. [Vercel镜像站](http://sion.tk/)=[vercel](https://sion-eta.vercel.app/)
 2. [Netify镜像站](https://aornus.tk)=[netlify](https://625a6bec72983054d0757833--cheery-fudge-471d5e.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cd86e249-261e-449c-832f-ae47b14d3f78/deploy-status)](https://app.netlify.com/sites/cheery-fudge-471d5e/deploys)
-
-> 由于找不到哪里有违禁内容，一个多月来，giteepages一直部署不了。4月16日，彻底跟gitee断绝关系，网站源码转移到github上。
+3. 网站源码转移到github上。由于找不到哪里有违禁内容，一个多月来，giteepages一直部署不了。4月16日，彻底跟gitee断绝关系。
 <!-- endtimeline -->
 
 <!-- timeline 04-17 -->
-开启赞赏功能--加密货币（赞赏二维码采用极限识别设计，inspired by Minor's book.）
+~~开启赞赏功能--加密货币（赞赏二维码采用极限识别设计，inspired by Minor's book.）~~
+>（某月某日关闭）
 <!-- endtimeline -->
 
 <!-- timeline 05-19 -->
@@ -315,8 +314,9 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 6-4 -->
-* 添加[摘句页面](/clip)，主要是来用kindle读书过程中的杂七杂八的混乱想法，通过kindle fere 生成。
-* 添加[笔记](/cache)，想了好久了，每次不凑巧想记些东西都不知道放哪里好。
+* ~~添加[摘句页面](/clip)，主要是来用kindle读书过程中的杂七杂八的混乱想法，通过kindle fere 生成。~~
+* ~~添加[笔记](/cache)，想了好久了，每次不凑巧想记些东西都不知道放哪里好。~~
+>（以上两个页面于某月某日关闭）
 * 菜单描述微调
 <!-- endtimeline -->
 
@@ -331,12 +331,12 @@ highlight_shrink:
 * 主页：[www.si-on.top](https://www.si-on.top/)
     * 博客：[blog.si-on.top](https://blog.si-on.top/)
     * 云盘：[cloud.si-on.top](https://cloud.si-on.top/)
-    * 笔记：[note.si-on.top](https://note.si-on.top/)
+    * ~~笔记：[note.si-on.top](https://note.si-on.top/)~~（于某月某日关闭））
     * 短文：[ink.si-on.top](https://ink.si-on.top/)
     * 镜一：[vercel.si-on.top](https://vercel.si-on.top/)
-    * 镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)
-    * 镜三：[nelify.si-on.top](https://netlify.si-on.top/)
-    * 国镜：[si-on.gitee.io](https://si-on.gitee.io/) (6-19 恢复了gitee国内镜像)
+    * ~~镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)~~（11-22 删除后无法重新部署，废弃之）
+    * ~~镜三：[nelify.si-on.top](https://netlify.si-on.top/)~~（12-5 检查，停留在四个月前）
+    * ~~国镜：[si-on.gitee.io](https://si-on.gitee.io/)~~ (6-19 恢复了gitee国内镜像)
 <!-- endtimeline -->
 
 <!-- timeline 08-14 -->
@@ -349,6 +349,11 @@ highlight_shrink:
  * 表格统计
 <!-- endtimeline -->
 
+<!-- timeline 9-11 -->
+* 添加读书笔记页面[阅读之旅](https://sionreading.notion.site/)
+> 参考了Reimu的[Books](https://muzi502.notion.site/muzi502/284c181664924fa485e94c12b6cabfb1)
+<!-- endtimeline -->
+
 <!-- timeline 11-05 -->
 对分类与标签进行了重新规划
 <!-- endtimeline -->
@@ -356,18 +361,17 @@ highlight_shrink:
 
 <!-- timeline 11-19 -->
 * 搭配Obsidian，Nextcloud实现了多平台同步写作。
-* 添加了批注
+* ~~添加了批注~~(于12-5删除)
 * 添加了Newsletter电子报订阅
 <!-- endtimeline -->
 
 <!-- timeline 11-23 -->
+* 更改短文站点(又名“细墨”)为直排[ink.si-on.top](https://ink.si-on.top) (或为第一个直排hexo主题)
 * 开启Rss3上的站点 https:/sion.xlog.app
 <!-- endtimeline -->
 
 <!-- timeline 11-29 -->
 * 文章开头添加了目录导图，感谢项目：[hexo-markmap](https://www.npmjs.com/package/hexo-markmap)以及[markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 <!-- endtimeline -->
-
-
 
 {% endtimeline %}

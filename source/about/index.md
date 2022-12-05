@@ -7,11 +7,7 @@ aside: false
 description: 站长的自我介绍
 ---
 
-> 什么都可以做，什么都可以不做；什么都可以想，什么都可以不想。这就是自由。
-
-我是谁？？
-
-呵呵，我怎么会知道呢？
+> 人是各种社会关系的总和。
 
 <div class="btn-center">
 {% btn 'https://cheers.bio/0x6c8610854E29A5771a17BeD715d29e78bd2C7f02',Cheers,far fa-hand-point-right,outline larger %}
@@ -19,6 +15,25 @@ description: 站长的自我介绍
 {% btn 'https://tg.si-on.top/',telegram,far fa-paper-plane,outline pink larger %}
 {% btn 'https://500px.com.cn/siontine',500px,far fa-hand-point-right,outline black larger %}
 </div>
+
+## 兴趣（小结于壬寅年冬）
+* 音乐（节奏至上）：流行、古典、流行与古典的Remix、蓝调、氛围、
+* 摄影（情绪至上）：风景、不起眼的小东西、（伪）抽象
+* 书法：衡水体、楷书、直排、三色笔（黑红蓝）、勾线笔
+* 传统：珠算、口哨、自行车、爬树、遛狗（瓦豆-小黑-乐乐）、~~捉鱼~~
+* 播客：大人的samlltalk、美文阅读More to read
+* 亚文化：奥特曼、星球大战、魔戒、星际牛仔
+* 游戏：泰拉瑞亚、雷鸣风暴、海岛奇兵、铁锈战争、王国保卫战
+* 计算机（外观至上）：Linux、LaTeX、Win11、Hexo博客、html、css
+* 软件：Adobe illustrator2022、Blender、UGNX2206
+## 学习（己亥年秋入大学）
+初中->高中->大学...
+* 数学：手算开平方、统计学
+* 力学：材料力学、弹性力学
+* **材料科学**：晶体学、物理化学、相变理论、焊接
+* 其他：无机化学、光学
+* 文科：马克思主义哲学、传统诗歌
+
 
 
 <!-- 
