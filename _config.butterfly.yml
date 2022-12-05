@@ -675,8 +675,9 @@ aside:
       text: Follow Me
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
-    enable: false
-    content: 『创造它，使用它，改进它，与它融为一体。--李振藩』
+    enable: true
+    content: 深切缅怀江泽民同志!
+    #『创造它，使用它，改进它，与它融为一体。--李振藩』
     # 沉静下来，才能发现更深微的世界。
     #「 🎉一周年庆！」那家伙，那场面，那真是：🥁锣鼓喧天，🧨鞭炮齐鸣，🚩红旗招展，👨‍👩‍👧‍👦👨‍👨‍👧‍👧人山人海！
     # 沉静下来，才能发现更深微的世界。
@@ -887,7 +888,7 @@ inject:
     - <link href="/css/follow.css" type="text/css" rel="stylesheet"/>  
     
   bottom:
-    - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
+  #  - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
 
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>
