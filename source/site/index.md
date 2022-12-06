@@ -362,7 +362,7 @@ highlight_shrink:
 <!-- timeline 11-19 -->
 * 搭配Obsidian，Nextcloud实现了多平台同步写作。
 * ~~添加了批注~~(于12-5删除)
-* 添加了Newsletter电子报订阅
+* ~~添加了Newsletter电子报订阅~~(与12-7日删除)
 <!-- endtimeline -->
 
 <!-- timeline 11-23 -->
@@ -372,6 +372,12 @@ highlight_shrink:
 
 <!-- timeline 11-29 -->
 * 文章开头添加了目录导图，感谢项目：[hexo-markmap](https://www.npmjs.com/package/hexo-markmap)以及[markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
+<!-- endtimeline -->
+
+<!-- timeline 12-7 -->
+* 完善了[关于](/about)页面
+* 修改网站名为——子虚栈
+* 修改id为——秉蕳
 <!-- endtimeline -->
 
 {% endtimeline %}

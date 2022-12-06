@@ -1,10 +1,15 @@
 # Hexo Configuration
 # Site
-title: Foundation 
-subtitle: Sion's blog
-description: 视而见，觉而知。
+title: 子虚栈
+# Foundation < 2022-12-6
+subtitle: 
+#大槐安国南柯郡乌有山人秉蕳
+#壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？
+description: 壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？
+#大槐安国南柯郡乌有山人氏
+#视而见，觉而知。< 2022-12-6
 keywords: blog,博客,材料科学,自由意志
-author: Sion Tine
+author: 秉蕳
 language: 
   - zh-CN
   - en
