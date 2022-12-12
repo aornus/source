@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/聚沙成塔/戊戌日.md",
-                "mode": "preview",
+                "file": "_posts/生活/聚沙成塔/己亥日.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/聚沙成塔/戊戌日.md",
+                "file": "_posts/生活/聚沙成塔/己亥日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/聚沙成塔/戊戌日.md",
+                "file": "_posts/生活/聚沙成塔/己亥日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/聚沙成塔/戊戌日.md"
+                "file": "_posts/生活/聚沙成塔/己亥日.md"
               }
             }
           }
@@ -139,6 +139,8 @@
   },
   "active": "d22d00c2537dbbbb",
   "lastOpenFiles": [
+    "_posts/生活/聚沙成塔/戊戌日.md",
+    "_posts/生活/聚沙成塔/己亥日.md",
     "_posts/生活/聚沙成塔/丁酉日.md",
     "_posts/生活/聚沙成塔/乙未日.md",
     "_posts/生活/聚沙成塔/甲午日.md",
@@ -146,8 +148,6 @@
     "_posts/生活/聚沙成塔/癸巳日.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/聚沙成塔/壬辰日.md",
-    "_posts/生活/铀石为坚/铀石周结002.md",
-    "_posts/学习/课程笔记/材料科学基础/晶体结构与几何理论.md",
-    "_posts/学习/课程笔记/材料科学基础/原子结构与原子键.md"
+    "_posts/生活/铀石为坚/铀石周结002.md"
   ]
 }
