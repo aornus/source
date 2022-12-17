@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ff2206348f2f24",
+        "id": "0f3cb504af9dc35d",
         "type": "tabs",
         "children": [
           {
-            "id": "d22d00c2537dbbbb",
+            "id": "453d590e0a08c3d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/笔记本.md",
+                "file": "_posts/生活/聚沙成塔/壬寅日.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/笔记本.md",
+                "file": "_posts/生活/聚沙成塔/壬寅日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/笔记本.md",
+                "file": "_posts/生活/聚沙成塔/壬寅日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/笔记本.md"
+                "file": "_posts/生活/聚沙成塔/壬寅日.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d22d00c2537dbbbb",
+  "active": "453d590e0a08c3d5",
   "lastOpenFiles": [
+    "_posts/生活/聚沙成塔/甲辰日.md",
     "_posts/生活/聚沙成塔/壬寅日.md",
+    "_posts/生活/聚沙成塔/辛丑日.md",
+    "_posts/生活/聚沙成塔/癸卯日.md",
+    "_drafts/Temolate/sands.md",
+    "_drafts/笔记本.md",
     "_posts/生活/聚沙成塔/丁酉日.md",
     "_posts/生活/聚沙成塔/癸巳日.md",
     "_posts/生活/聚沙成塔/乙未日.md",
-    "_posts/生活/聚沙成塔/己亥日.md",
-    "_posts/生活/聚沙成塔/戊戌日.md",
-    "_posts/生活/聚沙成塔/甲午日.md",
-    "_drafts/Temolate/sands.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/聚沙成塔/壬辰日.md"
+    "_posts/生活/聚沙成塔/己亥日.md"
   ]
 }
