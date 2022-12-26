@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://blog.si-on.top/gallery/500px/</loc>
+        <lastmod>2022-12-26T03:44:18.588Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.si-on.top/tags/</loc>
         <lastmod>2022-12-25T14:38:48.138Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,15 +138,6 @@
     <url>
         <loc>https://blog.si-on.top/gallery/Color/</loc>
         <lastmod>2022-11-17T15:42:42.304Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.si-on.top/gallery/500px/</loc>
-        <lastmod>2022-11-17T15:42:42.069Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

@@ -15,7 +15,6 @@ description:
 
 ---
 {% gallery %}
-
 <img src="https://img.500px.me/photo/dff7efb584b12a50d685e413b053d3302/38c0f34f4ff74a3695d54e591915362c.jpg!p4"  referrerPolicy="no-referrer" />
 <img src="https://img.500px.me/photo/dff7efb584b12a50d685e413b053d3302/1abe6e9f4f7245baadd033ae046a7c82.jpg!p4"  referrerPolicy="no-referrer" />
 <img src="https://img.500px.me/photo/dff7efb584b12a50d685e413b053d3302/23f8a24b37954ec9b15976ecfbfdb6eb.jpg!p4"  referrerPolicy="no-referrer" />

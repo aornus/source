@@ -10,7 +10,15 @@
 
     <url>
         <loc>https://blog.si-on.top/2022/2022summary.html</loc>
-        <lastmod>2022-12-25T15:15:01.867Z</lastmod>
+        <lastmod>2022-12-26T04:10:40.723Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.si-on.top/2022/Jinstone001.html</loc>
+        <lastmod>2022-12-26T02:04:27.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -467,14 +475,6 @@
     <url>
         <loc>https://blog.si-on.top/2022/Jinstone002.html</loc>
         <lastmod>2022-11-17T15:42:42.020Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.si-on.top/2022/Jinstone001.html</loc>
-        <lastmod>2022-11-17T15:42:42.019Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
