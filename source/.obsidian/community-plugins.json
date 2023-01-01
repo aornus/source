@@ -1,4 +1,7 @@
 [
   "obsidian-custom-attachment-location",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-memos",
+  "heatmap-calendar",
+  "dataview"
 ]
