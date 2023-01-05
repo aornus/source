@@ -379,5 +379,10 @@ highlight_shrink:
 * 修改网站名为——子虚栈
 * 修改id为——秉蕳
 <!-- endtimeline -->
+{% endtimeline %}
 
+{% timeline 2023 %}
+<!-- timeline 01-03 -->
+* 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
+<!-- endtimeline -->
 {% endtimeline %}
