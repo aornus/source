@@ -1,13 +1,14 @@
 ---
-title: linux 软件评测
+title: 栈选软件总录
 tags:
-  - 奇技淫巧
+  - Linux
+  - 安卓
 categories:
   - 学习
   - 软件编程
 cover: ../../../../images/bg.jpg
-description: Linux软件使用记录。
-abbrlink: linuxapp
+description: 各个平台软件推荐及个别加速下载地址汇集
+abbrlink: apps
 swiper_index: 6
 date: 2021-12-20 10:15:02
 update: 2022-11-29 20:20:20
@@ -39,6 +40,10 @@ hidden:
   - [微信客户端](#微信客户端)
     - [微信安装](#微信安装)
     - [评测](#评测)
+- [其他软件](#其他软件)
+  - [Spotify](#spotify-1)
+  - [Nekogram](#nekogram)
+  - [Obsidian](#obsidian)
 
 <!-- /code_chunk_output -->
 {% endmarkmap %}
@@ -168,4 +173,29 @@ yay -S com.tencent.weixin
 ![](../../../../images/blogimage/raw/master/202112312132942.png)
 
 >  下次更新不知道要到猴年马月了
+
+## 其他软件
+
+### Spotify
+破解**随机播放**的安卓版声田，来自[Spotify Craccato](https://t.me/Spotify_Crack)的分享。
+
+{% note success  %}
+https://sionapk.lanzoue.com/b012gxu9c 密码：ezoj
+{% endnote %}
+
+
+### Nekogram
+自带魔法的电报第三方
+{% note success %}
+https://sionapk.lanzoue.com/b012gxw4j 密码：1u0j
+{% endnote %}
+
+
+### Obsidian
+黑曜石笔记的镜像
+{% note success %}
+https://sionapk.lanzoue.com/b012abedc 密码：sion
+{% endnote %}
+
+
 

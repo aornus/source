@@ -2,13 +2,13 @@
 title: {{title}}
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: sands0
+abbrlink: sands1
 tags:
 
 categories:
 - 生活
 - 积累
-cover: /images/sands2.svg
+cover: /images/sands3.svg
 katex: true
 comments:
 copyright:

@@ -2,8 +2,8 @@
   "accentColor": "#f4230b",
   "theme": "system",
   "translucency": false,
-  "interfaceFontFamily": "LXGW WenKai",
-  "baseFontSize": 18,
-  "cssTheme": "Encore",
+  "interfaceFontFamily": "LXGW WenKai,Adobe Heiti Std",
+  "baseFontSize": 21,
+  "cssTheme": "",
   "nativeMenus": true
 }
