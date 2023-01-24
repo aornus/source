@@ -2,7 +2,7 @@
 title: {{title}}
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: sands1
+abbrlink: sands2
 tags:
 
 categories:
@@ -10,9 +10,9 @@ categories:
 - 积累
 cover: /images/sands3.svg
 katex: true
-comments:
+comments: false
 copyright:
-aside: 
+aside: false
 password:
 hidden:
 description: 【聚沙成塔·九九九】 
