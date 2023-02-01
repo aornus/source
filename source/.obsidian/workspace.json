@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9804d0488d261ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/聚沙成塔/2023-01-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d7a7bc5ba509dd4",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "e76145d842fa63ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/聚沙成塔/2023-01-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/聚沙成塔/2023-01-23.md",
+                "file": "_posts/生活/聚沙成塔/2023-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/聚沙成塔/2023-01-23.md",
+                "file": "_posts/生活/聚沙成塔/2023-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/聚沙成塔/2023-01-23.md"
+                "file": "_posts/生活/聚沙成塔/2023-01-31.md"
               }
             }
           }
@@ -142,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +157,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9804d0488d261ca2",
+  "active": "e76145d842fa63ff",
   "lastOpenFiles": [
-    "_posts/生活/聚沙成塔/2023-01-24.md",
-    "_posts/生活/聚沙成塔/2023-01-22.md",
-    "_posts/生活/聚沙成塔/2022-12-06.md",
-    "_posts/生活/聚沙成塔/2023-01-20.md",
-    "_posts/生活/聚沙成塔/2023-01-21.md",
-    "_posts/生活/聚沙成塔/2023-01-19.md",
-    "_posts/生活/聚沙成塔/2023-01-23.md",
-    "_posts/生活/聚沙成塔/2023-01-03.md",
-    "_drafts/Temolate/sands.md",
-    "_posts/生活/聚沙成塔/2023-01-13.md"
+    "_posts/生活/聚沙成塔/2023-01-30.md",
+    "_posts/生活/聚沙成塔/2023-01-31.md",
+    "_posts/生活/聚沙成塔/2023-01-29.md",
+    "_posts/生活/聚沙成塔/2023-01-28.md",
+    "_posts/生活/聚沙成塔/2023-01-27.md",
+    "_posts/生活/聚沙成塔/2023-01-26.md",
+    "_posts/生活/聚沙成塔/2023-02-01.md",
+    "_posts/学习/操作系统/树莓派NAS.md",
+    "_posts/学习/操作系统/换源.md",
+    "_posts/生活/杂谈/岩石文.md"
   ]
 }

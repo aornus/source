@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://blog.si-on.top/rss/</loc>
+        <lastmod>2023-01-26T12:02:04.989Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.si-on.top/gallery/500px/</loc>
         <lastmod>2023-01-24T11:38:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
