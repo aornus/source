@@ -1,11 +1,14 @@
 ---
 title: quote
-tags:
 cover: ../../../../images/bg.jpg
 katex: true
 hidden: true
 abbrlink: 6b71cbf4
+categories:
+  - 生活
+  - priv
 date: 2021-08-31 23:58:11
+tags:
 ---
 # 《平凡的世界》--*路遥*
 

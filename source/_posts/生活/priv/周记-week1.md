@@ -8,8 +8,10 @@ mathjax: false
 password: think
 hidden: true
 abbrlink: b5880202
-date: 2021-09-10 23:19:32
 categories:
+  - 生活
+  - priv
+date: 2021-09-10 23:19:32
 keywords:
 highlight_shrink:
 ---

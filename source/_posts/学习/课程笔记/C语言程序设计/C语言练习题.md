@@ -5,6 +5,7 @@ tags:
 categories:
   - 学习
   - 课程笔记
+  - C语言程序设计
 cover: 'https://i.loli.net/2021/09/08/nPjmqDuz5R39vil.png'
 description: 为期末做准备
 abbrlink: f22ea8b2

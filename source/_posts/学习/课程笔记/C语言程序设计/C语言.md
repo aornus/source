@@ -6,6 +6,7 @@ tags:
 categories:
   - 学习
   - 课程笔记
+  - C语言程序设计
 mermaid: true
 description: 溯洄从之，道阻且长。
 abbrlink: 62e8f1eb

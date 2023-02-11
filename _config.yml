@@ -326,3 +326,7 @@ search:
     api: https://api.prprpr.me/dplayer/
     loop: yes
     screenshot: yes
+
+auto_category:
+ enable: true
+ depth: 3

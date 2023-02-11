@@ -5,10 +5,10 @@ katex: true
 root: ../../
 date: 2022-11-08 16:25:16
 tags:
-- 设计
+  - 设计
 categories:
-- 生活
-- 杂谈
+  - 生活
+  - 杂谈
 cover: /images/20221012/image-20221108211626818.png
 comments:
 copyright:

@@ -8,8 +8,10 @@ description: “人，生而局限。”
 mathjax: false
 hidden: true
 abbrlink: 4a4b1779
-date: 2021-10-30 22:27:07
 categories:
+  - 生活
+  - priv
+date: 2021-10-30 22:27:07
 keywords:
 password:
 highlight_shrink:

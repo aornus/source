@@ -3,9 +3,11 @@ title: plan for review
 cover: ../../../../images/bg.jpg
 hidden: true
 abbrlink: '55574103'
+categories:
+  - 生活
+  - priv
 date: 2021-12-22 22:30:35
 tags:
-categories:
 description:
 katex:
 comments:

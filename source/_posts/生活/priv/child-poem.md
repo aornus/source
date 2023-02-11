@@ -3,6 +3,9 @@ title: child poem
 cover: ../../../../images/bg.jpg
 hidden: true
 abbrlink: eccaa576
+categories:
+  - 生活
+  - priv
 date: 2015-03-15 13:40:17
 tags:
 ---

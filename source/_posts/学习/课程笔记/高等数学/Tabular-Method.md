@@ -7,6 +7,7 @@ tags:
 categories:
   - 学习
   - 课程笔记
+  - 高等数学
 cover: ../../../../images/bg.jpg
 description: 直排|此乃妖法！
 katex: true

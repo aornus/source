@@ -7,9 +7,11 @@ copyright: false
 password: soberup
 hidden: true
 abbrlink: 4f5c846e
+categories:
+  - 生活
+  - priv
 date: 2021-09-15 22:18:43
 tags:
-categories:
 cover:
 description:
 ---

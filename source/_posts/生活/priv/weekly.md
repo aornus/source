@@ -4,14 +4,16 @@ tags:
   - 绘画
 cover: 'https://i.loli.net/2021/10/23/hZD6uNs5LHR7Co3.jpg'
 abbrlink: 5edcaa24
+categories:
+  - 生活
+  - priv
 date: 2021-10-23 22:50:01
 aside:
-categories:
 katex:
 comments:
 copyright:
 password:
-hidden:
+hidden: true
 ---
 # 模仿线条习作
 

@@ -3,8 +3,7 @@ title: 豆豆艺术展
 tags:
   - 幽默
 categories:
-  - 生活
-  - 随笔
+  - 很难分类
 cover: >-
   ../../../../images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-27.jpg
 abbrlink: Mrbean

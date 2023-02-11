@@ -3,6 +3,9 @@ title: sunrise
 cover: ../../../../images/bg.jpg
 hidden: true
 abbrlink: 82fb67cc
+categories:
+  - 生活
+  - priv
 date: 2014-08-19 05:16:21
 tags:
 ---

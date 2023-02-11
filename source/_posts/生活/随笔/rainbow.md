@@ -133,4 +133,3 @@ $$
 [^:1]:这让我想起了那句俗话：**宁走十里光，不走一里荒**。就是说赶路的时候，宁愿走十里的平展路，也不愿意走一里的荒路。现在可以反驳两句了：**先走三里荒，再走五里光。快过五里荒，强过十里光。**
 
 [^:2]:Actually the behavior of light is more complicated than that. Light can travel along all possible paths from the source to the observer–but those rays travelling very close to the quickest path reinforce each other, while the others cancel each other out, so all the light appears to have taken this path. But that’s another story...( *Richard P. Feynman. QED : the strange the- ory of light and matter. Princeton University Press, Princeton, New Jersey, 1985.*)
-
