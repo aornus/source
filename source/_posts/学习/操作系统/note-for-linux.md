@@ -20,7 +20,10 @@ mathjax:
 highlight_shrink:
 ---
 
-
+## 方法
+### debian/ubuntu/raspberry 扩充root空间
+1. 用cfdisk扩充/dev/mmcblk0空间
+2. 用`resize2fs /dev/mmcblk0p2`修复分区
 ## Snap
 
   ```

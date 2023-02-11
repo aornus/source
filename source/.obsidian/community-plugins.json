@@ -2,6 +2,9 @@
   "obsidian-custom-attachment-location",
   "obsidian-admonition",
   "obsidian-memos",
-  "heatmap-calendar",
-  "dataview"
+  "dataview",
+  "table-editor-obsidian",
+  "tag-wrangler",
+  "tag-word-cloud",
+  "obsidian-fuzzytag"
 ]

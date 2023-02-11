@@ -64,5 +64,4 @@ deacr: Sion'Blog #简短的介绍自己的博客或座右铭
       descr: 不死鸟·资源聚合搜索
 ```
 
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="suVzREf8" data-limit="5" data-color="E22F38" data-dislikes="1" data-outlined="1" data-colorful="1"></script>
     

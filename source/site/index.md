@@ -12,120 +12,6 @@ aside: false
 highlight_shrink:
 ---
 
-{% echarts 400 '85%' %}
-{
-    title: {
-        text: "",
-        subtext: "2021-8~2022-6"
-    },
-    tooltip: {
-        trigger: "axis"
-    },
-    legend: {
-        data: ["实际文章统计"],
-        selectedMode: false
-    },
-    toolbox: {
-        show: false,
-        feature: {
-            mark: {
-                show: true
-            },
-            dataView: {
-                show: true,
-                readOnly: true
-            },
-            magicType: {
-                show: false,
-                type: ["line", "bar", "stack", "tiled"]
-            },
-            restore: {
-                show: true
-            },
-            saveAsImage: {
-                show: true
-            }
-        }
-    },
-    calculable: true,
-    xAxis: [
-        {
-            type: "category",
-            boundaryGap: true,
-            data: ["8", "9", "10", "11", "12", "1", "2", "3", "4", "5", "6","7","8"],
-            position: "bottom",
-            name: "月份",
-            nameLocation: "end",
-            splitNumber: 0,
-            scale: true,
-            nameTextStyle: {
-                baseline: "top"
-            },
-            axisLabel: {
-                show: true,
-                formatter: "{value}月"
-            },
-            splitLine: {
-                show: true,
-                lineStyle: {
-                    type: "dashed"
-                }
-            }
-        }
-    ],
-    yAxis: [
-        {
-            type: "value",
-            name: "实际文章",
-            nameLocation: "end",
-            nameTextStyle: {
-                align: "right",
-                baseline: "middle"
-            },
-            axisLine: {
-                show: true
-            },
-            axisLabel: {
-                formatter: ""
-            },
-            splitLine: {
-                lineStyle: {
-                    type: "dashed"
-                },
-                show: true
-            }
-        }
-    ],
-    series: [
-        {
-            type: "line",
-            itemStyle: {
-                normal: {
-                    areaStyle: {
-                        type: "default"
-                    },
-                    color: "rgb(0, 191, 191)",
-                    label: {
-                        show: true,
-                        position: "top",
-                        textStyle: {
-                            color: "rgb(0, 0, 0)"
-                        }
-                    }
-                }
-            },
-            name: "文章",
-            data: [4, 12, 11, 6, 6, 1, 8, 9, 8, 4, 1, 1, 3,],
-            symbol: "emptyCircle",
-            smooth: true,
-            markPoint: {
-                data: []
-            }
-        }
-    ]
-}
-{% endecharts %}
-
 <div id="tags-chart" data-length="20" class="js-pjax"></div>
 <div id="categories-chart" class="js-pjax"></div>
 <div class="btn-center">
@@ -367,7 +253,7 @@ highlight_shrink:
 
 <!-- timeline 11-23 -->
 * 更改短文站点(又名“细墨”)为直排[ink.si-on.top](https://ink.si-on.top) (或为第一个直排hexo主题)
-* 开启Rss3上的站点 https:/sion.xlog.app
+* 开启Rss3上的站点 https://叁.si-on.top
 <!-- endtimeline -->
 
 <!-- timeline 11-29 -->
@@ -384,5 +270,12 @@ highlight_shrink:
 {% timeline 2023 %}
 <!-- timeline 01-03 -->
 * 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
+<!-- endtimeline -->
+
+<!-- timeline 01-03 -->
+建立了基于树莓派的NAS系统与网盘聚合系统(感谢arozOS与Alist开源项目)
+* [NAS系统](https://nas.si-on.top)
+* [网盘聚合](https://hub.si-on.top)
+* [开启了umami的访客统计服务](https://cloud.umami.is/analytics/websites/69effd41-cf9a-4c01-8076-cc697a15e7e6)
 <!-- endtimeline -->
 {% endtimeline %}

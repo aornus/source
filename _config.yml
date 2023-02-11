@@ -16,7 +16,7 @@ language:
 
 timezone: Asia/Shanghai
 server:
-  port: 8080
+  port: 40401
   compress: true
   header: true
 # URL
@@ -149,6 +149,7 @@ plugins:
  - hexo-butterfly-vanta
  - hexo-filter-image
  #- hexo-url-submission
+ - hexo-douban
 
 
 # hexo-deployer-git
