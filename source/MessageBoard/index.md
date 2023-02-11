@@ -1,9 +1,9 @@
 ---
-title: MessageBoard📨
+title: 街坊留言板📨
 mathjax: true
 date: 2021-09-13 21:59:16
 updated:
-description: 友联页面，欢迎大家来交换友链。
+description: MessageBoard页面，欢迎大家来交换友链并互喷。
 keywords:
 top_img: 
 aside: false
