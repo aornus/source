@@ -32,7 +32,8 @@ description: 关于站点与站长的简单介绍
 ## 关于博主——秉蕳
 
 <div class="btn-center">
-{% btn 'https://xchar.app/sion',RSS3,far fa-hand-point-right,outline larger %}
+{% btn 'https://xchar.app/sion',RSS3,far fa-hand-point-right,outline white larger %}
+{% btn 'https://web.okjike.com/u/323c1500-737d-4001-b5b2-5b9970ac0489',Jike,far fa-hand-point-right,outline yellow larger %}
 {% btn 'https://www.zhihu.com/people/siontine',Zhihu,far fa-hand-point-right,outline blue larger %}
 {% btn 'https://tg.si-on.top/',telegram,far fa-paper-plane,outline pink larger %}
 {% btn 'https://500px.com.cn/siontine',500px,far fa-hand-point-right,outline black larger %}

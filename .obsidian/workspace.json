@@ -11,15 +11,26 @@
             "id": "6e9e938d18539b91",
             "type": "leaf",
             "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1065cdb69d7409df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "source/_posts/生活/日志/2023-02-17.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 462.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -146,11 +157,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +177,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6e9e938d18539b91",
+  "active": "a53b37d0488d9857",
   "lastOpenFiles": [
+    "source/images/20230102/Pasted Image 20230217134020.jpeg",
+    "source/_posts/生活/日志/2023-02-17.md",
+    "source/images/20230102/lespas/🌇/DSC00065.JPG",
     "source/about/index.md",
     "source/site/index.md",
-    "source/_posts/生活/日志/2023-02-17.md",
     "source/_posts/生活/计划总结/铀石周结001.md",
     "source/_posts/生活/随笔/rainbow.md",
     "source/rss/index.md",
     "images/20221012/pic-15135845.png.md",
-    "_posts/生活/日志/2023-02-14.md",
-    "_posts/生活/日志/2023-02-15.md",
-    "_posts/生活/日志/2023-02-17.md"
+    "_posts/生活/日志/2023-02-14.md"
   ]
 }
