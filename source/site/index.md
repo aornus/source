@@ -12,8 +12,12 @@ aside: false
 highlight_shrink:
 ---
 
+<div id="posts-calendar" class="js-pjax"></div>
+<div id="posts-chart" class="js-pjax"></div>
 <div id="tags-chart" data-length="20" class="js-pjax"></div>
 <div id="categories-chart" class="js-pjax"></div>
+<div id="categories-radar" class="js-pjax"></div>
+
 <div class="btn-center">
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->

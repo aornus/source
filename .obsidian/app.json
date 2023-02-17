@@ -1,0 +1,30 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source/_drafts",
+  "attachmentFolderPath": "source/images/20230102",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "autoPairMarkdown": true,
+  "legacyEditor": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "themes/",
+    "public/",
+    "scaffolds/",
+    "/public"
+  ]
+}

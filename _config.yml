@@ -288,9 +288,9 @@ charts:
   tagsChart:
     title: 标签统计 # 设置标签统计的标题，默认为空
     interval: 0 # 横坐标间隔
-  postsCalendar_Title: #文章发布日历 # 设置发布日历的标题，默认为空
-  categoriesChart_Title: # 设置分类统计的标题，默认为空
-  categoriesRadar_Title: # 设置分类雷达的标题，默认为空
+  postsCalendar_title: #文章发布日历 # 设置发布日历的标题，默认为空
+  categoriesChart_title: # 设置分类统计的标题，默认为空
+  categoriesRadar_title: # 设置分类雷达的标题，默认为空
 
   # hexo-filter-image
 filter_image:

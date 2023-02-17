@@ -1,21 +1,19 @@
 ---
-title: {{title}}
+title: 🔒日
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
 abbrlink: sands2
 tags:
 
 categories:
-- 生活
-- 积累
-cover: /images/sands3.svg
+cover: /images/sands4.svg
 katex: true
 comments: false
 copyright:
 aside: false
-password:
+password: 4sion
 hidden:
-description: 【聚沙成塔·九九九】 
+description: 【🔒聚沙成塔·九九九】 
 sticky: 
 keywords:
 root: ../../

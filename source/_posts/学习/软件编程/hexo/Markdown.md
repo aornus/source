@@ -1,25 +1,26 @@
 ---
 title: Markdown与标签外挂的语法笔记
-date: 2023-01-11
-update: 2023-01-11
 abbrlink: demo4markdown
 tags:
-- Markdown
-- 标签外挂
+  - Markdown
+  - 标签外挂
 categories:
-- 学习
-- 软件编程
-cover:
+  - 学习
+  - 软件编程
+  - hexo
 katex: true
+description: Markdown语法复习与butterfly标签外挂的实例。
+root: ../../
+date: 2023-01-11 00:00:00
+update: 2023-01-11 00:00:00
+cover:
 comments:
 copyright:
-aside: 
+aside:
 password:
 hidden:
-description: Markdown语法复习与butterfly标签外挂的实例。
-sticky: 
+sticky:
 keywords:
-root: ../../
 ---
 
 > <center>让感兴更有力地表达！</center>

@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-02-08.md",
+                "file": "_posts/生活/日志/2023-02-13.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8a3b268124a61d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/20230102/done.png"
               }
             }
           }
@@ -90,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65a49f8c681d4b1e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "_posts/生活/日志/2023-02-08.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a3afd3722fdf5aaf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-02-08.md",
+                "file": "_posts/生活/日志/2023-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-02-08.md"
+                "file": "_posts/生活/日志/2023-02-13.md"
               }
             }
           },
@@ -146,9 +119,26 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a6596cce0a8c2941",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/生活/日志/2023-02-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,20 +155,21 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "74fd5ef2b905c77f",
+  "active": "75c5ccbce35143e9",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-02-09.md",
-    "_posts/生活/日志/2023-02-08.md",
-    "images/20230102/done.png",
-    "_posts/学习/软件编程/博看电子书提取成pdf.md",
+    "_posts/生活/日志/2023-02-14.md",
+    "_posts/生活/日志/2023-02-15.md",
+    "_posts/生活/日志/2023-02-17.md",
+    "_posts/生活/日志/2023-02-16.md",
     "_posts/生活/日志/2023-02-10.md",
     "_posts/生活/日志/2023-02-11.md",
-    "_posts/生活/计划总结/铁石周刊003-004期.md",
-    "_posts/生活/计划总结/铁石X-day1.md",
-    "_posts/生活/计划总结/铀石周结000.md",
-    "_posts/生活/计划总结/铀石周结010.md"
+    "_posts/生活/日志/2023-02-12.md",
+    "_posts/生活/日志/2023-02-13.md",
+    "_drafts/笔记本.md",
+    "about/index.md"
   ]
 }

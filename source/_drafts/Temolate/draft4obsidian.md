@@ -12,7 +12,7 @@ katex: true
 comments:
 copyright:
 aside: 
-password:
+password: 
 hidden:
 description: 
 sticky: 

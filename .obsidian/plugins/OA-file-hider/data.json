@@ -1,0 +1,13 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "node_modules",
+    "public",
+    "scaffolds",
+    "themes",
+    "source/categories",
+    "source/tags",
+    "source/shuoshuo",
+    "source/music"
+  ]
+}
