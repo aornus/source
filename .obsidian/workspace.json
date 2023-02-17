@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md",
+                "file": "source/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md"
+                "file": "source/about/index.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   },
   "active": "8bf1a1b4a2d5963d",
   "lastOpenFiles": [
+    "source/_posts/生活/日志/2023-02-17.md",
     "source/_posts/生活/计划总结/铀石周结001.md",
     "source/_posts/生活/随笔/rainbow.md",
     "source/rss/index.md",
@@ -185,7 +186,6 @@
     "_posts/生活/日志/2023-02-15.md",
     "_posts/生活/日志/2023-02-17.md",
     "_posts/生活/日志/2023-02-16.md",
-    "_posts/生活/日志/2023-02-10.md",
-    "_posts/生活/日志/2023-02-11.md"
+    "_posts/生活/日志/2023-02-10.md"
   ]
 }
