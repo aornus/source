@@ -22,7 +22,7 @@ server:
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.si-on.top/
-permalink: :year/:abbrlink
+permalink: :year/:abbrlink/
 permalink_defaults:
 # abbrlink config
 abbrlink:
