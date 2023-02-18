@@ -11,7 +11,6 @@ aside: false
 
 ## 欢迎来到留言板📨，请留下你的足迹👣。
 
-
 {% flink %}
 - class_name: 友情链接
   class_desc: 🎵找啊找啊找朋友，找到许多好朋友~

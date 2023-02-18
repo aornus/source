@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6502082f53bf8d59",
+        "id": "e6e1ac890b24a0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "74fd5ef2b905c77f",
+            "id": "13d8f74a4e793df0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-02-13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/生活/日志/2023-02-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,13 +146,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75c5ccbce35143e9",
+  "active": "13d8f74a4e793df0",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-02-13.md",
     "_posts/生活/日志/2023-02-14.md",
     "_posts/生活/日志/2023-02-15.md",
     "_posts/生活/日志/2023-02-17.md",
@@ -168,7 +161,6 @@
     "_posts/生活/日志/2023-02-10.md",
     "_posts/生活/日志/2023-02-11.md",
     "_posts/生活/日志/2023-02-12.md",
-    "_posts/生活/日志/2023-02-13.md",
     "_drafts/笔记本.md",
     "about/index.md"
   ]
