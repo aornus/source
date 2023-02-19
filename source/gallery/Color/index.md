@@ -2,7 +2,6 @@
 title: Color
 top_img: false
 tags:
-  - 相册
 katex: false
 aside: false
 date: 2022-04-16 12:26:24
