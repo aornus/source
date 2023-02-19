@@ -28,9 +28,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "86706d414de64a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/生活/日志/2023-02-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2699201418c579f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/生活/随笔/摄影的哲学思考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md",
+                "file": "source/_posts/生活/随笔/摄影的哲学思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md"
+                "file": "source/_posts/生活/随笔/摄影的哲学思考.md"
               }
             }
           },
@@ -137,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/生活/日志/2023-02-17.md",
+                "file": "source/_posts/生活/随笔/摄影的哲学思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +201,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a53b37d0488d9857",
+  "active": "2699201418c579f2",
   "lastOpenFiles": [
-    "source/images/20230102/Pasted Image 20230217134020.jpeg",
+    "source/_posts/生活/日志/2023-02-18.md",
     "source/_posts/生活/日志/2023-02-17.md",
+    "source/images/20230102/Pasted Image 20230217134020.jpeg",
     "source/images/20230102/lespas/🌇/DSC00065.JPG",
     "source/about/index.md",
     "source/site/index.md",
     "source/_posts/生活/计划总结/铀石周结001.md",
     "source/_posts/生活/随笔/rainbow.md",
     "source/rss/index.md",
-    "images/20221012/pic-15135845.png.md",
-    "_posts/生活/日志/2023-02-14.md"
+    "images/20221012/pic-15135845.png.md"
   ]
 }
