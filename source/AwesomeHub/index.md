@@ -140,7 +140,7 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
 
 ## 使用☕
 
-1. Anbox·https://anbox.io/
+### Anbox·https://anbox.io/
 
    *Android in a Box*，在类unix操作系统中运行安卓程序的工具。它使用一个容器将安卓操作系统与主机隔离，这也让它们可以使用最新的安卓版本(官方镜像里最新的是安卓7，社区里有更新的版本)。运行的安卓应用不能直接访问硬件层。
 
@@ -163,7 +163,7 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
    
    > 安装方法：https://wiki.archlinux.org/title/Anbox
    
-2. 阿里云盘小白羊版·https://www.yuque.com/liupan1890/xiaobaiyang
+### 阿里云盘小白羊版·https://www.yuque.com/liupan1890/xiaobaiyang
 
    基于阿里云盘网页版开发的PC客户端，支持win7-11，macOS，linux。在线观看，上传下载都还行，linu下无需安装可以直接运行。
 
@@ -173,7 +173,7 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
    > * [Windows](https://github.91chi.fun//https://github.com//liupan1890/aliyunpan/releases/download/v2.9.24/Win.v2.9.24.7z)
    > * [Mac](https://github.91chi.fun//https://github.com//liupan1890/aliyunpan/releases/download/v2.9.24/Mac.v2.9.24.zip)
 
-3. LibreSprite·https://github.com/LibreSprite/LibreSprite
+ ### LibreSprite·https://github.com/LibreSprite/LibreSprite
 
    Asprite的开源打包项目，用Appimage构建，功能相比略有欠缺，但毕竟是一个很不错的项目。
 
@@ -270,9 +270,28 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
 
 ![结束](../../../../images/blogimage/raw/master/202202121959247.png)
 
----
 
 1.参考：https://io-oi.me/tech/custom-domains-on-github-pages/
+
+### 黑莓Priv高级玩法·全面屏手势
+
+> 参考文章[使用ADB指令永久隐藏状态栏和虚拟按键_丨Gyang的博客-CSDN博客_adb隐藏虚拟按键](https://blog.csdn.net/qq_33462950/article/details/108547111)
+1. 沉浸导航栏：  
+```shell
+adb shell settings put global policy_control immersive.navigation=*
+```
+2. 隐蔽导航栏(-85的值刚刚好)
+```shell
+adb shell wm overscan 0,0,0, -85
+```
+3. 点击下载[Gesture(手势导航)](https://dl.coolapk.com/down?pn=com.omarea.gesture&id=MjIzNjgy&h=31906a51rlpk35&from=click)（只有174.9kb）并打开其无障碍功能。
+4. 将【简易手势】-【底边手势】-【热区高度】调到最大。或者将【小横条手势】-【竖屏（打勾）】-【底部间距】调到最大
+
+## 休眠与睡眠的区别
+> 休眠"是一种主要为笔记本电脑设计的电源节能状态。 睡眠通常会将工作和设置保存在内存中并消耗少量的电量，而休眠则将打开的文档和程序保存到硬盘中，然后关闭计算机。 在Windows 使用的所有节能状态中，休眠使用的电量最少。
+
+如果这种说法是正确的话，那么在Windows电脑进入休眠状态后，如果我重启到另外一个系统，玩了一会儿又重新进Windows，那么他应该还会保存之前的工作状态。
+- [x] 有待测试 2022-11-20 20:28:40
 
 ------
 下面是软件部分

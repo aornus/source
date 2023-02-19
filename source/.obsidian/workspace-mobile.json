@@ -8,23 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f619fcaf8f08dc6",
+            "id": "be292e8f57d00573",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
-            }
-          },
-          {
-            "id": "be292e8f57d00573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-02-18.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -47,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-02-18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +117,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-02-18.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,9 +127,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/生活/日志/2023-02-18.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -152,6 +135,7 @@
   },
   "active": "be292e8f57d00573",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-02-18.md",
     "_posts/生活/日志/2023-02-17.md",
     "_posts/生活/日志/2023-02-16.md",
     "_posts/生活/日志/2023-02-15.md",
@@ -160,7 +144,6 @@
     "about/index.md",
     "MessageBoard/index.md",
     "rss/index.md",
-    "site/index.md",
-    "_posts/学习/操作系统/HoloiSO.md"
+    "site/index.md"
   ]
 }
