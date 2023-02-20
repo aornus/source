@@ -1,0 +1,5 @@
+workspace.json
+.nomedia
+*.db-wal
+*.db
+*.db-shm
