@@ -1,4 +1,5 @@
 {
   "template": "source/_drafts/Temolate/sands",
-  "folder": "source/_posts/生活/日志"
+  "folder": "source/_posts/生活/日志",
+  "autorun": true
 }

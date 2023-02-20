@@ -12,7 +12,6 @@ aside: false
 highlight_shrink:
 ---
 
-
 <div id="posts-calendar" class="js-pjax"></div>
 <div id="posts-chart" class="js-pjax"></div>
 <div id="tags-chart" data-length="20" class="js-pjax"></div>

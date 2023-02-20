@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MessageBoard/index.md",
+                "file": "_posts/生活/日志/2023-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MessageBoard/index.md",
+                "file": "_posts/生活/日志/2023-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MessageBoard/index.md"
+                "file": "_posts/生活/日志/2023-02-19.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MessageBoard/index.md",
+                "file": "_posts/生活/日志/2023-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +145,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac70f0d2722c18fe",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +177,7 @@
   },
   "active": "a1266c4561d0f77c",
   "lastOpenFiles": [
+    "MessageBoard/index.md",
     "_posts/生活/日志/2023-02-13.md",
     "_posts/生活/日志/2023-02-14.md",
     "_posts/生活/日志/2023-02-15.md",
@@ -178,7 +186,6 @@
     "_posts/生活/日志/2023-02-10.md",
     "_posts/生活/日志/2023-02-11.md",
     "_posts/生活/日志/2023-02-12.md",
-    "_drafts/笔记本.md",
-    "about/index.md"
+    "_drafts/笔记本.md"
   ]
 }
