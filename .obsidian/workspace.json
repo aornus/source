@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,17 +203,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4871761448d5db53",
+  "active": "75c5ccbce35143e9",
   "lastOpenFiles": [
     "source/_posts/生活/日志/2023-02-19.md",
+    "source/_posts/生活/日志/2023-02-20.md",
+    "source/_posts/生活/日志/2023-02-18.md",
     "source/_posts/学习/软件编程/博看电子书提取成pdf.md",
     "source/_posts/生活/杂谈/500px.md",
     "source/_drafts/摄影的哲学思考.md",
     "source/_drafts/图形与文本.md",
     "source/AwesomeHub/index.md",
-    "source/_posts/生活/日志/2023-02-18.md",
     "source/_drafts/Temolate/sands.md",
-    "source/_posts/学习/软件编程/hexo/Markdown.md",
-    "source/_posts/生活/计划总结/铀石周结010.md"
+    "source/_posts/学习/软件编程/hexo/Markdown.md"
   ]
 }
