@@ -4,7 +4,7 @@ tags:
   - 写作
 categories:
   - 生活
-  - 随笔
+  - ✒️随笔
 katex: true
 description: A short artical about qingming festival
 abbrlink: QingMing

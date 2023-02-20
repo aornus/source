@@ -4,7 +4,7 @@ tags:
   - 彩虹
 categories:
   - 生活
-  - 随笔
+  - ✒️随笔
 katex: true
 root: /
 description: 你的彩虹观测指南--彩虹形成原理的科学解释。

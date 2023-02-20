@@ -1,23 +1,24 @@
 ---
-title: {{title}}
-date: {{date}}
-update: {{date}}
-abbrlink: 304
+title:
+  '[object Object]': null
+date:
+  '[object Object]': null
+update:
+  '[object Object]': null
+abbrlink: 824ac3d0
+katex: true
+root: ../../
 tags:
 categories:
-- 学习
-- 生活
 cover:
-katex: true
 comments:
 copyright:
-aside: 
-password: 
+aside:
+password:
 hidden:
-description: 
-sticky: 
+description:
+sticky:
 keywords:
-root: ../../
 ---
 
 > <center>当你在引用别人的时候，你在引用自己。</center>

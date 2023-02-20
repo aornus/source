@@ -4,7 +4,7 @@ tags:
   - 电影
 categories:
   - 生活
-  - 随笔
+  - ✒️随笔
 katex: false
 cover: /images/20220609/image-20220709125659555.png
 root: ../../

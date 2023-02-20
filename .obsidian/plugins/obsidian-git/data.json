@@ -2,7 +2,7 @@
   "commitMessage": "【手动】来自{{hostname}}，同步于{{date}}",
   "autoCommitMessage": "【自动】来自{{hostname}}，同步于{{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 20,
   "autoPushInterval": 720,
   "autoPullInterval": 360,
   "autoPullOnBoot": true,

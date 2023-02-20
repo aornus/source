@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "4871761448d5db53",
+            "id": "bf50d6ea51a750ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-20.md",
+                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-20.md",
+                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-20.md"
+                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-20.md",
+                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,17 +203,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75c5ccbce35143e9",
+  "active": "bf50d6ea51a750ab",
   "lastOpenFiles": [
-    "source/_posts/生活/📓日志/2023-02-19.md",
-    "source/_posts/生活/📓日志/2023-02-20.md",
-    "source/_posts/生活/📓日志/2023-02-18.md",
-    "source/_posts/学习/软件编程/博看电子书提取成pdf.md",
-    "source/_posts/生活/🎭杂谈/500px.md",
-    "source/_drafts/摄影的哲学思考.md",
-    "source/_drafts/图形与文本.md",
-    "source/AwesomeHub/index.md",
-    "source/_drafts/Temolate/sands.md",
-    "source/_posts/学习/软件编程/hexo/Markdown.md"
+    "source/_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "source/_posts/学习/⌨️软件编程/hexo/Markdown.md",
+    "source/_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+    "source/_posts/学习/💻操作系统/换源.md",
+    "source/_posts/学习/💻操作系统/树莓派NAS.md",
+    "source/_posts/学习/💻操作系统/图像处理.md",
+    "source/_posts/学习/💻操作系统/HoloiSO.md",
+    "source/_posts/学习/💻操作系统/note-for-linux.md",
+    "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "source/_posts/生活/📓日志/2023-02-20.md"
   ]
 }

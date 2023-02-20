@@ -1,23 +1,23 @@
 ---
-title: 🧬我的头像演变史
+title: "\U0001F9EC我的头像演变史"
 abbrlink: short-history-of-sions-avatar
 katex: true
 root: ../../
-date: 2022-11-08 16:25:16
 tags:
   - 设计
 categories:
   - 生活
-  - 杂谈
+  - "\U0001F3AD杂谈"
 cover: /images/20221012/image-20221108211626818.png
+aside: false
+description: "这一切要从一张壁纸开始说起。（如果你在别的地方看到这个类似的图案，那肯定就是Sion 我了\U0001F47B）"
+keywords: 设计，头像，Sion
+date: 2022-11-08 16:25:16
 comments:
 copyright:
-aside: false
 password:
 hidden:
-description: 这一切要从一张壁纸开始说起。（如果你在别的地方看到这个类似的图案，那肯定就是Sion 我了👻）
 sticky:
-keywords: 设计，头像，Sion
 ---
 
 > <center>月出照兮，佼人燎兮。舒夭绍兮，劳心惨兮。</center>
