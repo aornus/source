@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/摄影的哲学思考.md",
+                "file": "_posts/生活/📓日志/2023-02-21.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38b6e7bbae124d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_drafts/摄影的哲学思考.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_drafts/摄影的哲学思考.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,14 +147,14 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_drafts/摄影的哲学思考.md"
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "4357a7c87e88851a",
+  "active": "38b6e7bbae124d3c",
   "lastOpenFiles": [
     "_posts/生活/📓日志/2023-02-21.md",
     "_posts/生活/📓日志/2023-02-20.md",
