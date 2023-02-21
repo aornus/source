@@ -282,4 +282,8 @@ highlight_shrink:
 * [网盘聚合](https://hub.si-on.top)
 * [开启了umami的访客统计服务](https://cloud.umami.is/analytics/websites/69effd41-cf9a-4c01-8076-cc697a15e7e6)
 <!-- endtimeline -->
+
+<!-- timeline 02-18 -->
+* 优化了博客构建流程，转移到vercel进行自动部署。
+<!-- endtimeline -->
 {% endtimeline %}
