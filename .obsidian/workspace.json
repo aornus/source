@@ -196,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +216,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ed1fce111aefe2f9",
+  "active": "a53b37d0488d9857",
   "lastOpenFiles": [
     "source/_posts/生活/📓日志/2023-02-21.md",
     "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
