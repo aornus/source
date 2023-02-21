@@ -1,10 +1,10 @@
 {
-  "accentColor": "#b60bf4",
+  "accentColor": "#ff571f",
   "theme": "system",
   "translucency": false,
   "interfaceFontFamily": "LXGW WenKai,Adobe Heiti Std",
   "baseFontSize": 18,
-  "cssTheme": "Minimal",
+  "cssTheme": "Prism",
   "nativeMenus": true,
   "textFontFamily": "LXGW WenKai"
 }
