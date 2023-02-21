@@ -11,24 +11,8 @@
             "id": "be292e8f57d00573",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📖阅读/社会心理学阅读笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed29517db7f57b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/杂谈/密码设计指南.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           },
           {
@@ -37,13 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2022-12-29.md",
+                "file": "_posts/生活/📓日志/2023-02-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4357a7c87e88851a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/摄影的哲学思考.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "1db6b0c79e40954c",
@@ -109,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/📖阅读/社会心理学阅读笔记.md",
+            "file": "_drafts/摄影的哲学思考.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/📖阅读/社会心理学阅读笔记.md",
+            "file": "_drafts/摄影的哲学思考.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,24 +135,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/📖阅读/社会心理学阅读笔记.md"
+            "file": "_drafts/摄影的哲学思考.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "be292e8f57d00573",
+  "active": "4357a7c87e88851a",
   "lastOpenFiles": [
+    "_posts/生活/📓日志/2023-02-21.md",
+    "_posts/生活/📓日志/2023-02-20.md",
+    "_posts/生活/📓日志/2023-02-19.md",
+    "_posts/生活/📖阅读/社会心理学阅读笔记.md",
     "_posts/生活/杂谈/密码设计指南.md",
     "about/index.md",
     "_posts/生活/日志/2022-12-29.md",
     "_posts/生活/日志/2023-02-19.md",
     "_posts/生活/日志/2023-02-18.md",
-    "_posts/生活/日志/2023-02-17.md",
-    "_posts/生活/日志/2023-02-16.md",
-    "_posts/生活/日志/2023-02-15.md",
-    "_posts/生活/日志/2023-02-14.md",
-    "_posts/生活/日志/2023-02-13.md"
+    "_posts/生活/日志/2023-02-17.md"
   ]
 }

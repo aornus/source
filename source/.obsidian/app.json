@@ -19,5 +19,24 @@
   },
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading-2",
+    "editor:set-heading-3",
+    "editor:set-heading-4",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:toggle-bold",
+    "editor:toggle-blockquote",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-checklist-status",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
 }

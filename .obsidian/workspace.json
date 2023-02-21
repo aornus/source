@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +203,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bf50d6ea51a750ab",
+  "active": "4dc9598a23cf0224",
   "lastOpenFiles": [
     "scaffolds/page.md",
     "scaffolds/post.md",
