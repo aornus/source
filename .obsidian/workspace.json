@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51c14ae465cd0db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-22.md",
+                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-22.md"
+                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md"
               }
             }
           },
@@ -164,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/生活/📓日志/2023-02-22.md",
+                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +227,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ed1fce111aefe2f9",
+  "active": "51c14ae465cd0db2",
   "lastOpenFiles": [
+    "source/_posts/生活/📓日志/2023-02-22.md",
     "source/_posts/生活/📓日志/2023-02-21.md",
     "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
     "source/_drafts/摄影的哲学思考.md",
@@ -226,7 +238,6 @@
     "scaffolds/post.md",
     "source/_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "source/_posts/学习/⌨️软件编程/hexo/Markdown.md",
-    "source/_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
-    "source/_posts/学习/💻操作系统/换源.md"
+    "source/_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md"
   ]
 }
