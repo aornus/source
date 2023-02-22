@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
+                "file": "source/_posts/生活/📓日志/2023-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/生活/📷摄影思考/图片与文本.md",
+                "file": "source/_posts/生活/📓日志/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/生活/📷摄影思考/图片与文本.md"
+                "file": "source/_posts/生活/📓日志/2023-02-23.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/生活/📷摄影思考/图片与文本.md",
+                "file": "source/_posts/生活/📓日志/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,12 +216,13 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-memos:Memos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "a53b37d0488d9857",
+  "active": "6e9e938d18539b91",
   "lastOpenFiles": [
+    "source/AwesomeHub/index.md",
     "source/_posts/生活/📓日志/2023-02-22.md",
     "source/_posts/生活/📷摄影思考/图片与文本.md",
     "source/_drafts/摄影的哲学思考.md",
@@ -230,7 +231,6 @@
     "source/_drafts/图形与文本.md",
     "source/_posts/生活/📓日志/2023-02-21.md",
     "source/_posts/学习/📒课程笔记/材料科学基础/晶体结构与几何理论.md",
-    "source/AwesomeHub/index.md",
     "scaffolds/page.md"
   ]
 }
