@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -199,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed1fce111aefe2f9",
+  "active": "a53b37d0488d9857",
   "lastOpenFiles": [
     "source/_posts/生活/📓日志/2023-02-22.md",
+    "source/_posts/生活/📷摄影思考/图片与文本.md",
     "source/_drafts/摄影的哲学思考.md",
     "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
-    "source/_posts/生活/📷摄影思考/图片与文本.md",
     "source/_posts/生活/📓日志/2022-12-27.md",
     "source/_drafts/图形与文本.md",
     "source/_posts/生活/📓日志/2023-02-21.md",
