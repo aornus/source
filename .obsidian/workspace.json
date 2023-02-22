@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
+                "file": "source/_posts/生活/📷摄影思考/图片与文本.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NAS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
+                "file": "source/_posts/生活/📷摄影思考/图片与文本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md"
+                "file": "source/_posts/生活/📷摄影思考/图片与文本.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/学习/⌨️软件编程/AI 生成图片使用.md",
+                "file": "source/_posts/生活/📷摄影思考/图片与文本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,11 +208,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,15 +231,15 @@
   },
   "active": "51c14ae465cd0db2",
   "lastOpenFiles": [
-    "source/_posts/生活/📓日志/2023-02-22.md",
-    "source/_posts/生活/📓日志/2023-02-21.md",
-    "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "source/_posts/生活/📓日志/2022-12-27.md",
     "source/_drafts/摄影的哲学思考.md",
+    "source/_posts/生活/📓日志/2023-02-22.md",
+    "source/_posts/生活/📷摄影思考/图片与文本.md",
+    "source/_drafts/图形与文本.md",
+    "source/_posts/生活/📓日志/2023-02-21.md",
+    "source/_posts/学习/📒课程笔记/材料科学基础/晶体结构与几何理论.md",
+    "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
     "source/AwesomeHub/index.md",
-    "scaffolds/page.md",
-    "scaffolds/post.md",
-    "source/_posts/学习/⌨️软件编程/hexo/Hexo123.md",
-    "source/_posts/学习/⌨️软件编程/hexo/Markdown.md",
-    "source/_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md"
+    "scaffolds/page.md"
   ]
 }
