@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📓日志/2023-02-22.md",
-                "mode": "source",
+                "file": "_posts/生活/📷摄影思考/图片与文本.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/📓日志/2023-02-22.md",
+            "file": "_posts/生活/📷摄影思考/图片与文本.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/📓日志/2023-02-22.md",
+            "file": "_posts/生活/📷摄影思考/图片与文本.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/📓日志/2023-02-22.md"
+            "file": "_posts/生活/📷摄影思考/图片与文本.md"
           }
         }
       }
@@ -156,15 +156,15 @@
   },
   "active": "3291026a4722db39",
   "lastOpenFiles": [
-    "_posts/生活/📓日志/2023-02-21.md",
+    "_posts/生活/📓日志/2023-02-23.md",
     "_posts/生活/📓日志/2023-02-22.md",
+    "_posts/生活/📓日志/2023-02-21.md",
     "_posts/学习/👨‍🎓毕业论文/开题报告.md",
     "_posts/生活/📓日志/2023-02-20.md",
     "_posts/生活/📓日志/2023-02-19.md",
     "_posts/生活/📖阅读/社会心理学阅读笔记.md",
     "_posts/生活/杂谈/密码设计指南.md",
     "about/index.md",
-    "_posts/生活/日志/2022-12-29.md",
-    "_posts/生活/日志/2023-02-19.md"
+    "_posts/生活/日志/2022-12-29.md"
   ]
 }
