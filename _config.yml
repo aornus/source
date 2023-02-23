@@ -167,7 +167,9 @@ hide_posts:
   # 留空则默认全部隐藏
   public_generators: []
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
-  noindex: false
+  noindex: true
+hide_categories:
+  - 📓日志
 
 encrypt:
   enable: true
