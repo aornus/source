@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/图片与文本.md",
-                "mode": "preview",
+                "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/📷摄影思考/图片与文本.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/📷摄影思考/图片与文本.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/📷摄影思考/图片与文本.md"
+            "file": "_posts/学习/👨‍🎓毕业论文/开题报告.md"
           }
         }
       }
