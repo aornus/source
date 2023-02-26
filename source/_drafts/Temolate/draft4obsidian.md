@@ -1,12 +1,9 @@
 ---
-title:
-  '[object Object]': null
-date:
-  '[object Object]': null
-update:
-  '[object Object]': null
+title: 
+date: {{date:YYYY-MM-DD HH:mm:ss}}
+update: {{date:YYYY-MM-DD HH:mm:ss}}
 abbrlink: 824ac3d0
-katex: true
+katex: false
 root: ../../
 tags:
 categories:

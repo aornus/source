@@ -7,7 +7,7 @@ tags:
 
 categories:
 cover: /images/sands4.svg
-katex: true
+katex: false
 comments: false
 copyright:
 aside: false
