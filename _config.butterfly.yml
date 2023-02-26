@@ -183,7 +183,7 @@ wordcount:
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 2
+  method: 1
   length: 500 # if you set method to 2 or 3, the length need to config
 
 
@@ -833,7 +833,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
@@ -848,10 +848,10 @@ aplayerInject:
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: false
-  position: top-center
-  bg_light: '#49b1f5' # The background color of Toast Notification in light mode
-  bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
+  enable: true
+  position: top-right
+  bg_light: '#B7C1DA' # The background color of Toast Notification in light mode
+  bg_dark: '#4C5469' # The background color of Toast Notification in dark mode
 
 # https://instant.page/
 # prefetch (預加載)
@@ -884,7 +884,17 @@ pwa:
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
-Open_Graph_meta: true
+Open_Graph_meta:
+  enable: true
+  option:
+    # twitter_card:
+    # twitter_image:
+    # twitter_id:
+    # twitter_site:
+    # google_plus:
+    # fb_admins:
+    # fb_app_id:
+
 
 # Add the vendor prefixes to ensure compatibility
 css_prefix: true
