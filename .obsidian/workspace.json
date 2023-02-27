@@ -47,11 +47,14 @@
             "id": "6f110a5996957c77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
-                "mode": "source",
-                "source": false
+                "file": "source/_posts/学习/👨‍🎓毕业论文/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
+                "file": "source/_posts/学习/👨‍🎓毕业论文/未命名.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md"
+                "file": "source/_posts/学习/👨‍🎓毕业论文/未命名.canvas"
               }
             }
           },
@@ -163,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/学习/👨‍🎓毕业论文/开题报告.md",
+                "file": "source/_posts/学习/👨‍🎓毕业论文/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,15 +218,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a53b37d0488d9857",
+  "active": "6f110a5996957c77",
   "lastOpenFiles": [
+    "source/_posts/生活/📓日志/2023-02-28.md",
+    "source/_posts/学习/👨‍🎓毕业论文/未命名.canvas",
+    "source/AwesomeHub/index.md",
     "source/_posts/生活/📓日志/2023-02-27.md",
     "source/_posts/生活/📓日志/2023-02-22.md",
     "source/_posts/生活/📓日志/2023-02-24.md",
     "source/_posts/生活/📓日志/2022-12-11.md",
     "source/_posts/生活/计划总结/铀石周结002.md",
     "source/_posts/生活/✒️随笔/平凡六月的一天.md",
-    "source/AwesomeHub/index.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "source/_posts/生活/📓日志/2022-12-05.md",
