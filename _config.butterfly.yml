@@ -465,7 +465,7 @@ microsoft_clarity: g0s61bbj3n
 # Google Adsense (谷歌廣告)
 google_adsense:
   enable: false
-  auto_ads: true
+  auto_ads: false
   js: 
   client:
   enable_page_level_ads: true
