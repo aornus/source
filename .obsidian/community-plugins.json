@@ -4,11 +4,11 @@
   "obsidian-memos",
   "dataview",
   "table-editor-obsidian",
-  "tag-wrangler",
   "tag-word-cloud",
   "obsidian-fuzzytag",
   "obsidian-git",
   "obsidian-style-settings",
   "image-captions",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "tag-wrangler"
 ]
