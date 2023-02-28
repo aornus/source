@@ -457,8 +457,8 @@ cloudflare_analytics:
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
-microsoft_clarity: eb4s36tfy5
- #子虚栈分析代码，g0s61bbj3n，20230227
+microsoft_clarity: g0s61bbj3n
+ #老分析代码，eb4s36tfy5，20230227更改为g0s61bbj3n
 
 # Advertisement
 # --------------------------------------
