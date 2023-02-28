@@ -7,7 +7,7 @@ tags:
   - 设计
 categories:
   - 生活
-  - "\U0001F3AD杂谈"
+  - "\U0001FAB6杂谈"
 cover: /images/20221012/image-20221108211626818.png
 aside: false
 description: "这一切要从一张壁纸开始说起。（如果你在别的地方看到这个类似的图案，那肯定就是Sion 我了\U0001F47B）"
