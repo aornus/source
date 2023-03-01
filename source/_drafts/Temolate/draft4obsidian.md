@@ -12,7 +12,7 @@ comments:
 copyright:
 aside:
 password:
-hidden:
+hidden: true
 description:
 sticky:
 keywords:

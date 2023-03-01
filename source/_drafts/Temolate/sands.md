@@ -2,7 +2,7 @@
 title: 🔒日
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: sands2
+abbrlink: sands3
 tags:
 
 categories:
