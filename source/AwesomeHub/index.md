@@ -89,6 +89,13 @@ https://ctext.org/zhs
 
 <!-- endtab -->
 
+<!-- tab 直排系统 -->
+
+https://ebook.cdict.info/intro.html
+天火藏书直排系统
+
+<!-- endtab-->
+
 <!-- tab Dalao盘搜 -->
 
 https://dalao.ru/w/
