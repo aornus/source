@@ -11,7 +11,7 @@ date: 2021-11-08 22:42:50
 sticky:
 ---
 
-![](../../../../images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-27.jpg)
+![](../../images/blogimage/mr-bean-historic-portraits-rodney-pike-27.jpg)
 ![](../../../../images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-26.jpg)
 ![](../../../../images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-25.jpg)
 ![](../../../../images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-24.jpg)

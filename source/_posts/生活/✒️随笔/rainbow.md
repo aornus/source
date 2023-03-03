@@ -10,7 +10,7 @@ root: /
 description: 你的彩虹观测指南--彩虹形成原理的科学解释。
 abbrlink: rainbow
 date: 2022-09-07 20:32:18
-cover:
+cover:  /images/Cover/undraw_walking_outside_re_56xo.svg
 comments:
 copyright:
 aside:

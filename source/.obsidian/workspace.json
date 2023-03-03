@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "a1266c4561d0f77c",
+            "id": "3a5b5b91078cbc29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-02-19.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,22 +42,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75c5ccbce35143e9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabeticalReverse"
-              }
-            }
-          },
-          {
             "id": "de3aaaf759933888",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "二十大",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +63,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "75c5ccbce35143e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-02-19.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-02-19.md"
+                "file": "_posts/学习/⌨️软件编程/hexo/Markdown.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-02-19.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +164,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -175,17 +176,55 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a1266c4561d0f77c",
+  "active": "3a5b5b91078cbc29",
   "lastOpenFiles": [
-    "MessageBoard/index.md",
-    "_posts/生活/日志/2023-02-13.md",
-    "_posts/生活/日志/2023-02-14.md",
-    "_posts/生活/日志/2023-02-15.md",
-    "_posts/生活/日志/2023-02-17.md",
-    "_posts/生活/日志/2023-02-16.md",
-    "_posts/生活/日志/2023-02-10.md",
-    "_posts/生活/日志/2023-02-11.md",
-    "_posts/生活/日志/2023-02-12.md",
-    "_drafts/笔记本.md"
+    "_posts/学习/📒课程笔记/二十大.md",
+    "_posts/生活/📓日志/2022-12-08.md",
+    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "images/Cover/undraw_add_notes_re_ln36.svg",
+    "images/Cover/undraw_add_notes_re_ln36.svg.crdownload",
+    "images/Cover/accb64ab-6b8d-4962-9c5a-e5feea2692eb.tmp",
+    "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
+    "images/Cover/undraw_exams_re_4ios.svg",
+    "images/Cover/undraw_exams_re_4ios.svg.crdownload",
+    "images/Cover/ce244af4-176e-42f3-a00f-bcabb92eeb33.tmp",
+    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
+    "_posts/生活/📖涵泳/思考与读书.md",
+    "images/Cover/undraw_social_interaction_re_dyjh.svg",
+    "images/Cover/undraw_social_interaction_re_dyjh.svg.crdownload",
+    "images/Cover/e7efe8e8-8b49-4e14-9488-4b5bf97bb38b.tmp",
+    "_posts/生活/📖涵泳/阅读要义.md",
+    "_posts/生活/📖涵泳/涵泳总录.md",
+    "images/Cover/c7b47406-b0a2-411d-b7b6-806ee2951a12.tmp",
+    "_posts/生活/🪶杂谈/500px.md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "images/Cover/undraw_the_search_s0xf.svg",
+    "images/Cover/undraw_the_search_s0xf.svg.crdownload",
+    "images/Cover/77e05fc5-ab1c-473f-b1ed-4beed7989c57.tmp",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
+    "images/Cover/undraw_secure_login_pdn4.svg",
+    "images/Cover/undraw_secure_login_pdn4.svg.crdownload",
+    "_posts/生活/🪶杂谈/魔戒制造手册.md",
+    "_posts/生活/🪶杂谈/南阳科目三经验汇总.md",
+    "images/Cover/undraw_city_driver_re_9xyv.svg",
+    "_posts/生活/🪶杂谈/岩石文.md",
+    "_posts/生活/🪶杂谈/Sion头像衍变史.md",
+    "_posts/生活/✒️随笔/rainbow.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
+    "_posts/生活/✒️随笔/平凡六月的一天.md",
+    "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
+    "_posts/生活/✒️随笔/Godzilla.md",
+    "_posts/生活/✒️随笔/Qingming.md",
+    "images/Cover/undraw_reading_re_29f8.svg",
+    "images/Cover/undraw_walking_outside_re_56xo.svg",
+    "images/Cover/moments.svg",
+    "images/Cover/undraw_moments_0y20.svg",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "_posts/生活/📓日志/2023-03-03.md",
+    "_posts/废纸篓/生命游戏.md",
+    "_posts/生活/计划总结/金石周刊003期.md",
+    "_posts/生活/📓日志/2022-12-18.md",
+    "_posts/很难分类/Mr.bearn.md"
   ]
 }

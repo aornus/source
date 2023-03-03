@@ -913,15 +913,14 @@ inject:
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
-    - <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/lxgw-wenkai-webfont/1.6.0/style.min.css" />
-    - <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
-    - <link rel="preconnect" href="https://gstatic.loli.net">
+    - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />
+    - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
+    # - <link rel="preconnect" href="https://gstatic.loli.net">
     
     
   bottom:
   #  - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
   - <script async defer src="https://analytics.umami.is/script.js" data-website-id="69effd41-cf9a-4c01-8076-cc697a15e7e6"></script>
-  - <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   #- <script src="http://echarts.baidu.com/dist/echarts.common.min.js"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.js"></script>
   #- <script type="module" scr="https://cdn.staticfile.org/three.js/r128/three.min.js"></script>

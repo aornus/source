@@ -1,18 +1,18 @@
 ---
-title: 🔒日
+title: 
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: sands3
+abbrlink: sands{{date:MM-DD}}
 tags:
 
 categories:
-cover: /images/sands4.svg
+cover: false
 katex: false
 comments: false
 copyright:
 aside: false
 password: 4sion
-hidden:
+hidden: true
 description: 【聚沙成塔·九九九】 
 sticky: 
 keywords:

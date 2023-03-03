@@ -13,7 +13,7 @@ description: Markdown语法复习与butterfly标签外挂的实例。
 root: ../../
 date: 2023-01-11 00:00:00
 update: 2023-01-11 00:00:00
-cover:
+cover: /images/Cover/undraw_add_notes_re_ln36.svg
 comments:
 copyright:
 aside:
