@@ -1,7 +1,7 @@
 ---
 title: 周记|week1
 tags:
-  - think
+  - 批判性思考
 cover: 'https://www.pngkey.com/png/detail/117-1171115_visit-icon-the-thinker-png.png'
 description: "“相信思考\U0001F914，勇于改变\U0001F423。”"
 mathjax: false

@@ -28,7 +28,7 @@ Qingming is a traditional Chinese festival and the <u>only</u> festival name aft
 
 > When everything was fresh, bright and beautiful(万物が清々しく明るく美しいころ。)
 
-![🌸cherry blossom](../../../../images/image-20220405124209297.png)
+![🌸cherry blossom](../../../images/202204/image-20220405124209297.png)
 
 in this solar term, Everything begins to grows, the 3 pentads of Qingming is: 
 
@@ -60,7 +60,7 @@ The traditional Code Food featival and the Shangsi Festival is very close to eac
 
 During this day,  people traditionally visit ancestral tombs🪦 to sweep🧹 them.The young and old alike kneel down to offer prayers before tombstones of the ancestors, offer the burning of joss in both the forms of incense sticks (joss-sticks) and silver-leafed paper (joss paper), sweep the tombs and offer food, tea, wine, chopsticks, and/or libations in memory of the ancestors. 
 
-![**Tomb-Sweeping**](/images/image-20220405140057120.png)
+![**Tomb-Sweeping**](../../../images/202204/image-20220405140057120.png)
 
 Apart from honoring the death, it is also the day to celebrate the hope of spring, people will go outside to enjoy the spring (it helps balance sorrow before):  spring outing🚶‍♂️, tree planting🌲, flower picking, cuju⚽, kite flying🪁, swinging, tug-of-war, cockfighting, gift egg painting, eating spring rolls and *Qingtuan[^1]*. Even Confucius enjoy the joy in Qingming.
 
@@ -72,6 +72,6 @@ Apart from honoring the death, it is also the day to celebrate the hope of sprin
 
 But in Henan Nanyang(My hometown), there haven’t so many customs, the people in Nanyang just  tomb-sweeping, and eat fried egg(it similar to poached egg but hard-boiled) at lunch. As the Hard poached egg, it,s very easy to cook: just put deshelled eggs to boiling water with ji-ji potherb(**shepherd's purse**)  , however it tasted not so good for me😖.
 
-![🍳](/images/image-20220405135122658.png)
+![🍳](../../../images/202204/image-20220405135122658.png)
 
 [^1]:The food for Qingming jie is called **Qingtuan**, that are sweet green rice balls. The custom of making these sweet balls dates back to over 2,000 years ago.

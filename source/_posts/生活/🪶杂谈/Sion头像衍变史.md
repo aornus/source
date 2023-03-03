@@ -4,7 +4,7 @@ abbrlink: short-history-of-sions-avatar
 katex: true
 root: ../../
 tags:
-  - 设计
+  - 绘画
 categories:
   - 生活
   - "\U0001FAB6杂谈"

@@ -2,8 +2,6 @@
 title: Markdown与标签外挂的语法笔记
 abbrlink: demo4markdown
 tags:
-  - Markdown
-  - 标签外挂
 categories:
   - 学习
   - ⌨️软件编程
@@ -29,7 +27,7 @@ keywords:
 {% timeline %}
 <!-- timeline 2023-01-11-->
 * 复习了Markdown经常忘记的语法
-* 整理了把Butterfly主题的外挂标签
+* 整理了Butterfly主题的外挂标签
 
 <!-- endtimeline -->
 {% endtimeline %}

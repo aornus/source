@@ -2,7 +2,9 @@
 title: Rss使用手册
 abbrlink: rss
 tags:
-  - RSS
+ - 自荐
+ - 阅读
+ - Kindle
 categories:
   - 学习
   - ⌨️软件编程

@@ -1,7 +1,6 @@
 ---
 title: Tabular Method
 tags:
-  - 高等数学
   - 不定积分
   - 奇技淫巧
 categories:

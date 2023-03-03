@@ -3,9 +3,6 @@ title: 树莓派NAS
 abbrlink: raspberry_NAS
 tags:
   - 奇技淫巧
-  - 树莓派
-  - NAS
-  - 内网穿透
 categories:
   - 学习
   - "\U0001F4BB操作系统"

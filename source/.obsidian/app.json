@@ -19,7 +19,7 @@
   },
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "mobileToolbarCommands": [
     "editor:set-heading-2",
     "editor:set-heading-3",
@@ -38,5 +38,10 @@
     "editor:toggle-checklist-status",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "zh-CN"
+  ],
+  "showUnsupportedFiles": false
 }

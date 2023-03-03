@@ -1,10 +1,8 @@
 ---
 title: 基本Logic
 tags:
-  - 逻辑学
 categories:
-  - 学习
-  - 课程笔记
+  - 废纸篓
 cover: 'https://i.loli.net/2021/09/18/5PverNfdtXHsxau.png'
 description: 本文包含了逻辑学的一些定义与符号。
 katex: true

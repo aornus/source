@@ -8,3 +8,4 @@ comments: false
 description: 博客的标签页，采用多彩文字。
 aside: false
 ---
+<div id="tags-chart" data-length="20" class="js-pjax"></div>

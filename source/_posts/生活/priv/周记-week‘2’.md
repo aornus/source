@@ -2,7 +2,8 @@
 title: 周记|week‘2’
 aside: 显示侧边栏
 tags:
-  - think
+  - 批判性思考
+ - 
 cover: 'https://www.pngkey.com/png/detail/117-1171115_visit-icon-the-thinker-png.png'
 description: “人，生而局限。”
 mathjax: false

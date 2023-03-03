@@ -3,8 +3,8 @@ title: Hexo123
 cover: ../../../../images/blogimage/raw/master/2022/image-20220226213700251.png
 description: 建站半年有余，谨以此文重新记录在 windows 平台上搭建静态博客的过程以及一些问题的解决方法。
 tags:
-  - Hexo
-  - 教程
+  - 博客
+ - Hexo
   - 自荐
 categories:
   - 学习
@@ -577,20 +577,20 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-![image-20220330165318787](../../../../images/image-20220330165318787.png)
+![image-20220330165318787](../../../../images/202204/image-20220330165318787.png)
 
 2. 连接代码托管平台
 
    1. 在头像下面点击设置，进入设置界面，再点击ssh公钥
 
-      ![gitee设置](../../../../images/image-20220330163832929.png)
-      ![github设置](../../../../images/image-20220330164254047.png)
+      ![gitee设置](../../../../images/202204/image-20220330163832929.png)
+      ![github设置](../../../../images/202204/image-20220330164254047.png)
       
    2. 添加ssh公钥，随便起个名字，再把公钥的内容复制进去。
 
-      ![gitee 添加公钥](../../../../images/image-20220330165517301.png)
+      ![gitee 添加公钥](../../../../images/202204/image-20220330165517301.png)
 
-      ![github 添加公钥](../../../../images/image-20220330165835226.png)
+      ![github 添加公钥](../../../../images/202204/image-20220330165835226.png)
 
    3. 使用私钥连接平台
 
@@ -639,15 +639,15 @@ IdentitiesOnly yes
 
 ### 建立仓库
 
-![gitee建立仓库](../../../../images/image-20220330170738241.png)
+![gitee建立仓库](../../../../images/202204/image-20220330170738241.png)
 
-![gitee仓库设置](../../../../images/image-20220330170832206.png)
+![gitee仓库设置](../../../../images/202204/image-20220330170832206.png)
 
 >  建站的话这里要填写你的用户名字，我已经有了一个了，所以会提示错误，因为gitee现在不支持自定义域名，填别的不能部署。
 
 ### 克隆到本地
 
-![复制仓库的ssh地址](../../../../images/image-20220330171449490.png)
+![复制仓库的ssh地址](../../../../images/202204/image-20220330171449490.png)
 
 ```
 git clone git@gitee.com:aornus/aornus.git
@@ -655,7 +655,7 @@ git clone git@gitee.com:aornus/aornus.git
 
 然后把刚才的hexo博客文件，全部复制到这个目录下。以后就在这个目录里进行修改，编辑了。推荐用VScode作为编辑器，直接可以打开终端。
 
-![VScode](../../../../images/image-20220330171809836.png)
+![VScode](../../../../images/202204/image-20220330171809836.png)
 
 ### 推送到远端并部署
 
@@ -669,11 +669,11 @@ git add . ; git commit -m "hello" ; git push
 
 > 要实名认证，审核一般一个星期左右，文章内容会被审查，
 
-![gitee pages](../../../../images/image-20220330172149344.png)
+![gitee pages](../../../../images/202204/image-20220330172149344.png)
 
 开启之后，每次修改完要到网页上进行手动更新（gitee自动部署的方法自行谷歌，利用github action的方法比较可行）
 
-![gitee部署](../../../../images/image-20220330172652850.png)
+![gitee部署](../../../../images/202204/image-20220330172652850.png)
 
 ## 同步·github
 
@@ -683,11 +683,11 @@ git add . ; git commit -m "hello" ; git push
 
 仓库名要写成用户名.github.io
 
-![gitub建立仓库](../../../../images/image-20220330172821419.png)
+![gitub建立仓库](../../../../images/202204/image-20220330172821419.png)
 
 ### 克隆到本地
 
-![github clone](../../../../images/image-20220330173051039.png)
+![github clone](../../../../images/202204/image-20220330173051039.png)
 
 然后把刚才的hexo博客文件，全部复制到这个目录下
 
@@ -741,7 +741,7 @@ hexo clean && hexo deploy
 
 上面步骤作为完后，再仓库设置中将默认分支设置为`_config.yml`配置中的分支名称。稍等片刻，然后站点就会显示在您的Github Pages中。
 
-![image-20220330174355441](../../../../images/image-20220330174355441.png)
+![image-20220330174355441](../../../../images/202204/image-20220330174355441.png)
 
 > 因为我之前不会弄双分支，所有这里是用的master分支，另外github可以自定义域名，这个域名是我买的。
 >

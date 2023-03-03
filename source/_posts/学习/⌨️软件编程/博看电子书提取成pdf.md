@@ -2,9 +2,7 @@
 title: 博看电子书制作
 abbrlink: bookan-pdf-create-Script
 tags:
-  - Linux
   - LaTeX
-  - pdf
 categories:
   - 学习
   - ⌨️软件编程

@@ -1,7 +1,7 @@
 ---
 title: "\U0001F308Yours Rainbow Observe Guide"
 tags:
-  - 彩虹
+- 光学
 categories:
   - 生活
   - ✒️随笔

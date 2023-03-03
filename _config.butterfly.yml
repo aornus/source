@@ -494,10 +494,10 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#BEBEBE"
+  main: "#414141"
   paginator: "#254B4B"  #页码
   button_hover: "#000000"
-  text_selection: "#408080"
+  text_selection: "#000000"
   link_color: "#0A7FCE"
   meta_color: "#858585"
   hr_color: "#BEBEBE" 

@@ -1,7 +1,7 @@
 ---
 title: 豆豆艺术展
 tags:
-  - 幽默
+  - 绘画
 categories:
   - 很难分类
 cover: >-

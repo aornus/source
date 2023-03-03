@@ -3,7 +3,7 @@ title: 铁石X_day1
 abbrlink: Ironstone00X
 tags:
 - 周记
-- 翻译
+- 英语
 categories:
 - 生活
 - 计划总结
