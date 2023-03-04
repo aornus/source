@@ -173,10 +173,10 @@ hide_categories:
 encrypt:
   enable: true
 
-# hexo-generator-feed
+# hexo-generator-feed /nofind/nosee/nowhere/none.xml
 feed:
   type: atom
-  path: /nofind/nosee/nowhere/none.xml
+  path: atom.xml
   limit: 30
   hub:
   content: true
