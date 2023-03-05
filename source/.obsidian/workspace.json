@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/雪原即景.md",
+                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,11 +55,9 @@
             "id": "a5694c5a24f4bbad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/自信.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Cover/undraw_exams_re_4ios.svg"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📷摄影思考/雪原即景.md",
+                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📷摄影思考/雪原即景.md"
+                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md"
               }
             }
           },
@@ -171,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📷摄影思考/雪原即景.md",
+                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,16 +212,27 @@
   },
   "active": "b51e92c755833d1c",
   "lastOpenFiles": [
-    "gallery/500px/index.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
+    "_posts/生活/🪶杂谈/钢笔维护手册.md",
+    "images/20230102/Pasted image 20230306003013.png",
+    "images/Cover/undraw_exams_re_4ios.svg",
+    "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png",
+    "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png.crdownload",
+    "images/Cover/b6ecfc65-5fe6-45ea-8c64-f829f583596d.tmp",
+    "images/Cover/undraw_city_driver_re_9xyv.svg",
+    "images/Cover/undraw_add_notes_re_ln36.svg",
+    "images/Cover/undraw_exploring_re_grb8.svg",
+    "images/Cover/undraw_reading_re_29f8.svg",
+    "images/Cover/undraw_secure_login_pdn4.svg",
+    "images/Cover/undraw_social_interaction_re_dyjh.svg",
+    "images/Cover/undraw_the_search_s0xf.svg",
+    "_posts/生活/🎭人的底层逻辑/自信.md",
+    "_posts/生活/📓日志/2023-03-06.md",
     "_posts/生活/📷摄影思考/雪原即景.md",
+    "gallery/500px/index.md",
     "_posts/生活/🪶杂谈/500px.md",
     "gallery/index.md",
-    "gallery/Color/IMG_20220426_093103 (1).jpg",
-    "gallery/Color/IMG_20220424_204941.jpg",
-    "gallery/Color/IMG_20220425_230150 (1).jpg",
-    "gallery/Color/IMG_20220430_205601.jpg",
     "_posts/生活/📓日志/2023-03-04.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
     "_posts/学习/⌨️软件编程/RSS使用手册.md",
     "_posts/生活/📓日志/2023-01-19.md",
     "_posts/生活/📓日志/2022-12-12.md",
@@ -240,17 +249,7 @@
     "_posts/生活/📓日志/2023-02-02.md",
     "_posts/生活/📓日志/2022-12-09.md",
     "_posts/生活/📓日志/2022-12-07.md",
-    "_posts/生活/📓日志/2023-02-08.md",
-    "_posts/学习/💻操作系统/树莓派NAS.md",
-    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
-    "_posts/学习/⌨️软件编程/博看电子书提取成pdf.md",
     "未命名.canvas",
-    "images/Cover/english.svg",
-    "images/g2g2b1.jpg",
-    "images/diary.svg",
-    "images/bg.svg",
-    "images/ava.svg",
-    "images/本からの抜粋.png",
     "images/2021",
     "images/Cover/undraw_add_notes_re_ln36.svg.crdownload",
     "images/Cover/accb64ab-6b8d-4962-9c5a-e5feea2692eb.tmp",
@@ -259,8 +258,6 @@
     "images/Cover/undraw_social_interaction_re_dyjh.svg.crdownload",
     "images/Cover/e7efe8e8-8b49-4e14-9488-4b5bf97bb38b.tmp",
     "images/Cover/c7b47406-b0a2-411d-b7b6-806ee2951a12.tmp",
-    "images/Cover/undraw_the_search_s0xf.svg.crdownload",
-    "images/Cover/77e05fc5-ab1c-473f-b1ed-4beed7989c57.tmp",
     "未命名 1.canvas"
   ]
 }
