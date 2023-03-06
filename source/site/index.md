@@ -284,12 +284,16 @@ highlight_shrink:
 
 <!-- timeline 02-18 -->
 * 优化了博客构建流程，转移到vercel进行自动部署。
+* 文章分类优化
+* 【聚沙成塔·九九九】计划结束
 <!-- endtimeline -->
 
 
-<!-- timeline 03-3 -->
+<!-- timeline 03-03 -->
 * 续费了两年的域名（￥62）
 * 博客文章封面优化
+* 标签删简
+
 <!-- endtimeline -->
 
 {% endtimeline %}

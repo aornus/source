@@ -7,6 +7,10 @@ aside: false
 description: 关于站点与站长的简单介绍
 ---
 
+{% note warning %}
+页面完善中...
+{% endnote %}
+
 > 人是各种社会关系的总和，博客是人与内容的总和。
 
 ## 关于博客站点——子虚栈
