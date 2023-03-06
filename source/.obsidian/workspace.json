@@ -16,53 +16,21 @@
             }
           },
           {
-            "id": "4947779d16381ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📓日志/2023-03-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "291d86ce52aeebf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gallery/500px/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b51e92c755833d1c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
+                "file": "_posts/学习/👨‍🎓毕业论文/最小可行笔记.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a5694c5a24f4bbad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Cover/undraw_exams_re_4ios.svg"
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
+                "file": "_posts/学习/👨‍🎓毕业论文/最小可行笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md"
+                "file": "_posts/学习/👨‍🎓毕业论文/最小可行笔记.md"
               }
             }
           },
@@ -169,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/🪶杂谈/钢笔维护手册.md",
+                "file": "_posts/学习/👨‍🎓毕业论文/最小可行笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,10 +180,19 @@
   },
   "active": "b51e92c755833d1c",
   "lastOpenFiles": [
+    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "_posts/学习/👨‍🎓毕业论文/钛合金的特点.md",
+    "_posts/学习/👨‍🎓毕业论文/最小可行笔记.md",
+    "_posts/学习/👨‍🎓毕业论文/TC4钛合金的热处理工艺",
+    "_posts/学习/👨‍🎓毕业论文/钛合金的基本特性",
+    "images/Cover/undraw_exams_re_4ios.svg",
+    "gallery/500px/index.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/📷摄影思考/雪原即景.md",
+    "_posts/生活/📓日志/2023-03-06.md",
     "_posts/生活/📷摄影思考/图片与文本.md",
     "_posts/生活/🪶杂谈/钢笔维护手册.md",
     "images/20230102/Pasted image 20230306003013.png",
-    "images/Cover/undraw_exams_re_4ios.svg",
     "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png",
     "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png.crdownload",
     "images/Cover/b6ecfc65-5fe6-45ea-8c64-f829f583596d.tmp",
@@ -227,9 +204,6 @@
     "images/Cover/undraw_social_interaction_re_dyjh.svg",
     "images/Cover/undraw_the_search_s0xf.svg",
     "_posts/生活/🎭人的底层逻辑/自信.md",
-    "_posts/生活/📓日志/2023-03-06.md",
-    "_posts/生活/📷摄影思考/雪原即景.md",
-    "gallery/500px/index.md",
     "_posts/生活/🪶杂谈/500px.md",
     "gallery/index.md",
     "_posts/生活/📓日志/2023-03-04.md",
@@ -242,13 +216,10 @@
     "_posts/生活/✒️随笔/rainbow.md",
     "_posts/生活/📓日志/2023-01-02.md",
     "_posts/生活/🪶杂谈/南阳科目三经验汇总.md",
-    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
     "_posts/生活/📓日志/2023-03-02.md",
     "_posts/生活/🪶杂谈/魔戒制造手册.md",
     "_posts/生活/🪶杂谈/Sion头像衍变史.md",
     "_posts/生活/📓日志/2023-02-02.md",
-    "_posts/生活/📓日志/2022-12-09.md",
-    "_posts/生活/📓日志/2022-12-07.md",
     "未命名.canvas",
     "images/2021",
     "images/Cover/undraw_add_notes_re_ln36.svg.crdownload",
@@ -256,8 +227,6 @@
     "images/Cover/undraw_exams_re_4ios.svg.crdownload",
     "images/Cover/ce244af4-176e-42f3-a00f-bcabb92eeb33.tmp",
     "images/Cover/undraw_social_interaction_re_dyjh.svg.crdownload",
-    "images/Cover/e7efe8e8-8b49-4e14-9488-4b5bf97bb38b.tmp",
-    "images/Cover/c7b47406-b0a2-411d-b7b6-806ee2951a12.tmp",
     "未命名 1.canvas"
   ]
 }

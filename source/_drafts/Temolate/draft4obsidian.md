@@ -1,5 +1,5 @@
 ---
-title: 
+title: {{title}}
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
 abbrlink: 824ac3d0
@@ -9,7 +9,7 @@ tags:
 categories:
 cover:
 comments:
-copyright:
+copyright_info:
 aside:
 password:
 hidden: true

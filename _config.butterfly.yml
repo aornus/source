@@ -458,6 +458,7 @@ cloudflare_analytics:
 # Microsoft Clarity
 # https://clarity.microsoft.com/
 microsoft_clarity: g0s61bbj3n
+ #严重影响加载速度，舍弃之2023-3-6，但觉得好强，还是留下吧
  #老分析代码，eb4s36tfy5，20230227更改为g0s61bbj3n
 
 # Advertisement
@@ -483,8 +484,8 @@ google_adsense:
 site_verification:
   # - name: google-site-verification
   #   content: xxxxxx
-  # - name: baidu-site-verification
-  #   content: xxxxxxx
+   - name: baidu-site-verification
+     content: codeva-RIZABwDWWJ
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
