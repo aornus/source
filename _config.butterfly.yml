@@ -916,9 +916,6 @@ inject:
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />
     - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
-    - <link rel="stylesheet" href="https://embed.widgetsai.com/styles.css" />
-    - <script defer="defer" src="https://embed.widgetsai.com/bundle.js"></script>
-    - <script type="text/javascript" src="/js/me.js"></script>
     # - <link rel="preconnect" href="https://gstatic.loli.net">
     
     
