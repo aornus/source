@@ -342,12 +342,50 @@ valine:
 waline:
 # 加载速度太慢舍弃，2022-3-19
 # 还可以吧，恢复部署2022-3-19
+# 我会配置了，真好玩2023-3-10 01:15
   serverURL: https://www.sion.tk/
+  pageview: true
   avatar: mp # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
   avatarCDN: # Gravatar CDN baseURL
   bg: https://cdn.jsdelivr.net/gh/aornus/blogimg/20220%20(1).gif # waline background
   visitor: false
   option:
+    locale: {
+      nick: '署名',
+      mail: '汝之电邮',
+      link: '汝之站点',
+      placeholder: '有朋自远方来，不亦乐乎！(无需登录，输入电邮，回复可得通知)',
+      requiredMeta: [],
+      mailError: '你的邮件格式不对哦',
+      nickError: 昵称不满足条件的错误信息,
+      wordHint: 当前字数为$2个字，最少$0个字，最多$1个字哦,
+      sofa: '显现与隐没都来自于自我，表达与沉默都是一种态度。',
+      comment: 评论,
+      uploading: 上载中,
+      refresh: 重载中,
+      anonymous: 无名氏,
+      login: 登录,
+      level0: '虚无之水气',
+      level1: '晶莹之水滴',
+      level2: '舞动之浪花',
+      level3: '涓涓之细流',
+      level4: '欢快之小溪',
+      level5: '沉静之湖泊',
+      }
+    emoji: [
+        'https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs',
+        ]
+    reaction: [
+    'https://www.emojiall.com/images/60/microsoft-teams/1f31e.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f973.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f4aa.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f525.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f611.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f4a9.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f494.png',
+    'https://www.emojiall.com/images/60/microsoft-teams/1f940.png',
+        ]
+
 
 # utterances
 # https://utteranc.es/
