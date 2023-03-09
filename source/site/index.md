@@ -279,7 +279,7 @@ highlight_shrink:
 建立了基于树莓派的NAS系统与网盘聚合系统(感谢arozOS与Alist开源项目)
 * [NAS系统](https://nas.si-on.top)
 * [网盘聚合](https://hub.si-on.top)
-* [开启了umami的访客统计服务](https://cloud.umami.is/analytics/websites/69effd41-cf9a-4c01-8076-cc697a15e7e6)
+* ~~[开启了umami的访客统计服务](https://cloud.umami.is/analytics/websites/69effd41-cf9a-4c01-8076-cc697a15e7e6)~~(影响速度，于2023.3.9关闭)
 <!-- endtimeline -->
 
 <!-- timeline 02-18 -->

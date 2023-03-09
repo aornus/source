@@ -4,31 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e1ac890b24a0a6",
+        "id": "3a0e2b36f833d35e",
         "type": "tabs",
         "children": [
-          {
-            "id": "b51e92c755833d1c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "15a3b08ecd755a1f",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
           {
             "id": "0413c703a663b595",
             "type": "leaf",
@@ -44,31 +22,33 @@
             }
           },
           {
-            "id": "45c1752c754cff15",
+            "id": "b51e92c755833d1c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b4615602cfe96fc1",
+            "id": "a92f6d2388e88e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
+                "file": "_posts/生活/priv/周记-week2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 380
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -134,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
+                "file": "_posts/生活/priv/周记-week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md"
+                "file": "_posts/生活/priv/周记-week2.md"
               }
             }
           },
@@ -175,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
+                "file": "_posts/生活/priv/周记-week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,55 +197,54 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "b4615602cfe96fc1",
+  "active": "a92f6d2388e88e4f",
   "lastOpenFiles": [
-    "_posts/学习/👨‍🎓毕业论文/2.2 钛合金的分类与重要的工业钛合金.md",
-    "_posts/学习/👨‍🎓毕业论文/2.1 钛工业的发展历程与国内外现状.md",
     "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
-    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
-    "images/Cover/10a510b4-7b7e-4427-928d-5a49e6d96843.tmp",
-    "images/Cover/52675a42-cad0-465e-ba6b-d11286c93d2e.tmp",
-    "images/Cover/79d82b25-7de6-4112-940a-bea0ed624eaf.tmp",
-    "_posts/生活/🪶杂谈/钢笔维护手册.md",
-    "_posts/生活/📓日志/2023-03-06.md",
-    "_posts/学习/👨‍🎓毕业论文/TC4钛合金的热处理工艺",
-    "_posts/学习/👨‍🎓毕业论文/钛合金的基本特性",
-    "images/Cover/undraw_exams_re_4ios.svg",
-    "gallery/500px/index.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/📷摄影思考/雪原即景.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
-    "images/20230102/Pasted image 20230306003013.png",
-    "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png",
-    "images/Cover/1621517697_A_Pen_on_a_book__ink_bottle__vector_drawing__simplicity__line__smooth__art_.png.crdownload",
-    "images/Cover/b6ecfc65-5fe6-45ea-8c64-f829f583596d.tmp",
-    "images/Cover/undraw_city_driver_re_9xyv.svg",
-    "images/Cover/undraw_add_notes_re_ln36.svg",
-    "images/Cover/undraw_exploring_re_grb8.svg",
-    "images/Cover/undraw_reading_re_29f8.svg",
-    "images/Cover/undraw_secure_login_pdn4.svg",
-    "images/Cover/undraw_social_interaction_re_dyjh.svg",
-    "images/Cover/undraw_the_search_s0xf.svg",
-    "_posts/生活/🎭人的底层逻辑/自信.md",
-    "_posts/生活/🪶杂谈/500px.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.4 钛合金组织分析方法.md",
+    "gallery/Color/IMG_20210624_2325227.jpg",
+    "gallery/Color/IMG_20211013_062214.jpg",
+    "gallery/Color/IMG_20211020_085825-01.jpeg",
+    "gallery/Color/IMG_20211212_094818.jpg",
+    "gallery/Color/IMG_20220424_202607.jpg",
+    "gallery/Color/IMG_20220425_230150 (1).jpg",
+    "gallery/Color/IMG_20220426_093103 (1).jpg",
+    "gallery/Color/IMG_20220430_205713.jpg",
+    "gallery/Color/null-774b83b266c8dd81-02.jpeg",
+    "gallery/Color/null21eaf986f818ab19-01.jpeg",
     "gallery/index.md",
-    "_posts/生活/📓日志/2023-03-04.md",
-    "_posts/学习/⌨️软件编程/RSS使用手册.md",
-    "_posts/生活/📓日志/2023-01-19.md",
-    "_posts/生活/📓日志/2022-12-12.md",
-    "_posts/生活/📓日志/2022-12-06.md",
-    "_posts/生活/📓日志/2022-12-28.md",
-    "_posts/学习/📒课程笔记/数值分析/插值法.md",
-    "_posts/生活/✒️随笔/rainbow.md",
-    "_posts/生活/📓日志/2023-01-02.md",
-    "_posts/生活/🪶杂谈/南阳科目三经验汇总.md",
-    "_posts/生活/📓日志/2023-03-02.md",
-    "_posts/生活/🪶杂谈/魔戒制造手册.md",
-    "_posts/生活/🪶杂谈/Sion头像衍变史.md",
+    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
+    "images/Cover/chat-shot.png.crdownload",
+    "images/Cover/900d6a2a-522b-44e1-9a5a-d3376ff36d49.tmp",
+    "MessageBoard/index.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.3 钛合金的典型组织与性能.md",
+    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类 (conflicted copy 2023-03-09 122658).md",
+    "_posts/生活/priv/周记-week2.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "_posts/生活/📓日志/2023-03-09.md",
+    "_posts/学习/👨‍🎓毕业论文/第三部分：TC4钛合金的热处理工艺/3.3 TC4钛合金的热处理方案设计.md",
+    "_posts/学习/👨‍🎓毕业论文/第三部分：TC4钛合金的热处理工艺/3.1 TC4型钛合金的热处理工艺.md",
+    "_posts/学习/👨‍🎓毕业论文/第三部分：TC4钛合金的热处理工艺/3.2 TC4型钛合金的热处理缺陷与解决方法.md",
+    "_posts/学习/📒课程笔记/电工电子学/正弦交流电路.md",
+    "images/Cover/d9dbed1a-e366-4a24-8700-89806db6c269.tmp",
+    "_posts/生活/📓日志/2023-03-08.md",
+    "_posts/学习/💻操作系统/换源.md",
+    "images/Cover/3fb3c30d-be8b-49be-8739-6e64243e9905.tmp",
+    "images/Cover/4df1f5c2-681d-4fd1-bc0c-fb139bf5b69e.tmp",
+    "images/Cover/d6c48194-b0b3-4ea4-92a4-5d3529a51ffe.tmp",
+    "images/Cover/3e5ad3c2-689a-4189-a97c-4e0e39628d17.tmp",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：实验与结果分析/4.3 显微组织表征与缺陷分析.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：实验与结果分析/4.1 试样基本参数与实验方法.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：实验与结果分析/4.2 热处理实验与力学实验的结果分析.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：实验与结果分析",
+    "_posts/学习/👨‍🎓毕业论文/第三部分：TC4钛合金的热处理工艺",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性",
+    "_posts/生活/📓日志/2023-03-07.md",
+    "_posts/生活/📓日志/2023-03-06.md",
+    "_posts/生活/🪶杂谈/钢笔维护手册.md",
     "未命名.canvas",
-    "images/2021",
-    "images/Cover/undraw_add_notes_re_ln36.svg.crdownload",
-    "images/Cover/accb64ab-6b8d-4962-9c5a-e5feea2692eb.tmp",
     "未命名 1.canvas"
   ]
 }

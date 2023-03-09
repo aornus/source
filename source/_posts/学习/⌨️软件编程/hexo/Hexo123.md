@@ -4,7 +4,7 @@ cover: ../../../../images/blogimage/raw/master/2022/image-20220226213700251.png
 description: 建站半年有余，谨以此文重新记录在 windows 平台上搭建静态博客的过程以及一些问题的解决方法。
 tags:
   - 博客
- - Hexo
+  - Hexo
   - 自荐
 categories:
   - 学习
