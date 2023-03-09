@@ -1,6 +1,6 @@
 ---
 title: child poem
-cover: ../../../../images/bg.jpg
+cover: ../../../../images/bg.svg
 hidden: true
 abbrlink: eccaa576
 categories:

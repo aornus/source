@@ -28,7 +28,7 @@ highlight_shrink:
 
 ## 网站小事记
 
-{% timeline 2020 %}
+{% timeline 2020,green %}
 
 <!-- timeline 3-20 -->
 起源：突发奇想，购买阿里云轻量级应用服务器，使用LNMP+WordPress建站。
@@ -61,7 +61,7 @@ highlight_shrink:
 
 {% endtimeline %}
 
-{% timeline 2021 %}
+{% timeline 2021,pink %}
 
 <!-- timeline 3-25 -->
 域名与服务器到期，觉得没什么意思，没有续期，第一次建站结束。
@@ -107,7 +107,7 @@ highlight_shrink:
 
 {% endtimeline %}
 
-{% timeline 2022 %}
+{% timeline 2022,blue %}
 
 <!-- timeline 02-05 -->
 
@@ -270,7 +270,7 @@ highlight_shrink:
 <!-- endtimeline -->
 {% endtimeline %}
 
-{% timeline 2023 %}
+{% timeline 2023,red %}
 <!-- timeline 01-03 -->
 * 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
 <!-- endtimeline -->
@@ -294,6 +294,11 @@ highlight_shrink:
 * 博客文章封面优化
 * 标签删简
 
+<!-- endtimeline -->
+
+<!-- timeline 03-03 -->
+- [x] 添加了迟到的todo list支持，感谢[markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists)、[hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)项目
+- [x] 更改了淡色方格子背景
 <!-- endtimeline -->
 
 {% endtimeline %}

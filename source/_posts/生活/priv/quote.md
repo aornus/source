@@ -1,6 +1,6 @@
 ---
 title: quote
-cover: ../../../../images/bg.jpg
+cover: ../../../../images/bg.svg
 katex: true
 hidden: true
 abbrlink: 6b71cbf4

@@ -8,7 +8,7 @@ categories:
   - 学习
   - ⌨️软件编程
   - latex
-cover: ../../../../images/bg.jpg
+cover: ../../../../images/bg.svg
 description: （转载）让你的latex体验更完美
 copyright: true
 copyright_author: Chennan ZHANG

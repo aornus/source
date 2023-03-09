@@ -7,7 +7,7 @@ categories:
   - 学习
   - "\U0001F4D2课程笔记"
   - 高等数学
-cover: ../../../../images/bg.jpg
+cover: ../../../../images/bg.svg
 description: 直排|此乃妖法！
 katex: true
 abbrlink: Tabular-Method

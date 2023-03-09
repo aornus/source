@@ -46,6 +46,7 @@
     "hexo-tag-echarts3": "^1.1.2",
     "hexo-theme-next": "^8.10.1",
     "hexo-wordcount": "^6.0.1",
+    "markdown-it-task-lists": "^2.1.1",
     "save": "^2.9.0",
     "three": "^0.138.3",
     "uuid": "^8.3.2"

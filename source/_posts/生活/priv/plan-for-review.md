@@ -1,6 +1,6 @@
 ---
 title: plan for review
-cover: ../../../../images/bg.jpg
+cover: ../../../../images/bg.svg
 hidden: true
 abbrlink: '55574103'
 categories:
