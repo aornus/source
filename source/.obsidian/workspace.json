@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "ff0a8a9fb21cc52a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/📓日志/2023-03-10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a92f6d2388e88e4f",
             "type": "leaf",
             "pinned": true,
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,6 +135,14 @@
             }
           },
           {
+            "id": "3fa4a689d42c68b2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "4dc9598a23cf0224",
             "type": "leaf",
             "state": {
@@ -130,14 +150,6 @@
               "state": {
                 "file": "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md"
               }
-            }
-          },
-          {
-            "id": "3fa4a689d42c68b2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -181,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
+    "width": 333.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,13 +213,15 @@
   },
   "active": "a92f6d2388e88e4f",
   "lastOpenFiles": [
+    "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
+    "_posts/生活/📓日志/2023-03-10.md",
+    "images/20230102/Pasted image 20230310112154.png",
     "site/index.md",
     "MessageBoard/index.md",
-    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
     "_posts/学习/⌨️软件编程/hexo/Markdown.md",
     "images/Cover/fee663a0-fc77-4c34-a015-dd0b7ae68daf.tmp",
     "_posts/生活/📓日志/2023-03-09.md",
-    "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
     "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
     "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.3 钛合金的典型组织与性能.md",
     "_posts/学习/📒课程笔记/高等数学/Tabular-Method.md",
@@ -232,14 +246,11 @@
     "gallery/Color/IMG_20220426_093103 (1).jpg",
     "gallery/Color/IMG_20220430_205713.jpg",
     "gallery/Color/null-774b83b266c8dd81-02.jpeg",
-    "gallery/Color/null21eaf986f818ab19-01.jpeg",
     "gallery/index.md",
     "images/Cover/chat-shot.png.crdownload",
     "images/Cover/900d6a2a-522b-44e1-9a5a-d3376ff36d49.tmp",
     "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类 (conflicted copy 2023-03-09 122658).md",
     "_posts/生活/priv/周记-week2.md",
-    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
-    "_posts/学习/👨‍🎓毕业论文/第三部分：TC4钛合金的热处理工艺/3.3 TC4钛合金的热处理方案设计.md",
     "images/Cover/d9dbed1a-e366-4a24-8700-89806db6c269.tmp",
     "images/Cover/3fb3c30d-be8b-49be-8739-6e64243e9905.tmp",
     "images/Cover/4df1f5c2-681d-4fd1-bc0c-fb139bf5b69e.tmp",
