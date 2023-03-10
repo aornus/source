@@ -352,9 +352,9 @@ waline:
   option:
     locale: {
       nick: '署名',
-      mail: '汝之电邮',
-      link: '汝之站点',
-      placeholder: '有朋自远方来，不亦乐乎！(无需登录，输入电邮，回复可得通知)',
+      mail: '邮箱',
+      link: '域名',
+      placeholder: '有朋自远方来，不亦乐乎！(无需登录，输入邮箱，回复可得通知)',
       requiredMeta: [],
       mailError: '你的邮件格式不对哦',
       nickError: 昵称不满足条件的错误信息,
@@ -365,17 +365,17 @@ waline:
       refresh: 重载中,
       anonymous: 无名氏,
       login: 登录,
-      level0: '一',
-      level1: '癸',
-      level2: '壬',
-      level3: '辛',
-      level4: '庚',
-      level5: '己',
-      level6: '戊',
-      level7: '丁',
-      level8: '丙',
-      level9: '乙',
-      level10: '甲',
+      # level0: '一',
+      # level1: '癸',
+      # level2: '壬',
+      # level3: '辛',
+      # level4: '庚',
+      # level5: '己',
+      # level6: '戊',
+      # level7: '丁',
+      # level8: '丙',
+      # level9: '乙',
+      # level10: '甲',
       }
     emoji: [
         'https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs',
@@ -388,7 +388,6 @@ waline:
     'https://www.emojiall.com/images/60/microsoft-teams/1f611.png',
     'https://www.emojiall.com/images/60/microsoft-teams/1f4a9.png',
     'https://www.emojiall.com/images/60/microsoft-teams/1f494.png',
-    'https://www.emojiall.com/images/60/microsoft-teams/1f940.png',
         ]
 
 
@@ -778,7 +777,7 @@ aside:
 busuanzi:
   site_uv: false
   site_pv: false
-  page_pv: true
+  page_pv: false
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -974,7 +973,7 @@ inject:
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.min.js"></script>
   # <script type="module" src="https://cdn.skypack.dev/three@r120"></script>
   
-  #- <script src="/js/madethree.js"></script>
+  - <script src="/js/mod.js"></script>
 
   
 # CDN

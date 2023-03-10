@@ -301,4 +301,9 @@ highlight_shrink:
 - [x] 更改了淡色方格子背景
 <!-- endtimeline -->
 
+<!-- timeline 03-10 -->
+- 丰富了waline评论的样式
+- 使用[Gradient Magic](https://www.gradientmagic.com/)提供的css来替代封面图
+- 添加动画[More Obnoxious CSS (thecssking.com)](https://www.thecssking.com/MoreObnoxiousCSS/)
+<!-- endtimeline -->
 {% endtimeline %}

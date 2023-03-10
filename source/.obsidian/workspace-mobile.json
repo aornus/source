@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.1 钛工业的发展历程与国内外现状.md",
+                "file": "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73ce6867dca51346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.1 TC4型钛合金的热处理工艺.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.1 钛工业的发展历程与国内外现状.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.1 钛工业的发展历程与国内外现状.md",
+            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.1 钛工业的发展历程与国内外现状.md"
+            "file": "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md"
           }
         }
       }
@@ -137,14 +149,26 @@
   },
   "active": "38b6e7bbae124d3c",
   "lastOpenFiles": [
+    "images/20230102/IMG_20230310_172949.jpg",
+    "_posts/生活/📓日志/2023-03-10.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
+    "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验/2.1 TC4型钛合金的热处理工艺.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
+    "images/20230102/Screenshot_2023-03-10-16-52-04-249_cnki.net.psmc-edit.jpg",
+    "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验",
+    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
+    "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.3 钛合金组织分析方法.md",
+    "images/20230102/IMG_20230310_154608.jpg",
+    "images/20230102/Pasted image 20230221171924.png",
+    "site/index.md",
     "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.2 钛合金的分类.md",
     "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.1 钛工业的发展历程与国内外现状.md",
     "_posts/学习/👨‍🎓毕业论文/第二部分：钛合金的基本特性/2.3 钛合金的典型组织与性能.md",
     "_posts/生活/📓日志/2023-03-09.md",
-    "site/index.md",
     "_posts/生活/📓日志/2023-03-08.md",
-    "_posts/学习/👨‍🎓毕业论文/0.0 最小可行笔记.md",
-    "_posts/学习/👨‍🎓毕业论文/开题报告.md",
     "_posts/生活/📓日志/2023-03-07.md",
     "_posts/生活/📓日志/2023-03-06.md",
     "_drafts/Temolate/draft4obsidian.md",
@@ -162,16 +186,6 @@
     "_posts/学习/👨‍🎓毕业论文/钛合金的特点.md",
     "about/index.md",
     "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
-    "_posts/生活/🎭人的底层逻辑/人性塑造工程.md",
-    "images/20230102/IMG_20230303_121601.jpg",
-    "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
-    "_posts/生活/📓日志/2023-03-04.md",
-    "_posts/生活/📖涵泳/思考与读书.md",
-    "_posts/生活/📓日志/2023-03-01.md",
-    "_posts/生活/📓日志/2023-03-02.md",
-    "_posts/生活/📓日志/2023-03-03.md",
-    "_posts/生活/📖涵泳/涵泳总录.md",
-    "images/20230102/Screenshot_2023-02-27-15-08-01-827_cn.com.bookan-edit.jpg",
-    "images/20230102/Screenshot_2023-02-27-15-08-24-180_cn.com.bookan.jpg"
+    "images/20230102/IMG_20230303_121601.jpg"
   ]
 }

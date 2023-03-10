@@ -51,6 +51,11 @@ Markdown不支持空格（spaces）或制表符（ tabs）缩进段落，段落�
 - [ ] 精通Markdown
 - [x] 整理Markdown语法
 - [x] ~~列表、代码、分割线、链接、图片语法~~
+- 29^th^ => `29<sup>th</sup>`
+- H~2~0 => `H<sub>2</sub>O`
+- ==marked== => `<mark>inserted</mark>`
+- ++inserted++ => `<ins>inserted</ins>`
+
 
 > 引用一个句子。
 
@@ -67,7 +72,10 @@ Markdown不支持空格（spaces）或制表符（ tabs）缩进段落，段落�
 ```
 - [ ] 精通Markdown
 - [x] 整理Markdown语法
-
+- 29^th^ 
+- H~2~0 
+- ==marked== 
+- ++inserted++
 > 引用一个句子。
 
 下面是一个**更好看**的引用样式，内容居中，*作者或来源*右对齐。

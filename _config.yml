@@ -259,7 +259,6 @@ markdown:
     - markdown-it-cjk-breaks
     - markdown-it-container
     - markdown-it-deflist
-    - markdown-it-task-lists
 
     - name: '@neilsustc/markdown-it-katex'
       options:
