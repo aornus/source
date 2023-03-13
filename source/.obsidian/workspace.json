@@ -62,35 +62,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "64a66aac381a1c55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🪶杂谈/密码设计指南.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ce8d88b76bde54ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/index.md",
+                "file": "site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/index.md"
+                "file": "site/index.md"
               }
             }
           },
@@ -197,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/index.md",
+                "file": "site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,12 +212,12 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "ce8d88b76bde54ac",
+  "active": "a538a9521c7998e9",
   "lastOpenFiles": [
-    "_posts/生活/📓日志/2023-03-13.md",
-    "images/Cover/7efb76f8-84f3-4e2d-80f4-84d133730097.tmp",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "about/index.md",
+    "_posts/生活/📓日志/2023-03-13.md",
+    "images/Cover/7efb76f8-84f3-4e2d-80f4-84d133730097.tmp",
     "images/Cover/9ad5305d-1763-4e54-93cc-4ad2fc8460ce.tmp",
     "_posts/学习/💻操作系统/note-for-linux.md",
     "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
