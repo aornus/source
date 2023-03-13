@@ -14,6 +14,7 @@ description: 关于站点与站长的简单介绍
 > 人是各种社会关系的总和，博客是人与内容的总和。
 
 ## 关于博客站点——子虚栈
+
 ### 它是什么？
 首先作为网站，它是一个以Hexo为框架的、以Cloudflare为CDN加速的、以Waline为评论功能实现的、托管于GitHub上的一个静态站点，所有者为@aornus/@sion tian/@秉蕳/@田欣洋。
 
@@ -57,6 +58,56 @@ description: 关于站点与站长的简单介绍
 
 ### 真实信息之获取途径
 
+### 加密通信之公钥
+
+#### GPG/PGP公钥
+```asc 
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mJMEZA7i9RMFK4EEACMEIwQBTsjgSQ6017ioBjchqBt7iZZz5uFLv4DT9XBKlVZ/
+s2mFlEsedYxQOsApvH5MrwNjhdwr8ZZTp11D34Cre9stzYsAvHFj5NwAfCZpdLu1
+VGcWbTAJGiImmjFO1vc6d96H8T2jqg2r83jLrAE7ThmL7uDhRyg1g9rR8+PyOJSD
+xYfjIFW0FeenieiVsyA8bWVAc2ktb24udG9wPojWBBMTCgA7FiEEyryNxSaIcGDA
+AwD/tARTq6biU6wFAmQO4vUCGyMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AA
+CgkQtARTq6biU6y9RAIHafEG1K2eKcVAviYY4G7s5fMw6cxopPJ4U1udNh+uluyr
+g7jDlToN3sfz9soijjdxPdtLoYkovX5fEju7AwbjiaICCQGVnnc5dDuTakJrMSb0
+EIEqJeLwHe2vsBZXJNLJtjxB+NI2i8kmzWgQzCsizjnFxXtK9bmN3XtS+LIpTMa5
+bm8kM7iXBGQO4vUSBSuBBAAjBCMEAfW/WGI6KQBPIWBpsXXhNWyEpXrJNinHLYwD
+rbja3f9hqOhmEp8aoquqixu8UdScECr0KtWMBFxNrGVmJ0eq1YfZANDn74mm0pAs
+rVMTwEjMgS4Urkka5NFUfj9X1KyZFW/sTSl12DUY22vKeTa/3slAfAYLlJVX+Efa
+/Vd+5D3vMsspAwEKCYi7BBgTCgAgFiEEyryNxSaIcGDAAwD/tARTq6biU6wFAmQO
+4vUCGwwACgkQtARTq6biU6ztowIJAUvMqRgtd7tMkT+ma53imil6JfEBEGwtb94I
+a4y1BuHbsfcii1wBqvevhyg0U/8PNG6qoQyBwq/7wBZzO4ArMbs1Agi5v7c7z80G
+8jqoaAE2OXVOf1iTx5kyaakBfYB3SfXre33DEeJUAE/ErT3prkR+q+QKLW1IG1lH
+FX9WwCEGotRk8g==
+=aFbQ
+-----END PGP PUBLIC KEY BLOCK-----
+```
+公钥指纹：`CABC8DC526887060C00300FFB40453ABA6E253AC`
+#### ssh-ed25519 公钥
+```bash 
+# SSH版本
+OpenSSH_for_Windows_8.6p1, LibreSSL 3.4.3
+
+# 公钥
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHnsLiDVwyucRqiew2m3fRp8C7COJbhMmNz0wBnWYsgX me@si-on.top
+
+# 指纹
+SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
+
+# 结构化图形
++--[ED25519 256]--+
+| .++o=o          |
+|E.oo*+ .         |
+|.=+*.++ o        |
+|.oXoB.o  o       |
+|o..^.O  S        |
+|. *.X o          |
+| . +             |
+|  +              |
+|   .             |
++----[SHA256]-----+
+```
 
 
 ## 兴趣（小结于壬寅年冬）

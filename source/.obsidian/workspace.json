@@ -62,9 +62,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "64a66aac381a1c55",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/🪶杂谈/密码设计指南.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ce8d88b76bde54ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/🪶杂谈/密码设计指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md"
+                "file": "_posts/生活/🪶杂谈/密码设计指南.md"
               }
             }
           },
@@ -171,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/🪶杂谈/密码设计指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,54 +238,53 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "b51e92c755833d1c",
+  "active": "64a66aac381a1c55",
   "lastOpenFiles": [
+    "about/index.md",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
+    "images/Cover/9ad5305d-1763-4e54-93cc-4ad2fc8460ce.tmp",
+    "_posts/学习/💻操作系统/note-for-linux.md",
+    "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
     "site/index.md",
-    "_posts/学习/💻操作系统/换源.md",
-    "images/Cover/c38d084b-87df-46af-a6d9-cbbcdf8a0a60.tmp",
-    "MessageBoard/index.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
-    "_posts/学习/🛦钛金笔记/开题报告.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.3 钛合金组织分析方法.md",
     "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+    "_posts/学习/🛦钛金笔记/开题报告.md",
+    "images/Cover/密码设计.svg",
+    "_posts/生活/📓日志/2023-03-13.md",
+    "images/20230304/Pasted image 20230313150820.png",
+    "images/20230304/Pasted image 20230313150700.png",
+    "images/20230304",
+    "images/20230102/Pasted image 20230313125615.png",
+    "_posts/生活/📓日志/2022-12-18.md",
+    "pdf/table/tiank.png",
+    "pdf/table/tian.png",
+    "pdf/table/style.css",
+    "pdf/table/screen.css",
+    "pdf/table/periodic-table.css",
+    "pdf/table/lvk.png",
+    "pdf/table/lv.png",
+    "pdf/table/jquery.js.下载",
+    "pdf/table/gek.png",
+    "pdf/table/ge.png",
+    "pdf/table",
+    "pdf/table.html",
+    "pdf/元素周期表_files/style.css",
+    "pdf/元素周期表_files/screen.css",
+    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
+    "_posts/生活/📓日志/2023-03-12.md",
+    "_posts/生活/📓日志/2023-03-11.md",
+    "_posts/学习/💻操作系统/换源.md",
+    "MessageBoard/index.md",
+    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
+    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.3 钛合金组织分析方法.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.1 TC4型钛合金的热处理工艺.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
-    "images/20230102/IMG_20230310_154608.jpg",
-    "images/20230102/Screenshot_2023-03-10-16-52-04-249_cnki.net.psmc-edit.jpg",
-    "images/20230102/IMG_20230310_172949.jpg",
     "_posts/生活/📓日志/2023-03-10.md",
-    "images/20230102/Pasted image 20230310112154.png",
     "_posts/学习/⌨️软件编程/hexo/Markdown.md",
-    "images/Cover/fee663a0-fc77-4c34-a015-dd0b7ae68daf.tmp",
     "_posts/生活/📓日志/2023-03-09.md",
     "_posts/学习/👨‍🎓毕业论文/第一部分：钛合金的基本特性/1.3 钛合金的典型组织与性能.md",
     "_posts/学习/📒课程笔记/高等数学/Tabular-Method.md",
     "_posts/生活/priv/quote.md",
-    "_posts/生活/priv/plan-for-review.md",
-    "_posts/生活/priv/sunrise.md",
-    "_posts/废纸篓/生命游戏.md",
-    "_posts/生活/priv/child-poem.md",
-    "_posts/学习/⌨️软件编程/latex/对既有 pdf 文件进行加密.md",
-    "_posts/生活/priv/关于博客的思考.md",
-    "_posts/学习/📒课程笔记/数值分析/插值法.md",
-    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
-    "_posts/学习/📒课程笔记/高等数学/极限100.md",
-    "gallery/Color/IMG_20210624_2325227.jpg",
-    "gallery/Color/IMG_20211013_062214.jpg",
-    "gallery/Color/IMG_20211020_085825-01.jpeg",
-    "gallery/Color/IMG_20211212_094818.jpg",
-    "gallery/Color/IMG_20220424_202607.jpg",
-    "gallery/Color/IMG_20220425_230150 (1).jpg",
-    "images/Cover/chat-shot.png.crdownload",
-    "images/Cover/900d6a2a-522b-44e1-9a5a-d3376ff36d49.tmp",
-    "images/Cover/d9dbed1a-e366-4a24-8700-89806db6c269.tmp",
-    "images/Cover/3fb3c30d-be8b-49be-8739-6e64243e9905.tmp",
-    "images/Cover/4df1f5c2-681d-4fd1-bc0c-fb139bf5b69e.tmp",
-    "images/Cover/d6c48194-b0b3-4ea4-92a4-5d3529a51ffe.tmp",
-    "images/Cover/3e5ad3c2-689a-4189-a97c-4e0e39628d17.tmp",
-    "_posts/学习/👨‍🎓毕业论文/第二部分：实验与结果分析",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
