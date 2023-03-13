@@ -973,7 +973,7 @@ inject:
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.min.js"></script>
   # <script type="module" src="https://cdn.skypack.dev/three@r120"></script>
   
-  - <script src="/js/mod.js"></script>
+  #- <script src="/js/mod.js"></script>
 
   
 # CDN

@@ -1,15 +1,15 @@
 {
   "dayCounts": {
-    "2023/2/13": 2047
+    "2023/2/13": 2027
   },
   "todaysWordCount": {
     "_posts/生活/🪶杂谈/密码设计指南.md": {
       "initial": 3406,
-      "current": 5340
+      "current": 5333
     },
     "about/index.md": {
       "initial": 2206,
-      "current": 2319
+      "current": 2306
     }
   }
 }

@@ -56,9 +56,7 @@ description: 关于站点与站长的简单介绍
 - 贯籍: 河南
 - 受教育水平: 大学
 
-### 真实信息之获取途径
-
-### 加密通信之公钥
+### 公钥
 
 #### GPG/PGP公钥
 ```asc 
@@ -109,7 +107,7 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 +----[SHA256]-----+
 ```
 
-
+<!---
 ## 兴趣（小结于壬寅年冬）
 * 音乐（节奏至上）：流行、古典、流行与古典的Remix、蓝调、氛围、
 * 摄影（情绪至上）：风景、不起眼的小东西、（伪）抽象
@@ -128,7 +126,7 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 * 其他：无机化学、光学、天文(尤其是月相)
 * 文：马克思主义哲学、传统诗歌、传统文化
 
-
+-->
 
 
 <!-- 
@@ -148,7 +146,7 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 -->
 
 
-
+<!---
 ## 人生中的四十个问题(2023-2-14)
 
 > [kepano/40-questions: Questions that I ask myself at the end of each year and each decade. (github.com)](https://github.com/kepano/40-questions)
@@ -197,3 +195,4 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 37. 你受到最好赞美是？
 38. 最幸运的一件事是？
 39. 什么让你充满了希望？
+40. -->
