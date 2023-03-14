@@ -1,12 +1,29 @@
 {
   "dayCounts": {
     "2023/2/13": 2145,
-    "2023/2/14": 50
+    "2023/2/14": 22761,
+    "2023/2/15": 22617
   },
   "todaysWordCount": {
-    "MessageBoard/index.md": {
-      "initial": 404,
-      "current": 454
+    "Minds/index.md": {
+      "initial": 23198,
+      "current": 14039
+    },
+    "Minds/2012-2016/index.md": {
+      "initial": 129,
+      "current": 2550
+    },
+    "Minds/2017-2019/未命名.md": {
+      "initial": 129,
+      "current": 6413
+    },
+    "Minds/2017-2019/2017-2019.md": {
+      "initial": 6412,
+      "current": 6413
+    },
+    "Minds/2020-2023/index.md": {
+      "initial": 129,
+      "current": 14040
     }
   }
 }

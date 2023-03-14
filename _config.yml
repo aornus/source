@@ -349,8 +349,8 @@ search:
 
   hexo-tag-dplayer:
   cdn:
-    - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js
     - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.css
+    - https://cdn.bootcdn.net/ajax/libs/dplayer/1.27.1/DPlayer.min.js
   default: 
     api: https://api.prprpr.me/dplayer/
     loop: yes
