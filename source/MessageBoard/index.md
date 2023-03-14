@@ -12,15 +12,25 @@ aside: false
 ## 欢迎来到留言板📨，请留下你的足迹👣。
 
 {% flink %}
-- class_name: 友情链接
-  class_desc: 🎵找啊找啊找朋友，找到许多好朋友~
+- class_name: 酉空间
+  class_desc:  值得参考的博客
   link_list:
     - name: 始终 
       link: https://liam.page/ 
       avatar: https://liam.page/images/avatar/avatar.webp
       descr: 不忘初心(Latex技术博客)
-
-
+    - name: 海牛懒猫
+      link: https://manateelazycat.github.io/
+      avatar: https://manateelazycat.github.io/favicon.ico
+      descr: 折腾+阅读+开源
+    - name: 一大加贝
+      link: https://tianheg.xyz
+      avatar: https://tianheg.xyz/images/logo.png
+      descr: 会认识自己的人
+    - name: 木子
+      link: https://blog.k8s.li
+      avatar: https://blog.k8s.li/avatar.png
+      descr: 简单、优质的博客
 - class_name: 网站
   class_desc: 值得推荐的网站
   link_list:

@@ -6,7 +6,7 @@ updated:
 type:
 description: 本站的通览，包含建站日志，分类、标签统计等
 keywords:
-top_img:
+top_img: "repeating-linear-gradient(90deg, rgba(198, 198, 198,0.05) 0px, rgba(198, 198, 198,0.05) 1px,transparent 1px, transparent 5px),repeating-linear-gradient(0deg, rgba(198, 198, 198,0.05) 0px, rgba(198, 198, 198,0.05) 1px,transparent 1px, transparent 5px),repeating-linear-gradient(0deg, rgba(198, 198, 198,0.06) 0px, rgba(198, 198, 198,0.06) 1px,transparent 1px, transparent 15px),repeating-linear-gradient(90deg, rgba(198, 198, 198,0.06) 0px, rgba(198, 198, 198,0.06) 1px,transparent 1px, transparent 15px),linear-gradient(90deg, rgba(23,72,170, 0.9),rgba(23,72,170, 0.9));"
 aplayer:
 aside: false
 highlight_shrink:
