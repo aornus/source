@@ -31,8 +31,12 @@ aside: false
       link: https://blog.k8s.li
       avatar: https://blog.k8s.li/avatar.png
       descr: 简单、优质的博客
+    - name: 夜行人
+      link: https://wwj718.github.io/
+      avatar: https://wwj718.github.io/apple-touch-icon.png
+      descr: 简单、优质的博客
 - class_name: 网站
-  class_desc: 值得推荐的网站
+  class_desc: 值得推荐的网站与工具
   link_list:
   
 
@@ -56,7 +60,10 @@ aside: false
       link: https://dalao.ru/
       avatar: https://npm.elemecdn.com/niaosu/dalao/vzDtmMFg.png
       descr: 资源聚合搜索
-      
+    - name: 图标抓取
+      link: https://gonglue.qinggl.com/app/img/icon.jsp
+      avatar: https://qglimg.qinglm.com/qinggl/favicon.ico
+      descr:   轻略+出品
 
 {% endflink %}
 

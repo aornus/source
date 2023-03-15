@@ -62,6 +62,9 @@ highlight_shrink:
 {% endtimeline %}
 
 {% timeline 2021,pink %}
+<!-- timeline 2-14 -->
+有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
+<!-- endtimeline -->
 
 <!-- timeline 3-25 -->
 域名与服务器到期，觉得没什么意思，没有续期，第一次建站结束。

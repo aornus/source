@@ -5,6 +5,7 @@ top_img:
 aplayer:
 comments: false
 aside: false
+hidden: true
 description: 以下来自QQ随心贴的转移,挑选了一些有用的废话.
 ---
 
@@ -15,7 +16,7 @@ description: 以下来自QQ随心贴的转移,挑选了一些有用的废话.
 
 以下来自QQ随心贴的转移,挑选了一些有用的废话.
 
-{% timeline 2020年 %}
+{% timeline 2020年 green %}
 
 <!-- timeline 四月-六月 -->
 
@@ -281,7 +282,7 @@ SR(Sower播种者)：鬼才知道这见鬼的世界是什么鬼样！
 
 {% endtimeline %}
 
-{% timeline 2021年 %}
+{% timeline 2021年 blue %}
 
 <!-- timeline 三月-六月 -->
 

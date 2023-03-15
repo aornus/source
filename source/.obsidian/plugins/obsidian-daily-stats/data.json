@@ -2,12 +2,12 @@
   "dayCounts": {
     "2023/2/13": 2145,
     "2023/2/14": 22761,
-    "2023/2/15": 22617
+    "2023/2/15": 29776
   },
   "todaysWordCount": {
     "Minds/index.md": {
       "initial": 23198,
-      "current": 14039
+      "current": 227
     },
     "Minds/2012-2016/index.md": {
       "initial": 129,
@@ -24,6 +24,26 @@
     "Minds/2020-2023/index.md": {
       "initial": 129,
       "current": 14040
+    },
+    "_posts/生活/priv/child-poem.md": {
+      "initial": 600,
+      "current": 3861
+    },
+    "MessageBoard/index.md": {
+      "initial": 454,
+      "current": 510
+    },
+    "site/index.md": {
+      "initial": 2048,
+      "current": 2052
+    },
+    "Minds/Poems/index.md": {
+      "initial": 130,
+      "current": 3966
+    },
+    "Minds/shuoshuo/index.md": {
+      "initial": 5480,
+      "current": 5482
     }
   }
 }
