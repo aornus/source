@@ -35,6 +35,10 @@ aside: false
       link: https://wwj718.github.io/
       avatar: https://wwj718.github.io/apple-touch-icon.png
       descr: 简单、优质的博客
+    - name: Gary的个人技术记录
+      link: https://fugary.com/
+      avatar: /images/20230304/Pasted%20image%2020230315153833.png
+      descr:  技术博客，关注软件开发，软件应用 
 - class_name: 网站
   class_desc: 值得推荐的网站与工具
   link_list:

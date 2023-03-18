@@ -196,6 +196,16 @@ sudo apt-get install ttf-wqy-microhei
 sudo apt-get install ttf-mscorefonts-installer fontconfig
 sudo mkfontscale && mkfontdir && fc-cache -fv
 ```
+### 输入法
+linux中的输入法中使用最为广泛的就是fctix5了，我们就直接安装这个输入法：
+```bash
+sudo apt install fcitx5 \
+fcitx5-chinese-addons \
+```
+
+
+
+
 
 ### 安装Foliate
 

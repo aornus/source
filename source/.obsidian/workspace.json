@@ -34,9 +34,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ff5dda2202c13c20",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md"
+                "file": "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md"
               }
             }
           },
@@ -143,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +182,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": true,
+      "canvas:Create new canvas": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -179,60 +194,21 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-memos:Memos": false,
-      "hidden-folder-obsidian:隐藏文件夹": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "b51e92c755833d1c",
+  "active": "ff5dda2202c13c20",
   "lastOpenFiles": [
-    "Minds/index.md",
-    "_posts/学习/🛦钛金笔记/开题报告.md",
-    "Minds/2012-2016/index.md",
-    "Minds/2017-2019/index.md",
-    "Minds/2020-2023/index.md",
-    "Minds/shuoshuo/index.md",
-    "Minds/Poems/index.md",
+    "_posts/生活/计划总结/壬寅年总结.md",
+    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "_posts/生活/📷摄影思考/雪原即景.md",
     "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
-    "gallery/index.md",
-    "_posts/生活/priv/child-poem.md",
-    "MessageBoard/index.md",
-    "rss/index.md",
-    "Minds/Poems",
-    "site/index.md",
-    "_posts/生活/📓日志/2023-03-15.md",
-    "Minds/2020-2023",
-    "Minds/2017-2019",
-    "gallery/500px/index.md",
-    "Minds/2012-2016",
-    "images/Qzone/C654E215.jpeg",
-    "images/Qzone/E4320DB9.jpeg",
-    "images/Qzone/E3F2C402.jpeg",
-    "images/Qzone/E3639EDC.jpeg",
-    "images/Qzone/E3562D7C.jpeg",
-    "images/Qzone/E33995ED.jpeg",
-    "images/Qzone/E32E643C.jpeg",
-    "images/Qzone/E2ABE639.jpeg",
-    "images/Qzone/E2A20BEC.jpeg",
-    "images/Qzone/E12E2567.jpeg",
-    "images/Qzone/1074_0bc3h4bfwaaco4aggvd5avptapyelm7qew2a.f0.mp4",
-    "images/Qzone/1074_0b2ewmcoqaaeuyajciuj4vqdnmye5czqj2ca.f0.mp4",
-    "images/Qzone/1074_0b2ep4bdiaacjiajul5u35pda7yegr7qenca.f0.mp4",
-    "images/Qzone/1074_0b2ecrz2tcqbp4alcanra5rdgfaeve4qd72a.f0.mp4",
-    "images/Qzone/1030_e63c1e31a9a84269938a4e14f451ad24.f20.mp4",
-    "images/Qzone/1030_e592476b760b48139e97a03bca5926d4.f0.mp4",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
-    "Fm/index.md",
-    "_posts/生活/📓日志/2023-03-14.md",
-    "_posts/生活/🪶杂谈/密码设计指南.md",
-    "about/index.md",
-    "_posts/生活/📓日志/2023-03-13.md",
-    "_posts/学习/💻操作系统/note-for-linux.md",
-    "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
-    "_posts/生活/📓日志/2022-12-18.md",
-    "_posts/生活/📓日志/2023-03-12.md",
-    "_posts/生活/📓日志/2023-03-11.md",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "_posts/生活/📓日志/2023-03-18.md",
+    "_posts/生活/📓日志/2023-03-02.md",
+    "_posts/生活/📓日志/2023-03-03.md",
+    "_posts/生活/📓日志/2023-03-04.md",
+    "_posts/生活/📓日志/2023-03-05.md"
   ]
 }

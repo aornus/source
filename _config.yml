@@ -133,6 +133,7 @@ ignore:
 ## Themes: https://hexo.io/themes/ butterfly
 ## https://theme-next.js.org/docs/  next 
 theme: butterfly
+# butterfly
 # acrylic
 # 主题安装必须
 # hexo-renderer-pug hexo-renderer-stylus

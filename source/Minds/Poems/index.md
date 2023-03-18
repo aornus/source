@@ -2,7 +2,7 @@
 title: 诗文
 top_img: "repeating-linear-gradient(90deg, hsla(285,0%,67%,0.05) 0px, hsla(285,0%,67%,0.05) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, hsla(285,0%,67%,0.05) 0px, hsla(285,0%,67%,0.05) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, hsla(285,0%,67%,0.08) 0px, hsla(285,0%,67%,0.08) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(90deg, hsla(285,0%,67%,0.08) 0px, hsla(285,0%,67%,0.08) 1px,transparent 1px, transparent 12px),linear-gradient(90deg, rgb(79, 30, 203),rgb(252,69,69));"
 katex: 
-aside: 
+aside: false
 date: 2012-08-31 08:48:04
 comments: false
 keywords:

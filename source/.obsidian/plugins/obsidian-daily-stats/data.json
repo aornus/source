@@ -2,48 +2,30 @@
   "dayCounts": {
     "2023/2/13": 2145,
     "2023/2/14": 22761,
-    "2023/2/15": 29776
+    "2023/2/15": 29811,
+    "2023/2/17": 0,
+    "2023/2/18": 4094
   },
   "todaysWordCount": {
-    "Minds/index.md": {
-      "initial": 23198,
-      "current": 227
+    "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md": {
+      "initial": 168,
+      "current": 199
     },
-    "Minds/2012-2016/index.md": {
-      "initial": 129,
-      "current": 2550
+    "_posts/学习/⌨️软件编程/Python/图像处理.md": {
+      "initial": 1195,
+      "current": 1343
     },
-    "Minds/2017-2019/未命名.md": {
-      "initial": 129,
-      "current": 6413
+    "_posts/生活/📓日志/2023-03-18.md": {
+      "initial": 0,
+      "current": 0
     },
-    "Minds/2017-2019/2017-2019.md": {
-      "initial": 6412,
-      "current": 6413
+    "_posts/学习/⌨️软件编程/foliate阅读器安装.md": {
+      "initial": 2201,
+      "current": 2242
     },
-    "Minds/2020-2023/index.md": {
-      "initial": 129,
-      "current": 14040
-    },
-    "_posts/生活/priv/child-poem.md": {
-      "initial": 600,
-      "current": 3861
-    },
-    "MessageBoard/index.md": {
-      "initial": 454,
-      "current": 510
-    },
-    "site/index.md": {
-      "initial": 2048,
-      "current": 2052
-    },
-    "Minds/Poems/index.md": {
-      "initial": 130,
-      "current": 3966
-    },
-    "Minds/shuoshuo/index.md": {
-      "initial": 5480,
-      "current": 5482
+    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md": {
+      "initial": 0,
+      "current": 3874
     }
   }
 }
