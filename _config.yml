@@ -174,10 +174,10 @@ hide_categories:
 encrypt:
   enable: true
 
-# hexo-generator-feed /nofind/nosee/nowhere/none.xml
+# hexo-generator-feed /nofind/nosee/nowhere/none.xml  /atom.xml
 feed:
   type: atom
-  path: atom.xml
+  path: /nofind/nosee/nowhere/none.xml
   limit: 30
   hub:
   content: true
@@ -294,7 +294,7 @@ vanta:
 # hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
 swiper:
-  enable: true # 开关
+  enable: fasle # 开关
   priority: 5 #过滤器优先权
   enable_page: all # 应用页面
   timemode: date #date/updated
