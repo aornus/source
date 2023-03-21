@@ -1,5 +1,5 @@
 ---
-title: 
+title: sands{{date:MM-DD}}
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
 abbrlink: sands{{date:MM-DD}}
