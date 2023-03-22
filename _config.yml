@@ -150,14 +150,16 @@ plugins:
  - hexo-filter-image
  #- hexo-url-submission
  - hexo-douban
+ - hexo-baidu-url-submit 
 
 
 # hexo-deployer-git
 deploy:
-  type: git
-  repo: git@github.com:aornus/aornus.github.io.git
-  beanch: master 
-  ignore_hidden: false
+# - type: git
+#   repo: git@github.com:aornus/aornus.github.io.git
+#   beanch: master 
+#   ignore_hidden: false
+- type: baidu_url_submitter
 
 # hexo-hide-posts
 hide_posts:
@@ -165,11 +167,11 @@ hide_posts:
   # 指定你想要传递隐藏文章的位置，比如让所有隐藏文章在存档页面可见
   # 常见的位置有：index, tag, category, archive, sitemap, feed, etc.
   # 留空则默认全部隐藏
-  public_generators: [index, feed,sitemap,category,]
+  public_generators: [tag,archive,]
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
   noindex: true
 hide_categories:
-  - 📓日志
+  - 日志
 
 encrypt:
   enable: true
@@ -377,3 +379,9 @@ auto_category:
 #   color.calendar.dayLabel:	"#3C4858"	
 #   color.calendar.name:	"#3C4858"	
 
+# 设置百度主动推送
+baidu_url_submit:
+  count: 200  # 比如200，代表提交最新的200个链接
+  host: https://blog.si-on.top # 在百度站长平台中注册的域名
+  token: lai1Su1QeskQzoHx # 百度站长密钥
+  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里，这个默认

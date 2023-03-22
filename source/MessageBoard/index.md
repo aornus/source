@@ -34,7 +34,7 @@ aside: false
     - name: 夜行人
       link: https://wwj718.github.io/
       avatar: https://wwj718.github.io/apple-touch-icon.png
-      descr: 简单、优质的博客
+      descr: 好！
     - name: Gary的个人技术记录
       link: https://fugary.com/
       avatar: /images/20230304/Pasted%20image%2020230315153833.png
