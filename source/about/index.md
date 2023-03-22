@@ -30,19 +30,20 @@ description: 关于站点与站长的简单介绍
 
 就内容而言，它是所有者日常生活中各种念头的具象化——以文本与影像为载体。
 
-就构建而言，它是许多开源项目的组合。
-#### 博客主体的创造者
+就网站主体的筑建而言，它是许多开源项目的组合。
+#### 博客骨架的创造者们
 * 感谢 [@陳嘉輝（Tommy Chen）](https://zespia.me/about/) 开发的Hexo博客框架
 * 感谢 [@CrazyWong](https://crazywong.com/) 开发的🦋Butterfly主题
 * 感谢 [Waline](https://github.com/walinejs/waline) 提供的评论服务
 * 感谢 [Github](https://github.com/about) 提供的Pages、Actions服务
-* 感谢 [Vercel](https://vercel.com/about) 提供的部署服务
+* 感谢 [Vercel](https://vercel.com/about) 、 [Zeabur](zeabur.com) 、[Railway](https://railway.app/) 提供的部署服务
 * 感谢 [Cloudflare](https://www.cloudflare.com/zh-cn/people/) 提供的CDN服务
-
-#### 博客写作工具的创造者
+* 感谢 [@Chanzhaoyu](https://github.com/Chanzhaoyu) 提供的[ChatGPT实用网页Docker](https://github.com/Chanzhaoyu/chatgpt-web)
+* 感谢 [Fontawsome](https://fontawesome.com/) 提供的精美图标
+#### 博客写作工具的创造者们
 * 感谢 [@Licat（Shida Li）@Silver（Erica Xu）](https://obsidian.md/about) 等人开发的Obsidian笔记软件，方便了博客的写作与管理
 * 感谢 微软开发的 [Visual Studio Code](https://github.com/Microsoft/vscode/)，方便了博客的部署与管理
-#### 博客写作插件的创造者
+#### 博客插件的创造者们
 * 感谢 [@Tony Grosinger](https://grosinger.net/)开发的[先进表格插件](https://github.com/tgrosinger/advanced-tables-obsidian)，方便了表格的插入
 * 感谢 [@PJ Eby](https://github.com/pjeby)开发的[tag-wrangler](https://github.com/pjeby/tag-wrangler) 方便了标签的管理
 * 感谢 [Memos-ers](https://usememos.com/)开发的Memos 与[ @Boninall](https://github.com/Quorafind/) 开发的 [Obsidian-memos](https://github.com/quorafind/obsidian-memos)，方便了想法的记录
@@ -104,8 +105,9 @@ description: 关于站点与站长的简单介绍
 ## 关于博客作者
 
 <div class="btn-center">
-{% btn 'https://xchar.app/sion',RSS3,far fa-hand-point-right,outline white larger %}
-{% btn 'https://web.okjike.com/u/323c1500-737d-4001-b5b2-5b9970ac0489',Jike,far fa-hand-point-right,outline yellow larger %}
+{% btn 'https://xchar.app/sion',RSS3,far fa-hand-point-right,outline black larger %}
+{% btn 'https://sion.cb.id',ENS,far fa-hand-point-right,outline purple larger %}
+{% btn 'https://web.okjike.com/u/323c1500-737d-4001-b5b2-5b9970ac0489',Jike,far fa-hand-point-right,outline orange larger %}
 {% btn 'https://www.zhihu.com/people/siontine',Zhihu,far fa-hand-point-right,outline blue larger %}
 {% btn 'https://tg.si-on.top/',telegram,far fa-paper-plane,outline pink larger %}
 {% btn 'https://500px.com.cn/siontine',500px,far fa-hand-point-right,outline black larger %}

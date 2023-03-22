@@ -259,7 +259,7 @@ highlight_shrink:
 
 <!-- timeline 11-23 -->
 * 更改短文站点(又名“细墨”)为直排[ink.si-on.top](https://ink.si-on.top) (或为第一个直排hexo主题)
-* 开启Rss3上的站点 https://叁.si-on.top
+* 开启Rss3上的站点[乌有斋](https://rss3.si-on.top)
 <!-- endtimeline -->
 
 <!-- timeline 11-29 -->
@@ -299,13 +299,23 @@ highlight_shrink:
 
 <!-- endtimeline -->
 
-<!-- timeline 03-03 -->
+<!-- timeline 03-07 -->
 - [x] 添加了迟到的todo list支持，感谢[markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists)、[hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)项目
 - [x] 更改了淡色方格子背景
+- 部署了ChatGPT服务：chat.si-on.top
 <!-- endtimeline -->
 
 <!-- timeline 03-10 -->
 - 丰富了waline评论的样式
-- 使用[Gradient Magic](https://www.gradientmagic.com/)提供的css来替代封面图
+- 使用[Gradient Magic](https://www.gradientmagic.com/)提供的css来替代部分封面图
 <!-- endtimeline -->
+
+<!-- timeline 03-22 -->
+*  通过 [zeabur](zeabur.com) 提供的服务建立了Memos页面，采用Cloudflare R2 作为储存桶
+*  更改了Rss3上的站点id：乌有斋为[乌有阁](https://rss3.si-on.top)
+* 更新了一些图标
+* SeedCollecter（Memos）：seed.si-on.top
+* R2储存域：r2.si-on.top
+<!-- endtimeline -->
+
 {% endtimeline %}

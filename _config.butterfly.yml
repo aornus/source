@@ -9,18 +9,22 @@ menu:
   云盘: https://cloud.si-on.top || fas fa-cloud
   奇货: /AwesomeHub/ || fas fa-box
   广播: /Fm/ || fa fa-podcast
+  查机: https://chat.si-on.top || fas fa-star-of-david
  私人||fas fa-coffee:
   捉影: /gallery/ || fas fa-camera
   阅读: https://sionreading.notion.site/ || fas fa-book
   乱耳: /music/|| fas fa-headphones
   过往: /Minds/|| fas fa-box
-  随念: https://tg.si-on.top/ || fas fa-paper-plane
+  频道: https://tg.si-on.top/ || fas fa-paper-plane
+  闪念: https://seed.si-ontop || fas fa-seedling
   关于: /about/|| fas fa-heart
+
  站点||fas fa-cube:
   归档: /archives/||fas fa-archive
   标签: /tags/|| fas fa-tags
   分类: /categories/|| fas fa-folder-open
-  室铭: /site/|| fas fa-clock
+  室铭: /site/|| fas fa-clipboard-list
+
   街坊: /MessageBoard/|| fas fa-link
   虫洞: https://www.foreverblog.cn/go.html/ || fas fa-rocket
 
