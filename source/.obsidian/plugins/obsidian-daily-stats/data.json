@@ -8,7 +8,7 @@
     "2023/2/19": 119,
     "2023/2/20": 93,
     "2023/2/21": 0,
-    "2023/2/22": 524
+    "2023/2/22": 3437
   },
   "todaysWordCount": {
     "_posts/生活/📓日志/2023-03-22.md": {
@@ -26,6 +26,26 @@
     "_drafts/Temolate/sands.md": {
       "initial": 55,
       "current": 55
+    },
+    "_posts/生活/日志/2023-03-22.md": {
+      "initial": 51,
+      "current": 51
+    },
+    "_posts/生活/🪶杂谈/【摘录】耳机线缠绕与无人的宇宙.md": {
+      "initial": 0,
+      "current": 2123
+    },
+    "_drafts/Temolate/draft4obsidian.md": {
+      "initial": 72,
+      "current": 70
+    },
+    "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md": {
+      "initial": 2128,
+      "current": 2343
+    },
+    "about/index.md": {
+      "initial": 2306,
+      "current": 2881
     }
   }
 }

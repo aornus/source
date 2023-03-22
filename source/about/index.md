@@ -4,6 +4,7 @@ date: 2021-08-30 18:06:59
 comments: false
 cover: false
 aside: false
+highlight_shrink: true
 description: 关于站点与站长的简单介绍
 ---
 
@@ -24,8 +25,71 @@ description: 关于站点与站长的简单介绍
 
 ### 它从哪里来？
 就起源而言，它是所有者在学习termux过程中得到的副产品。
+
 就数据而言，它由Cloudflare提供的分布于世界各地的主机提供的。
+
 就内容而言，它是所有者日常生活中各种念头的具象化——以文本与影像为载体。
+
+就构建而言，它是许多开源项目的组合。
+#### 博客主体的创造者
+* 感谢 [@陳嘉輝（Tommy Chen）](https://zespia.me/about/) 开发的Hexo博客框架
+* 感谢 [@CrazyWong](https://crazywong.com/) 开发的🦋Butterfly主题
+* 感谢 [Waline](https://github.com/walinejs/waline) 提供的评论服务
+* 感谢 [Github](https://github.com/about) 提供的Pages、Actions服务
+* 感谢 [Vercel](https://vercel.com/about) 提供的部署服务
+* 感谢 [Cloudflare](https://www.cloudflare.com/zh-cn/people/) 提供的CDN服务
+
+#### 博客写作工具的创造者
+* 感谢 [@Licat（Shida Li）@Silver（Erica Xu）](https://obsidian.md/about) 等人开发的Obsidian笔记软件，方便了博客的写作与管理
+* 感谢 微软开发的 [Visual Studio Code](https://github.com/Microsoft/vscode/)，方便了博客的部署与管理
+#### 博客写作插件的创造者
+* 感谢 [@Tony Grosinger](https://grosinger.net/)开发的[先进表格插件](https://github.com/tgrosinger/advanced-tables-obsidian)，方便了表格的插入
+* 感谢 [@PJ Eby](https://github.com/pjeby)开发的[tag-wrangler](https://github.com/pjeby/tag-wrangler) 方便了标签的管理
+* 感谢 [Memos-ers](https://usememos.com/)开发的Memos 与[ @Boninall](https://github.com/Quorafind/) 开发的 [Obsidian-memos](https://github.com/quorafind/obsidian-memos)，方便了想法的记录
+* 感谢 [@shd101wyy (Yiyi Wang)](https://github.com/shd101wyy) 开发的[vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)插件，方便了目录的生成
+* 感谢如下npm插件与hexo插件的开发者，极大地丰富了了博客的功能：
+```json
+    "@neilsustc/markdown-it-katex": "^1.0.0",
+    "hexo": "^5.0.0",
+    "hexo-abbrlink": "^2.2.1",
+    "hexo-auto-category": "^0.2.1",
+    "hexo-blog-encrypt": "^3.1.6",
+    "hexo-butterfly-charts": "^1.1.3",
+    "hexo-butterfly-extjs": "^1.3.2",
+    "hexo-butterfly-swiper": "^1.0.12",
+    "hexo-butterfly-tag-plugins-plus": "^1.0.13",
+    "hexo-butterfly-vanta": "^1.0.0",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-filter-image": "^1.2.3",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-baidu-sitemap": "^0.1.9",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-indexed": "^1.2.1",
+    "hexo-generator-search": "^2.4.3",
+    "hexo-generator-seo-friendly-sitemap": "^0.2.1",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-hide-posts": "^0.2.0",
+    "hexo-markmap": "^1.1.5",
+    "hexo-pdf": "^1.1.1",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-markdown-it": "^6.0.1",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^2.0.1",
+    "hexo-server": "^2.0.0",
+    "hexo-tag-aplayer": "^3.0.4",
+    "hexo-tag-dplayer": "^0.3.3",
+    "hexo-tag-echarts-new": "^1.0.1",
+    "hexo-tag-echarts3": "^1.1.2",
+    "hexo-theme-next": "^8.10.1",
+    "hexo-wordcount": "^6.0.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "save": "^2.9.0",
+    "three": "^0.138.3",
+    "uuid": "^8.3.2"
+```
+
+
 ### 它到哪里去？
 就受众目标而言，**所有者本身**首当其冲，其次为**1990~2005出生的、对内容有兴趣的、以礼待人的**世界各国同胞。
 

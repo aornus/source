@@ -159,7 +159,7 @@ deploy:
 #   repo: git@github.com:aornus/aornus.github.io.git
 #   beanch: master 
 #   ignore_hidden: false
-- type: baidu_url_submitter
+# - type: baidu_url_submitter
 
 # hexo-hide-posts
 hide_posts:
@@ -170,8 +170,6 @@ hide_posts:
   public_generators: [tag,archive,]
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
   noindex: true
-hide_categories:
-  - 日志
 
 encrypt:
   enable: true
@@ -179,7 +177,7 @@ encrypt:
 # hexo-generator-feed /nofind/nosee/nowhere/none.xml  /atom.xml
 feed:
   type: atom
-  path: /nofind/nosee/nowhere/none.xml
+  path: /atom.xml
   limit: 30
   hub:
   content: true

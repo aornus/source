@@ -15,6 +15,10 @@ aside: false
 - class_name: 酉空间
   class_desc:  值得参考的博客
   link_list:
+    - name: CrazyWong
+      link: https://blog.crazywong.com/
+      avatar: https://blog.crazywong.com/img/avatar.png
+      descr: 熱衷學習，熱衷生活(butterfly主题作者)
     - name: 始终 
       link: https://liam.page/ 
       avatar: https://liam.page/images/avatar/avatar.webp
@@ -47,11 +51,6 @@ aside: false
   class_desc: 值得推荐的网站与工具
   link_list:
   
-
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网誌框架。
     - name: 大人学
       link: https://www.darencademy.com/
       avatar: https://www-image-cdn.darencademy.com/img/logo.png

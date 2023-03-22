@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-03-22.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-03-22.md",
+                "file": "about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-03-22.md"
+                "file": "about/index.md"
               }
             }
           },
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-03-22.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,6 +222,11 @@
   },
   "active": "b2369ec166fe2f1f",
   "lastOpenFiles": [
+    "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md",
+    "about/index.md",
+    "_posts/生活/日志/2023-03-22.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "images/20230304/Pasted image 20230322134100.png",
     "_posts/生活/日志/2023-03-21.md",
     "_posts/生活/日志/2023-03-20.md",
     "_posts/生活/日志/2023-03-19.md",
@@ -233,7 +239,6 @@
     "_posts/生活/日志/2023-02-13.md",
     "_posts/生活/日志/2023-02-24.md",
     "_posts/生活/日志/2023-02-27.md",
-    "_posts/生活/日志/2023-03-22.md",
     "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
     "_drafts/Temolate/sands.md",
     "_posts/生活/📓日志/2023-03-22.md",
@@ -245,9 +250,6 @@
     "_posts/生活/📓日志/2023-03-19.md",
     "images/20230304/Pasted image 20230319180403.png",
     "images/20230304/试样.png",
-    "_posts/生活/计划总结/壬寅年总结.md",
-    "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "_posts/生活/📷摄影思考/雪原即景.md",
-    "_posts/生活/📓日志/2023-03-18.md"
+    "_posts/生活/计划总结/壬寅年总结.md"
   ]
 }
