@@ -63,14 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Temolate/sands.md",
+                "file": "_posts/生活/日志/2023-03-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/日志/2023-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md"
+                "file": "_posts/生活/日志/2023-03-22.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/日志/2023-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -219,8 +219,22 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "b51e92c755833d1c",
+  "active": "b2369ec166fe2f1f",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-03-21.md",
+    "_posts/生活/日志/2023-03-20.md",
+    "_posts/生活/日志/2023-03-19.md",
+    "_posts/生活/日志/2023-03-18.md",
+    "_posts/生活/日志/2023-03-06.md",
+    "_posts/生活/日志/2023-03-05.md",
+    "_posts/生活/日志/2023-03-04.md",
+    "_posts/生活/日志/2023-03-03.md",
+    "_posts/生活/日志/2023-03-02.md",
+    "_posts/生活/日志/2023-02-13.md",
+    "_posts/生活/日志/2023-02-24.md",
+    "_posts/生活/日志/2023-02-27.md",
+    "_posts/生活/日志/2023-03-22.md",
+    "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
     "_drafts/Temolate/sands.md",
     "_posts/生活/📓日志/2023-03-22.md",
     "_posts/生活/📓日志/2023-03-21.md",
@@ -234,7 +248,6 @@
     "_posts/生活/计划总结/壬寅年总结.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/生活/📷摄影思考/雪原即景.md",
-    "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
     "_posts/生活/📓日志/2023-03-18.md"
   ]
 }
