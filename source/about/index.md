@@ -101,7 +101,10 @@ description: 关于站点与站长的简单介绍
 
 就终极目标而言，它是要让所有者在写作过程中不断完善人生观，认识自身，摆脱局限性，并探寻人生的意义。
 
-
+{% note info simple%}
+欢迎订阅电报频道：[Also Sprach Sion](https://t.me/siontalk)
+讨论群：[🐣里世界](https://t.me/sionDaoDaoDao)
+{% endnote %}
 ## 关于博客作者
 
 <div class="btn-center">
