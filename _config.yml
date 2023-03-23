@@ -260,6 +260,7 @@ markdown:
     - markdown-it-cjk-breaks
     - markdown-it-container
     - markdown-it-deflist
+    - 
 
     - name: '@neilsustc/markdown-it-katex'
       options:

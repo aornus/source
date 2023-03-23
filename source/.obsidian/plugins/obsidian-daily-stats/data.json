@@ -1,12 +1,28 @@
 {
   "dayCounts": {
     "2023/2/22": 1167,
-    "2023/2/23": 212
+    "2023/2/23": 596
   },
   "todaysWordCount": {
     "_posts/生活/日志/2023-03-23.md": {
       "initial": 48,
-      "current": 260
+      "current": 320
+    },
+    "_posts/生活/日志/2023-03-21.md": {
+      "initial": 665,
+      "current": 707
+    },
+    "about/index.md": {
+      "initial": 2972,
+      "current": 2990
+    },
+    "_posts/学习/⌨️软件编程/latex/博客不朽秘术.md": {
+      "initial": 10,
+      "current": 113
+    },
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md": {
+      "initial": 111,
+      "current": 272
     }
   }
 }

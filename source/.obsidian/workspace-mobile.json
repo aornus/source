@@ -11,9 +11,11 @@
             "id": "38b6e7bbae124d3c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/20221012/pic_003.jpg"
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "images/20221012/pic_003.jpg",
+            "file": "site/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "images/20221012/pic_003.jpg",
+            "file": "site/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "images/20221012/pic_003.jpg"
+            "file": "site/index.md"
           }
         }
       }
@@ -143,6 +145,10 @@
   },
   "active": "38b6e7bbae124d3c",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-03-23.md",
+    "about/index.md",
+    "site/index.md",
+    "images/20221012/pic_003.jpg",
     "images/20221012/pic_005.jpg",
     "images/20221012/pic_006.jpg",
     "images/20221012/pic_007.jpg",
@@ -160,7 +166,6 @@
     "_posts/生活/📷摄影思考/图片与文本.md",
     "_posts/生活/📓日志/2023-03-15.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "site/index.md",
     "Minds/2012-2016/index.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/📓日志/2023-03-13.md",
@@ -171,15 +176,12 @@
     "_posts/生活/🎭人的底层逻辑/社会助长.md",
     "_posts/生活/🎭人的底层逻辑/人性塑造工程.md",
     "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
-    "_posts/生活/🎭人的底层逻辑/自信.md",
     "images/20230102/IMG_20230310_172949.jpg",
     "images/20230102/Screenshot_2023-03-10-16-52-04-249_cnki.net.psmc-edit.jpg",
     "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验",
     "images/20230102/IMG_20230310_154608.jpg",
     "images/20230102/Pasted image 20230221171924.png",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas",
-    "images/20230102/IMG_20230306_000827.jpg",
-    "images/20230102/PICT_20230305_224015.jpg",
-    "images/20230102/IMG_20230305_222306.jpg"
+    "images/20230102/IMG_20230306_000827.jpg"
   ]
 }
