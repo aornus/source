@@ -212,6 +212,13 @@
   resolved "https://registry.npmmirror.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.3.0.tgz"
   integrity sha512-qVtd5i1Cc7cdrqnTWqTObKQHjPWAiRwjUPaXObaeNPcy7+WKxJumGBx66rfSFgK6LNpIasVKkEgW8oyf0tmPLA==
 
+"@iktakahiro/markdown-it-katex@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.npmmirror.com/@iktakahiro/markdown-it-katex/-/markdown-it-katex-4.0.1.tgz"
+  integrity sha512-kGFooO7fIOgY34PSG8ZNVsUlKhhNoqhzW2kq94TNGa8COzh73PO4KsEoPOsQVG1mEAe8tg7GqG0FoVao0aMHaw==
+  dependencies:
+    katex "^0.12.0"
+
 "@leancloud/adapter-types@^3.0.0":
   version "3.0.0"
   resolved "https://registry.npmmirror.com/@leancloud/adapter-types/-/adapter-types-3.0.0.tgz"
@@ -1166,6 +1173,11 @@ cliui@^3.0.3:
     strip-ansi "^3.0.1"
     wrap-ansi "^2.0.0"
 
+clone@^2.1.1:
+  version "2.1.2"
+  resolved "https://registry.npmmirror.com/clone/-/clone-2.1.2.tgz"
+  integrity sha512-3Pe/CF1Nn94hyhIYpjtiLhdCoEoz0DqQ+988E9gmeEdQZlojxnOb74wctFyuwWQHzqyf9X7C7MG8juUpqBJT8w==
+
 code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.npmmirror.com/code-point-at/-/code-point-at-1.1.0.tgz"
@@ -2053,11 +2065,6 @@ entities@^4.2.0, entities@^4.3.0, entities@^4.4.0:
   version "4.4.0"
   resolved "https://registry.npmmirror.com/entities/-/entities-4.4.0.tgz"
   integrity sha512-oYp7156SP8LkeGD0GF85ad1X9Ai79WtRsZ2gxJqtBuzH+98YUV6jkHEKlZkMbcrjJjIVJNIDP/3WL9wQkoPbWA==
-
-entities@~2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmmirror.com/entities/-/entities-2.1.0.tgz"
-  integrity sha512-hCx1oky9PFrJ611mf0ifBLBRW8lUUVRlFolb5gWRfIELabBlbp9xZvrqZLZAs+NxFnbfQoeGd8wDkygjg7U85w==
 
 entities@~3.0.1:
   version "3.0.1"
@@ -3024,24 +3031,25 @@ hexo-renderer-ejs@^2.0.0:
   dependencies:
     ejs "^3.1.6"
 
-hexo-renderer-markdown-it@^6.0.1:
-  version "6.1.0"
-  resolved "https://registry.npmmirror.com/hexo-renderer-markdown-it/-/hexo-renderer-markdown-it-6.1.0.tgz"
-  integrity sha512-bsAXHF761Nkpl5966UIEM6YXrCpk+yoRMTQ/tSkSLjxel8oK6+GABBb7H0Md4wzuCm476KJ+6NXolAIHlhDVbw==
+hexo-renderer-markdown-it-plus@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.npmmirror.com/hexo-renderer-markdown-it-plus/-/hexo-renderer-markdown-it-plus-1.0.6.tgz"
+  integrity sha512-nuidp4IvyHC9G3hnRO4bY7BfBBZBhnOEfQjfk6AJI+qsy+BlaUwDvemuARFTD3APPIO78YamAv5mweo5XMRwfA==
   dependencies:
-    hexo-util "^2.1.0"
-    markdown-it "^12.0.0"
+    "@iktakahiro/markdown-it-katex" "^4.0.1"
+    clone "^2.1.1"
+    highlight.js "^11.5.1"
+    markdown-it "^13.0.1"
     markdown-it-abbr "^1.0.4"
-    markdown-it-attrs "^4.1.3"
-    markdown-it-cjk-breaks "^1.1.2"
-    markdown-it-container "^3.0.0"
-    markdown-it-deflist "^2.0.3"
-    markdown-it-emoji "^2.0.0"
-    markdown-it-footnote "^3.0.1"
-    markdown-it-ins "^3.0.0"
-    markdown-it-mark "^3.0.0"
+    markdown-it-deflist "^2.1.0"
+    markdown-it-emoji "^2.0.2"
+    markdown-it-footnote "^3.0.3"
+    markdown-it-ins "^3.0.1"
+    markdown-it-mark "^3.0.1"
     markdown-it-sub "^1.0.0"
     markdown-it-sup "^1.0.0"
+    markdown-it-toc "^1.1.0"
+    uslug "^1.0.4"
 
 hexo-renderer-pug@^3.0.0:
   version "3.0.0"
@@ -3224,7 +3232,7 @@ hexo@^5.0.0:
     titlecase "^1.1.2"
     warehouse "^4.0.0"
 
-highlight.js@^11.0.1:
+highlight.js@^11.0.1, highlight.js@^11.5.1:
   version "11.7.0"
   resolved "https://registry.npmmirror.com/highlight.js/-/highlight.js-11.7.0.tgz"
   integrity sha512-1rRqesRFhMO/PRF+G86evnyJkCgaZFOI+Z6kdj15TA18funfoqJXvgPCLSf0SWq3SRfg1j3HlDs8o4s3EGq1oQ==
@@ -3924,13 +3932,6 @@ leancloud-storage@^3.0.4:
     underscore "^1.8.3"
     uuid "^3.3.2"
 
-linkify-it@^3.0.1:
-  version "3.0.3"
-  resolved "https://registry.npmmirror.com/linkify-it/-/linkify-it-3.0.3.tgz"
-  integrity sha512-ynTsyrFSdE5oZ/O9GEf00kPngmOfVwazR5GKDq6EYfhlpFug3J2zybX56a2PRRpc9P+FuSoGNAwjlbDs9jJBPQ==
-  dependencies:
-    uc.micro "^1.0.1"
-
 linkify-it@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npmmirror.com/linkify-it/-/linkify-it-4.0.1.tgz"
@@ -4111,12 +4112,12 @@ markdown-it-abbr@^1.0.4:
   resolved "https://registry.npmmirror.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz"
   integrity sha512-ZeA4Z4SaBbYysZap5iZcxKmlPL6bYA8grqhzJIHB1ikn7njnzaP8uwbtuXc4YXD5LicI4/2Xmc0VwmSiFV04gg==
 
-markdown-it-attrs@^4.1.3:
+markdown-it-attrs@^4.1.6:
   version "4.1.6"
   resolved "https://registry.npmmirror.com/markdown-it-attrs/-/markdown-it-attrs-4.1.6.tgz"
   integrity sha512-O7PDKZlN8RFMyDX13JnctQompwrrILuz2y43pW2GagcwpIIElkAdfeek+erHfxUOlXWPsjFeWmZ8ch1xtRLWpA==
 
-markdown-it-cjk-breaks@^1.1.2:
+markdown-it-cjk-breaks@^1.1.3:
   version "1.1.3"
   resolved "https://registry.npmmirror.com/markdown-it-cjk-breaks/-/markdown-it-cjk-breaks-1.1.3.tgz"
   integrity sha512-/gX3LueMp+5FdUkqcFPK5nHI6t85uq1rMv8yhrmCOZhU90XqybQj8OT1hVrxrdseajaHLPBK43xLzEKPosgTDA==
@@ -4128,27 +4129,27 @@ markdown-it-container@^3.0.0:
   resolved "https://registry.npmmirror.com/markdown-it-container/-/markdown-it-container-3.0.0.tgz"
   integrity sha512-y6oKTq4BB9OQuY/KLfk/O3ysFhB3IMYoIWhGJEidXt1NQFocFK2sA2t0NYZAMyMShAGL6x5OPIbrmXPIqaN9rw==
 
-markdown-it-deflist@^2.0.3:
+markdown-it-deflist@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmmirror.com/markdown-it-deflist/-/markdown-it-deflist-2.1.0.tgz"
   integrity sha512-3OuqoRUlSxJiuQYu0cWTLHNhhq2xtoSFqsZK8plANg91+RJQU1ziQ6lA2LzmFAEes18uPBsHZpcX6We5l76Nzg==
 
-markdown-it-emoji@^2.0.0:
+markdown-it-emoji@^2.0.2:
   version "2.0.2"
   resolved "https://registry.npmmirror.com/markdown-it-emoji/-/markdown-it-emoji-2.0.2.tgz"
   integrity sha512-zLftSaNrKuYl0kR5zm4gxXjHaOI3FAOEaloKmRA5hijmJZvSjmxcokOLlzycb/HXlUFWzXqpIEoyEMCE4i9MvQ==
 
-markdown-it-footnote@^3.0.1:
+markdown-it-footnote@^3.0.3:
   version "3.0.3"
   resolved "https://registry.npmmirror.com/markdown-it-footnote/-/markdown-it-footnote-3.0.3.tgz"
   integrity sha512-YZMSuCGVZAjzKMn+xqIco9d1cLGxbELHZ9do/TSYVzraooV8ypsppKNmUJ0fVH5ljkCInQAtFpm8Rb3eXSrt5w==
 
-markdown-it-ins@^3.0.0:
+markdown-it-ins@^3.0.1:
   version "3.0.1"
   resolved "https://registry.npmmirror.com/markdown-it-ins/-/markdown-it-ins-3.0.1.tgz"
   integrity sha512-32SSfZqSzqyAmmQ4SHvhxbFqSzPDqsZgMHDwxqPzp+v+t8RsmqsBZRG+RfRQskJko9PfKC2/oxyOs4Yg/CfiRw==
 
-markdown-it-mark@^3.0.0:
+markdown-it-mark@^3.0.1:
   version "3.0.1"
   resolved "https://registry.npmmirror.com/markdown-it-mark/-/markdown-it-mark-3.0.1.tgz"
   integrity sha512-HyxjAu6BRsdt6Xcv6TKVQnkz/E70TdGXEFHRYBGLncRE9lBFwDNLVtFojKxjJWgJ+5XxUwLaHXy+2sGBbDn+4A==
@@ -4168,18 +4169,12 @@ markdown-it-task-lists@^2.1.1:
   resolved "https://registry.npmmirror.com/markdown-it-task-lists/-/markdown-it-task-lists-2.1.1.tgz"
   integrity sha512-TxFAc76Jnhb2OUu+n3yz9RMu4CwGfaT788br6HhEDlvWfdeJcLUsxk1Hgw2yJio0OXsxv7pyIPmvECY7bMbluA==
 
-markdown-it@^12.0.0:
-  version "12.3.2"
-  resolved "https://registry.npmmirror.com/markdown-it/-/markdown-it-12.3.2.tgz"
-  integrity sha512-TchMembfxfNVpHkbtriWltGWc+m3xszaRD0CZup7GFFhzIgQqxIfn3eGj1yZpfuflzPvfkt611B2Q/Bsk1YnGg==
-  dependencies:
-    argparse "^2.0.1"
-    entities "~2.1.0"
-    linkify-it "^3.0.1"
-    mdurl "^1.0.1"
-    uc.micro "^1.0.5"
+markdown-it-toc@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmmirror.com/markdown-it-toc/-/markdown-it-toc-1.1.0.tgz"
+  integrity sha512-75GJ7xGUE/G1goCUkXiAuOk1rGMRVYrCX5sQ4rnJLZiGbUJGdTfUfyWibLA0RpRzKgfpdIncz9Z4WwN84x0OJg==
 
-"markdown-it@>= 9.0.0", markdown-it@>=6:
+markdown-it@^13.0.1, "markdown-it@>= 9.0.0", markdown-it@>=6:
   version "13.0.1"
   resolved "https://registry.npmmirror.com/markdown-it/-/markdown-it-13.0.1.tgz"
   integrity sha512-lTlxriVoy2criHP0JKRhO2VDG9c2ypWCsT237eDiLqi09rmbKoUetyGHq2uOIRoRS//kfoJckS0eUzzkDR+k2Q==
@@ -5998,6 +5993,11 @@ union-value@^1.0.0:
     is-extendable "^0.1.1"
     set-value "^2.0.1"
 
+"unorm@>= 1.0.0":
+  version "1.6.0"
+  resolved "https://registry.npmmirror.com/unorm/-/unorm-1.6.0.tgz"
+  integrity sha512-b2/KCUlYZUeA7JFUuRJZPUtr4gZvBh7tavtv4fvk4+KV9pfGiR6CQAQAWl49ZpR3ts2dk4FYkP7EIgDJoiOLDA==
+
 unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmmirror.com/unpipe/-/unpipe-1.0.0.tgz"
@@ -6040,6 +6040,13 @@ use@^3.1.0:
   version "3.1.1"
   resolved "https://registry.npmmirror.com/use/-/use-3.1.1.tgz"
   integrity sha512-cwESVXlO3url9YWlFW/TA9cshCEhtu7IKJ/p5soJ/gGpj7vbvFrAY/eIioQ6Dw23KjZhYgiIo8HOs1nQ2vr/oQ==
+
+uslug@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.npmmirror.com/uslug/-/uslug-1.0.4.tgz"
+  integrity sha512-Jrbpp/NS3TvIGNjfJT1sn3/BCeykoxR8GbNYW5lF6fUscLkbXFwj1b7m4DvIkHm8k3Qr6Co68lbTmoZTMGk/ow==
+  dependencies:
+    unorm ">= 1.0.0"
 
 util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   version "1.0.2"

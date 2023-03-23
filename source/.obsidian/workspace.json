@@ -64,17 +64,15 @@
             }
           },
           {
-            "id": "fa1ae68896165463",
+            "id": "548817124dff13fd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/生活/日志/2023-03-23.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -144,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/生活/日志/2023-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md"
+                "file": "_posts/生活/日志/2023-03-23.md"
               }
             }
           },
@@ -185,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/生活/日志/2023-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,16 +225,16 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "fa1ae68896165463",
+  "active": "548817124dff13fd",
   "lastOpenFiles": [
-    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "about/index.md",
     "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+    "_posts/生活/日志/2023-03-23.md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/学习/⌨️软件编程/latex/家谱图.md",
     "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
-    "about/index.md",
     "_posts/学习/⌨️软件编程/hexo/Markdown.md",
     "site/index.md",
-    "_posts/生活/日志/2023-03-23.md",
     "_posts/生活/日志/2023-03-21.md",
     "_posts/生活/日志/2023-03-22.md",
     "_posts/生活/日志/2023-03-23 (conflicted copy 2023-03-23 165801).md",

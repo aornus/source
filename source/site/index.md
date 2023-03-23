@@ -311,14 +311,15 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 03-22 -->
-*  通过 [zeabur](zeabur.com) 提供的服务建立了Memos页面，采用Cloudflare R2 作为储存桶
+*  通过 [zeabur](zeabur.com) 提供的服务建立了[Memos](https://seed.si-on.top)页面，采用Cloudflare [R2](https://r2.si-on.top) 作为储存桶
 *  更改了Rss3上的站点id：乌有斋为[乌有阁](https://rss3.si-on.top)
 * 更新了一些图标
-* SeedCollecter（Memos）：seed.si-on.top
-* R2储存域：r2.si-on.top
+重新定位了个别子站点的功能，做出来特色，避免做的太宽泛而内容太多雷同
+- [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
 <!-- endtimeline -->
-<!-- timeline 03-23 上午九点🕘-->
-重新定位不同子站点的功能，避免做的太宽泛而内容太多雷同
-- [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。(记得在照片墙上加上500px已出售照片的白名单)
+<!-- timeline 03-23 刻意推广 -->
+- 加入个站商店：[商店主页](https://storeweb.cn/site/o/1698)
 <!-- endtimeline -->
+
+
 {% endtimeline %}

@@ -225,46 +225,93 @@ aplayer:
 #npm i hexo-renderer-markdown-it --save # 需要安装这个渲染插件
 #npm install @neilsustc/markdown-it-katex --save #需要安装这个katex插件
 
-markdown:
-  render:
+markdown_it_plus:
+    highlight: true
     html: true
-    xhtmlOut: false
-    breaks: false
+    xhtmlOut: true
+    breaks: true
+    langPrefix:
     linkify: true
-    typographer: false
-    quotes: '“”‘’'
-  anchors:
-    # Minimum level for ID creation. (Ex. h2 to h6)
-    level: 2
-    # A suffix that is prepended to the number given if the ID is repeated.
-    collisionSuffix: 'v'
-    # If `true`, creates an anchor tag with a permalink besides the heading.
-    permalink: false
-    # Class used for the permalink anchor tag.
-    permalinkClass: header-anchor
-    # Set to 'right' to add permalink after heading
-    permalinkSide: 'left'
-    # The symbol used to make the permalink
-    permalinkSymbol: ¶
-    # Transform anchor to (1) lower case; (2) upper case
-    case: 0
-    # Replace space with a character
-    separator: '-'
-  plugins:
-    - markdown-it-abbr
-    - markdown-it-footnote
-    - markdown-it-ins
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-attrs
-    - markdown-it-cjk-breaks
-    - markdown-it-container
-    - markdown-it-deflist
-    - 
+    typographer:
+    quotes: “”‘’
+    plugins:
+        - plugin:
+            name: markdown-it-mark
+            enable: false
+        - plugin:
+            name: markdown-it-abbr
+            enable: true
+        - plugin:
+            name: markdown-it-footnote
+            enable: true
+        - plugin:
+            name: markdown-it-ins
+            enable: true
+        - plugin:
+            name: markdown-it-sub
+            enable: true
+        - plugin:
+            name: markdown-it-sup
+            enable: true
+        - plugin:
+            name: markdown-it-attrs
+            enable: true
+        - plugin:
+            name: markdown-it-cjk-breaks
+            enable: true
+        - plugin:
+            name: markdown-it-container
+            enable: true
+        - plugin:
+            name: markdown-it-task-lists
+            enable: true
+        - plugin:
+            name: '@neilsustc/markdown-it-katex'
+            enable: true
+            options:
+              strict: false
 
-    - name: '@neilsustc/markdown-it-katex'
-      options:
-        strict: false
+
+# markdown:
+#   render:
+#     html: true
+#     xhtmlOut: false
+#     breaks: false
+#     linkify: true
+#     typographer: false
+#     quotes: '“”‘’'
+#   anchors:
+#     # Minimum level for ID creation. (Ex. h2 to h6)
+#     level: 2
+#     # A suffix that is prepended to the number given if the ID is repeated.
+#     collisionSuffix: 'v'
+#     # If `true`, creates an anchor tag with a permalink besides the heading.
+#     permalink: false
+#     # Class used for the permalink anchor tag.
+#     permalinkClass: header-anchor
+#     # Set to 'right' to add permalink after heading
+#     permalinkSide: 'left'
+#     # The symbol used to make the permalink
+#     permalinkSymbol: ¶
+#     # Transform anchor to (1) lower case; (2) upper case
+#     case: 0
+#     # Replace space with a character
+#     separator: '-'
+#   plugins:
+#     - markdown-it-abbr
+#     - markdown-it-footnote
+#     - markdown-it-ins
+#     - markdown-it-sub
+#     - markdown-it-sup
+#     - markdown-it-attrs
+#     - markdown-it-cjk-breaks
+#     - markdown-it-container
+#     - markdown-it-deflist
+#     - 
+
+#     - name: '@neilsustc/markdown-it-katex'
+#       options:
+#         strict: false
     
 # mathjax修改尝试修复任务列表不渲染
 # # npm un hexo*randerer-markdown-it --save
