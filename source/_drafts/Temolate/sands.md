@@ -1,5 +1,5 @@
 ---
-title: sands{{date:MM-DD}}
+title: 子虚栈日记{{date:MM-DD}}
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
 abbrlink: sands{{date:MM-DD}}
@@ -13,7 +13,7 @@ copyright:
 aside: false
 password: 4sion
 hidden: true
-description: 【聚沙成塔·九九九】 
+description: 
 sticky: 
 keywords:
 root: ../../

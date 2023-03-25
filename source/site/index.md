@@ -15,8 +15,6 @@ highlight_shrink:
 <div id="posts-calendar" class="js-pjax"></div>
 <div id="posts-chart" class="js-pjax"></div>
 <div id="tags-chart" data-length="20" class="js-pjax"></div>
-<div id="categories-chart" class="js-pjax"></div>
-<div id="categories-radar" class="js-pjax"></div>
 <div class="btn-center">
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->
@@ -242,7 +240,7 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 9-11 -->
-* 添加读书笔记页面[阅读之旅](https://sionreading.notion.site/)
+添加读书笔记页面[阅读之旅](https://sionreading.notion.site/)
 > 参考了Reimu的[Books](https://muzi502.notion.site/muzi502/284c181664924fa485e94c12b6cabfb1)
 <!-- endtimeline -->
 
@@ -263,7 +261,7 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 11-29 -->
-* 文章开头添加了目录导图，感谢项目：[hexo-markmap](https://www.npmjs.com/package/hexo-markmap)以及[markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
+文章开头添加了目录导图，感谢项目：[hexo-markmap](https://www.npmjs.com/package/hexo-markmap)以及[markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 <!-- endtimeline -->
 
 <!-- timeline 12-7 -->
@@ -275,7 +273,7 @@ highlight_shrink:
 
 {% timeline 2023,red %}
 <!-- timeline 01-03 -->
-* 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
+明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
 <!-- endtimeline -->
 
 <!-- timeline 01-03 -->
@@ -318,8 +316,14 @@ highlight_shrink:
 - [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
 <!-- endtimeline -->
 <!-- timeline 03-23 刻意推广 -->
-- 加入个站商店：[商店主页](https://storeweb.cn/site/o/1698)
+- 加入了个站商店：[商店主页](https://storeweb.cn/site/o/1698)
+- 加入了中文独立博客：[timqian/chinese-independent-blogs@da0c433](https://github.com/timqian/chinese-independent-blogs/commit/da0c43349c831151092bad3b08067a67cb68b0da)
+-  申请加入Traveling ：[Issue #1490 · travellings-link/travellings ](https://github.com/travellings-link/travellings/issues/1490)
+- 申请加入RSSblog：[Issue #22 · caibingcheng/rssblog ](https://github.com/caibingcheng/rssblog/issues/22)
 <!-- endtimeline -->
 
-
+<!-- timeline 03-25 -->
+* 更改了日志的展示：只在feed与sitemap中隐蔽；在其他区域显示
+* 感谢Zeabur，部署了Alist云盘聚合站：https://alist.si-on.top/
+<!-- endtimeline -->
 {% endtimeline %}

@@ -64,19 +64,27 @@
             }
           },
           {
-            "id": "548817124dff13fd",
+            "id": "cf092c93a27d7052",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "de7bcc40a4234aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
+                "file": "_posts/生活/日志/2023-03-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
+                "file": "_posts/生活/日志/2023-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md"
+                "file": "_posts/生活/日志/2023-03-25.md"
               }
             }
           },
@@ -183,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
+                "file": "_posts/生活/日志/2023-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 404.5,
-    "collapsed": true
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,43 +232,50 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "548817124dff13fd",
+  "active": "de7bcc40a4234aa1",
   "lastOpenFiles": [
-    "about/index.md",
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
-    "_posts/生活/日志/2023-03-23.md",
-    "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "_posts/学习/⌨️软件编程/latex/家谱图.md",
-    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
-    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
-    "site/index.md",
-    "_posts/生活/日志/2023-03-21.md",
-    "_posts/生活/日志/2023-03-22.md",
-    "_posts/生活/日志/2023-03-23 (conflicted copy 2023-03-23 165801).md",
-    "_posts/学习/⌨️软件编程/部署你的专属Memos.md",
-    "images/Cover/memos.svg",
-    "images/20230304/Pasted image 20230322233954.png",
-    "images/20230304/Pasted image 20230322232924.png",
-    "images/20230304/Pasted image 20230322232631.png",
-    "images/20230304/Pasted image 20230322231911.png",
-    "images/20230304/Pasted image 20230322231336.png",
-    "images/20230304/Pasted image 20230322230933.png",
-    "images/20230304/Pasted image 20230322230658.png",
-    "images/20230304/Pasted image 20230322230522.png",
-    "images/20230304/Pasted image 20230322230302.png",
     "_posts/学习/🛦钛金笔记/开题报告.md",
-    "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/日志/2023-03-20.md",
-    "_posts/生活/日志/2023-03-19.md",
-    "_posts/生活/日志/2023-03-18.md",
-    "_posts/生活/日志/2023-03-06.md",
-    "_posts/生活/日志/2023-03-05.md",
-    "_posts/生活/日志/2023-03-04.md",
-    "_posts/生活/日志/2023-03-03.md",
-    "_posts/生活/日志/2023-03-02.md",
-    "_posts/生活/日志/2023-02-13.md",
+    "_drafts/Temolate/sands.md",
+    "_posts/废纸篓/生命游戏.md",
+    "_posts/生活/日志/2023-03-25.md",
+    "_posts/生活/日志/2023-03-24.md",
+    "_posts/生活/日志/2023-03-25 (conflicted copy 2023-03-25 101351).md",
+    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
+    "images/20230304/Pasted image 20230325205907.png",
+    "images/20230304/Pasted Image 20230325175402.jpeg",
+    "images/20230304/Pasted Image 20230325154500.jpeg",
+    "images/20230304/Pasted Image 20230325173115.jpeg",
+    "MessageBoard/index.md",
+    "about/index.md",
+    "images/20230304/Pasted image 20230325201753.png",
+    "images/20230304/Pasted image 20230325201513.png",
+    "images/20230304/Pasted image 20230325201416.png",
+    "images/20230304/Pasted image 20230325200857.png",
+    "未命名.canvas",
+    "未命名 6.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+    "_posts/生活/📖涵泳/涵泳总录.md",
+    "_posts/生活/📖涵泳/思考与读书.md",
+    "_posts/生活/📖涵泳/阅读要义.md",
+    "_posts/生活/日志/2023-03-21.md",
     "_posts/生活/日志/2023-02-24.md",
-    "_posts/生活/日志/2023-02-27.md"
+    "_posts/生活/日志/2023-02-27.md",
+    "_posts/生活/日志/2023-02-28.md",
+    "_posts/生活/日志/2023-03-01.md",
+    "_posts/生活/日志/2023-03-02.md",
+    "_posts/生活/日志/2023-03-04.md",
+    "_posts/生活/日志/2023-03-05.md",
+    "_posts/生活/日志/2023-03-06.md",
+    "_posts/生活/日志/2023-03-19.md",
+    "_posts/生活/日志/2023-03-23.md",
+    "site/index.md",
+    "_posts/生活/日志/2023-02-19.md",
+    "images/Cover/memos.svg",
+    "images/20230304/Pasted image 20230322233954.png"
   ]
 }

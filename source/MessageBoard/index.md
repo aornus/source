@@ -47,6 +47,10 @@ aside: false
       link: https://www.leavesongs.com/
       avatar: https://www.leavesongs.com/static/cactus/images/favicon.ico
       descr:  黑客/程序员/作家
+    - name: 老杰的博客[+ 2023/3/24]
+      link: https://oldj.net/
+      avatar: https://oldj.net/favicon.ico
+      descr:  AI/思考/阅读/编程
 - class_name: 网站
   class_desc: 值得推荐的网站与工具
   link_list:
@@ -86,10 +90,10 @@ deacr: Sion'Blog #简短的介绍自己的博客或座右铭
       avatar: https://npm.elemecdn.com/niaosu/dalao/vzDtmMFg.png
       descr: 不死鸟·资源聚合搜索
 ```
-
+<!---
 ## 评论区等级说明
 {% note info %}
-2023-3-21更新
+2023-3-25更新 waline的`LEVELS`变量简直一团糟，怎样都设置不好，放弃放弃
 {% endnote %}
 
 根据[斐波那契数列](https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/99145)以及[泰拉瑞亚不同稀有度的部分矿石](https://terraria.wiki.gg/zh/wiki/%E7%9F%BF%E7%9F%B3)设计了等级标签
@@ -128,3 +132,4 @@ deacr: Sion'Blog #简短的介绍自己的博客或座右铭
   LEVELS: 1,2,3,5,8,13,21,34,55,89,144,233,377
 ```
     
+-->

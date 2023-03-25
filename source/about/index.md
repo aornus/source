@@ -76,7 +76,7 @@ description: 关于站点与站长的简单介绍
     "hexo-markmap": "^1.1.5",
     "hexo-pdf": "^1.1.1",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-markdown-it": "^6.0.1",
+    "hexo-renderer-markdown-it-plus": "^1.0.6",
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
@@ -86,13 +86,17 @@ description: 关于站点与站长的简单介绍
     "hexo-tag-echarts3": "^1.1.2",
     "hexo-theme-next": "^8.10.1",
     "hexo-wordcount": "^6.0.1",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-cjk-breaks": "^1.1.3",
+    "markdown-it-container": "^3.0.0",
     "markdown-it-task-lists": "^2.1.1",
     "save": "^2.9.0",
     "three": "^0.138.3",
     "uuid": "^8.3.2"
 ```
 
-
+#### 其他项目
+* 感谢 [WhereMyLife](http://wheremylife.cn/home#top) 提供的Kindle RSS 订阅新闻推送服务
 ### 它到哪里去？
 就受众目标而言，**所有者本身**首当其冲，其次为**1990~2005出生的、对内容有兴趣的、以礼待人的**世界各国同胞。
 
