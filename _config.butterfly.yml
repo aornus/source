@@ -817,9 +817,9 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
-  default: 繁
+  default: 2
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -851,7 +851,7 @@ rightside_scroll_percent: true
 rightside_item_order:
   enable: true
   hide: # readmode,translate,darkmode,hideAside
-  show: darkmode,readmode,comment
+  show: darkmode,translate,readmode,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------

@@ -327,4 +327,8 @@ highlight_shrink:
 * 更改了日志的展示：只在feed与sitemap中隐蔽；在其他区域显示
 * ~~感谢Zeabur，部署了Alist云盘聚合站：https://alist.si-on.top（于3-27日关闭，我再也不乱白嫖了！）~~
 <!-- endtimeline -->
+
+<!-- timeline 03-28 -->
+开启了繁体中文支持
+<!-- endtimeline -->
 {% endtimeline %}
