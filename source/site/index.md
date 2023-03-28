@@ -312,6 +312,7 @@ highlight_shrink:
 *  通过 [zeabur](zeabur.com) 提供的服务建立了[Memos](https://seed.si-on.top)页面，采用Cloudflare [R2](https://r2.si-on.top) 作为储存桶
 *  更改了Rss3上的站点id：乌有斋为[乌有阁](https://rss3.si-on.top)
 * 更新了一些图标
+
 重新定位了个别子站点的功能，做出来特色，避免做的太宽泛而内容太多雷同
 - [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
 <!-- endtimeline -->
@@ -324,6 +325,6 @@ highlight_shrink:
 
 <!-- timeline 03-25 -->
 * 更改了日志的展示：只在feed与sitemap中隐蔽；在其他区域显示
-* ~~感谢Zeabur，部署了Alist云盘聚合站：https://alist.si-on.top/~~（于3-27日关闭，我再也不乱白嫖了！）
+* ~~感谢Zeabur，部署了Alist云盘聚合站：https://alist.si-on.top（于3-27日关闭，我再也不乱白嫖了！）~~
 <!-- endtimeline -->
 {% endtimeline %}

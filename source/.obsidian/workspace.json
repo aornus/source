@@ -50,15 +50,27 @@
             }
           },
           {
-            "id": "de7bcc40a4234aa1",
+            "id": "751be5edf3ebe90f",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "ac7d48957a1d7b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-03-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "怀旧",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,13 +116,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/日志/2023-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md"
+                "file": "_posts/生活/日志/2023-03-28.md"
               }
             }
           },
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+                "file": "_posts/生活/日志/2023-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,50 +219,19 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "de7bcc40a4234aa1",
+  "active": "ac7d48957a1d7b49",
   "lastOpenFiles": [
+    "images/20230304/Pasted image 20230328235050.png",
+    "_posts/生活/日志/2023-03-28.md",
+    "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
+    "site/index.md",
     "_posts/生活/日志/2023-03-27.md",
     "_posts/生活/日志/2022-12-08.md",
     "images/20230304/Pasted image 20230328104523.png",
     "_posts/生活/日志/2023-03-26.md",
-    "_posts/生活/日志/2023-03-28.md",
-    "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
     "about/index.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.1 TC4型钛合金的热处理工艺.md",
-    "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.3 钛合金组织分析方法.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
-    "_posts/学习/🛦钛金笔记/开题报告.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
-    "_drafts/Temolate/sands.md",
-    "_posts/废纸篓/生命游戏.md",
-    "_posts/生活/日志/2023-03-25.md",
-    "_posts/生活/日志/2023-03-24.md",
-    "_posts/生活/日志/2023-03-25 (conflicted copy 2023-03-25 101351).md",
-    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
-    "images/20230304/Pasted image 20230325205907.png",
-    "images/20230304/Pasted Image 20230325175402.jpeg",
-    "images/20230304/Pasted Image 20230325154500.jpeg",
-    "images/20230304/Pasted Image 20230325173115.jpeg",
-    "MessageBoard/index.md",
-    "images/20230304/Pasted image 20230325201753.png",
-    "images/20230304/Pasted image 20230325201513.png",
-    "images/20230304/Pasted image 20230325201416.png",
-    "images/20230304/Pasted image 20230325200857.png",
-    "未命名.canvas",
-    "未命名 6.canvas",
-    "未命名 5.canvas",
-    "未命名 4.canvas",
-    "未命名 3.canvas",
-    "未命名 2.canvas",
-    "未命名 1.canvas",
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
-    "_posts/生活/📖涵泳/涵泳总录.md",
-    "_posts/生活/📖涵泳/思考与读书.md",
-    "_posts/生活/📖涵泳/阅读要义.md",
-    "_posts/生活/日志/2023-03-21.md",
-    "_posts/生活/日志/2023-02-24.md",
-    "images/Cover/memos.svg"
+    "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md"
   ]
 }
