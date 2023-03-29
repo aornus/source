@@ -819,7 +819,7 @@ newest_comments:
 translate:
   enable: true
   # The text of a button
-  default: 2
+  default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -915,8 +915,8 @@ aplayerInject:
 snackbar:
   enable: true
   position: top-right
-  bg_light: '#B7C1DA' # The background color of Toast Notification in light mode
-  bg_dark: '#4C5469' # The background color of Toast Notification in dark mode
+  bg_light: '#fe1125' # The background color of Toast Notification in light mode
+  bg_dark: '#d80d11' # The background color of Toast Notification in dark mode
 
 # https://instant.page/
 # prefetch (預加載)
