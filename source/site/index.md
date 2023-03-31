@@ -95,13 +95,12 @@ highlight_shrink:
 
 <!-- timeline 11-25 -->
 
-删除了所有不必要的内容，封笔，进入了短暂的休整期。
+进入沉静期，为期一月：封笔。
 
 <!-- endtimeline --> 
 
 <!-- timeline 12-27 -->
-
-进入期末复习，更新了一些学习笔记。
+沉静期结束：删除了一些不必要的内容，更新了一些学习笔记。
 
 <!-- endtimeline --> 
 
@@ -331,4 +330,12 @@ highlight_shrink:
 <!-- timeline 03-28 -->
 开启了繁体中文支持
 <!-- endtimeline -->
+
+<!-- timeline 03-31 -->
+开始沉静期，解冻时间：4-21日开斋节，期间个人调整：
+1. 暂时关闭本站评论（如需联系，请Email我：mailto:me@si-on.top）
+2. 只简单记录日志，更新论文，并停止一切不必要文章写作
+3. 停止发布照片到500px、图虫等平台
+<!-- endtimeline -->
+
 {% endtimeline %}

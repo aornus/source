@@ -295,7 +295,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus
-  use: waline # Valine,Disqus
+  use: # waline # Valine,Disqus
   text: false # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -754,7 +754,8 @@ aside:
       link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
   card_announcement:
     enable: true
-    content: 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
+    content: 开始沉静期，解冻时间：4-21日开斋节。暂时关闭本站评论，如需联系，请Email我：mailto:me@si-on.top
+    # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
     #虚室生白，吉祥止止。
     # 深切缅怀江泽民同志!
     #『创造它，使用它，改进它，与它融为一体。--李振藩』
