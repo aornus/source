@@ -338,4 +338,9 @@ highlight_shrink:
 3. 停止发布照片到500px、图虫等平台
 <!-- endtimeline -->
 
+
+<!-- timeline 04-03 -->
+1. 把Xlog上的文章转移到主站
+2. 采用R2作为图床
+<!-- endtimeline -->
 {% endtimeline %}
