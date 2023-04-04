@@ -506,7 +506,8 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics: UA-220268456-1
+google_analytics: 
+# UA-220268456-1 拖慢速度，再见2023-4-3
 
 # CNZZ Analytics
 # https://www.umeng.com/
