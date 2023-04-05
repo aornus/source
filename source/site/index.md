@@ -26,6 +26,7 @@ highlight_shrink:
 
 ## 网站小事记
 
+{% hideToggle 2020年博客大事记,bg,green %}
 {% timeline 2020,green %}
 
 <!-- timeline 3-20 -->
@@ -59,6 +60,9 @@ highlight_shrink:
 
 {% endtimeline %}
 
+{% endhideToggle %}
+
+{% hideToggle 2020年博客大事记,bg,pink %}
 {% timeline 2021,pink %}
 <!-- timeline 2-14 -->
 有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
@@ -107,6 +111,9 @@ highlight_shrink:
 
 {% endtimeline %}
 
+{% endhideToggle %}
+
+{% hideToggle 2022年博客大事记,bg,blue %}
 {% timeline 2022,blue %}
 
 <!-- timeline 02-05 -->
@@ -270,6 +277,8 @@ highlight_shrink:
 <!-- endtimeline -->
 {% endtimeline %}
 
+{% endhideToggle %}
+
 {% timeline 2023,red %}
 <!-- timeline 01-03 -->
 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
@@ -342,5 +351,12 @@ highlight_shrink:
 <!-- timeline 04-03 -->
 1. 把Xlog上的文章转移到主站
 2. 采用R2作为图床
+<!-- endtimeline -->
+
+
+<!-- timeline 04-05 -->
+1. 隐藏了2月份以前字数比较少的日记
+2. 对部分文章进行了调整
+> 感谢个站商店管理员提出的宝贵意见
 <!-- endtimeline -->
 {% endtimeline %}
