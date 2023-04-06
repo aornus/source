@@ -24,7 +24,7 @@ highlight_shrink:
 <!--{% btn '/categories/Hexo/',Hexo,far fa-hand-point-right,outline green larger %}-->
 </div>
 
-## 网站小事记
+## 网站大事记
 
 {% hideToggle 2020年博客大事记,bg,green %}
 {% timeline 2020,green %}
@@ -62,7 +62,7 @@ highlight_shrink:
 
 {% endhideToggle %}
 
-{% hideToggle 2020年博客大事记,bg,pink %}
+{% hideToggle 2021年博客大事记,bg,pink %}
 {% timeline 2021,pink %}
 <!-- timeline 2-14 -->
 有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
