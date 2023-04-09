@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "_posts/生活/日志/2023-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/index.md",
+                "file": "_posts/生活/日志/2023-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/index.md"
+                "file": "_posts/生活/日志/2023-04-09.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/index.md",
+                "file": "_posts/生活/日志/2023-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,16 +196,23 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false,
-      "hidden-folder-obsidian:隐藏文件夹": false
+      "obsidian-memos:Memos": false
     }
   },
   "active": "356c6a4160fc0802",
   "lastOpenFiles": [
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "about/index.md",
-    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
+    "_posts/生活/日志/2023-04-03.md",
+    "_posts/生活/日志/2023-04-04.md",
     "_posts/生活/日志/2023-04-09.md",
+    "_posts/生活/日志/2023-04-05.md",
+    "_posts/生活/日志/2023-04-07.md",
+    "_posts/生活/日志/2023-04-08.md",
+    "_posts/生活/计划总结/铀石周结001.md",
+    "_posts/生活/计划总结/铀石周结010.md",
+    "_posts/生活/日志/2023-04-10.md",
+    "about/index.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
+    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/抠图.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/图层.md",
@@ -214,21 +220,13 @@
     "_posts/生活/📷摄影思考/🔍破解影像/直方图解读.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色练习.md",
-    "_posts/生活/日志/2023-04-05.md",
     "_posts/生活/日志/2023-04-06.md",
-    "_posts/生活/日志/2023-04-07.md",
-    "_posts/生活/日志/2023-04-08.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/生活/📖涵泳/辞湖.md",
     "_posts/生活/📖涵泳/涵泳总录.md",
     "_posts/生活/📖涵泳/思考与读书.md",
     "_posts/生活/📖涵泳/阅读要义.md",
     "_posts/生活/📷摄影思考/🛠️图像修复/污点修复.md",
-    "_posts/生活/日志/2023-02-17.md",
-    "_posts/生活/日志/2023-02-16.md",
-    "_posts/生活/日志/2023-02-18.md",
-    "_posts/生活/日志/2023-02-19.md",
-    "_posts/生活/日志/2023-02-20.md",
     "_posts/生活/📷摄影思考/🤖ai辅助",
     "_posts/生活/📷摄影思考/📱手机修图",
     "_posts/生活/📷摄影思考/🦄创意合成",
