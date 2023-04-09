@@ -519,7 +519,7 @@ cloudflare_analytics:
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
-microsoft_clarity: 
+microsoft_clarity: g0s61bbj3n
  #严重影响加载速度，舍弃之2023-3-6，
  #老分析代码，eb4s36tfy5，20230227更改为g0s61bbj3n
 

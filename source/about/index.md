@@ -7,11 +7,10 @@ aside: false
 highlight_shrink: true
 description: 关于站点与站长的简单介绍
 ---
-
+<!-- {% btn '/about',页面完善中，更新时间：2023/4/9, fa-solid fa-history,block center outline right green larger %} -->
 {% note warning %}
 页面完善中...
 {% endnote %}
-
 > 人是各种社会关系的总和，博客是人与内容的总和。
 
 ## 关于博客站点——子虚栈
@@ -29,8 +28,6 @@ description: 关于站点与站长的简单介绍
 就数据而言，它由Cloudflare提供的分布于世界各地的主机提供的。
 
 就内容而言，它是所有者日常生活中各种念头的具象化——以文本与影像为载体。
-#### 一些文章
-{% btn '/2022/blogwriteguide',博客写作方法论,far fa-hand-point-right,green larger %}
 
 就网站主体的筑建而言，它是许多开源项目的组合。
 #### 博客骨架的创造者们
@@ -105,13 +102,16 @@ description: 关于站点与站长的简单介绍
 
 就内容目标而言，它将包含材料科学、数学、计算机科学、心理学、生活技能学等方面的内容，这也是初心所在。
 
-
 就终极目标而言，它是要让所有者在写作过程中不断完善人生观，认识自身，摆脱局限性，并探寻人生的意义。
+### 对于来访者的态度
+本站**坚决**尊重所有来访者对于隐私与个人信息保护的强烈需求，但为了能让所有者可以更好地维护站点（~~其实是虚荣心作祟~~），本站使用了一些分析工具，它们会在访客浏览过程中，收集包括**浏览器标识、ip地址、地理位置、电子邮件**等信息。所有者**坚决**承诺不会将收集的数据泄露给任何其他组织机构！
 
-{% note info simple%}
-欢迎订阅电报频道：[Also Sprach Sion](https://t.me/siontalk)
-讨论群：[🐣里世界](https://t.me/sionDaoDaoDao)
-{% endnote %}
+本站用到的分析工具有
+1. [ClustrMaps](https://clustrmaps.com/policy)：会收集浏览器标识、ip地址。
+2. [Microsoft Clarity](https://privacy.microsoft.com/zh-cn/privacystatement)：收集访问操作过程和资源加载情况 。
+3. [Waline](https://waline.js.org/advanced/privacy.html)：收集评论者的浏览器标识、ip地址等。
+
+对于那些不放心的来访者，您可以打开浏览器自带的隐私保护设置、广告拦截插件等进行追踪屏蔽。
 ## 关于博客作者
 
 <div class="btn-center">
@@ -130,10 +130,11 @@ description: 关于站点与站长的简单介绍
 - 性别:♂
 - 年龄: 22(2001)
 - 贯籍: 河南
-- 受教育水平: 大学
+- 受教育水平: 大学本科
+- 现阶段: 二战/Gap year
 
-### 公钥
-
+## 公钥
+本站提供公钥来满足加密信息传递的需求，您可以使用本站的公钥加密信息，而此信息只有拥有私钥的所有者才可以解密。
 #### GPG/PGP公钥
 ```asc 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -182,6 +183,8 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 |   .             |
 +----[SHA256]-----+
 ```
+
+
 
 <!---
 ## 兴趣（小结于壬寅年冬）
