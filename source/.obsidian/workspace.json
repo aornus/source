@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/💻操作系统/note-for-linux.md",
+                "file": "_posts/生活/日志/2023-04-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "音乐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/💻操作系统/note-for-linux.md",
+                "file": "_posts/生活/日志/2023-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/💻操作系统/note-for-linux.md"
+                "file": "_posts/生活/日志/2023-04-12.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/💻操作系统/note-for-linux.md",
+                "file": "_posts/生活/日志/2023-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,10 @@
   },
   "active": "21bfeba7bf717e41",
   "lastOpenFiles": [
+    "AwesomeHub/index.md",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/日志/2023-04-12.md",
+    "_posts/学习/💻操作系统/note-for-linux.md",
     "_posts/生活/日志/2023-04-11.md",
     "_posts/生活/日志/2023-04-10.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
@@ -205,9 +208,6 @@
     "_posts/生活/📷摄影思考/🔍破解影像/直方图应用.md",
     "_posts/生活/📷摄影思考/🔍破解影像/直方图解读.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色练习.md",
-    "_posts/生活/日志/2023-04-06.md",
-    "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/生活/📷摄影思考/🤖ai辅助",
     "_posts/生活/📷摄影思考/📱手机修图",
     "_posts/生活/📷摄影思考/🦄创意合成",

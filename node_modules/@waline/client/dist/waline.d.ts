@@ -489,7 +489,7 @@ interface WalineInitOptions extends Omit<WalineProps, 'path'> {
 type WalineAbort = (reason?: any) => void;
 
 type Locales = Record<string, WalineLocale>;
-declare const defaultLocales: Locales;
+declare const DEFAULT_LOCALES: Locales;
 
 interface WalineCommentCountOptions {
     /**
@@ -707,4 +707,4 @@ interface WalineUserListResult {
 }
 declare const UserList: ({ el, serverURL, count, locale, lang, mode, }: WalineUserListOptions) => Promise<WalineUserListResult>;
 
-export { RecentComments, UserList, WalineAbort, WalineComment, WalineCommentCountOptions, WalineCommentData, WalineCommentSorting, WalineCommentStatus, WalineDateLocale, WalineEmojiInfo, WalineEmojiMaps, WalineEmojiPresets, WalineHighlighter, WalineImageUploader, WalineInitOptions, WalineInstance, WalineLevelLocale, WalineLocale, WalineLoginStatus, WalineMeta, WalinePageviewCountOptions, WalineProps, WalineReactionLocale, WalineRecentCommentsOptions, WalineRecentCommentsResult, WalineSearchImageData, WalineSearchOptions, WalineSearchResult, WalineTexRenderer, WalineUserListOptions, WalineUserListResult, commentCount, defaultLocales, init, pageviewCount, version };
+export { RecentComments, UserList, WalineAbort, WalineComment, WalineCommentCountOptions, WalineCommentData, WalineCommentSorting, WalineCommentStatus, WalineDateLocale, WalineEmojiInfo, WalineEmojiMaps, WalineEmojiPresets, WalineHighlighter, WalineImageUploader, WalineInitOptions, WalineInstance, WalineLevelLocale, WalineLocale, WalineLoginStatus, WalineMeta, WalinePageviewCountOptions, WalineProps, WalineReactionLocale, WalineRecentCommentsOptions, WalineRecentCommentsResult, WalineSearchImageData, WalineSearchOptions, WalineSearchResult, WalineTexRenderer, WalineUserListOptions, WalineUserListResult, commentCount, DEFAULT_LOCALES as defaultLocales, init, pageviewCount, version };
