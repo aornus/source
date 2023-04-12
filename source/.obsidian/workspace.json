@@ -16,43 +16,19 @@
             }
           },
           {
-            "id": "2842e20f397b48d3",
+            "id": "21bfeba7bf717e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356c6a4160fc0802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-04-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5cacfcb2f66def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/Markdown.md",
+                "file": "_posts/学习/💻操作系统/note-for-linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-04-09.md",
+                "file": "_posts/学习/💻操作系统/note-for-linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-04-09.md"
+                "file": "_posts/学习/💻操作系统/note-for-linux.md"
               }
             }
           },
@@ -159,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-04-09.md",
+                "file": "_posts/学习/💻操作系统/note-for-linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,16 +172,25 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false,
-      "hidden-folder-obsidian:隐藏文件夹": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "356c6a4160fc0802",
+  "active": "21bfeba7bf717e41",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-12.md",
+    "_posts/生活/日志/2023-04-11.md",
+    "_posts/生活/日志/2023-04-10.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
+    "_posts/生活/日志/2023-04-09.md",
+    "_posts/学习/🔡语言学习/English/不干不净，碰了没病.md",
+    "_posts/学习/🔡语言学习/English/娱乐·英语.md",
+    "_posts/学习/🔡语言学习/English",
+    "_posts/学习/🔡语言学习",
+    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
+    "未命名.canvas",
+    "_posts/生活/日志/2023-04-09_1.md",
     "images/Cover/Bruce lee.svg",
     "images/Cover/资源 9路线.svg",
-    "_posts/生活/日志/2023-04-10.md",
-    "_posts/生活/日志/2023-04-09.md",
     "_posts/生活/日志/2023-04-03.md",
     "_posts/生活/日志/2023-04-04.md",
     "_posts/生活/日志/2023-04-05.md",
@@ -214,8 +199,6 @@
     "_posts/生活/计划总结/铀石周结001.md",
     "_posts/生活/计划总结/铀石周结010.md",
     "about/index.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "_posts/学习/⌨️软件编程/hexo/Markdown.md",
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/抠图.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/图层.md",
@@ -225,10 +208,6 @@
     "_posts/生活/📷摄影思考/🔦调色与影调/调色练习.md",
     "_posts/生活/日志/2023-04-06.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "_posts/生活/📖涵泳/辞湖.md",
-    "_posts/生活/📖涵泳/涵泳总录.md",
-    "_posts/生活/📖涵泳/思考与读书.md",
-    "_posts/生活/📖涵泳/阅读要义.md",
     "_posts/生活/📷摄影思考/🤖ai辅助",
     "_posts/生活/📷摄影思考/📱手机修图",
     "_posts/生活/📷摄影思考/🦄创意合成",

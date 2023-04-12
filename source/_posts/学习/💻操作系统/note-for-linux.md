@@ -2,6 +2,7 @@
 title: linux 常用命令记录
 tags:
   - 奇技淫巧
+  - LaTeX
 categories:
   - 学习
   - "\U0001F4BB操作系统"
@@ -126,7 +127,7 @@ n stable 升级node.js到最新稳定版
 * -B	显示指定的公钥/私钥文件的摘要。
 * **-b    指定密钥长度。对于RSA密钥，最小要求768位，默认是2048位。**DSA密钥必须恰好是1024位(FIPS 186-2 标准的要求)。
 * **-C	提供一个新注释**
-* -c    要求修改私钥和公钥文件中的注释。。
+* -c    要求修改私钥和公钥文件中的注释。
 * **-f	指定密钥文件名。**
 * -l	显示公钥文件的指纹数据。它也支持 RSA1 的私钥。对于RSA和DSA密钥，将会寻找对应的公钥文件，然后显示其指纹数据。
 * -N	提供一个新的密语。
@@ -188,9 +189,18 @@ sudo rm -rf ~/.local/share/Trash/*
 
 > 使用htlatex可以把文档编译成html格式
 
-###  Pandoc使用：
+###  Pandoc使用
 
 [pandoc 强大的文档格式转换工具 | Omics - Hunter](https://evvail.com/2021/02/02/2184.html)
+### LaTeX
+1. LaTex报错：Reference ‘xxx‘ on page ‘xxx‘ undefined on input line ‘xxx‘[^2]
+
+解决方法：
+```latex \label 必须放在 \caption 之后写，否则会报如题错误。
+\caption{table xxx}
+\label{reference xxx}
+```
 
 
 [^1]:[The Recommended Way To Clean The Package Cache In Arch Linux](https://ostechnix.com/recommended-way-clean-package-cache-arch-linux/) 
+[^2]: [LaTex报错：Reference ‘xxx‘ on page ‘xxx‘ undefined on input line ‘xxx‘_Su_Yuan97的博客-CSDN博客](https://blog.csdn.net/NEU_Yuan/article/details/129539364)
