@@ -988,6 +988,7 @@ inject:
     - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />
     - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
     # - <link rel="preconnect" href="https://gstatic.loli.net">
+    - <meta name="referrer" content="no-referrer" />
     
     
   bottom:

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-12.md",
+                "file": "_posts/生活/日志/2023-04-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-04-12.md",
+                "file": "_posts/生活/日志/2023-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-04-12.md"
+                "file": "_posts/生活/日志/2023-04-13.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-04-12.md",
+                "file": "_posts/生活/日志/2023-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +174,22 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "21bfeba7bf717e41",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-13.md",
+    "_posts/生活/日志/2023-04-09.md",
+    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
+    "_posts/生活/日志/2023-04-12.md",
     "AwesomeHub/index.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
-    "_posts/生活/日志/2023-04-12.md",
     "_posts/学习/💻操作系统/note-for-linux.md",
     "_posts/生活/日志/2023-04-11.md",
     "_posts/生活/日志/2023-04-10.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "_posts/生活/日志/2023-04-09.md",
     "_posts/学习/🔡语言学习/English/不干不净，碰了没病.md",
     "_posts/学习/🔡语言学习/English/娱乐·英语.md",
     "_posts/学习/🔡语言学习/English",
@@ -206,8 +211,6 @@
     "_posts/生活/📷摄影思考/🪄图层与抠图/抠图.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/图层.md",
     "_posts/生活/📷摄影思考/🔍破解影像/直方图应用.md",
-    "_posts/生活/📷摄影思考/🔍破解影像/直方图解读.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
     "_posts/生活/📷摄影思考/🤖ai辅助",
     "_posts/生活/📷摄影思考/📱手机修图",
     "_posts/生活/📷摄影思考/🦄创意合成",
