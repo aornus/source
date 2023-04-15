@@ -359,4 +359,9 @@ highlight_shrink:
 2. 对部分文章进行了调整
 > 感谢个站商店管理员提出的宝贵意见
 <!-- endtimeline -->
+
+<!-- timeline 04-15 -->
+1. 更改字体为思源宋体。（霞鹜文楷看腻了）
+2. 更改配色为$\text{\color{yellow}活力黄}$
+<!-- endtimeline -->
 {% endtimeline %}

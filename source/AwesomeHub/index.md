@@ -194,7 +194,9 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
 1. 自带魔法的电报：https://nekogram.app/
 2. Windows11自动切换暗色亮色模式：https://github.com/Armin2208/Windows-Auto-Night-Mode
 2. Steam，discord等软件与网站的附魔神器：https://steampp.net/
-
+### fontawsome
+-   [图标样式](https://www.runoob.com/font-awesome/fontawesome-reference.html)
+-   [动态样式](https://l-lin.github.io/font-awesome-animation/)
 ## 记录📑
 
 ### 家谱图绘制($\LaTeX$)
