@@ -363,5 +363,8 @@ highlight_shrink:
 <!-- timeline 04-15 -->
 1. 更改字体为思源宋体。（霞鹜文楷看腻了）
 2. 更改配色为$\text{\color{yellow}活力黄}$
+3. 更改点击特效为文字；美化博文标题样式
+3. 增加文章编辑入口，如果有人看见文章问题，或者想要添加内容，欢迎pr
+4. 开启pjax以提高加载速度
 <!-- endtimeline -->
 {% endtimeline %}

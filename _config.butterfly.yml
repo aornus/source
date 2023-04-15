@@ -239,10 +239,10 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:
+  url: https://github.com/aornus/source/edit/main/source/
 
 # Related Articles
 related_post:
@@ -657,7 +657,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: true
+  enable: false
   color: '200,200,200' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)线条颜色
   opacity: 0.5 # the opacity of line (0~1), default: 0.5.线条透明度
   zIndex: -1 # z-index property of the background, default: -1.画面层级
@@ -680,19 +680,47 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - 🚫愤世嫉俗 玩世不恭🚫
+    - 🚫拒绝沉没成本🚫
+    - 批判力+1
+    - 行动力+1
+    - 📕循序渐进 熟读精思 
+    - 📕虚心涵泳 切己体察 
+    - 📕着紧用力 居敬持志
+    - 精益求精
+    - 保持余裕
+    - 轻重缓急
+    - 未雨绸缪
+    - 保持好奇
+    - 🧘‍Let is come，let it do，let it go!
+    - ䷊无平不陂，无往不复。艰贞无咎。勿恤其孚，于食有福。
+    - ䷋倾否，先否后喜。
+    - ䷗不远复，无只悔，元吉。
+    - ䷘无妄，往吉。
+    - 🌙虚室生白，吉祥止止。
+    - 🌇去看一次日落
+    - 理性+1
+    - 冷静+1
+    - 满足+1
+    - 改变+1
+    - 👨‍👩‍👧‍👦父兮生我，母兮鞠我。拊我畜我，长我育我，顾我复我，出入腹我。欲报之德。昊天罔极！
+    - 💣如临深渊，如履薄冰。
+    - ❌孤芳自赏 顾影自怜❌
+    - ⛔抱怨-1⛔
+    - ⛔浮躁-1⛔
+
+
+
   fontSize: 15px
-  random: false
-  mobile: false
+  random: true
+  mobile: true
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
@@ -700,10 +728,10 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: false
+  enable: true
   field: site # site/post
-  title-prefix-icon: '\f0c1'
-  title-prefix-icon-color: '#F47466'
+  title-prefix-icon: '\f1dd'
+  title-prefix-icon-color: '#000000'
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -799,7 +827,7 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
     enable: true
-    limit: 0 # if set 0 will show all
+    limit: 10 # if set 0 will show all
     color: false
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
@@ -832,9 +860,9 @@ runtimeshow:
 newest_comments:
   enable: false
   sort_order: # Don't modify the setting unless you know how it works
-  limit: 6
+  limit: 0
   storage: 10 # unit: mins, save data to localStorage
-  avatar: true
+  avatar: false
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
@@ -928,7 +956,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
@@ -984,10 +1012,10 @@ pwa:
 Open_Graph_meta:
   enable: true
   option:
-    # twitter_card:
-    # twitter_image:
-    # twitter_id:
-    # twitter_site:
+    twitter_card: summary_large_image
+   # twitter_image:
+    twitter_id: 秉蕳
+    twitter_site: 子虚栈
     # google_plus:
     # fb_admins:
     # fb_app_id:

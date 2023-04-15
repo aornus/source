@@ -325,20 +325,6 @@ markdown_it_plus:
 #       smartLists: true
 #       smartypants: true
 
-# hexo-butterfly-vanta
-vanta:
-  enable: false
-  effect: birds
-  option:
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: false,
-    minHeight: 200.00,
-    minWidth: 200.00,
-    amplitudeFactor: 1.60,
-    xOffset: -0.03,
-    size: 0.50
-
 # hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
 swiper:
@@ -361,10 +347,10 @@ swiper:
 charts:
   enable: true # 是否启用功能
   postsChart:
-    title: 文章统计 # 设置文章发布统计的标题，默认为空
+    title:  # 设置文章发布统计的标题，默认为空
     interval: 0  # 横坐标间隔
   tagsChart:
-    title: 标签统计 # 设置标签统计的标题，默认为空
+    title:  # 设置标签统计的标题，默认为空
     interval: 0 # 横坐标间隔
   postsCalendar_title: #文章发布日历 # 设置发布日历的标题，默认为空
   categoriesChart_title: # 设置分类统计的标题，默认为空
