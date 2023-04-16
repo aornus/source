@@ -21,38 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d25a54fb0e0c2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c2def61d83c54bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "吉",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md"
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md"
               }
             }
           },
@@ -160,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-03-23.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,13 +176,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2d25a54fb0e0c2a8",
+  "active": "7fb7feb9485c3339",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo添加tikz支持.md",
+    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+    "_posts/生活/日志/2023-04-16.md",
+    "Minds/2020-2023/index.md",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2022-12-07.md",
     "_posts/生活/日志/2023-03-23.md",
     "_posts/生活/日志/2023-03-27.md",
-    "_posts/生活/日志/2023-04-16.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "_drafts/Temolate/sands.md",
     "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
@@ -227,10 +206,6 @@
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色练习.md",
-    "_posts/生活/日志/2023-04-13.md",
-    "_posts/生活/日志/2023-04-09.md",
-    "_posts/生活/日志/2023-04-12.md",
-    "AwesomeHub/index.md",
     "_posts/学习/🔡语言学习/English",
     "_posts/学习/🔡语言学习",
     "未命名.canvas",

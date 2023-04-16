@@ -1353,7 +1353,7 @@ Nyos- Luna
 > 2021-12-31 00:13:27
 
 
-[#Hexo_theme #](http://rc.qzone.qq.com/qzonesoso/?search=Hexo_theme%20)Paper [#bloger's daily #](http://rc.qzone.qq.com/qzonesoso/?search=bloger's%20daily%20)github
+[Hexo_theme #](http://rc.qzone.qq.com/qzonesoso/?search=Hexo_theme%20)Paper [#bloger's daily #](http://rc.qzone.qq.com/qzonesoso/?search=bloger's%20daily%20)github
 
 
 Serif, better font for better blog! Before 2022, an liiiiiiittle mirror blog[^1] site is ready.

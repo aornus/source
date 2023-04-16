@@ -417,3 +417,14 @@ baidu_url_submit:
   host: https://blog.si-on.top # 在百度站长平台中注册的域名
   token: lai1Su1QeskQzoHx # 百度站长密钥
   path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里，这个默认
+
+# 思维导图
+hexo_markmap:
+  pjax: true
+  katex: true
+  prism: false
+  CDN:
+    d3_js: https://fastly.jsdelivr.net/npm/d3@6
+    markmap_view_js: https://fastly.jsdelivr.net/npm/markmap-view@0.2.7
+    katex_css: https://fastly.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css
+    prism_css: https://fastly.jsdelivr.net/npm/prismjs@1.25.0/themes/prism.css
