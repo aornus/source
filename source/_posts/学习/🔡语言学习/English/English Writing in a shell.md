@@ -25,9 +25,10 @@ description:
 sticky:
 keywords:
 ---
+> 脱离语境的句子，如同鸟的标本，没有了生命；融入语境的句子，才是自由飞翔的小鸟。
+> ——张满胜(新东方教师)
 
-## Footpoint of Article 
-{% timeline %}
+{% timeline Footpoint of Article, %}
 <!-- timeline 2023-03-25-->
 Just Done 《WenXin》, Want to improve both Chinese and English writing skill, search realted books from Douban, finally get an old book ehat named *The writing of english*, and published in 1985, written by Ge Chuan gui. begin to reading.
 <!-- endtimeline -->

@@ -9,7 +9,7 @@ menu:
   云盘: https://cloud.si-on.top || fas fa-cloud
   奇货: /AwesomeHub/ || fas fa-box
   广播: /Fm/ || fa fa-podcast
-#  查机: https://chat.si-on.top || fas fa-star-of-david
+  查机: https://chatnext.si-on.top || fas fa-star-of-david
 #  闪念: https://seed.si-on.top || fas fa-seedling
  私人||fas fa-coffee:
   捉影: /gallery/ || fas fa-camera
@@ -558,13 +558,13 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#414141" #主色调、影响评论
+  main: "#FFE411" #主色调、影响评论
   paginator: "#FFE411"  #页码
   button_hover: "#FFE411"  # 按钮背景、移动到按钮上颜色
   text_selection: "#000000" # 选中状态
   link_color: "#3216B0" #链接颜色
- # meta_color: "#000000" # 主颜色、链接、日期颜色
-  hr_color: "#000000" #
+ # meta_color: "#858585" # 主颜色、链接、日期颜色
+  hr_color: "#A4D8FA" #
   code_foreground: "#E266B7"
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#FFE411" #目录颜色
@@ -736,7 +736,7 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-    global-font-size: 15px
+    global-font-size: 16px
     code-font-size: 
     font-family: "Noto Serif SC"
     #font-family: "LXGW WenKai"
@@ -903,7 +903,7 @@ rightside_scroll_percent: true
 rightside_item_order:
   enable: true
   hide: # readmode,translate,darkmode,hideAside
-  show: darkmode,translate,readmode,comment
+  show: darkmode,hideAside,translate,readmode,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------
@@ -972,7 +972,7 @@ aplayerInject:
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
   enable: true
-  position: top-right
+  position: top-center
   bg_light: '#FFE411' # The background color of Toast Notification in light mode
   bg_dark: '#FFE411' # The background color of Toast Notification in dark mode
   # bg_light: '#fe1125' # The background color of Toast Notification in light mode
@@ -1034,7 +1034,7 @@ inject:
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Bold.otf" type="font/otf" crossorigin="anonymous">
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700" crossorigin >
     # - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
-    - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@400;500,600;700,800,900&display=swap" rel="stylesheet">
+    - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@500,600;700,800,900&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
     #- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />

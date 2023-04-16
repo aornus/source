@@ -33,13 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-09.md",
+                "file": "_posts/生活/日志/2023-04-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,14 +157,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "12a4b856040c597d",
+  "active": "9c5cf2a5ab19f893",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-16.md",
+    "images/20230304/IMG_20230414_004123.jpg",
+    "_posts/生活/日志/2023-04-09.md",
+    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
     "_posts/生活/日志/2023-04-15.md",
     "_posts/生活/日志/2023-04-14.md",
     "_posts/生活/日志/2023-04-13.md",
     "_posts/生活/日志/2023-04-12.md",
     "_posts/生活/日志/2023-04-11.md",
-    "_posts/生活/日志/2023-04-09.md",
     "_posts/生活/日志/2023-04-10.md",
     "_posts/生活/日志/2023-04-07.md",
     "_posts/生活/日志/2023-04-06.md",
@@ -189,12 +193,8 @@
     "images/20230304/Pasted Image 20230325175402.jpeg",
     "images/20230304/Pasted Image 20230325173115.jpeg",
     "images/20230304/Pasted Image 20230325154500.jpeg",
-    "_posts/生活/日志/2023-03-23.md",
-    "_posts/生活/📖涵泳/辞湖.md",
-    "_posts/生活/日志/2023-03-21.md",
     "about/index.md.tacitpart",
     "images/20221012/pic_003.jpg",
-    "images/20221012/pic_005.jpg",
     "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]

@@ -364,10 +364,10 @@ highlight_shrink:
 > 感谢个站商店管理员提出的宝贵意见
 <!-- endtimeline -->
 
-<!-- timeline 04-15 -->
+<!-- timeline 04-15 (Feature+++) -->
 1. 更改字体为思源宋体。（霞鹜文楷看腻了）
 2. 更改配色为$\text{\color{yellow}活力黄}$
-3. 更改点击特效为文字；美化各层级标题样式
+3. 更改点击特效为文字；美化各层级标题样式；修改段落`<p>`缩进为`2em`;
 3. 删除文章日历
 4. 增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）
 4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)

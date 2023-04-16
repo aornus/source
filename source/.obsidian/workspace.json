@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "7fb7feb9485c3339",
+            "id": "bb5d0081b757963b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+                "file": "_posts/生活/日志/2023-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,6 +29,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d3ae8ee1babdc78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33df1c5afb143c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -94,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+                "file": "_posts/生活/日志/2023-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md"
+                "file": "_posts/生活/日志/2023-04-16.md"
               }
             }
           },
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+                "file": "_posts/生活/日志/2023-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +195,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7fb7feb9485c3339",
+  "active": "33df1c5afb143c10",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-15.md",
     "_posts/生活/日志/2023-04-16.md",
+    "_posts/生活/日志/2023-04-10.md",
+    "_posts/生活/日志/2023-04-13.md",
+    "_posts/生活/日志/2023-04-14.md",
+    "_posts/生活/日志/2023-04-12.md",
+    "_posts/生活/日志/2023-04-11.md",
+    "_posts/生活/日志/2023-04-09.md",
+    "_posts/生活/日志/2023-04-08.md",
+    "_posts/生活/日志/2023-03-23.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "images/20230304/IMG_20230414_004123.jpg",
+    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
+    "_posts/生活/🎭人的底层逻辑/社会助长.md",
+    "_posts/生活/🎭人的底层逻辑/自信.md",
+    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
     "_data/calendar.json",
     "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "_posts/学习/⌨️软件编程/hexo/Hexo添加tikz支持.md",
@@ -186,26 +220,13 @@
     "Minds/2020-2023/index.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2022-12-07.md",
-    "_posts/生活/日志/2023-03-23.md",
     "_posts/生活/日志/2023-03-27.md",
     "_drafts/Temolate/sands.md",
-    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/生活/日志/2023-04-15.md",
-    "_posts/生活/日志/2023-04-14.md",
     "images/ava_Lee.svg",
     "images/Lee_jike.svg",
-    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
     "_posts/生活/🎭人的底层逻辑/人性塑造工程.md",
     "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
-    "_posts/生活/🎭人的底层逻辑/社会助长.md",
-    "_posts/生活/🎭人的底层逻辑/自信.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "_posts/生活/📷摄影思考/🛠️图像修复/污点修复.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/抠图.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/图层.md",
-    "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
     "_posts/学习/🔡语言学习/English",
     "_posts/学习/🔡语言学习",
     "未命名.canvas",
@@ -222,7 +243,6 @@
     "images/20230304/Pasted Image 20230401091423.jpeg",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/PICT_20230401_111233.jpg",
-    "images/20230304/IMG_20230401_162936.jpg",
-    "images/20230304/Pasted image 20230328235050.png"
+    "images/20230304/IMG_20230401_162936.jpg"
   ]
 }

@@ -396,7 +396,7 @@ auto_category:
  depth: 3
 
 hexo-calendar:
-  width:	800
+  width:	1000
   height:	185
   id:	calendar
   monthLang: cn

@@ -34,7 +34,7 @@ aside: false
     - name: 木子
       link: https://blog.k8s.li
       avatar: https://blog.k8s.li/avatar.png
-      descr: 简单、优质的博客
+      descr: 简单、优质、深邃的博客
     - name: 夜行人
       link: https://wwj718.github.io/
       avatar: https://wwj718.github.io/apple-touch-icon.png
@@ -51,6 +51,11 @@ aside: false
       link: https://oldj.net/
       avatar: https://oldj.net/favicon.ico
       descr:  AI/思考/阅读/编程
+    - name: CC康纳百川[+ 2023/4/16]
+      link: https://blog.ccknbc.cc
+      avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
+      descr: hexo高阶技巧博客
+
 - class_name: 网站
   class_desc: 值得推荐的网站与工具
   link_list:
