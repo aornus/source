@@ -1,0 +1,45 @@
+#article-container h1:before {
+    font-family: "iconfont";
+    content: "\e601";
+  }
+
+#article-container h2:before {
+    font-family: "iconfont";
+    content: "\e602";
+  }
+
+#article-container h3:before {
+    font-family: "iconfont";
+    content: "\e608";
+  }
+
+#article-container h4:before {
+    font-family: "iconfont";
+    content: "\e603";
+  }
+
+#article-container h5:before {
+    font-family: "iconfont";
+    content: "\e609";
+  }
+
+#article-container h6:before {
+  font-family: "iconfont";
+  content: "\e605";
+}
+
+#article-container h1:after,
+#article-container h2:after,
+#article-container h3:after,
+#article-container h4:after,
+#article-container h5:after,
+#article-container h6:after {
+  font-family: "iconfont";
+  content: "\e640";
+}
+
+/* #article-container blockquote:before {
+    font-family: "iconfont";
+    content: "\e600";
+    font-size: 24px;
+  } */

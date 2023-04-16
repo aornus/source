@@ -11,18 +11,22 @@ aplayer:
 aside: false
 highlight_shrink:
 ---
-
-<div id="posts-calendar" class="js-pjax"></div>
+ <center>
+{% calendar %}
+{"monthLang": "cn", "dayLang": "cn", "title": "博客仓库·活动日历"}
+{% endcalendar %}
+</center>
+<!-- <div id="posts-calendar" class="js-pjax"></div> -->
 <div id="posts-chart" class="js-pjax"></div>
 <div id="tags-chart" data-length="20" class="js-pjax"></div>
-<div class="btn-center">
+<!-- <div class="btn-center"> -->
 <!--{% btn '/categories/Code/',编程,far fa-hand-point-right,outline blue larger %}-->
 <!--{% btn '/categories/周刊',周刊,far fa-hand-point-right,outline pink larger %}-->
 <!-- {% btn '/categories/数学/',数学,far fa-hand-point-right,outline red larger %}
 {% btn '/categories/杂谈/',杂谈,far fa-hand-point-right,outline purple larger %}
 {% btn '/categories/材料科学/',材料科学,far fa-hand-point-right,outline orange larger %} -->
 <!--{% btn '/categories/Hexo/',Hexo,far fa-hand-point-right,outline green larger %}-->
-</div>
+<!-- </div> -->
 
 ## 网站大事记
 
@@ -363,8 +367,9 @@ highlight_shrink:
 <!-- timeline 04-15 -->
 1. 更改字体为思源宋体。（霞鹜文楷看腻了）
 2. 更改配色为$\text{\color{yellow}活力黄}$
-3. 更改点击特效为文字；美化博文标题样式
-3. 增加文章编辑入口，如果有人看见文章问题，或者想要添加内容，欢迎pr
-4. 开启pjax以提高加载速度
+3. 更改点击特效为文字；美化各层级标题样式
+3. 增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）
+4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)
+5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
 <!-- endtimeline -->
 {% endtimeline %}

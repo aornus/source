@@ -395,21 +395,21 @@ auto_category:
  enable: true
  depth: 3
 
-# hexo-calendar:
-#   width:	600
-#   height:	185
-#   id:	calendar
-#   monthLang: cn
-#   dayLang: cn
-#   title:	"calendar"	
-#   color.background:	"#f9f9f9"	
-#   color.tooltip.background:	"#555"
-#   color.tooltip.border:	"#777"	
-#   color.visualMap.inRange:	'["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"]'	
-#   color.calendar.itemBorder:	"#fff"	
-#   color.calendar.monthLabel:	"#3C4858"
-#   color.calendar.dayLabel:	"#3C4858"	
-#   color.calendar.name:	"#3C4858"	
+hexo-calendar:
+  width:	800
+  height:	185
+  id:	calendar
+  monthLang: cn
+  dayLang: cn
+  title:	"calendar"	
+  color.background:	"#f9f9f9"	
+  color.tooltip.background:	"#555"
+  color.tooltip.border:	"#777"	
+  color.visualMap.inRange:	'["#ebedf0", "#c6e48b", "#7bc96f", "#239a3b", "#196127"]'	
+  color.calendar.itemBorder:	"#fff"	
+  color.calendar.monthLabel:	"#3C4858"
+  color.calendar.dayLabel:	"#3C4858"	
+  color.calendar.name:	"#3C4858"	
 
 # 设置百度主动推送
 baidu_url_submit:
