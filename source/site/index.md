@@ -367,11 +367,11 @@ highlight_shrink:
 <!-- timeline 04-15 (Feature+++) -->
 1. 更改字体为思源宋体。（霞鹜文楷看腻了）
 2. 更改配色为$\text{\color{yellow}活力黄}$
-3. 更改点击特效为文字；美化各层级标题样式；修改段落`<p>`缩进为`2em`;
+3. 更改点击特效为文字；美化各层级标题样式；~~修改段落`<p>`缩进为`2em`~~;
 3. 删除文章日历
 4. 增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）
 4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)
 5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
-6. 【测试】增加文章推送服务，参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)
+6. 【测试】增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)
 <!-- endtimeline -->
 {% endtimeline %}
