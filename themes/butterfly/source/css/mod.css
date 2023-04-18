@@ -53,15 +53,16 @@
   font-family: "Helvetica Neue", helvetica, arial, "Heti Hei", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";;
 }
 
-
-
-
-/* #article-container blockquote:before {
+/* #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {    box-shadow: 0px 0px 0px;} */
+.layout { max-width: 1350px;}
+#article-container blockquote:before {
     font-family: "iconfont";
     content: "\e600";
     font-size: 24px;
-  } */
-/* 
+  }
+
+/* 段落首行缩进两个字符，但会导致其他内容出现问题 */
+  /* 
 #article-container p{
   text-indent: 2em;
   }  */
