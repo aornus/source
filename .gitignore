@@ -3,3 +3,4 @@ workspace.json
 *.db-wal
 *.db
 *.db-shm
+/public
