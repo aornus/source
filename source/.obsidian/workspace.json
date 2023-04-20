@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
+                "file": "_posts/生活/🪶杂谈/魔戒制造手册.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,13 +42,15 @@
           {
             "id": "860a85b25884aeec",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-20.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -81,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "魔戒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-04-20.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-04-20.md"
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md"
               }
             }
           },
@@ -159,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-04-20.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,6 +205,11 @@
   },
   "active": "860a85b25884aeec",
   "lastOpenFiles": [
+    "_posts/生活/🪶杂谈/魔戒制造手册.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
+    "_posts/生活/日志/2023-04-20.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
     "images/avator/lee.png",
     "images/avator/lee_full.png",
     "images/avator/blue.png",
@@ -212,7 +220,6 @@
     "images/avator/ultrman.png",
     "images/avator/spotify.png",
     "images/avator/sith.png",
-    "images/avator/red.png",
     "images/avator/秉蕳_white.png.tmp$$",
     "images/avator/秉蕳_ultrman.png.tmp$$",
     "images/avator/秉蕳_spotify.png.tmp$$",
@@ -224,10 +231,6 @@
     "images/avator/秉蕳_plus.png.tmp$$",
     "images/avator/秉蕳_jike.png.tmp$$",
     "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "_posts/生活/日志/2023-04-20.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "_posts/生活/日志/2023-04-18.md",
     "_posts/生活/📷摄影思考/图片与文本.md",
