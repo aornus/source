@@ -9,7 +9,6 @@ categories:
   - hexo
 cover: ../../../../images/blogimage/raw/master/hexo.svg
 description: 让hexo快速从云端落地
-swiper_index: 8
 abbrlink: hexo-quickest
 date: 2021-12-19 19:43:42
 katex:

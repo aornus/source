@@ -73,6 +73,7 @@
     box-shadow: none!important;
     border-radius: 12px;
     box-sizing: border-box;
+    /* 透明背景 */
     background: rgba(255, 255, 255, 0);
   }
 

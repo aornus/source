@@ -22,10 +22,9 @@ menu:
   归档: /archives/||fas fa-archive
   标签: /tags/|| fas fa-tags
   分类: /categories/|| fas fa-folder-open
-  室铭: /site/|| fas fa-clipboard-list
   街坊: /MessageBoard/|| fas fa-link
 #  虫洞: https://www.foreverblog.cn/go.html/ || fas fa-rocket
-
+ 室铭: /site/|| fas fa-clipboard-list
 nav:
   logo: # image
   display_title: true
@@ -36,7 +35,7 @@ nav:
 
 highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
-highlight_lang: false # show the code language
+highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: false # unit: px
 code_word_wrap: false
@@ -101,7 +100,7 @@ favicon: /images/logo.svg
 
 # Avatar (頭像)
 avatar:
-  img: /images/ava_Lee.svg
+  img: /images/white.png
   effect: false
 
 # Disable all banner image
@@ -554,38 +553,39 @@ site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-theme_color:
-  enable: true
-  main: "#FFE411" #主色调、影响评论
-  paginator: "#FFE411"  #页码
-  button_hover: "#FFE411"  # 按钮背景、移动到按钮上颜色
-  text_selection: "#000000" # 选中状态
-  link_color: "#3216B0" #链接颜色
- # meta_color: "#858585" # 主颜色、链接、日期颜色
-  hr_color: "#A4D8FA" #
-  code_foreground: "#E266B7"
-  code_background: "rgba(27, 31, 35, .05)"
-  toc_color: "#FFE411" #目录颜色
-  blockquote_padding_color: "#BEBEBE" # 引用悬挂颜色
-  blockquote_background_color: "#BEBEBE" # 引用背景颜色
-  meta_theme_color_light: "#FFE411"
-  meta_theme_color_dark: "#FFE411"
-
-# 红色·暗调配色
+# 活力黄色配色
 # theme_color:
 #   enable: true
-#   main: "#414141" #主色调
-#   paginator: "#254B4B"  #页码
-#   button_hover: "#000000"  # 按钮背景
+#   main: "#FFE411" #主色调、影响评论
+#   paginator: "#FFE411"  #页码
+#   button_hover: "#FFE411"  # 按钮背景、移动到按钮上颜色
 #   text_selection: "#000000" # 选中状态
-#   link_color: "#0A7FCE" #链接颜色
-#   meta_color: "#858585" # 主颜色
-#   hr_color: "#BEBEBE" #
-#   code_foreground: "#8A3AC5"
+#   link_color: "#3216B0" #链接颜色
+#  # meta_color: "#858585" # 主颜色、链接、日期颜色
+#   hr_color: "#A4D8FA" #
+#   code_foreground: "#E266B7"
 #   code_background: "rgba(27, 31, 35, .05)"
-#   toc_color: "#BEBEBE" #目录颜色
-#   blockquote_padding_color: "#BEBEBE" # 引用颜色
-#   blockquote_background_color: "#BEBEBE" # 引用悬挂颜色
+#   toc_color: "#FFE411" #目录颜色
+#   blockquote_padding_color: "#BEBEBE" # 引用悬挂颜色
+#   blockquote_background_color: "#BEBEBE" # 引用背景颜色
+#   meta_theme_color_light: "#FFE411"
+#   meta_theme_color_dark: "#FFE411"
+
+# 红色·暗调配色
+theme_color:
+  enable: true
+  main: "#414141" #主色调
+  paginator: "#254B4B"  #页码
+  button_hover: "#000000"  # 按钮背景
+  text_selection: "#000000" # 选中状态
+  link_color: "#0A7FCE" #链接颜色
+  meta_color: "#858585" # 主颜色
+  hr_color: "#BEBEBE" #
+  code_foreground: "#8A3AC5"
+  code_background: "rgba(27, 31, 35, .05)"
+  toc_color: "#BEBEBE" #目录颜色
+  blockquote_padding_color: "#BEBEBE" # 引用颜色
+  blockquote_background_color: "#BEBEBE" # 引用悬挂颜色
 
 # theme_color:
 #   enable: true
@@ -787,7 +787,7 @@ preloader: false
 
 aside:
   enable: true
-  hide: false
+  hide: true
   button: true
   mobile: true # display on mobile
   position: left # left or right
@@ -802,7 +802,7 @@ aside:
   card_announcement:
   # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
     enable: true
-    content: 开始沉静期，解冻时间：4-21日开斋节。暂时关闭本站评论，如需联系，请Email我：mailto:me@si-on.top
+    content: 所有过往，皆为序章！
     # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
     #虚室生白，吉祥止止。
     # 深切缅怀江泽民同志!

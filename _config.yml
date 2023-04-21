@@ -325,23 +325,6 @@ markdown_it_plus:
 #       smartLists: true
 #       smartypants: true
 
-# hexo-butterfly-swiper
-# see https://akilar.top/posts/8e1264d1/
-swiper:
-  enable: fasle # 开关
-  priority: 5 #过滤器优先权
-  enable_page: all # 应用页面
-  timemode: date #date/updated
-  layout: # 挂载容器类型
-    type: id
-    name: recent-posts
-    index: 0
-  default_descr: 再怎么看我也不知道怎么描述它的啦！
-  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
-  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
-  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
-  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
-
 # 统计图表，支持发布文章统计、发布日历、Top标签统计、分类统计、分类雷达。
 # see https://www.npmjs.com/package/hexo-butterfly-charts
 charts:
@@ -396,7 +379,7 @@ auto_category:
  depth: 3
 
 hexo-calendar:
-  width:	1000
+  width: 1400
   height:	185
   id:	calendar
   monthLang: cn

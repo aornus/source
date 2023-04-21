@@ -10,7 +10,6 @@ categories:
   - 学习
   - ⌨️软件编程
   - hexo
-swiper_index: 8
 abbrlink: Hexo123
 date: 2022-02-25 16:19:10
 comments:
