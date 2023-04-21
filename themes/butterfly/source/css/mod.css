@@ -1,4 +1,4 @@
-#article-container h1:before {
+/* #article-container h1:before {
     font-family: "iconfont";
     content: "\e601";
   }
@@ -32,7 +32,7 @@
 #article-container h6:before {
   font-family: "iconfont";
   content: "\e605";
-}
+} */
 
 #article-container h1:after,
 #article-container h2:after,

@@ -9,6 +9,7 @@ menu:
   奇货: /AwesomeHub/ || fas fa-box
   广播: /Fm/ || fa fa-podcast
   查机: https://chatnext.si-on.top || fas fa-star-of-david
+  示程: https://xuzi.si-on.top || fas fa-star-of-david
 #  闪念: https://seed.si-on.top || fas fa-seedling
  私人||fas fa-coffee:
   捉影: /gallery/ || fas fa-camera
@@ -100,7 +101,7 @@ favicon: /images/logo.svg
 
 # Avatar (頭像)
 avatar:
-  img: /images/white.png
+  img: /images/avator/white.svg
   effect: false
 
 # Disable all banner image
@@ -733,10 +734,10 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-    global-font-size: 16px
+    global-font-size: 18px
     code-font-size: 
     font-family: "Noto Serif SC"
-    #font-family: "LXGW WenKai"
+    #font-family: 
     #font-family: 'Ma Shan Zheng'
     code-font-family: "LXGW WenKai Mono"
       #    font-family: STSong,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif

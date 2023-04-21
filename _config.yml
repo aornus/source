@@ -155,9 +155,9 @@ plugins:
 
 # hexo-deployer-git
 deploy:
-- type: git
-  repo: git@github.com:aornus/aornus.github.io.git
-  beanch: master 
+# - type: git
+#   repo: git@github.com:aornus/aornus.github.io.git
+#   beanch: master 
 #   ignore_hidden: false
 #  - type: baidu_url_submitter
 

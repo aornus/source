@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "色",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,12 +100,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site/index.md"
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,8 +203,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "de3aaaf759933888",
+  "active": "bb5d0081b757963b",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-21.md",
     "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
     "_posts/学习/🔡语言学习/English/娱乐·英语.md",
@@ -219,7 +220,6 @@
     "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
     "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.3 钛合金组织分析方法.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
-    "_posts/生活/日志/2023-04-21.md",
     "_posts/生活/🪶杂谈/魔戒制造手册.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
     "_posts/生活/日志/2023-04-20.md",
