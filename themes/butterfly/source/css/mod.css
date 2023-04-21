@@ -44,35 +44,47 @@
   content: "\e640";
 }
 
-#article-container h1,
+
+/* 标题黑体 */
+/* #article-container h1,
 #article-container h2,
 #article-container h3,
 #article-container h4,
 #article-container h5,
 #article-container h6 {
   font-family: "Helvetica Neue", helvetica, arial, "Heti Hei", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
+} */
 
-/* #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {    box-shadow: 0px 0px 0px;} */
-.layout { max-width: 1350px;}
-#article-container blockquote:before {
+/* 引用加符号 */
+/* #article-container blockquote:before {
     font-family: "iconfont";
     content: "\e600";
     font-size: 24px;
-  }
+  } */
+
 
 /* 段落首行缩进两个字符，但会导致其他内容出现问题 */
   /* 
 #article-container p{
   text-indent: 2em;
   }  */
-
-#recent-posts > .recent-post-item, {
+/* 卡片样式 */
+.cardHover, .error404 #error-wrap .error-content, .layout > div:first-child:not(.recent-posts), #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {
     box-shadow: none!important;
-    border-radius: 16px;
+    border-radius: 12px;
     box-sizing: border-box;
+    background: rgba(255, 255, 255, 0);
   }
 
+  /*阴影修改  */
 :root{
   --card-box-shadow: 0 0px 1px 0.6px rgba(0,0,0,0.5)
+}
+
+/* 加宽布局 */
+.layout { max-width: 1350px;}
+
+/* 删除页尾 */
+#footer-wrap {
+  padding: 0px 9px;
 }

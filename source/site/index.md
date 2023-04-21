@@ -9,7 +9,7 @@ keywords:
 top_img: "repeating-linear-gradient(90deg, rgba(198, 198, 198,0.05) 0px, rgba(198, 198, 198,0.05) 1px,transparent 1px, transparent 5px),repeating-linear-gradient(0deg, rgba(198, 198, 198,0.05) 0px, rgba(198, 198, 198,0.05) 1px,transparent 1px, transparent 5px),repeating-linear-gradient(0deg, rgba(198, 198, 198,0.06) 0px, rgba(198, 198, 198,0.06) 1px,transparent 1px, transparent 15px),repeating-linear-gradient(90deg, rgba(198, 198, 198,0.06) 0px, rgba(198, 198, 198,0.06) 1px,transparent 1px, transparent 15px),linear-gradient(90deg, rgba(23,72,170, 0.9),rgba(23,72,170, 0.9));"
 aplayer:
 aside: false
-highlight_shrink:
+highlight_shrink: true
 ---
  <center>
 {% calendar %}
@@ -321,18 +321,18 @@ highlight_shrink:
 <!-- endtimeline -->
 
 <!-- timeline 03-22 -->
-*  通过 [zeabur](zeabur.com) 提供的服务建立了[Memos](https://seed.si-on.top)页面，采用Cloudflare [R2](https://r2.si-on.top) 作为储存桶
-*  更改了Rss3上的站点id：乌有斋为[乌有阁](https://rss3.si-on.top)
+* 通过 [zeabur](zeabur.com) 提供的服务建立了[Memos](https://seed.si-on.top)页面，采用Cloudflare [R2](https://r2.si-on.top) 作为储存桶
+* 更改了Rss3上的站点id：乌有斋为[乌有阁](https://rss3.si-on.top)(04-04更改为“空影”，仍取子虚乌有之意)
 * 更新了一些图标
 
 重新定位了个别子站点的功能，做出来特色，避免做的太宽泛而内容太多雷同
 - [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
 <!-- endtimeline -->
 <!-- timeline 03-23 刻意推广 -->
-- 加入了个站商店：[商店主页](https://storeweb.cn/site/o/1698)
+- ~~加入了个站商店：[商店主页](https://storeweb.cn/site/o/1698)~~(04-05日关闭)
 - 加入了中文独立博客：[timqian/chinese-independent-blogs@da0c433](https://github.com/timqian/chinese-independent-blogs/commit/da0c43349c831151092bad3b08067a67cb68b0da)
--  申请加入Traveling ：[Issue #1490 · travellings-link/travellings ](https://github.com/travellings-link/travellings/issues/1490)
-- 申请加入RSSblog：[Issue #22 · caibingcheng/rssblog ](https://github.com/caibingcheng/rssblog/issues/22)
+- ~~申请加入Traveling ：[Issue #1490 · travellings-link/travellings ](https://github.com/travellings-link/travellings/issues/1490)~~(04-21日关闭)
+- ~~申请加入RSSblog：[Issue #22 · caibingcheng/rssblog ](https://github.com/caibingcheng/rssblog/issues/22)~~(04-21日关闭)
 <!-- endtimeline -->
 
 <!-- timeline 03-25 -->
@@ -361,7 +361,7 @@ highlight_shrink:
 <!-- timeline 04-05 -->
 1. 隐藏了2月份以前字数比较少的日记
 2. 对部分文章进行了调整
-> 感谢个站商店管理员提出的宝贵意见
+> ~~感谢个站商店管理员提出的宝贵意见（个屁）~~
 <!-- endtimeline -->
 
 <!-- timeline 04-15 (Feature+++) -->
@@ -374,4 +374,15 @@ highlight_shrink:
 5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
 6. 【测试】增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)
 <!-- endtimeline -->
+
+<!-- timeline 04-21 (Feature- - -) -->
+沉静期结束
+1. 关闭所有冗余特效
+2. 删除页脚`footer`以及其他没用的元素
+3. 网页方格子背景细化
+``` css
+repeating-linear-gradient(90deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),repeating-linear-gradient(90deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),linear-gradient(90deg, rgb(255,255,255),rgb(255,255,255));
+```
+<!-- endtimeline -->
+
 {% endtimeline %}
