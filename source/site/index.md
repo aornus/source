@@ -365,7 +365,7 @@ highlight_shrink: true
 <!-- endtimeline -->
 
 <!-- timeline 04-15 (Feature+++) -->
-1. 更改字体为思源宋体。（霞鹜文楷看腻了）
+1. ~~更改字体为思源宋体~~
 2. 更改配色为$\text{\color{yellow}活力黄}$
 3. 更改点击特效为文字；美化各层级标题样式；~~修改段落`<p>`缩进为`2em`~~;
 3. 删除文章日历
@@ -379,104 +379,7 @@ highlight_shrink: true
 沉静期结束
 1. 关闭所有冗余特效
 2. 删除页脚`footer`、侧栏标签、首页轮播图等没用的元素
-3. 优化博文样式
-```css mod.css
-#article-container h1:before {
-    font-family: "iconfont";
-    content: "\e601";
-  }
-
-#article-container h2:before {
-    font-family: "iconfont";
-    content: "\e602";
-    margin-left: -24px;
-    font-size: 18px;
-  }
-
-#article-container h3:before {
-    font-family: "iconfont";
-    content: "\e608";
-    margin-left: -22px;
-    font-size: 16px;
-  }
-
-#article-container h4:before {
-    font-family: "iconfont";
-    content: "\e603";
-    margin-left: -20px;
-    font-size: 14px;
-  }
-
-#article-container h5:before {
-    font-family: "iconfont";
-    content: "\e609";
-  }
-
-#article-container h6:before {
-  font-family: "iconfont";
-  content: "\e605";
-}
-
-#article-container h1:after,
-#article-container h2:after,
-#article-container h3:after,
-#article-container h4:after,
-#article-container h5:after,
-#article-container h6:after {
-  font-family: "iconfont";
-  content: "\e640";
-}
-
-
-/* 标题黑体 */
-/* #article-container h1,
-#article-container h2,
-#article-container h3,
-#article-container h4,
-#article-container h5,
-#article-container h6 {
-  font-family: "Helvetica Neue", helvetica, arial, "Heti Hei", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-} */
-
-/* 引用加符号 */
-/* #article-container blockquote:before {
-    font-family: "iconfont";
-    content: "\e600";
-    font-size: 24px;
-  } */
-
-
-/* 段落首行缩进两个字符，但会导致其他内容出现问题 */
-  /* 
-#article-container p{
-  text-indent: 2em;
-  }  */
-/* 卡片样式 */
-.cardHover, .error404 #error-wrap .error-content, .layout > div:first-child:not(.recent-posts), #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {
-    box-shadow: none!important;
-    border-radius: 12px;
-    box-sizing: border-box;
-    /* 透明背景 */
-    background: rgba(255, 255, 255, 0);
-  }
-
-  /*阴影修改  */
-:root{
-  --card-box-shadow: 0 0px 1px 0.6px rgba(0,0,0,0.5)
-}
-
-/* 加宽布局 */
-.layout { max-width: 1350px;}
-
-/* 删除页尾 */
-#footer-wrap {
-  padding: 0px 9px;
-}
-```
-3. 细化背景
-``` css
-repeating-linear-gradient(90deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),repeating-linear-gradient(90deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),linear-gradient(90deg, rgb(255,255,255),rgb(255,255,255));
-```
+3. 优化博文样式，细化背景
 4. 转变写作心态，至少在文章发布之后再修改三次（2h-24h-48h）
 <!-- endtimeline -->
 

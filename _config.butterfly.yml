@@ -734,10 +734,10 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-    global-font-size: 18px
-    code-font-size: 
-    font-family: "Noto Serif SC"
-    #font-family: 
+    global-font-size:
+    code-font-size:
+    font-family: "LXGW WenKai Screen"
+    #font-family: "Noto Serif SC"
     #font-family: 'Ma Shan Zheng'
     code-font-family: "LXGW WenKai Mono"
       #    font-family: STSong,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif
@@ -1032,12 +1032,12 @@ inject:
     #- <link rel="preload" as="font" href="https://cdn.jsdelivr.net/gh/aornus/aornus.github.io@1.0/css/fonts/Noto_Serif_SC/NotoSerifSC-Bold.otf" type="font/otf" crossorigin="anonymous">
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700" crossorigin >
     # - <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
-    - <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@500,600;700,800,900&display=swap" rel="stylesheet">
+    #- <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@500,600;700,800,900&display=swap" rel="stylesheet">
     # - <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
     #- <link href="https://fonts.proxy.ustclug.org/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
-    #- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />
-    #- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
-    - <link rel="preconnect" href="https://gstatic.loli.net">
+    - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.min.css" />
+    - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.6.0/style.min.css" />
+    #- <link rel="preconnect" href="https://gstatic.loli.net">
     - <meta name="referrer" content="no-referrer" />
     - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4018434_wnqt1ow90ff.css">
     - <link rel="stylesheet" href="/css/mod.css">
@@ -1050,7 +1050,6 @@ inject:
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.js"></script>
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.min.js"></script>
   # <script type="module" src="https://cdn.skypack.dev/three@r120"></script>
-  
   - <script src="/js/mod.js"></script>
 
   
