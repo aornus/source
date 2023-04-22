@@ -901,7 +901,7 @@ rightside_scroll_percent: true
 rightside_item_order:
   enable: true
   hide: # readmode,translate,darkmode,hideAside
-  show: darkmode,hideAside,translate,readmode,comment
+  show: darkmode,hideAside,translate,toc,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------
@@ -927,7 +927,7 @@ abcjs:
 # mermaid
 # see https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # built-in themes: default/forest/dark/neutral
   theme:
     light: default
