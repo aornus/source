@@ -380,8 +380,7 @@ highlight_shrink: true
 2. 删除页脚`footer`、侧栏标签、首页轮播图等没用的元素
 3. 优化博文样式，细化背景
 4. 添加小节与图片标题序号，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
-4. 转变写作心态，至少在文章发布之后再修改三次（2h-24h-48h）
-
+注：从今日开始，本站将保持此风格不变
 <!-- endtimeline -->
 
 {% endtimeline %}
