@@ -7,13 +7,12 @@ description: MessageBoard页面，欢迎大家来交换友链并互喷。
 keywords:
 top_img: 
 aside: false
+comments: false
 ---
 
-## 欢迎来到留言板📨，请留下你的足迹👣。
-
 {% flink %}
-- class_name: 酉空间
-  class_desc:  值得参考的博客
+- class_name: 值得参考的博客
+  class_desc:  
   link_list:
     - name: CrazyWong
       link: https://blog.crazywong.com/
@@ -56,8 +55,8 @@ aside: false
       avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
       descr: hexo高阶技巧博客
 
-- class_name: 网站
-  class_desc: 值得推荐的网站与工具
+- class_name: 值得推荐的网站
+  class_desc: 
   link_list:
   
     - name: 大人学
@@ -83,17 +82,20 @@ aside: false
 
 {% endflink %}
 
-友链填写规范：
+------
+
+如有来访者想要在此页面展示自己的信息（包括但不限于个人站点），请按照下面格式，发送邮件至 me@si-on.top
+
+
 ```yml
-name: Foundation #博客名称
-link: https://si-on.top #博客地址
-avatar: https://cdn.jsdelivr.net/gh/aornus/blogimg/2022hong-03.png #头像地址
-deacr: Sion'Blog #简短的介绍自己的博客或座右铭
-#sample
-- name: 
-      link: https://dalao.ru/
-      avatar: https://npm.elemecdn.com/niaosu/dalao/vzDtmMFg.png
-      descr: 不死鸟·资源聚合搜索
+站长：
+    你好！
+    我是[填写自己的ID/昵称]。[填写想加入站点友链页面的原因]
+    希望在子虚栈的“街坊”页面添加如下信息：   
+      name: 子虚栈 #博客名称/个人ID
+      link: https://blog.si-on.top #博客地址/新媒体平台的链接/邮箱
+      avatar: https://blog.si-on.top/images/logo.svg #头像地址
+      deacr: 壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？ #简短介绍自己
 ```
 <!---
 ## 评论区等级说明

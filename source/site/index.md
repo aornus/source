@@ -28,7 +28,6 @@ highlight_shrink: true
 <!--{% btn '/categories/Hexo/',Hexo,far fa-hand-point-right,outline green larger %}-->
 <!-- </div> -->
 
-## 网站大事记
 
 {% hideToggle 2020年博客大事记,bg,green %}
 {% timeline 2020,green %}
@@ -380,7 +379,9 @@ highlight_shrink: true
 1. 关闭所有冗余特效
 2. 删除页脚`footer`、侧栏标签、首页轮播图等没用的元素
 3. 优化博文样式，细化背景
+4. 添加小节与图片标题序号，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
 4. 转变写作心态，至少在文章发布之后再修改三次（2h-24h-48h）
+
 <!-- endtimeline -->
 
 {% endtimeline %}
