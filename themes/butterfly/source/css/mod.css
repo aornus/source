@@ -127,9 +127,10 @@
   margin: 0px 0 -15px;
   color: #858585;}
 
-  /*阴影修改  */
+  /*阴影修改 + 文本阴影 */
 :root{
-  --card-box-shadow: 0 0px 1px 0.6px rgba(0,0,0,0.5)
+  --card-box-shadow: 0 0px 1px 0.6px rgba(0,0,0,0.5);
+  text-shadow: 0 0 0.75px #828282;
 }
 
 /* 加宽布局 */
