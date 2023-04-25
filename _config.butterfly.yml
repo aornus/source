@@ -575,16 +575,15 @@ site_verification:
 # 红色·暗调配色
 theme_color:
   enable: true
-  main: "#414141" #主色调
-  paginator: "#254B4B"  #页码
+  main: "#7f7f7f" #主色调
+  paginator: "#000000"  #页码
   button_hover: "#000000"  # 按钮背景
   text_selection: "#000000" # 选中状态
   link_color: "#0A7FCE" #链接颜色
-  meta_color: "#858585" # 主颜色
+ # meta_color: "#000000" # 主颜色
   hr_color: "#BEBEBE" #
-  code_foreground: "#8A3AC5"
   code_background: "rgba(27, 31, 35, .05)"
-  toc_color: "#BEBEBE" #目录颜色
+  toc_color: "#000000" #目录颜色
   blockquote_padding_color: "#BEBEBE" # 引用颜色
   blockquote_background_color: "#BEBEBE" # 引用悬挂颜色
 
@@ -736,7 +735,7 @@ beautify:
 font:
     global-font-size: 15px
     code-font-size: 15px
-    font-family: "LXGW WenKai Screen"
+    font-family: "LXGW WenKai"
     #font-family: "Noto Serif SC"
     #font-family: 'Ma Shan Zheng'
     code-font-family: "LXGW WenKai Mono"
@@ -971,8 +970,8 @@ aplayerInject:
 snackbar:
   enable: true
   position: top-center
-  bg_light: '#FFE411' # The background color of Toast Notification in light mode
-  bg_dark: '#FFE411' # The background color of Toast Notification in dark mode
+  bg_light: '#7f7f7f' # The background color of Toast Notification in light mode
+  bg_dark: '#7f7f7f' # The background color of Toast Notification in dark mode
   # bg_light: '#fe1125' # The background color of Toast Notification in light mode
   # bg_dark: '#d80d11' # The background color of Toast Notification in dark mode
 

@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "a5aa2e5a5085a649",
+            "id": "48791cef61330325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-23.md",
+                "file": "_drafts/Temolate/draft4obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2b6e386cebeb317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-04-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a29e501e2682d221",
+            "id": "1e0c50a201d3b636",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -200,16 +189,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a29e501e2682d221",
+  "active": "1e0c50a201d3b636",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-04-25.md",
+    "pdf/R/learn_echarts4r_files/images/highlight-bg.jpg",
+    "pdf/R/learn_echarts4r_files/images/header-bg.jpg",
+    "pdf/R/learn_echarts4r_files/images/body-bg.png",
+    "pdf/R/learn_echarts4r_files/fonts/open-sans-700.woff",
+    "pdf/R/learn_echarts4r_files/fonts/open-sans-400.woff",
+    "pdf/R/learn_echarts4r_files/style.css",
+    "pdf/R/learn_echarts4r_files/images",
+    "pdf/R/learn_echarts4r_files/fonts",
+    "pdf/R/learn_echarts4r_files",
+    "pdf/R/learn_echarts4r.knit.md",
+    "pdf/R/learn_echarts4r.html",
+    "pdf/R/learn_echarts4r.Rmd",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+    "images/20230304/Rplot.png",
+    "images/20230304/Rplot01.png",
+    "pdf/R/Rplot01.png",
+    "pdf/R/Rplot.png",
+    "images/20230304/正态随机数.png",
+    "pdf/R/正态随机数.png",
+    "pdf/R/可视乎·基本图表.knit.md",
+    "pdf/R/可视乎·基本图表_files/figure-html/unnamed-chunk-3-1.png",
+    "pdf/R/可视乎·基本图表_files/figure-html",
+    "pdf/R/可视乎·基本图表_files",
+    "_posts/生活/日志/2023-04-25.md",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/日志/2023-04-24.md",
-    "_posts/学习/⌨️软件编程/R",
     "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
     "_posts/生活/日志/2023-04-23.md",
     "_posts/生活/📷摄影思考/未命名.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习",
     "about/index.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/日志/2023-04-09.md",
@@ -225,29 +236,6 @@
     "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
     "_posts/学习/🔡语言学习/English/娱乐·英语.md",
-    "_posts/学习/⌨️软件编程/latex/家谱图.md",
-    "_posts/学习/📒课程笔记/高等数学/极限100.md",
-    "_posts/学习/💻操作系统/换源.md",
-    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
-    "site/index.md",
-    "images/avator/lee.png",
-    "images/avator/lee_full.png",
-    "images/avator/blue.png",
-    "images/avator/blue material.png",
-    "images/avator/black.png",
-    "images/avator/badegg.png",
-    "images/avator/white.png",
-    "images/avator/ultrman.png",
-    "images/avator/spotify.png",
-    "images/avator/sith.png",
-    "images/avator/秉蕳_white.png.tmp$$",
-    "images/avator/秉蕳_ultrman.png.tmp$$",
-    "images/avator/秉蕳_spotify.png.tmp$$",
-    "images/avator/秉蕳_sith.png.tmp$$",
-    "images/avator/秉蕳_red.png.tmp$$",
-    "images/avator/秉蕳_proplus.png.tmp$$",
-    "images/avator/秉蕳_pro.png.tmp$$",
-    "images/avator/秉蕳_pro blue.png.tmp$$",
     "未命名.canvas"
   ]
 }

@@ -4,3 +4,4 @@ workspace.json
 *.db
 *.db-shm
 /public
+.Rproj.user
