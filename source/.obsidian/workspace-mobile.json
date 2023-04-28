@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
+                "file": "_posts/生活/日志/2023-04-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "迷信",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
+            "file": "_posts/生活/日志/2023-04-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
+            "file": "_posts/生活/日志/2023-04-28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md"
+            "file": "_posts/生活/日志/2023-04-28.md"
           }
         }
       }
@@ -157,8 +156,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9c5cf2a5ab19f893",
+  "active": "12a4b856040c597d",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-27.md",
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/💀死亡",
+    "_posts/生活/日志/2023-04-28.md",
+    "images/20230304/Pasted image 20230427111035.png",
+    "images/20230304/Pasted image 20230427111522.png.tacitpart",
+    "images/20230304/Pasted image 20230427111035.png.tacitpart",
+    "_posts/生活/日志/2023-04-26.md",
+    "pdf/R/learn_echarts4r.html.tacitpart",
     "_posts/生活/日志/2023-04-25.md",
     "_posts/生活/日志/2023-04-24.md",
     "_posts/生活/日志/delete.md",
@@ -182,10 +190,6 @@
     "_posts/生活/日志/2023-04-11.md",
     "_posts/生活/日志/2023-04-10.md",
     "_posts/生活/日志/2023-04-07.md",
-    "_posts/生活/日志/2023-04-06.md",
-    "_posts/生活/日志/2023-04-05.md",
-    "_posts/生活/日志/2023-04-04.md",
-    "_posts/生活/日志/2023-04-08.md",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",
     "images/20230304/PICT_20230401_111233.jpg",
@@ -195,7 +199,6 @@
     "images/20230304/Pasted Image 20230325173115.jpeg",
     "images/20230304/Pasted Image 20230325154500.jpeg",
     "about/index.md.tacitpart",
-    "images/20221012/pic_003.jpg",
     "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]

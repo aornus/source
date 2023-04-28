@@ -16,24 +16,24 @@
             }
           },
           {
-            "id": "48791cef61330325",
+            "id": "50b2642b84ba8907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/生活/日志/2023-04-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e0c50a201d3b636",
+            "id": "649f609389ea2a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md"
+                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +190,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1e0c50a201d3b636",
+  "active": "75c5ccbce35143e9",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-28.md",
+    "_posts/学习/⌨️软件编程/R/可视化要义.md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/💀死亡",
+    "_posts/生活/日志/2023-04-27.md",
+    "_posts/生活/📖涵泳/思考与读书.md",
+    "_posts/生活/📖涵泳/涵泳总录.md",
+    "_posts/学习/💻操作系统/换源.md",
+    "images/20230304/Pasted image 20230427111522.png",
+    "images/20230304/Pasted image 20230427111035.png",
+    "images/20230304/screenshot_2022_09_30T00_24_15+0800.png",
+    "_posts/生活/日志/2023-04-26.md",
+    "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
+    "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
     "pdf/R/learn_echarts4r_files/images/highlight-bg.jpg",
     "pdf/R/learn_echarts4r_files/images/header-bg.jpg",
     "pdf/R/learn_echarts4r_files/images/body-bg.png",
@@ -204,17 +222,12 @@
     "pdf/R/learn_echarts4r.html",
     "pdf/R/learn_echarts4r.Rmd",
     "_drafts/Temolate/draft4obsidian.md",
-    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "images/20230304/Rplot.png",
     "images/20230304/Rplot01.png",
     "pdf/R/Rplot01.png",
     "pdf/R/Rplot.png",
-    "images/20230304/正态随机数.png",
-    "pdf/R/正态随机数.png",
     "pdf/R/可视乎·基本图表.knit.md",
-    "pdf/R/可视乎·基本图表_files/figure-html/unnamed-chunk-3-1.png",
     "pdf/R/可视乎·基本图表_files/figure-html",
-    "pdf/R/可视乎·基本图表_files",
     "_posts/生活/日志/2023-04-25.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/日志/2023-04-24.md",
@@ -225,17 +238,6 @@
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/日志/2023-04-09.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
-    "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.1 钛工业的历程、现状与应用.md",
-    "_posts/学习/🛦钛金笔记/0.0 最小可行笔记.md",
-    "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
-    "_posts/生活/日志/delete.md",
-    "_posts/生活/日志/2023-04-22.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/生活/日志/2023-04-21.md",
-    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
-    "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
-    "_posts/学习/🔡语言学习/English/娱乐·英语.md",
     "未命名.canvas"
   ]
 }

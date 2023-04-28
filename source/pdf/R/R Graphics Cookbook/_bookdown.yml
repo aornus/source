@@ -1,0 +1,5 @@
+book_filename: "rgc_code_examples"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
