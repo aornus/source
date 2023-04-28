@@ -1,14 +1,19 @@
 ---
-title: 街坊留言板📨
+title: 参考📓
 mathjax: true
 date: 2021-09-13 21:59:16
 updated:
-description: MessageBoard页面，欢迎大家来交换友链并互喷。
+description: 参考
 keywords:
 top_img: 
 aside: false
 comments: false
 ---
+
+# 此页面的链接是本站运营、写作、思考的参考书。
+# 本站不接受任何友链申请，也不会向任何其他站点申请友链。
+
+<p align="right">✍更新于2023.4.28</p>
 
 {% flink %}
 - class_name: 值得参考的博客
@@ -54,6 +59,10 @@ comments: false
       link: https://blog.ccknbc.cc
       avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
       descr: hexo高阶技巧博客
+    - name: 2365实验室[+ 2023/4/28]
+      link: https://blog.cool2645.com/posts/about-2645/
+      avator: https://blog.cool2645.com/favicon-32x32.png?v=66cd2071129d27a5f9276caaf27103f2
+      descr: 有意思的小站
 
 - class_name: 值得推荐的网站
   class_desc: 
@@ -81,7 +90,7 @@ comments: false
       descr:   轻略+出品
 
 {% endflink %}
-
+<!-- 
 ------
 
 如有来访者想要在此页面展示自己的信息（包括但不限于个人站点），请按照下面格式，发送邮件至 me@si-on.top
@@ -96,7 +105,7 @@ comments: false
       link: https://blog.si-on.top #博客地址/新媒体平台的链接/邮箱
       avatar: https://blog.si-on.top/images/logo.svg #头像地址
       deacr: 壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？ #简短介绍自己
-```
+``` -->
 <!---
 ## 评论区等级说明
 {% note info %}

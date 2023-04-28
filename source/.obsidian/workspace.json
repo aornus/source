@@ -18,29 +18,47 @@
           {
             "id": "50b2642b84ba8907",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-28.md",
+                "file": "_posts/生活/💀死亡/姑息关怀.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "649f609389ea2a50",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bd772ffe6e9cb6ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -107,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md"
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md"
               }
             }
           },
@@ -148,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/R/可视化要义.md",
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,14 +207,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75c5ccbce35143e9",
+  "active": "bd772ffe6e9cb6ef",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-04-28.md",
+    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
     "_posts/学习/⌨️软件编程/R/可视化要义.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/日志/2023-04-28.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "reference/index.md",
+    "reference",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/💀死亡",
     "_posts/生活/日志/2023-04-27.md",
     "_posts/生活/📖涵泳/思考与读书.md",
@@ -221,13 +243,11 @@
     "pdf/R/learn_echarts4r.knit.md",
     "pdf/R/learn_echarts4r.html",
     "pdf/R/learn_echarts4r.Rmd",
-    "_drafts/Temolate/draft4obsidian.md",
     "images/20230304/Rplot.png",
     "images/20230304/Rplot01.png",
     "pdf/R/Rplot01.png",
     "pdf/R/Rplot.png",
     "pdf/R/可视乎·基本图表.knit.md",
-    "pdf/R/可视乎·基本图表_files/figure-html",
     "_posts/生活/日志/2023-04-25.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/日志/2023-04-24.md",
@@ -235,9 +255,6 @@
     "_posts/生活/日志/2023-04-23.md",
     "_posts/生活/📷摄影思考/未命名.md",
     "about/index.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
-    "_posts/生活/日志/2023-04-09.md",
-    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "未命名.canvas"
   ]
 }
