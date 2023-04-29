@@ -56,9 +56,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c944af0ed23f2a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-04-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c21eb514056a2a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md"
+                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md"
               }
             }
           },
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,13 +231,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bd772ffe6e9cb6ef",
+  "active": "c21eb514056a2a83",
   "lastOpenFiles": [
-    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
+    "_posts/生活/日志/2023-04-29.md",
     "_posts/学习/⌨️软件编程/R/可视化要义.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/日志/2023-04-28.md",
+    "_posts/生活/🪶杂谈/观云手册.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
+    "_posts/生活/💀死亡/姑息关怀.md",
     "_drafts/Temolate/draft4obsidian.md",
     "reference/index.md",
     "reference",
@@ -253,8 +279,6 @@
     "_posts/生活/日志/2023-04-24.md",
     "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
     "_posts/生活/日志/2023-04-23.md",
-    "_posts/生活/📷摄影思考/未命名.md",
-    "about/index.md",
     "未命名.canvas"
   ]
 }

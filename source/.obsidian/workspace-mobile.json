@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-28.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-04-28.md",
+            "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-04-28.md",
+            "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/日志/2023-04-28.md"
+            "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md"
           }
         }
       }
@@ -156,12 +157,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "12a4b856040c597d",
+  "active": "9c5cf2a5ab19f893",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-29.md",
+    "_posts/生活/日志/2023-04-28.md",
     "_posts/生活/日志/2023-04-27.md",
     "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/💀死亡",
-    "_posts/生活/日志/2023-04-28.md",
     "images/20230304/Pasted image 20230427111035.png",
     "images/20230304/Pasted image 20230427111522.png.tacitpart",
     "images/20230304/Pasted image 20230427111035.png.tacitpart",
@@ -189,7 +191,6 @@
     "_posts/生活/日志/2023-04-12.md",
     "_posts/生活/日志/2023-04-11.md",
     "_posts/生活/日志/2023-04-10.md",
-    "_posts/生活/日志/2023-04-07.md",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",
     "images/20230304/PICT_20230401_111233.jpg",
