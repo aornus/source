@@ -58,24 +58,24 @@
             }
           },
           {
-            "id": "c944af0ed23f2a65",
+            "id": "03c2157e03fc334a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-04-28.md",
+                "file": "_drafts/Temolate/draft4obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c21eb514056a2a83",
+            "id": "37be1de6359070d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+                "file": "_posts/生活/日志/2023-05-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+                "file": "_posts/生活/日志/2023-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md"
+                "file": "_posts/生活/日志/2023-05-01.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+                "file": "_posts/生活/日志/2023-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,16 +231,22 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c21eb514056a2a83",
+  "active": "37be1de6359070d4",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-04-29.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/日志/2023-05-01.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "images/20230304/Screenshot_2023-05-01-19-13-18-949_com.cqvip.zlfassist-edit.jpg",
+    "_posts/生活/日志/2023-05-01 (conflicted copy 2023-05-01 225316).md",
+    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
+    "_posts/生活/日志/2023-04-30.md",
     "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "_posts/生活/日志/2023-04-28.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "_posts/生活/日志/2023-04-29.md",
     "_posts/生活/🪶杂谈/观云手册.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
     "_posts/生活/💀死亡/姑息关怀.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "reference/index.md",
     "reference",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
@@ -272,13 +278,6 @@
     "images/20230304/Rplot.png",
     "images/20230304/Rplot01.png",
     "pdf/R/Rplot01.png",
-    "pdf/R/Rplot.png",
-    "pdf/R/可视乎·基本图表.knit.md",
-    "_posts/生活/日志/2023-04-25.md",
-    "_posts/生活/🪶杂谈/密码设计指南.md",
-    "_posts/生活/日志/2023-04-24.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/不到园林，怎知春色如许！.md",
-    "_posts/生活/日志/2023-04-23.md",
     "未命名.canvas"
   ]
 }

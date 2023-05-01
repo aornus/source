@@ -382,4 +382,8 @@ highlight_shrink: true
 4. 添加小节与图片标题序号，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
 <!-- endtimeline -->
 
+<!-- timeline 5-2  -->
+把Kindle的阅读笔记转移到[阅读写作子域：细墨](https://ink.si-on.top)
+<!-- endtimeline -->
+
 {% endtimeline %}
