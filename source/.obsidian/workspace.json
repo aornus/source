@@ -44,26 +44,24 @@
             }
           },
           {
-            "id": "bd772ffe6e9cb6ef",
+            "id": "3cd53c4341835861",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "37be1de6359070d4",
+            "id": "b01a6492c7188dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+                "file": "_posts/生活/日志/2023-05-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,12 +113,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "91e835b73db146f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -136,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+                "file": "_posts/生活/日志/2023-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md"
+                "file": "_posts/生活/日志/2023-05-03.md"
               }
             }
           },
@@ -177,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+                "file": "_posts/生活/日志/2023-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,25 +225,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "37be1de6359070d4",
+  "active": "b01a6492c7188dd9",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-05-03.md",
+    "_posts/生活/日志/2023-05-02.md",
+    "_posts/学习/⌨️软件编程/R/可视化要义.md",
+    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "_posts/学习/📒课程笔记/政治经济/置身事内.md",
     "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
     "_posts/生活/日志/2023-05-01.md",
-    "_posts/生活/日志/2023-05-02.md",
-    "_posts/学习/📒课程笔记/政治经济/置身事内.md",
     "_posts/学习/📒课程笔记/政治经济",
     "_drafts/Temolate/draft4obsidian.md",
     "images/20230304/Screenshot_2023-05-01-19-13-18-949_com.cqvip.zlfassist-edit.jpg",
     "_posts/生活/日志/2023-05-01 (conflicted copy 2023-05-01 225316).md",
     "_posts/生活/日志/2023-04-30.md",
-    "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "_posts/生活/日志/2023-04-28.md",
     "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "_posts/生活/日志/2023-04-29.md",
     "_posts/生活/🪶杂谈/观云手册.md",
     "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "reference/index.md",
     "reference",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
@@ -252,7 +260,6 @@
     "images/20230304/screenshot_2022_09_30T00_24_15+0800.png",
     "_posts/生活/日志/2023-04-26.md",
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
     "pdf/R/learn_echarts4r_files/images/highlight-bg.jpg",
     "pdf/R/learn_echarts4r_files/images/header-bg.jpg",
     "pdf/R/learn_echarts4r_files/images/body-bg.png",
