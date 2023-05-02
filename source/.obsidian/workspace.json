@@ -58,31 +58,19 @@
             }
           },
           {
-            "id": "03c2157e03fc334a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "37be1de6359070d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-01.md",
+                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-01.md",
+                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-01.md"
+                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md"
               }
             }
           },
@@ -189,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-01.md",
+                "file": "_posts/学习/📒课程笔记/政治经济/置身事内.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,12 +220,15 @@
   },
   "active": "37be1de6359070d4",
   "lastOpenFiles": [
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/日志/2023-05-01.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
+    "_posts/生活/日志/2023-05-01.md",
+    "_posts/生活/日志/2023-05-02.md",
+    "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+    "_posts/学习/📒课程笔记/政治经济",
+    "_drafts/Temolate/draft4obsidian.md",
     "images/20230304/Screenshot_2023-05-01-19-13-18-949_com.cqvip.zlfassist-edit.jpg",
     "_posts/生活/日志/2023-05-01 (conflicted copy 2023-05-01 225316).md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
     "_posts/生活/日志/2023-04-30.md",
     "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "_posts/生活/日志/2023-04-28.md",
@@ -272,9 +262,7 @@
     "pdf/R/learn_echarts4r_files/images",
     "pdf/R/learn_echarts4r_files/fonts",
     "pdf/R/learn_echarts4r_files",
-    "pdf/R/learn_echarts4r.knit.md",
     "pdf/R/learn_echarts4r.html",
-    "pdf/R/learn_echarts4r.Rmd",
     "images/20230304/Rplot.png",
     "images/20230304/Rplot01.png",
     "pdf/R/Rplot01.png",

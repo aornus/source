@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-01.md",
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "达到的",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "1db6b0c79e40954c",
@@ -105,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-05-01.md",
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-05-01.md",
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/日志/2023-05-01.md"
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md"
           }
         }
       }
@@ -156,8 +157,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "12a4b856040c597d",
+  "active": "4c2ca5420268b264",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/latex/家谱图.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
+    "_posts/生活/🎭人的底层逻辑/人的底层逻辑.md",
+    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md.tacitpart",
+    "_posts/学习/📒课程笔记/政治经济/置身事内.md.tacitpart",
+    "_posts/生活/日志/2023-05-02.md.tacitpart",
+    "_posts/生活/日志/2023-05-01.md.tacitpart",
+    "_posts/生活/日志/2023-05-02.md",
+    "reference/index.md",
+    "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+    "_posts/学习/📒课程笔记/政治经济",
     "_posts/生活/日志/2023-05-01.md",
     "images/20230304/Screenshot_2023-05-01-19-13-18-949_com.cqvip.zlfassist-edit.jpg",
     "_posts/生活/日志/2023-04-30.md",
@@ -184,12 +196,7 @@
     "_posts/生活/日志/2023-04-18.md",
     "_posts/生活/日志/2023-04-17.md",
     "_posts/生活/日志/2023-04-15.md",
-    "_posts/生活/日志/2023-04-16.md",
     "images/20230304/IMG_20230414_004123.jpg",
-    "_posts/生活/日志/2023-04-09.md",
-    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
-    "_posts/生活/日志/2023-04-14.md",
-    "_posts/生活/日志/2023-04-13.md",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",
     "images/20230304/PICT_20230401_111233.jpg",
@@ -198,7 +205,6 @@
     "images/20230304/Pasted Image 20230325175402.jpeg",
     "images/20230304/Pasted Image 20230325173115.jpeg",
     "about/index.md.tacitpart",
-    "_posts/学习/👨‍🎓毕业论文/第二部分：TC4钛合金的热处理实验",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }
