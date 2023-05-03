@@ -617,7 +617,8 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var fuzzysort = require_fuzzysort();
 var DEFAULT_SETTINGS = {
-  matchColor: "#ff0000"
+  matchColor: "#ff2200",
+  quotation: false
 };
 var FrontmatterFuzzyTagPlugin = class extends import_obsidian.Plugin {
   async onload() {
@@ -636,6 +637,7 @@ var FuzzyTag = class extends import_obsidian.EditorSuggest {
   constructor(plugin) {
     super(plugin.app);
     this.inline = false;
+    this.usesQuotationmarks = false;
     this.plugin = plugin;
   }
   getAllTagsWithoutHashtag() {
@@ -658,13 +660,14 @@ var FuzzyTag = class extends import_obsidian.EditorSuggest {
     return false;
   }
   onTrigger(cursor, editor, _) {
-    var _a;
+    var _a, _b;
     const lineContents = editor.getLine(cursor.line).toLowerCase();
     const onFrontmatterTagLine = lineContents.startsWith("tags:") || lineContents.startsWith("tag:") || this.inRange(editor.getRange({ line: 0, ch: 0 }, cursor));
     if (onFrontmatterTagLine) {
       this.inline = lineContents.startsWith("tags:") || lineContents.startsWith("tag:");
+      this.usesQuotationmarks = lineContents.includes('"');
       const sub = editor.getLine(cursor.line).substring(0, cursor.ch);
-      const match = (_a = sub.match(/(\S+)$/)) == null ? void 0 : _a.first();
+      const match = (_b = (_a = sub.match(/\"?(\S+)\"?$/)) == null ? void 0 : _a.first()) == null ? void 0 : _b.replace('"', "");
       if (match) {
         this.tags = this.getAllTagsWithoutHashtag();
         const matchData = {
@@ -692,11 +695,14 @@ var FuzzyTag = class extends import_obsidian.EditorSuggest {
   }
   selectSuggestion(suggestion) {
     if (this.context) {
+      if (this.plugin.settings.quotation) {
+        suggestion = `"${suggestion}"`;
+      }
       if (this.inline) {
-        suggestion = `"${suggestion}",`;
+        suggestion = `${suggestion},`;
       } else {
         suggestion = `${suggestion}
- -`;
+-`;
       }
       this.context.editor.replaceRange(`${suggestion.replace(/<\/?[^>]+(>|$)/g, "")} `, this.context.start, this.context.end);
     }
@@ -715,5 +721,11 @@ var FuzzyTagSettingsTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.matchColor = value;
       await this.plugin.saveSettings();
     }));
+    new import_obsidian.Setting(containerEl).setName("Use Quotation marks").setDesc("Use quotation marks for tags (experimental)").addToggle((toggle) => {
+      toggle.setValue(false).onChange(async (val) => {
+        this.plugin.settings.quotation = val;
+        await this.plugin.saveSettings();
+      });
+    });
   }
 };
