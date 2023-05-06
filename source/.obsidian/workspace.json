@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-04.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-04.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-04.md"
+                "file": "_posts/生活/日志/2023-05-06.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-04.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:开始漫游笔记": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
@@ -215,13 +215,18 @@
   },
   "active": "ccec7c4ac517f332",
   "lastOpenFiles": [
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/日志/2023-04-09.md",
+    "_posts/生活/RSS",
+    "_posts/生活/日志/2023-05-04.md",
+    "_posts/生活/日志/2023-05-05.md",
+    "_posts/学习/⌨️软件编程/R/Tidyverse入门.md",
+    "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "about/index.md",
     "_posts/生活/日志/2023-05-03.md",
-    "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/日志/2023-04-11.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/日志/2023-04-12.md",
     "_posts/生活/日志/2023-04-13.md",
     "_posts/生活/日志/2023-04-15.md",

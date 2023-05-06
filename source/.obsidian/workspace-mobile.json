@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-04.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,6 +80,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "9dcf3a48a6f9d993",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -94,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-05-04.md",
+            "file": "_posts/生活/日志/2023-05-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-05-04.md",
+            "file": "_posts/生活/日志/2023-05-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,8 +131,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/日志/2023-05-04.md"
+            "file": "_posts/生活/日志/2023-05-06.md"
           }
+        }
+      },
+      {
+        "id": "08d0f0f92639baf4",
+        "type": "leaf",
+        "state": {
+          "type": "RSS_FEED",
+          "state": {}
         }
       }
     ],
@@ -141,11 +157,19 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5f4abd9859152e02",
+  "active": "e98e86189bf71f7e",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
+    "_posts/生活/日志/2023-05-06.md.tacitpart",
+    "_posts/生活/日志/2023-05-05.md.tacitpart",
+    "_posts/生活/日志/2023-05-04.md.tacitpart",
+    "_posts/生活/日志/2023-05-05.md",
+    "_posts/生活/日志/2023-05-06.md",
+    "images/20230506",
     "_posts/生活/日志/2023-05-04.md",
     "_posts/生活/日志/2023-05-03.md",
     "_posts/学习/⌨️软件编程/latex/家谱图.md",
@@ -168,10 +192,7 @@
     "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/💀死亡",
     "images/20230304/Pasted image 20230427111035.png",
-    "images/20230304/Pasted image 20230427111522.png.tacitpart",
-    "images/20230304/Pasted image 20230427111035.png.tacitpart",
     "_posts/生活/日志/2023-04-26.md",
-    "pdf/R/learn_echarts4r.html.tacitpart",
     "_posts/生活/日志/2023-04-25.md",
     "_posts/生活/日志/2023-04-24.md",
     "_posts/生活/日志/delete.md",
@@ -180,9 +201,6 @@
     "_posts/生活/日志/2023-04-22.md",
     "_posts/生活/日志/2023-04-21.md",
     "_posts/生活/日志/2023-04-19.md",
-    "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md",
-    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
-    "_posts/生活/日志/2023-04-18.md",
     "images/20230304/IMG_20230414_004123.jpg",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",
@@ -191,7 +209,6 @@
     "images/20230304/Pasted Image 20230330215804.jpeg",
     "images/20230304/Pasted Image 20230325175402.jpeg",
     "images/20230304/Pasted Image 20230325173115.jpeg",
-    "about/index.md.tacitpart",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }
