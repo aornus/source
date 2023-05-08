@@ -12,6 +12,7 @@ comments: false
 copyright:
 aside: false
 password: 4sion
+theme: xray
 hidden: true
 description: 
 sticky: 

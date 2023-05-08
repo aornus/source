@@ -1,22 +1,23 @@
 ---
 title: {{title}}
+abbrlink: 824ac3d0
+categories:
+tags:
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: 824ac3d0
-katex: false
-root: ../../
-tags:
-categories:
 cover:
-comments:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
+root: ../../
+	copyright_author:
+	copyright_author_href:
+	copyright_url:
+	copyright_info:
 aside:
-password:
-hidden: true
-published: false
+comments:
+katex: false
+	password:
+	theme: xray
+	hidden: true
+	published: false
 description:
 sticky:
 keywords:

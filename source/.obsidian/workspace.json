@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-08.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-08.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-08.md"
+                "file": "_posts/生活/日志/2023-05-06.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-08.md",
+                "file": "_posts/生活/日志/2023-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,16 +215,18 @@
   },
   "active": "8be076db7a753fc8",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-05-05.md",
+    "_posts/生活/日志/2023-05-06.md",
+    "_drafts/Temolate/sands.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/日志/2023-05-08.md",
     "images/20230506/Pasted image 20230508100927.png",
     "_posts/生活/💀死亡/姑息关怀.md",
-    "_posts/生活/日志/2023-05-08.md",
     "_posts/学习/💻操作系统/note-for-linux.md",
     "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
-    "_posts/生活/日志/2023-05-06.md",
     "_posts/生活/日志/2023-04-09.md",
     "_posts/生活/RSS",
     "_posts/生活/日志/2023-05-04.md",
-    "_posts/生活/日志/2023-05-05.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md",
     "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "about/index.md",
