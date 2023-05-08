@@ -42,21 +42,9 @@
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "8be076db7a753fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-05-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-06.md",
+                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-06.md"
+                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md"
               }
             }
           },
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-06.md",
+                "file": "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,10 +201,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8be076db7a753fc8",
+  "active": "f5c043f4b7908d51",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-05-05.md",
+    "music/index.md",
+    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+    "gallery/index.md",
+    "reference/index.md",
     "_posts/生活/日志/2023-05-06.md",
+    "_posts/生活/日志/2023-05-05.md",
     "_drafts/Temolate/sands.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2023-05-08.md",

@@ -12,11 +12,16 @@ comments: false
 highlight_shrink:
 ---
 
-## Sion 的歌单（2016-2022.8）
+# 音乐之旅
+近来回顾了下，这几年确实听了不少的歌曲：
+1. 多米音乐（诺基亚E72，初高中时代）：中文经典老歌+交响乐
+2. 虾米音乐与QQ音乐（后高中时代）：轻音乐+节奏感
+3. Spotify（大学时代）的歌曲：流行乐+蓝调+节奏感
 
-包含从多米音乐（诺基亚E72，初高中时代），到虾米音乐与QQ音乐（后高中时代），再到Spotify（大学时代）的歌曲，有很多在导入时候丢失了，歌单没有特别的顺序。
+之前一直用Last.fm来记录听歌历史，免费版的限制太多，昨天在Fdroid转悠，偶然发现了[MusicBrainz](https://musicbrainz.org/)开发的[ListenBrainz](https://listenbrainz.org/)项目，不仅支持last.fm的导入，还支持与spotify的联动，关键开源免费，支持数据的导出，一眼就爱上，立时就转移到上面了：
+<iframe style="border-radius:12px" src="https://listenbrainz.org/user/siontin/" width="100%" height="719.8" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
+# 秉蕳♥的歌（2016-2022.8）
 |                             歌名                             |                             歌手                             |                             专辑                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        Tell The Truth                        |                      The Avett Brothers                      |                     Closer Than Together                     |
