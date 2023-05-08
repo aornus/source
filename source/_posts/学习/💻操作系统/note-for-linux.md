@@ -25,6 +25,9 @@ highlight_shrink:
 ### debian/ubuntu/raspberry 扩充root空间
 1. 用cfdisk扩充/dev/mmcblk0空间
 2. 用`resize2fs /dev/mmcblk0p2`修复分区
+
+
+
 ## Snap
 
   ```
@@ -188,6 +191,15 @@ sudo rm -rf ~/.local/share/Trash/*
 ```
 
 > 使用htlatex可以把文档编译成html格式
+
+Fcitx5输入法在部分应用内无法激活：
+```shell 
+# sudo vim /etc/profile
+
+export GTK_IM_MODULE=fcitx5 
+export QT_IM_MODULE=fcitx5 
+export XMODIFIERS="@im=fcitx5"
+```
 
 ###  Pandoc使用
 
