@@ -11,7 +11,7 @@ katex: false
 comments: false
 copyright:
 aside: false
-password: 4sion
+password: 4Bingjian
 theme: xray
 hidden: true
 description: 
