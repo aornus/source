@@ -201,6 +201,11 @@ export QT_IM_MODULE=fcitx5
 export XMODIFIERS="@im=fcitx5"
 ```
 
+双系统时间不一致问题解决：
+```shell
+timedatectl set-local-rtc 1
+```
+
 ###  Pandoc使用
 
 [pandoc 强大的文档格式转换工具 | Omics - Hunter](https://evvail.com/2021/02/02/2184.html)

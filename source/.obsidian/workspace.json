@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "f5c043f4b7908d51",
+            "id": "12722ad0d82aa51b",
             "type": "leaf",
             "state": {
               "type": "memos_view",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "64d88634002870b4",
+            "id": "97e9b12e0f5bbc48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Temolate/sands.md",
+                "file": "_posts/生活/日志/2023-05-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Temolate/sands.md",
+                "file": "_posts/生活/日志/2023-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Temolate/sands.md"
+                "file": "_posts/生活/日志/2023-05-10.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Temolate/sands.md",
+                "file": "_posts/生活/日志/2023-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,20 +212,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "64d88634002870b4",
+  "active": "97e9b12e0f5bbc48",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/日志/2023-05-10.md",
+    "_posts/生活/日志/2023-05-09.md",
+    "_posts/学习/💻操作系统/note-for-linux.md",
+    "_drafts/Temolate/sands.md",
     "music/index.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "gallery/index.md",
     "reference/index.md",
     "_posts/生活/日志/2023-05-06.md",
     "_posts/生活/日志/2023-05-05.md",
-    "_drafts/Temolate/sands.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2023-05-08.md",
     "images/20230506/Pasted image 20230508100927.png",
-    "_posts/学习/💻操作系统/note-for-linux.md",
     "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
     "_posts/生活/日志/2023-04-09.md",
     "_posts/生活/RSS",
@@ -239,8 +241,6 @@
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/日志/2023-04-11.md",
     "_posts/生活/日志/2023-04-12.md",
-    "_posts/生活/日志/2023-04-13.md",
-    "_posts/生活/日志/2023-04-15.md",
-    "_posts/生活/日志/2023-04-16.md"
+    "_posts/生活/日志/2023-04-13.md"
   ]
 }
