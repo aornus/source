@@ -114,13 +114,13 @@ description: 关于站点与站长的简单介绍
 
 此外，来访者也可以打开浏览器自带的隐私保护设置、广告拦截插件等进行追踪屏蔽。
 
-### 互动与交流
+<!-- ### 互动与交流
 为了方便交流，来访者可以
 1. 评论区留言
 2. 邮件互动（站长邮箱 me@si-on.top）
 3. 讨论组，所有者经营有如下讨论组(开始于2023-4-21)：
 	* Slack：[邀请链接](https://join.slack.com/t/siontian/shared_invite/zt-1tgrnh9k1-AtMEpbYwOiv7ZxbYVAfOBg)
-	* Telegram：[群组链接](https://t.me/sionDaoDaoDao)
+	* Telegram：[群组链接](https://t.me/sionDaoDaoDao) -->
 
 ## 关于博客作者
 

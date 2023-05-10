@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +160,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8ca42dd6281607d7",
+  "active": "e98e86189bf71f7e",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-05-10.md",
     "_posts/生活/日志/2023-05-09.md",
     "_posts/生活/日志/2023-05-08.md",
     "_posts/生活/日志/2022-12-20.md",
@@ -200,7 +200,6 @@
     "_posts/生活/日志/delete.md",
     "_posts/生活/日志/2023-04-23.md",
     "MessageBoard/index.md",
-    "_posts/生活/日志/2023-04-22.md",
     "images/20230304/IMG_20230414_004123.jpg",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",

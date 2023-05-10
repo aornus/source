@@ -13,15 +13,40 @@ highlight_shrink:
 ---
 
 # 音乐之旅
-近来回顾了下，这几年确实听了不少的歌曲：
-1. 多米音乐（诺基亚E72，初高中时代）：中文经典老歌+交响乐
-2. 虾米音乐与QQ音乐（后高中时代）：轻音乐+节奏感
-3. Spotify（大学时代）的歌曲：流行乐+蓝调+节奏感
+{% timeline 音乐之旅 %}
+<!-- timeline 2013~2016 小学、初中时代-->
+| 📱OS |        塞班         |
+|:------:|:------------------------:|
+| 🎵软件 |         多米音乐         |
+|  🥰喜好  | 七八十年代的华语经典老歌 |
+<!-- endtimeline -->
+<!-- timeline 2016~2019 高中时代-->
+| 📱OS |        塞班        |
+|:------:|:------------------------:|
+| 🎵软件 |      虾米音乐、QQ音乐         |
+|  🥰爱好  | 交响乐、轻音乐、节奏感  |
+<!-- endtimeline -->
+<!-- timeline 2019~2023 大学时代-->
+| 📱OS |        多平台        |
+|:------:|:------------------------:|
+| 🎵软件 |      Spotify音乐、~~豆瓣FM~~         |
+|  🥰爱好  | 流行音乐、节奏感、影视原声  |
+<!-- endtimeline -->
+{% endtimeline %}
 
-之前一直用Last.fm来记录听歌历史，免费版的限制太多，昨天在Fdroid转悠，偶然发现了[MusicBrainz](https://musicbrainz.org/)开发的[ListenBrainz](https://listenbrainz.org/)项目，不仅支持last.fm的导入，还支持与spotify的联动，关键开源免费，支持数据的导出，一眼就爱上，立时就转移到上面了：
+---
+# 歌曲记录
+音乐不仅仅是一种消遣，更是一种记忆、情绪的寄托，每每听到曾经听过的歌，彼时的记忆便喷薄而出，今昔对比，回味无穷。
+
+Music serves as a powerful mood enhancer, shielding me from the disheartening sounds of  surroundings. More importantly, it ignites a fiery passion when its style resonates with my thoughts, so its valueable to record the music we listen in order to keep memories longer.
+
+记录音乐的方法有很多，最简单方便的就是歌单了，但如果想要更个性化的记录就不得不付诸所谓的Scrobbler服务了。
+第一次接触音乐统计是2020年第一次收到的Spotify年度报告[^1]，后来又断断续续用Last.fm来记录听歌历史，但是免费版的限制实在太多，但好在能跟声田联动，自己记录也不用管它。
+直到前两天（2023年5月8日晚），在Fdroid转悠，发现了[MusicBrainz](https://musicbrainz.org/)开发的[ListenBrainz](https://listenbrainz.org/)1.4.0版本的app发布了，便摸索了一番。ListenBrainz使用开源的数据来记录，完全开源，对于用户非常友好（开源的力量），不仅支持last.fm的导入，也支持与spotify的联动，还支持数据的导出。这好东西，怎能不用，当晚立时就转移到上面了。
+>安卓端上可以用[Pano Scrobbler ](https://sspai.com/post/66715#!)来辅助记录，(甚至可以记录radio-browser上的部分电台，比如：ASIA FM等)
 <iframe style="border-radius:12px" src="https://listenbrainz.org/user/siontin/" width="100%" height="719.8" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# 秉蕳♥的歌（2016-2022.8）
+# 歌单：秉蕳♥的歌（2016-2022.8）
 |                             歌名                             |                             歌手                             |                             专辑                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        Tell The Truth                        |                      The Avett Brothers                      |                     Closer Than Together                     |
@@ -681,3 +706,5 @@ highlight_shrink:
 ### Sion + life
 
 {% meting "7304737427" "netease" "playlist" "order:random" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
+
+[^1]: 现在看看，这似乎就是资本家的“奶头乐”，让用户觉得被关注，被重视，以回避更深层次的矛盾。

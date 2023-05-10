@@ -411,7 +411,7 @@ hexo_markmap:
 
 
 webpushr:
-  enable: true # 是否启用推送插件
+  enable: false # 是否启用推送插件
 
   webpushrKey: "d1363c5fb3ec90f9692ad6fb399723f3"
   webpushrAuthToken: "67839"

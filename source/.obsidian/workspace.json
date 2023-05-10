@@ -49,10 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-10.md",
+                "file": "music/index.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0439a0ef1cd10f3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -110,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-10.md",
+                "file": "music/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-10.md"
+                "file": "music/index.md"
               }
             }
           },
@@ -171,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-10.md",
+                "file": "music/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +223,15 @@
   },
   "active": "97e9b12e0f5bbc48",
   "lastOpenFiles": [
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/学习/⌨️软件编程/R/可视化要义.md",
+    "music/index.md",
+    "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/生活/日志/2023-05-10.md",
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "_posts/生活/日志/2023-05-09.md",
     "_posts/学习/💻操作系统/note-for-linux.md",
     "_drafts/Temolate/sands.md",
-    "music/index.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "gallery/index.md",
     "reference/index.md",
@@ -234,13 +245,11 @@
     "_posts/生活/RSS",
     "_posts/生活/日志/2023-05-04.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md",
-    "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "about/index.md",
     "_posts/生活/日志/2023-05-03.md",
     "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
     "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/日志/2023-04-11.md",
-    "_posts/生活/日志/2023-04-12.md",
-    "_posts/生活/日志/2023-04-13.md"
+    "_posts/生活/日志/2023-04-12.md"
   ]
 }
