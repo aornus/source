@@ -7,17 +7,17 @@ date: {{date:YYYY-MM-DD HH:mm:ss}}
 update: {{date:YYYY-MM-DD HH:mm:ss}}
 cover:
 root: ../../
-	copyright_author:
-	copyright_author_href:
-	copyright_url:
-	copyright_info:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
 aside:
 comments:
 katex: false
-	password:
-	theme: xray
-	hidden: true
-	published: false
+password:
+theme: xray
+hidden: true
+published: false
 description:
 sticky:
 keywords:
