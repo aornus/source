@@ -12,8 +12,8 @@ cover:
 comments:
 copyright:
 aside:
-password:
-hidden:
+hidden: true
+published: false
 sticky:
 ---
 

@@ -46,25 +46,31 @@
           {
             "id": "97e9b12e0f5bbc48",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/学习/⌨️软件编程/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fa58c44efa211023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0439a0ef1cd10f3c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -138,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md"
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md"
               }
             }
           },
@@ -179,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,11 +206,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,35 +228,45 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "97e9b12e0f5bbc48",
+  "active": "fa58c44efa211023",
   "lastOpenFiles": [
-    "_drafts/Temolate/sands.md",
+    "images/20230506/1683913497896.jpg",
+    "images/20230506/1683913498109.jpg",
+    "images/20230506/1683913497951.jpg",
+    "images/20230506/1683913498071.jpg",
+    "images/20230506/Pasted image 20230513115752.png",
+    "images/20230506/1683913498039.jpg",
+    "images/20230506/1683913498026.jpg",
+    "images/20230506/1683913497974.jpg",
+    "images/20230506/1683913498015.jpg",
+    "images/20230506/1683913498097.jpg",
+    "images/20230506/1683913498059.jpg",
+    "_posts/学习/⌨️软件编程/Docker.md",
+    "_drafts/().md",
+    "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
+    "_posts/生活/📷摄影思考/模仿练习/蓝色沙漠.md",
+    "_posts/学习/💻操作系统/note-for-linux.md",
+    "_posts/学习/💻操作系统/HoloiSO.md",
+    "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
+    "_posts/生活/📷摄影思考/模仿练习",
     "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/学习/⌨️软件编程/R/可视化要义.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_drafts/Temolate/sands.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_drafts/摄影的哲学思考.md",
-    "_posts/学习/⌨️软件编程/R/可视化要义.md",
     "music/index.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/生活/日志/2023-05-10.md",
     "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "_posts/生活/日志/2023-05-09.md",
-    "_posts/学习/💻操作系统/note-for-linux.md",
     "gallery/index.md",
     "reference/index.md",
     "_posts/生活/日志/2023-05-06.md",
     "_posts/生活/日志/2023-05-05.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2023-05-08.md",
-    "images/20230506/Pasted image 20230508100927.png",
     "_posts/学习/🛦钛金笔记/第一部分：钛合金的基本特性/1.2 钛合金的分类、组织与性能.md",
     "_posts/生活/日志/2023-04-09.md",
-    "_posts/生活/RSS",
-    "_posts/生活/日志/2023-05-04.md",
-    "_posts/学习/⌨️软件编程/R/Tidyverse入门.md",
-    "about/index.md",
-    "_posts/生活/日志/2023-05-03.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
-    "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
-    "_posts/生活/日志/2023-04-11.md"
+    "_posts/生活/RSS"
   ]
 }
