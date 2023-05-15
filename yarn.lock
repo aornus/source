@@ -2884,7 +2884,7 @@ hexo-butterfly-charts@^1.1.3:
     cheerio "^1.0.0-rc.10"
     moment "^2.29.4"
 
-hexo-butterfly-extjs@^1.3.2:
+hexo-butterfly-extjs@^1.4.4:
   version "1.4.4"
   resolved "https://registry.npmmirror.com/hexo-butterfly-extjs/-/hexo-butterfly-extjs-1.4.4.tgz"
   integrity sha512-fFXSe4Z3NeowbWY7vj5G9qFizDsd3iR4MRI+Ld+k45zjFlH/V8RkfoggHt1teqEOHq0fCUweoeiTl5VnPqTjrg==
@@ -2920,7 +2920,7 @@ hexo-butterfly-extjs@^1.3.2:
     valine "^1.5.1"
     vanilla-lazyload "^17.8.3"
 
-hexo-butterfly-tag-plugins-plus@^1.0.13:
+hexo-butterfly-tag-plugins-plus@^1.0.17:
   version "1.0.17"
   resolved "https://registry.npmmirror.com/hexo-butterfly-tag-plugins-plus/-/hexo-butterfly-tag-plugins-plus-1.0.17.tgz"
   integrity sha512-GpQS8YiEFv989kclBedKaRBhzA8yx+Boq/v04Nn04KCibnhv5EJj5E/OV3QXz1jw8mCwGlOyiL7xVSqA6KyRQQ==
