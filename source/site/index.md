@@ -29,7 +29,7 @@ highlight_shrink: true
 <!-- </div> -->
 
 
-{% hideToggle 2020年博客大事记,bg,green %}
+{% folding 2020年博客大事记,bg,green %}
 {% timeline 2020,green %}
 
 <!-- timeline 3-20 -->
@@ -63,9 +63,9 @@ highlight_shrink: true
 
 {% endtimeline %}
 
-{% endhideToggle %}
+{% endfolding %}
 
-{% hideToggle 2021年博客大事记,bg,pink %}
+{% folding 2021年博客大事记,bg,pink %}
 {% timeline 2021,pink %}
 <!-- timeline 2-14 -->
 有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
@@ -114,9 +114,9 @@ highlight_shrink: true
 
 {% endtimeline %}
 
-{% endhideToggle %}
+{% endfolding %}
 
-{% hideToggle 2022年博客大事记,bg,blue %}
+{% folding 2022年博客大事记,bg,blue %}
 {% timeline 2022,blue %}
 
 <!-- timeline 02-05 -->
@@ -280,7 +280,7 @@ highlight_shrink: true
 <!-- endtimeline -->
 {% endtimeline %}
 
-{% endhideToggle %}
+{% endfolding %}
 
 {% timeline 2023,red %}
 <!-- timeline 01-03 -->

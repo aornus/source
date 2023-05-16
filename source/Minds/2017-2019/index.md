@@ -357,7 +357,13 @@ Whenever you find yourself on the side of the majority,you have to stop and thin
 
 > 评论(0)
 
+#### 高考
 
+![报名](../../images/20230506/Pasted%20image%2020230515215359.png)
+
+![成绩](../../images/20230506/Pasted%20image%2020230515215524.png)
+
+![录取](../../images/20230506/Pasted%20image%2020230515215645.png)
 
 
 ---

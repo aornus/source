@@ -16,7 +16,7 @@ comments: false
 
 <p align="right">✍更新于2023.4.28</p>
 
-{% flink %}
+```shell
 - class_name: 值得参考的博客
   class_desc:  
   link_list:
@@ -90,7 +90,8 @@ comments: false
       avatar: https://qglimg.qinglm.com/qinggl/favicon.ico
       descr:   轻略+出品
 
-{% endflink %}
+```
+
 <!-- 
 ------
 
