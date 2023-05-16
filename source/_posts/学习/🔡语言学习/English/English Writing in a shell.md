@@ -28,6 +28,7 @@ keywords:
 > 脱离语境的句子，如同鸟的标本，没有了生命；融入语境的句子，才是自由飞翔的小鸟。
 > ——张满胜(新东方教师)
 
+```
 {% timeline Footpoint of Article, %}
 <!-- timeline 2023-03-25-->
 Just Done 《WenXin》, Want to improve both Chinese and English writing skill, search realted books from Douban, finally get an old book ehat named *The writing of english*, and published in 1985, written by Ge Chuan gui. begin to reading.
@@ -36,6 +37,7 @@ Just Done 《WenXin》, Want to improve both Chinese and English writing skill, 
 After reading the book *10 Ways to improve your English Ariting* by **Nick Stirk**, some ideas have raised.
 <!-- endtimeline -->
 {% endtimeline %}
+```
 
 -----
 ## Pay attention to Phrases

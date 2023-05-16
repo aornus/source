@@ -51,6 +51,7 @@ keywords:
 {% endmarkmap %}
 
 ## 文章痕迹
+```
 {% timeline %}
 <!-- timeline 2023-01-29-->
 1. 安装原版系统，解决了连接问题
@@ -73,7 +74,7 @@ keywords:
 2. 补充了亮灯状态的解释
 <!-- endtimeline -->
 {% endtimeline %}
-
+```
 -----
 ## 楔子
 春节期间拾掇了过去一年中各个设备上的照片，并转移到了家里专门备份的300G硬盘上，期间居然在十年前的一个1G内存卡发现了小时候的一部分照片，十分欣慰，原本以为永远找不到了。
@@ -89,10 +90,8 @@ keywords:
 * 连接线若干（网线、电源线、USB线+合理的排线）
 ## 安装与连接
 ### 官方镜像
-最好的还是官方的，下载树莓派专用镜像烧录软件：
-{% note success %}
- https://downloads.raspberrypi.org/imager/imager_latest.exe
-{% endnote %}
+最好的还是官方的，下载树莓派专用镜像烧录软件： https://downloads.raspberrypi.org/imager/imager_latest.exe
+
 里面的系统是比较全的，完全不需要在网上找镜像，软件里包含的镜像主要有：
 
 * Raspberry Pi (32/64)
@@ -107,10 +106,8 @@ keywords:
 	
 笔者觉得选择64位最简版本的`Raspberry Pi OS Lite (64-bit)`进行烧录就挺好，又快又不会有太多软件上的问题。
 ### 第三方NAS系统
-ArozOS系统应该是除了OMV之外最好的，由于我安装OMV时失败了，故选择了这个系统，优点是非常简便，树莓派的安装镜像地址在仓库的读我文档里：
-{% note success %}
-[tobychui/arozos: General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go! (github.com)](https://github.com/tobychui/arozos)
-{% endnote %}
+ArozOS系统应该是除了OMV之外最好的，由于我安装OMV时失败了，故选择了这个系统，优点是非常简便，树莓派的安装镜像地址在仓库的读我文档里：[tobychui/arozos: General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go! (github.com)](https://github.com/tobychui/arozos)
+
 
 ### ssh连接
 烧录完成后，在SD卡boot分区新建文件为userconfig.txt，内容为:
@@ -136,14 +133,11 @@ ssh pi@192.168.101.??
 ## 换源
 一切正常的话，会进入到树莓派的终端，现在就可以自由操作了，第一步先解决网络情况:
 1. 树莓派更换清华源(直接参考清华源的说明文档即可)
-{% note success %}
-		[raspbian | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/raspbian/)
-{% endnote %}
+>[raspbian | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/raspbian/)
+
 
 2. 新增github临时hosts(救急用)
-{% note success %}
-	[Github hosts地址](https://raw.hellogithub.com/hosts)
-{% endnote %}
+> [Github hosts地址](https://raw.hellogithub.com/hosts)
 
 3. 更改DNS解析配置`/etc/resolv.conf`中的`nameserver`为`8.8.8.8`或其他大厂的DNS,不然之后内网穿透会报错。
 3. VPN(特殊情形)
@@ -252,9 +246,7 @@ curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
 ```
 
 ### 配置
-{% note success %}
 [Guide | AList文档 (nn.ci)](https://alist.nn.ci/zh/guide/)
-{% endnote %}
 
 安装后进入`localhost:5244`即可进入管理界面，然后参照说明文档进行配置，并添加多个云盘。
 ![成果](../../../images/20230102/Pasted%20image%2020230203154040.png)

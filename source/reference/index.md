@@ -10,9 +10,8 @@ aside: false
 comments: false
 ---
 
-{% note warning %}
-自2023年4月开始，本站不接受任何友链申请，此页面的链接可以看作是本站运营、写作、思考的参考。
-{% endnote %}
+>自2023年4月开始，本站不接受任何友链申请，此页面的链接可以看作是本站运营、写作、思考的参考。
+
 
 <p align="right">✍更新于2023.4.28</p>
 
@@ -108,11 +107,11 @@ comments: false
       avatar: https://blog.si-on.top/images/logo.svg #头像地址
       deacr: 壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？ #简短介绍自己
 ``` -->
+
 <!---
 ## 评论区等级说明
-{% note info %}
-2023-3-25更新 waline的`LEVELS`变量简直一团糟，怎样都设置不好，放弃放弃
-{% endnote %}
+> 2023-3-25更新 waline的`LEVELS`变量简直一团糟，怎样都设置不好，放弃放弃
+
 
 根据[斐波那契数列](https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/99145)以及[泰拉瑞亚不同稀有度的部分矿石](https://terraria.wiki.gg/zh/wiki/%E7%9F%BF%E7%9F%B3)设计了等级标签
 

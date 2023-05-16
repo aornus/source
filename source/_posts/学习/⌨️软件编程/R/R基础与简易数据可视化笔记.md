@@ -30,7 +30,7 @@ description: r语言学习笔记
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-{% note success %} 本文参考李东风老师的[R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)，并以Rmarkdown的格式写，使用的R版本是`4.2.3` ，源文件可通过点击文章标题处的小铅笔找到。 {% endnote %}
+>本文参考李东风老师的[R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)，并以Rmarkdown的格式写，使用的R版本是`4.2.3` 
 
 {% markmap 300px %}
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->

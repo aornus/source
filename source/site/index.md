@@ -11,6 +11,7 @@ aplayer:
 aside: false
 highlight_shrink: true
 ---
+
  <center>
 {% calendar %}
 {"monthLang": "cn", "dayLang": "cn", "title": "博客仓库·活动日历"}
@@ -386,4 +387,10 @@ highlight_shrink: true
 把Kindle的阅读笔记转移到[阅读写作子域：细墨](https://ink.si-on.top)
 <!-- endtimeline -->
 
+<!-- timeline 5-15  -->
+由于博客写作很容易，经营久了内容变得繁多、琐碎且不成系统，让人难以抽身。大学即将毕业，为了能一身轻松地开启一个新的阶段，决定从今日起逐渐把主要内容pdf化，顺便再把一些文章md文件规范化（去除所有专用标签语法），按照分类的内容进行整理，目标：
+* 使用标准ctex book文本类
+* 按照博客分类进行章节分类（源码路径设置也一致）
+* ~~标签、评论、封面~~
+<!-- endtimeline -->
 {% endtimeline %}

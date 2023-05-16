@@ -439,23 +439,19 @@ yay -S com.tencent.weixin
 ### Spotify
 破解**随机播放**的安卓版声田，来自[Spotify Craccato](https://t.me/Spotify_Crack)的分享。
 
-{% note success  %}
 https://sionapk.lanzoue.com/b012gxu9c 密码：ezoj
-{% endnote %}
 
 
 ### Nekogram
 自带魔法的电报第三方
-{% note success %}
 https://sionapk.lanzoue.com/b012gxw4j 密码：1u0j
-{% endnote %}
+
 
 
 ### Obsidian
 黑曜石笔记的镜像
-{% note success %}
 https://sionapk.lanzoue.com/b012abedc 密码：sion
-{% endnote %}
+
 
 
 

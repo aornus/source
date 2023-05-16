@@ -18,11 +18,8 @@ password:
 hidden:
 sticky:
 ---
-{% note warning %}
-本文所讨论的电子书不包括PDF格式
-{% endnote %}
-![](/images/20221012/Foliate.svg)
 
+> 本文所讨论的电子书不包括PDF格式
 
 {% markmap 400px %}
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->

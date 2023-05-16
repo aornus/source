@@ -29,9 +29,8 @@ keywords:
 > <p align="right">——秉蕳</p>
 
 
-{% note warning simple %}
-这是篇讨巧于**时机与信息传播速度**的投机教程，其内容本身没有太大技术含量。
-{% endnote %}
+>这是篇讨巧于**时机与信息传播速度**的投机教程，其内容本身没有太大技术含量。
+
 
 {% markmap 300px %}
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -56,7 +55,7 @@ keywords:
 ## 楔子
 近日来，一个类似于Railway的可以部署项目的新兴网站——[Zeabur](http://zeabur.com/)吸引了我的注意。根据介绍，它不仅可以部署类似于hexo、next.js等轻量级的静态页面，还可以部署一些后端的数据库、Serverless等 
 
-{% hideToggle Zeabur详细的支持内容 ,bg,color %}
+###  Zeabur详细的支持内容 
 以下框架可以被 Zeabur 自动识别并进行相关优化：
 
 -   [Next.js(opens in a new tab)](https://nextjs.org/)
@@ -76,14 +75,12 @@ keywords:
 * Python: 项目根目录有 `main.py` 或 `app.py`，Zeabur 会自动以 Python 项目的方式进行部署。
 * Deno
 * MongoDB、MySQL、Redis、PostgreSQL数据库
-{% endhideToggle %}
-
 
 
 在[Tg群](https://t.me/zeabur_app)观望了几天之后，网站终于在今天下午有了些引人注目的改进。中午时分，在一些群友的呼吁下，Memos部署被提上了议程。网站负责人的效率非常高，从决定支持到上线仓库商店，不到一个小时时间。接下来我就简要介绍一下如何快速部署Memos，真的非常非常简单。
-{% note warning simple %}
-这个Zeabur网站是一个新兴网站，处于建设初期，后期发展起来的话可能会有许多人部署，说不一定会有些乱七八糟的东西导致被GFW掉，所以不会导入导出Memos数据的话（我暂时也不知道如何操作），谨慎把这个Memos当作主力记录工具。
-{% endnote %}
+
+>这个Zeabur网站是一个新兴网站，处于建设初期，后期发展起来的话可能会有许多人部署，说不一定会有些乱七八糟的东西导致被GFW掉，所以不会导入导出Memos数据的话（我暂时也不知道如何操作），谨慎把这个Memos当作主力记录工具。
+
 
 ## 急速部署
 1. 打开Zeabur的官网：[Zeabur](https://dash.zeabur.com/projects)
@@ -106,9 +103,9 @@ keywords:
 ![成品展示](../../../images/20230304/Pasted%20image%2020230322231336.png)
 
 #### Memos的使用
-{% note info simple %}
-Memos[^1]就是记录闪念的一个工具，其实记录念头最最方便的还是纸笔，过于依赖这玩意儿并不会让生活变得更好，因为充实的生活才是一切感想、念头、文章、工具...的动力与来源。
-{% endnote %}
+
+>Memos[^1]就是记录闪念的一个工具，其实记录念头最最方便的还是纸笔，过于依赖这玩意儿并不会让生活变得更好，因为充实的生活才是一切感想、念头、文章、工具...的动力与来源。
+
 
 这里简单提几个技巧，诸位有心再折腾的可以参考这些文字/工具进一步玩弄：
 #### 使用Cloudflare提供的R2储存作为图床
@@ -120,21 +117,17 @@ Memos[^1]就是记录闪念的一个工具，其实记录念头最最方便的�
 
 #### 安卓客户端
 这里力荐[MoeMemos](https://f-droid.org/packages/me.mudkip.moememos/)只用输入域名、账户、密码就可以用了
-{% gallery %}
 
 ![Fdroid的第三方客户端NeoStore中展示的MoeMemos应用](../../../images/20230304/Pasted%20image%2020230322232631.png)
 ![输入登录信息](../../../images/20230304/Pasted%20image%2020230322232924.png)
 
-{% endgallery %}
 
 #### Obsidian使用Memos
 通过这个插件[Quorafind/Obsidian-Memos](https://github.com/quorafind/obsidian-memos)可以在Obsidian中实现相似的体验，不过这个插件似乎不能导出。
 ![我已经用了好久了，一直就把它当作日记的一部分【SeedCollecter 种子收集】](../../../images/20230304/Pasted%20image%2020230322233954.png) 
 
 ### 部署Alist
-{% note warning simple %}
-Zeabur 由于流量费用问题，于2023-3-27晚间下架所有包括已部署的Alist服务。（白嫖果然是有底线的，我以后定要少搞这些东西）
-{% endnote %}
+> Zeabur 由于流量费用问题，于2023-3-27晚间下架所有包括已部署的Alist服务。（白嫖果然是有底线的，我以后定要少搞这些东西）
 
 
 Zeabur一个项目可以部署很多个服务，这里就在上面创建的Memos项目里添加一个Alist[^2]项目

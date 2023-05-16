@@ -8,9 +8,6 @@ highlight_shrink: true
 description: 关于站点与站长的简单介绍
 ---
 <!-- {% btn '/about',页面完善中，更新时间：2023/4/9, fa-solid fa-history,block center outline right green larger %} -->
-{% note warning %}
-页面完善中...
-{% endnote %}
 > 人是各种社会关系的总和，博客是人与内容的总和。
 
 ## 关于博客站点——子虚栈

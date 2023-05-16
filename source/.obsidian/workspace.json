@@ -56,9 +56,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1c8be7099244bd5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "不朽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md",
+                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md"
+                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md",
+                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,45 +227,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "97e9b12e0f5bbc48",
+  "active": "1c8be7099244bd5e",
   "lastOpenFiles": [
-    "Minds/2020-2023/index.md",
-    "images/20230506/Pasted Image 20230516005720.jpeg",
-    "_posts/生活/💀死亡/姑息关怀.md",
-    "_posts/废纸篓/基本Logic.md",
-    "_posts/废纸篓/马克思主义哲学-要点.md",
-    "_posts/废纸篓/生命游戏.md",
-    "_posts/废纸篓/Mr.bearn.md",
     "site/index.md",
+    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
+    "_posts/生活/🪶杂谈/岩石文.md",
+    "_posts/学习/📒课程笔记/政治经济/置身事内.md",
+    "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "AwesomeHub/index.md",
+    "about/index.md",
+    "site/index (conflicted copy 2023-05-15 223855).md",
+    "reference/index.md",
+    "reference/index (conflicted copy 2023-05-15 154317).md",
+    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
+    "_posts/生活/日志/2022-12-28.md",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
+    "_posts/生活/📷摄影思考/🪄图层与抠图/抠图.md",
+    "_posts/生活/🪶杂谈/钢笔维护手册.md",
+    "_posts/学习/📒课程笔记/二十大.md",
+    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+    "_posts/生活/日志/2023-05-01.md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "_posts/生活/日志/2023-01-10.md",
+    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
+    "_posts/学习/🔡语言学习/English/娱乐·英语.md",
+    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
+    "_posts/学习/💻操作系统/树莓派NAS.md",
+    "images/20230506/Pasted Image 20230516005720.jpeg",
     "images/20230506/No Fear In My Heart V-1.0.pptx",
     "images/20230506/Pasted image 20230515220202.png",
-    "Minds/2017-2019/index.md",
     "images/20230506/Pasted image 20230515215645.png",
     "images/20230506/Pasted image 20230515215524.png",
     "images/20230506/Pasted image 20230515215359.png",
-    "_posts/学习/⌨️软件编程/Docker.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
     "images/20230506/1683913497896.jpg",
     "images/20230506/1683913498109.jpg",
     "images/20230506/1683913497951.jpg",
     "images/20230506/1683913498071.jpg",
     "images/20230506/Pasted image 20230513115752.png",
-    "_drafts/().md",
-    "_posts/生活/📷摄影思考/模仿练习/蓝色沙漠.md",
-    "_posts/学习/💻操作系统/note-for-linux.md",
-    "_posts/学习/💻操作系统/HoloiSO.md",
-    "_posts/生活/📷摄影思考/🤖ai辅助/AI辅助后期处理.md",
     "_posts/生活/📷摄影思考/模仿练习",
-    "_posts/学习/⌨️软件编程/R/可视化要义.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_drafts/Temolate/sands.md",
-    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
-    "_drafts/摄影的哲学思考.md",
-    "music/index.md",
-    "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/日志/2023-05-10.md",
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
-    "_posts/生活/日志/2023-05-09.md",
     "_posts/生活/RSS"
   ]
 }
