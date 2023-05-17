@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md"
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +228,13 @@
   },
   "active": "1c8be7099244bd5e",
   "lastOpenFiles": [
+    "gallery/Rhythm/index.md",
+    "gallery/Rhythm/index.html",
+    "gallery/Rhythm/index copy.html",
+    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+    "_posts/学习/⌨️软件编程/RSS使用手册.md",
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+    "gallery/Rhythm/index copy.md",
     "site/index.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "_posts/生活/📷摄影思考/图片与文本.md",
@@ -250,11 +256,6 @@
     "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
     "_posts/生活/日志/2023-05-01.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "_posts/生活/日志/2023-01-10.md",
-    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
-    "_posts/学习/🔡语言学习/English/娱乐·英语.md",
-    "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
-    "_posts/学习/💻操作系统/树莓派NAS.md",
     "images/20230506/Pasted Image 20230516005720.jpeg",
     "images/20230506/No Fear In My Heart V-1.0.pptx",
     "images/20230506/Pasted image 20230515220202.png",

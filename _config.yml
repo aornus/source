@@ -58,6 +58,8 @@ skip_render:
   - "baidusitemap.xml"
   - "shenma-site-verification.txt"
   - "search.xml" 
+  - 'gallery/Rhythm/**'
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
