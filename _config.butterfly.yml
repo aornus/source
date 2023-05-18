@@ -788,7 +788,7 @@ preloader: false
 
 aside:
   enable: true
-  hide: true
+  hide: false
   button: true
   mobile: true # display on mobile
   position: left # left or right
@@ -803,7 +803,8 @@ aside:
   card_announcement:
   # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
     enable: true
-    content: 所有过往，皆为序章！
+    content: 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
+    # 所有过往，皆为序章！
     # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
     #虚室生白，吉祥止止。
     # 深切缅怀江泽民同志!

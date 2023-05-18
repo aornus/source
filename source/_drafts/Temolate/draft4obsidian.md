@@ -26,10 +26,6 @@ keywords:
 > <center>当你在引用别人的时候，你在引用自己。</center>
 > <p align="right">——Sion</p>
 
-{% timeline 文章痕迹 %}
-<!-- timeline {{date}}-->
-<!-- endtimeline -->
-{% endtimeline %}
 {% markmap 300px %}
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->

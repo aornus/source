@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "adef27d0df11989e",
+        "id": "34c34f07efbc2958",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4abd9859152e02",
+            "id": "766cd70d1ae4ebde",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
-            }
-          },
-          {
-            "id": "8ca42dd6281607d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-05-09.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -101,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-05-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-05-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/生活/日志/2023-05-09.md"
-          }
+          "state": {}
         }
       },
       {
@@ -160,13 +144,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5f4abd9859152e02",
+  "active": "766cd70d1ae4ebde",
   "lastOpenFiles": [
+    "images/20230506/Pasted Image 20230518223514.jpeg",
+    "images/20230506/Pasted Image 20230518223508.jpeg",
+    "_posts/学习/📒课程笔记/高等数学/微分学.md",
+    "_posts/学习/🛦钛金笔记/地表最强合金的自我修养.md",
+    "_posts/生活/日志/2023-05-14.md",
+    "_posts/生活/日志/2023-05-09.md",
+    "_posts/生活/日志/2023-05-18.md",
     "images/20230506/Pasted Image 20230516005720.jpeg",
     "_posts/生活/日志/2023-05-16.md",
     "_posts/生活/日志/2023-05-12.md",
     "_posts/生活/日志/2023-05-10.md",
-    "_posts/生活/日志/2023-05-09.md",
     "_posts/生活/日志/2023-05-08.md",
     "_posts/生活/日志/2022-12-20.md",
     "_posts/生活/日志/2023-05-06.md",
@@ -195,19 +185,13 @@
     "_posts/生活/日志/2023-04-29.md",
     "_posts/生活/日志/2023-04-28.md",
     "_posts/生活/日志/2023-04-27.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "images/20230304/Pasted image 20230427111035.png",
-    "_posts/生活/日志/2023-04-26.md",
-    "_posts/生活/日志/2023-04-25.md",
-    "_posts/生活/日志/2023-04-24.md",
     "images/20230304/IMG_20230414_004123.jpg",
     "images/20230304/PICT_20230401_105649.jpg",
     "images/20230304/IMG_20230401_162936.jpg",
     "images/20230304/PICT_20230401_111233.jpg",
     "images/20230304/Pasted Image 20230401091423.jpeg",
     "images/20230304/Pasted Image 20230330215804.jpeg",
-    "images/20230304/Pasted Image 20230325175402.jpeg",
-    "images/20230304/Pasted Image 20230325173115.jpeg",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }
