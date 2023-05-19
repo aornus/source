@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,12 +124,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -228,10 +228,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "31ad7295fcd57357",
+  "active": "12722ad0d82aa51b",
   "lastOpenFiles": [
-    "_posts/学习/⌨️软件编程/Docker.md",
+    "_posts/生活/日志/2023-05-19.md",
+    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
+    "_posts/生活/日志/2022-12-18.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
+    "images/20230506/大人学选择.epub",
+    "_posts/学习/⌨️软件编程/Docker.md",
     "_posts/生活/💀死亡/姑息关怀.md",
     "_drafts/南阳方言研究.md",
     "images/20230506/Pasted Image 20230518223508.jpeg",
@@ -255,10 +259,7 @@
     "gallery/Rhythm/index.md",
     "gallery/Rhythm/index.html",
     "gallery/Rhythm/index copy.html",
-    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_posts/学习/⌨️软件编程/RSS使用手册.md",
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
-    "gallery/Rhythm/index copy.md",
     "images/20230506/Pasted Image 20230516005720.jpeg",
     "images/20230506/No Fear In My Heart V-1.0.pptx",
     "images/20230506/Pasted image 20230515220202.png",
