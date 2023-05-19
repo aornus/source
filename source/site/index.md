@@ -30,8 +30,8 @@ highlight_shrink: true
 <!-- </div> -->
 
 
-{% folding 2020年博客大事记,bg,green %}
-{% timeline 2020,green %}
+{% folding red,2020年博客大事记%}
+{% timeline 2020,red %}
 
 <!-- timeline 3-20 -->
 起源：突发奇想，购买阿里云轻量级应用服务器，使用LNMP+WordPress建站。
@@ -66,8 +66,8 @@ highlight_shrink: true
 
 {% endfolding %}
 
-{% folding 2021年博客大事记,bg,pink %}
-{% timeline 2021,pink %}
+{% folding orange,2021年博客大事记 %}
+{% timeline 2021,orange %}
 <!-- timeline 2-14 -->
 有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
 <!-- endtimeline -->
@@ -117,8 +117,8 @@ highlight_shrink: true
 
 {% endfolding %}
 
-{% folding 2022年博客大事记,bg,blue %}
-{% timeline 2022,blue %}
+{% folding yellow,2022年博客大事记%}
+{% timeline 2022,yellow %}
 
 <!-- timeline 02-05 -->
 
@@ -283,7 +283,9 @@ highlight_shrink: true
 
 {% endfolding %}
 
-{% timeline 2023,red %}
+
+
+{% timeline 2023, green %}
 <!-- timeline 01-03 -->
 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
 <!-- endtimeline -->
@@ -369,7 +371,7 @@ highlight_shrink: true
 2. 更改配色为$\text{\color{yellow}活力黄}$
 3. 更改点击特效为文字；美化各层级标题样式；~~修改段落`<p>`缩进为`2em`~~;
 3. 删除文章日历
-4. 增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）
+4. ~~增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）~~
 4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)
 5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
 6. 【测试】~~增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)~~(没什么鸟用，与5月10关闭)
