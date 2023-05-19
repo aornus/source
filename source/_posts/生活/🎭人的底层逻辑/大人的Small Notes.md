@@ -8,7 +8,10 @@ categories:
 hidden:
 date: 2023-05-18 22:24:45
 title: 大人的Small Notes
-tags: true
+tags:
+- 经历
+- 安利
+- 批判性思考
 cover: /images/Cover/undraw_social_interaction_re_dyjh.svg
 comments:
 copyright:
