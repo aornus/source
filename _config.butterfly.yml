@@ -10,7 +10,7 @@ menu:
   广播: /Fm/ || fa fa-podcast
   查机: https://chatnext.si-on.top || fas fa-star-of-david
 #  示程: https://xuzi.si-on.top || fas fa-star-of-david
-#  闪念: https://seed.si-on.top || fas fa-seedling
+#  闪念: https://seed.si-on.top/|| fas fa-seedling
  私人||fas fa-coffee:
   捉影: /gallery/ || fas fa-camera
   阅读: https://sionreading.notion.site/ || fas fa-book
@@ -407,6 +407,10 @@ waline:
     'https://www.emojiall.com/images/60/microsoft-teams/1f4a9.png',
     'https://www.emojiall.com/images/60/microsoft-teams/1f494.png',
         ]
+    requiredMeta: ['nick', 'mail']
+    wordLimit: [5, 1000]
+    copyright: false
+    turnstileKey: 0x4AAAAAAABDE4xYGUMuRttC
 
 
 # utterances
