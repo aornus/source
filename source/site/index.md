@@ -389,4 +389,8 @@ highlight_shrink: true
 把Kindle的阅读笔记转移到[阅读写作子域：细墨](https://ink.si-on.top)
 <!-- endtimeline -->
 
+<!-- timeline 5-20  -->
+* 完善了Waline评论的配置，现在有了**昵称和邮箱**、评论字数(5~1000)的限制，
+* 添加了博客站点的Turnstile非交互式质询（正常访问是无感的）
+<!-- endtimeline -->
 {% endtimeline %}
