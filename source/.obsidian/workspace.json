@@ -56,9 +56,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3915eb0c63fa999e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-05-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md",
+                "file": "_posts/生活/日志/2023-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md"
+                "file": "_posts/生活/日志/2023-05-21.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Docker.md",
+                "file": "_posts/生活/日志/2023-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,9 +227,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "97e9b12e0f5bbc48",
+  "active": "12722ad0d82aa51b",
   "lastOpenFiles": [
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+    "_posts/学习/⌨️软件编程/Docker.md",
+    "_posts/生活/日志/2023-05-21.md",
     "images/20230506/Pasted Image 20230518223514.jpeg",
     "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
@@ -225,7 +239,6 @@
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_posts/生活/日志/2022-12-18.md",
     "images/20230506/大人学选择.epub",
-    "_posts/学习/⌨️软件编程/Docker.md",
     "_drafts/南阳方言研究.md",
     "images/20230506/Pasted Image 20230518223508.jpeg",
     "_drafts/摄影的哲学思考.md",

@@ -94,11 +94,9 @@
 } */
 
 /* 引用加符号 */
-/* #article-container blockquote:before {
-    font-family: "iconfont";
-    content: "\e600";
-    font-size: 24px;
-  } */
+#article-container blockquote{
+    font-family: palatino linotype,book antiqua,Palatino,stkaiti,kaiti,楷体,simkai,dfkai-sb,nsimsun,serif;
+  } 
 
 
 /* 段落首行缩进两个字符，但会导致其他内容出现问题 */
