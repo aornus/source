@@ -589,7 +589,7 @@ theme_color:
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#000000" #目录颜色
   blockquote_padding_color: "#BEBEBE" # 引用颜色
-  blockquote_background_color: "#BEBEBE" # 引用悬挂颜色
+  blockquote_background_color: 
 
 # theme_color:
 #   enable: true

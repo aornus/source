@@ -141,3 +141,8 @@
 #footer-wrap {
   padding: 0px 9px;
 }
+
+u {
+  text-decoration: none;
+  border-bottom: 1px solid #fe5f58;
+}

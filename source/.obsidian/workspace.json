@@ -63,14 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-05-21.md",
+                "file": "_posts/生活/日志/2023-05-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "0230221172008",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-05-21.md",
+                "file": "_posts/生活/日志/2023-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-05-21.md"
+                "file": "_posts/生活/日志/2023-05-24.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-05-21.md",
+                "file": "_posts/生活/日志/2023-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,13 +227,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "12722ad0d82aa51b",
+  "active": "3915eb0c63fa999e",
   "lastOpenFiles": [
+    "images/20230506/Pasted Image 20230518223514_tempfile23893298021.jpeg",
+    "images/20230506/Pasted Image 20230516005720_tempfile23893298021.jpeg",
+    "images/20230506/Pasted Image 20230515011204_tempfile23893298021.jpeg",
+    "images/20230506/Pasted image 20230512114311_tempfile23893298021.png",
+    "images/20230506/Pasted image 20230508100927_tempfile23893298021.png",
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_posts/生活/日志/2023-05-24.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
+    "_posts/学习/🛦钛金笔记/地表最强合金的自我修养.md",
+    "_posts/学习/🛦钛金笔记/开题报告.md",
+    "_posts/学习/🛦钛金笔记/钛合金组织分析方法.md",
+    "_posts/生活/日志/2023-05-22.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "_posts/学习/⌨️软件编程/Docker.md",
     "_posts/生活/日志/2023-05-21.md",
     "images/20230506/Pasted Image 20230518223514.jpeg",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
     "_posts/生活/日志/2023-05-19.md",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
@@ -248,16 +260,8 @@
     "_posts/学习/🔡语言学习/English/娱乐·英语.md",
     "_posts/学习/🔡语言学习/English/English Writing in a shell.md",
     "_posts/学习/🛦钛金笔记/最小可行笔记.md",
-    "_posts/学习/🛦钛金笔记/地表最强合金的自我修养.md",
-    "_posts/学习/🛦钛金笔记/开题报告.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.2 TC4钛合金的热处理方案设计.md",
     "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.1 TC4型钛合金的热处理工艺.md",
-    "_posts/学习/🛦钛金笔记/第二部分：TC4钛合金的热处理实验/2.3 TC4钛合金的热处理方案实验过程.md",
-    "_posts/学习/🛦钛金笔记/钛合金的分类、组织与性能.md",
-    "_posts/学习/🛦钛金笔记/钛工业的历程、现状与应用.md",
-    "_posts/学习/🛦钛金笔记/钛合金组织分析方法.md",
-    "_posts/生活/日志/2023-05-18.md",
-    "gallery/Rhythm/index.md",
     "gallery/Rhythm/index.html",
     "gallery/Rhythm/index copy.html",
     "images/20230506/Pasted Image 20230516005720.jpeg",
@@ -265,10 +269,6 @@
     "images/20230506/Pasted image 20230515220202.png",
     "images/20230506/Pasted image 20230515215645.png",
     "images/20230506/Pasted image 20230515215524.png",
-    "images/20230506/Pasted image 20230515215359.png",
-    "images/20230506/1683913497896.jpg",
-    "images/20230506/1683913498109.jpg",
-    "images/20230506/1683913497951.jpg",
     "_posts/生活/📷摄影思考/模仿练习",
     "_posts/生活/RSS"
   ]
