@@ -208,8 +208,8 @@ anchor:
 toc:
   post: true
   page: true
-  number: true
-  expand: false
+  number: fasle
+  expand: true
   style_simple: true # for post
   scroll_percent: true
 
@@ -909,7 +909,7 @@ rightside_scroll_percent: true
 rightside_item_order:
   enable: true
   hide: # readmode,translate,darkmode,hideAside
-  show: darkmode,hideAside,translate,toc,comment
+  show: darkmode,hideAside,translate,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------

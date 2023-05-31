@@ -1,13 +1,14 @@
-/* #article-container h1 {
+#article-container h1 {
   text-align: center;
 }
-
+/* 
 #article-container h2 {
 	counter-increment: counter_h1;
 	counter-reset: counter_h2;
 }
 #article-container h2:before {
-	content: "§ "counter(counter_h1)"  ";
+  font-family: "LXGW WenKai Screen";
+	content: "§§§§§§§ "counter(counter_h1)"  ";
 }
 
 #article-container h3 {
@@ -15,6 +16,7 @@
 	counter-reset: counter_h3;
 }
 #article-container h3:before {
+  font-family: "LXGW WenKai Screen";
 	content: counter(counter_h1)"."counter(counter_h2)"";
 }
 
@@ -23,6 +25,7 @@
 	counter-reset: counter_h4;
 }
 #article-container h4:before {
+  font-family: "LXGW WenKai Screen";
 	content: counter(counter_h1)"."counter(counter_h2)"."counter(counter_h3)"";
 }
 
@@ -31,13 +34,14 @@
 	counter-reset: counter_h5;
 }
 #article-container h5:before {
+  font-family: "LXGW WenKai Screen";
 	content: counter(counter_h1)"."counter(counter_h2)"."counter(counter_h3).counter(counter_h4)"";
 } */
 
 
 
 
-/* #article-container h1:before {
+#article-container h1:before {
     font-family: "iconfont";
     content: "\e601";
   }
@@ -49,7 +53,7 @@
     font-size: 18px;
   }
 
-#article-container 会:before {
+#article-container h3:before {
     font-family: "iconfont";
     content: "\e608";
     margin-left: -22px;
@@ -71,7 +75,7 @@
 #article-container h6:before {
   font-family: "iconfont";
   content: "\e605";
-} */
+}
 
 #article-container h2:after,
 #article-container h3:after,
@@ -99,11 +103,7 @@
   } 
 
 
-/* 段落首行缩进两个字符，但会导致其他内容出现问题 */
-  /* 
-#article-container p{
-  text-indent: 2em;
-  }  */
+
 /* 卡片样式 */
 .cardHover, .error404 #error-wrap .error-content, .layout > div:first-child:not(.recent-posts), #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space) {
     box-shadow: none!important;

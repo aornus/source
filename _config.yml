@@ -1,3 +1,7 @@
+# 常用指令
+# 本地博客调试： hexo s --debug 
+# 彻底重新生成：rm .\db.json ; hexo s -g
+# 提交日历生成：hexo gc -w=40
 # Hexo Configuration
 # Site
 title: 子虚栈
