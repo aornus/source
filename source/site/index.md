@@ -394,4 +394,9 @@ highlight_shrink: true
 * 添加了博客站点的Turnstile非交互式质询（正常访问是无感的）
 <!-- endtimeline -->
 
+
+<!-- timeline 6-2  -->
+* 调整文章字体为`18px`，关闭了目录(大材小用)以提高阅读体验，对于复杂文章，采用思维导图的方式进行索引。
+<!-- endtimeline -->
+
 {% endtimeline %}

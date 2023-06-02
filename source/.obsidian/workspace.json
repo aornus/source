@@ -30,29 +30,7 @@
             }
           },
           {
-            "id": "27882fb74b437d1d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/20230506/DSC02673.jpg"
-              }
-            }
-          },
-          {
-            "id": "ece4e0860e71d279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59344a8572cb291f",
+            "id": "d1c609a4cdba37f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "361e6f39631e9513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/✒️随笔/日落随笔.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -150,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/✒️随笔/日落随笔.md",
+                "file": "_posts/学习/⚛️科学/鸟类的天赋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/✒️随笔/日落随笔.md"
+                "file": "_posts/学习/⚛️科学/鸟类的天赋.md"
               }
             }
           },
@@ -191,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/✒️随笔/日落随笔.md",
+                "file": "_posts/学习/⚛️科学/鸟类的天赋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -233,26 +200,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "361e6f39631e9513",
+  "active": "d1c609a4cdba37f4",
   "lastOpenFiles": [
+    "_posts/生活/💀死亡/姑息关怀.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/学习/⚛️科学/彩虹观测指南.md",
+    "_posts/生活/🪶杂谈/岩石文.md",
+    "_posts/学习/⚛️科学/(稿)观云手册.md",
+    "_posts/学习/⚛️科学/鸟类的天赋.md",
+    "images/20230506/DSC02673.jpg",
+    "_posts/生活/✒️随笔/日落随笔.md",
     "images/20230506/DSC02721_tempfile23893298021.jpg",
     "images/20230506/DSC02715_tempfile23893298021.jpg",
     "images/20230506/DSC02685_tempfile23893298021.jpg",
     "images/20230506/DSC02673_tempfile23893298021.jpg",
     "images/20230506/DSC02609_tempfile23893298021.jpg",
     "images/20230506/DSC02589_tempfile23893298021.jpg",
-    "_posts/学习/⚛️科学/鸟类的天赋.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/✒️随笔/日落随笔.md",
-    "images/20230506/DSC02673.jpg",
     "images/20230506/DSC02629.jpg",
     "images/20230506/DSC02609.jpg",
     "images/20230506/DSC02721.jpg",
-    "images/20230506/DSC02715.jpg",
     "_posts/生活/日志/2023-06-01.md",
     "_posts/学习/科学/鸟类的天赋.md",
     "_posts/学习/⚛️科学",
-    "_posts/生活/💀死亡/姑息关怀.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "_posts/学习/📒课程笔记/政治经济/置身事内.md",
     "_posts/学习/💻操作系统/note-for-linux.md",
@@ -271,8 +240,6 @@
     "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
     "_posts/生活/日志/2023-05-31.md",
     "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
-    "_posts/学习/🛦钛金笔记/翻译练习：不同热处理工艺对Ti6Al4V钛合金微观结构和力学性能影响.md",
-    "_posts/生活/日志/2023-05-30.md",
     "images/20230506/大人学选择.epub",
     "gallery/Rhythm/index.html",
     "gallery/Rhythm/index copy.html",
