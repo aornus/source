@@ -2,9 +2,9 @@
   "accentColor": "#0b9bf4",
   "theme": "system",
   "translucency": false,
-  "interfaceFontFamily": "LXGW WenKai,Adobe Heiti Std",
+  "interfaceFontFamily": "Microsoft YaHei UI",
   "baseFontSize": 21,
   "cssTheme": "",
   "nativeMenus": true,
-  "textFontFamily": "LXGW WenKai"
+  "textFontFamily": "LXGW WenKai,Noto Serif SC"
 }

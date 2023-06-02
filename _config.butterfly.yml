@@ -729,10 +729,10 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: fasle
+  enable:
   field: site # site/post
-  title-prefix-icon: '\f1dd'
-  title-prefix-icon-color: '#000000'
+  title-prefix-icon:
+  title-prefix-icon-color:
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)

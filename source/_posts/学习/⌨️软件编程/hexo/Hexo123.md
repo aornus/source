@@ -18,7 +18,8 @@ aside:
 password:
 hidden:
 ---
-```md
+
+{% note warning %}
 本文曾遗人以谬误，在此向因阅读本文而对hexo恐惧的来访者，特别是Z君道歉。
 
 如果想搭建hexo博客的初学者，请直接参考相关视频教程。
@@ -26,8 +27,7 @@ hidden:
 不要阅读文本！
 不要阅读文本！
 不要阅读文本！
-```
-
+{% endnote %}
 
 本文目的：
 
@@ -35,39 +35,52 @@ hidden:
 2. 通过git在各大代码平台进行管理部署。
 
 {% markmap 300px %}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
 
-- [安装](#install)
-  - Git
-    - [安装](#gitinstall)
-    - [基操](#gitact)
-  - Node.js
-    - [安装](#nodejsinstall)
-    - [基操](#nodejsact)
-  - hexo
-    - [安装](#hexoinstall)
-    - [基操](#hexoact)
-    - [写作](#md)
+- [第一部分：安装](#第一部分安装)
+  - [Git](#git)
+    - [安装步骤](#安装步骤)
+    - [git基本操作](#git基本操作1)
+  - [Node.js](#nodejs)
+    - [安装步骤](#安装步骤-1)
+    - [基本操作](#基本操作)
+  - [hexo安装](#hexo安装)
+    - [安装hexo](#安装hexo)
+    - [hexo博客维护基本命令](#hexo博客维护基本命令)
+    - [配置](#配置)
+    - [_config.yml](#_configyml)
+    - [_config.[theme].yml](#_configthemeyml)
+    - [主题](#主题)
+      - [自定义全局字体](#自定义全局字体)
+- [第二部分：部署](#第二部分部署)
+  - [SSH连接](#ssh连接)
+  - [同步·gitee](#同步gitee)
+    - [建立仓库](#建立仓库)
+    - [克隆到本地](#克隆到本地)
+    - [推送到远端并部署](#推送到远端并部署)
+  - [同步·github](#同步github)
+    - [建立仓库](#建立仓库-1)
+    - [克隆到本地](#克隆到本地-1)
+    - [hexo一键部署](#hexo一键部署)
+    - [githubpages部署](#githubpages部署)
+    - [.nojekyll问题](#nojekyll问题)
+  - [快速恢复部署](#快速恢复部署)
 
-- [部署](#deploy)
+<!-- /code_chunk_output -->
+{% endmarkmap %}
 
-  - [ssh连接](#ssh)
-  - [gitee](#gitee)
-  - [github](#github)
-
-
-{%endmarkmap%}
-
-# <div id= "install" >  第一部分：安装  </div>
+## 第一部分：安装
 
 安装hexo框架需要两个软件：**[Node.js](https://github.91chi.fun/https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)** 与 **[Git](https://github.91chi.fun/https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)**，前者是hexo的依赖项，后者是为了在各个平台进行部署管理。
 
-## **Git**
+### Git
 
 Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
 
 Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
 
-### 安装步骤 
+#### 安装步骤 
 
  <div id= "gitinstall" > 与平常的windows软件安装类似，不过其中有些细节要注意。 </div>
 
@@ -169,7 +182,7 @@ Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个�
 
 ![完成🎉](../../../../images/blogimage/raw/master/2022/image-20220225131125981.png)
 
-### git基本操作[^1]
+#### git基本操作[^1]
 
 1.  <div id= "gitact" > 创建新仓库 </div>
 
@@ -252,11 +265,11 @@ git add <filename>
 git diff <source_branch> <target_branch>
 ```
 
-## Node.js 
+### Node.js 
 
 > <div id= "nodejsinstall" > npm 是Node.js的默认包管理器，node.js安装后自带，就跟pip之于python，apt之于debian，pacman之于arch一样。  </div>
 
-### 安装步骤
+#### 安装步骤
 
 1. 下载安装文件
 
@@ -290,7 +303,7 @@ git diff <source_branch> <target_branch>
 
 ![起飞✈](../../../../images/blogimage/raw/master/2022/image-20220225132732139.png)
 
-### 基本操作
+#### 基本操作
 
 <div id= "nodejsact" > 在安装完成之后，我们先来熟悉一下nodejs的基本命令。  </div>
 
@@ -344,7 +357,7 @@ npm search	<Module Name>
 npm list -g
 ```
 
-## hexo安装
+### hexo安装
 
 > windows命令行基础，大佬略过
 >
@@ -371,7 +384,7 @@ npm list -g
 > 3. 删除文件：`del 文件名`
 > 4. 删除文件夹： `rd 文件夹`
 
-### 安装hexo
+#### 安装hexo
 
 <div id= "hexoinstall" > 打开cmd，进入博客文件目录，创建博客目录： </div>
 
@@ -415,7 +428,7 @@ INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.
 
 ![HelloWorld](../../../../images/blogimage/raw/master/2022/image-20220225150343169.png)
 
-### hexo博客维护基本命令
+#### hexo博客维护基本命令
 
 `hexo new post_title`=`hexo n post_title`：创建文章
 
@@ -495,13 +508,13 @@ hexo c && hexo s -g
 
 > 我们强烈建议你将所有的主题配置集中在一处。如果你不得不在多处配置你的主题，那么这些信息对你将会非常有用：Hexo 在合并主题配置时，Hexo 配置文件中的 `theme_config` 的优先级最高，其次是 `_config.[theme].yml` 文件，最后是位于主题目录下的 `_config.yml` 文件。
 
-### 主题
+#### 主题
 
 无需多讲，本人感觉好看的两个主题：[Next](http://theme-next.iissnan.com/), [Butterfly🦋](https://butterfly.js.org/posts/21cfbf15/)
 
 这里主要提几点本人在使用时的一点经验
 
-#### 自定义全局字体
+##### 自定义全局字体
 
 在主题的`theme\[your themes]\source\css`目录下新建一个.css文件，并按照下列css规范填写字体的定义：
 
@@ -536,11 +549,11 @@ body{
 
 不过这样字体文件大的时候加载会有些慢，还是建议使用谷歌字体api。
 
-# <div id= "deploy" > 第二部分：部署 </div>
+## 第二部分：部署
 
 这一步是静态博客的精髓，利用各大代码托管平台的pages服务，来免费部署博客，所以说，现在建站基本上就是零成本。
 
-## SSH连接
+### SSH连接
 
 <div id= "ssh" > 使用https虽然简单，但每次都要输密码，使用ssh可以免除git每次push时输密码的烦恼，而且更为安全。这里以gitee，github为例 </div>
 
@@ -642,11 +655,11 @@ IdentityFile ~/.ssh/windows
 IdentitiesOnly yes
 ```
 
-## 同步·gitee
+### 同步·gitee
 
 <div id= "gitee" >gitee国内速度很快，但内容会被审核，更新不方便 </div>
 
-### 建立仓库
+#### 建立仓库
 
 ![gitee建立仓库](../../../../images/202204/image-20220330170738241.png)
 
@@ -654,7 +667,7 @@ IdentitiesOnly yes
 
 >  建站的话这里要填写你的用户名字，我已经有了一个了，所以会提示错误，因为gitee现在不支持自定义域名，填别的不能部署。
 
-### 克隆到本地
+#### 克隆到本地
 
 ![复制仓库的ssh地址](../../../../images/202204/image-20220330171449490.png)
 
@@ -666,7 +679,7 @@ git clone git@gitee.com:aornus/aornus.git
 
 ![VScode](../../../../images/202204/image-20220330171809836.png)
 
-### 推送到远端并部署
+#### 推送到远端并部署
 
 在你已经写作、修改完成所有文件后，就可以准备发布了
 
@@ -684,17 +697,17 @@ git add . ; git commit -m "hello" ; git push
 
 ![gitee部署](../../../../images/202204/image-20220330172652850.png)
 
-## 同步·github
+### 同步·github
 
 <div id= "github" >github国内速度比较慢，但内容会不会被审核，更新方便。 </div>
 
-### 建立仓库
+#### 建立仓库
 
 仓库名要写成用户名.github.io
 
 ![gitub建立仓库](../../../../images/202204/image-20220330172821419.png)
 
-### 克隆到本地
+#### 克隆到本地
 
 ![github clone](../../../../images/202204/image-20220330173051039.png)
 
@@ -715,7 +728,7 @@ git push origin pages
 git checkout master
 ```
 
-### hexo一键部署
+#### hexo一键部署
 
 1. 安装 [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git)。
 
@@ -746,7 +759,7 @@ deploy:
 hexo clean && hexo deploy
 ```
 
-### githubpages部署
+#### githubpages部署
 
 上面步骤作为完后，再仓库设置中将默认分支设置为`_config.yml`配置中的分支名称。稍等片刻，然后站点就会显示在您的Github Pages中。
 
@@ -756,7 +769,7 @@ hexo clean && hexo deploy
 >
 > 如果你按部就班的做，这里应该这样填：部署到`pages`分支，域名是：用户名.`github.io`。
 
-### .nojekyll问题
+#### .nojekyll问题
 
 可能你不会遇到这个问题，但我在后来换到windows上后，恢复时死活不能部署。看了action的记录才发现：这个问题是因为github的pages服务默认是选用jekyll作为框架的，用jekyll肯定不能编译hexo博客了，**官方提供了一种方法来解决：在博客目录里添加一个`.nojekyll`文件。**
 
@@ -784,7 +797,7 @@ deploy:
 
 最后hexo三连，就可以愉快的部署了😊。
 
-## 快速恢复部署
+### 快速恢复部署
 
 如果你转移了设备，或者不小心删除了文件。恢复部署似乎很麻烦，这篇文章[🌪️](https://si-on.top/2021/12/19/269f4f784bc3/)将主要的命令与步骤总结，可以大大节省你的时间。
 

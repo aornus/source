@@ -5,3 +5,9 @@ bottom:
       icon: fas fa-heartbeat
       order:
       html:  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=9e9e9e&w=a&t=n&d=k4iCbaiEVbdN34bCXhZBuRY5PnmYxfFapfuWzZd_EbE&cmo=53ffbf&cmn=27def4&ct=ffffff&co=ffffff'></script>
+    - class_name: douban
+      id_name: douban
+      name: 豆瓣活动
+      icon: fas fa-paw
+      order:
+      html:   <script type="text/javascript" src="https://www.douban.com/service/badge/siontian/?selection=latest&amp;picsize=small&amp;hideself=on&amp;show=collection&amp;n=1&amp;hidelogo=on&amp;cat=drama%7Cmovie%7Cbook%7Cmusic&amp;columns=1"></script>

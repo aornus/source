@@ -7,7 +7,7 @@ categories:
   - 学习
   - "\U0001F4BB操作系统"
 cover: /images/top-5-linux-shells-and-how-to-install-them.jpg
-description: 解决的不仅仅是一个问题，而是整个世界！--Sun
+description: 近些年来学习（玩）LInux过程中遇到的一些问题与备忘
 abbrlink: linuxnote
 date: 2021-08-02 18:31:36
 updated:
@@ -20,6 +20,8 @@ copyright_info:
 mathjax:
 highlight_shrink:
 ---
+
+> 解决的不仅仅是一个问题，而是整个世界！
 
 ## 方法
 ### debian/ubuntu/raspberry 扩充root空间
@@ -219,5 +221,30 @@ timedatectl set-local-rtc 1
 ```
 
 
+### Docker
+
+>此部分笔记所操作时的环境时Arch系的Garuda linux：
+
+|   项目   |          内容          |
+|:--------:|:----------------------:|
+| 操作系统 |      Garuda Linux      |
+| 系统类型 |          64位          |
+| 内核版本 | Linux 6.3.1-zen1-1-zen |
+|   时间   |       2023.5.12        |
+
+linux上安装软件，一般不需要查教程，直接安装即可
+```shell
+sudo pacman -S docker
+# 在写作本文时安装的docker版本为1:23.0.6-1
+```
+
+```shell 运行结果
+软件包 (3) containerd-1.7.0-1  runc-1.1.7-1  docker-1:23.0.6-1
+
+下载大小：       55.00 MiB
+全部安装大小：  233.40 MiB
+```
+
 [^1]:[The Recommended Way To Clean The Package Cache In Arch Linux](https://ostechnix.com/recommended-way-clean-package-cache-arch-linux/) 
 [^2]: [LaTex报错：Reference ‘xxx‘ on page ‘xxx‘ undefined on input line ‘xxx‘_Su_Yuan97的博客-CSDN博客](https://blog.csdn.net/NEU_Yuan/article/details/129539364)
+
