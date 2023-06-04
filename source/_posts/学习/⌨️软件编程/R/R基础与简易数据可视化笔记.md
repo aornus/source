@@ -2,6 +2,7 @@
 title: R语言基础笔记
 abbrlink: r-basic
 katex: false
+cover: /images/Cover/r.svg
 root: ../../
 categories:
   - 学习

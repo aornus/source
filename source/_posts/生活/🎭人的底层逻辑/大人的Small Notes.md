@@ -12,7 +12,7 @@ tags:
 - 经历
 - 安利
 - 批判性思考
-cover: /images/Cover/undraw_social_interaction_re_dyjh.svg
+cover: /images/Cover/smallnotes.svg
 comments:
 copyright:
 aside:

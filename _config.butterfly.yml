@@ -410,7 +410,7 @@ waline:
     requiredMeta: ['nick', 'mail']
     wordLimit: [5, 1000]
     copyright: false
-    turnstileKey: 0x4AAAAAAABDE4xYGUMuRttC
+#关闭验证    turnstileKey: 0x4AAAAAAABDE4xYGUMuRttC
 
 
 # utterances
