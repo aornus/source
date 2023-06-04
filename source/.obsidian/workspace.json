@@ -42,19 +42,19 @@
             }
           },
           {
-            "id": "44a69fc447febc7f",
+            "id": "87c0d3928d03d9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "_drafts/Temolate/draft4obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md"
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +210,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "44a69fc447febc7f",
+  "active": "9494470268ade18c",
   "lastOpenFiles": [
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/🪶杂谈/修轮要术.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "images/Cover/wheel.svg",
     "_posts/废文汇总.md",
     "reference/index.md",
