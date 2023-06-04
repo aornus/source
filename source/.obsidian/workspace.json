@@ -42,24 +42,12 @@
             }
           },
           {
-            "id": "aa411b0adfb5480d",
+            "id": "fb80ae8a77d9b6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed1a6e8bb4528e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/废纸篓/废文汇总.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
+                "file": "_posts/生活/🪶杂谈/修轮要术.md"
               }
             }
           },
@@ -181,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,11 +189,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +211,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "aa411b0adfb5480d",
+  "active": "fb80ae8a77d9b6e7",
   "lastOpenFiles": [
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/🪶杂谈/修轮要术.md",
+    "images/Cover/wheel.svg",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/废文汇总.md",
+    "reference/index.md",
     "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
     "images/Cover/storm.svg",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
@@ -249,17 +244,11 @@
     "_posts/生活/priv/周记-week2.md",
     "_posts/生活/priv/周记-week1.md",
     "_posts/生活/📷摄影思考/模仿练习/蓝色沙漠.md",
-    "_posts/废纸篓/废文汇总.md",
     "_posts/生活/priv/关于博客的思考.md",
     "_posts/生活/📖涵泳/柳永.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/📖涵泳/涵泳总录.md",
-    "_posts/生活/📖涵泳/思考与读书.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
-    "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
     "images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-30.jpg",
     "images/20230506/DSC02673.jpg",
-    "images/20230506/DSC02721_tempfile23893298021.jpg",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学",
     "images/20230506/大人学选择.epub",
