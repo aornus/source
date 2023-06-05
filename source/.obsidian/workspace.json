@@ -28,6 +28,24 @@
             }
           },
           {
+            "id": "87c0d3928d03d9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Temolate/draft4obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c385fa1f117b96dd",
+        "type": "tabs",
+        "children": [
+          {
             "id": "9494470268ade18c",
             "type": "leaf",
             "pinned": true,
@@ -40,21 +58,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "87c0d3928d03d9ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -210,7 +216,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9494470268ade18c",
+  "active": "12722ad0d82aa51b",
   "lastOpenFiles": [
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
