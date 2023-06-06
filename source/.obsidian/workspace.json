@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "d1c609a4cdba37f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87c0d3928d03d9ca",
             "type": "leaf",
             "state": {
@@ -38,13 +26,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c385fa1f117b96dd",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "9494470268ade18c",
             "type": "leaf",
@@ -58,8 +40,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "38c93b3f0f662e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/⚛️科学/鸟类的天赋.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28713d84640f7f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15186ef8cc96080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minds/2020-2023/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "剪影",
+                "query": "老奶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +236,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "12722ad0d82aa51b",
+  "active": "9494470268ade18c",
   "lastOpenFiles": [
-    "_drafts/Temolate/draft4obsidian.md",
+    "images/Cover/neo-read.svg",
+    "images/Cover/neo-read_画板 1.svg",
+    "Minds/2020-2023/index.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
+    "AwesomeHub/index.md",
+    "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
+    "_posts/学习/⌨️软件编程/博看电子书提取成pdf.md",
+    "_posts/学习/⚛️科学/鸟类的天赋.md",
+    "_posts/生活/📖涵泳/柳永.md",
+    "_posts/生活/日志/2023-02-07.md",
+    "_posts/生活/日志/2022-12-16.md",
+    "_posts/学习/⌨️软件编程/RSS使用手册.md",
+    "images/20230506/IMG_20230605_183431.jpg",
+    "_posts/生活/📖涵泳/我的优雅阅读流 (conflicted copy 2023-06-06 094653).md",
+    "_posts/生活/🪶杂谈/博客写作方法论.md",
+    "_posts/生活/✒️随笔/Godzilla.md",
+    "music/index.md",
+    "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/🪶杂谈/修轮要术.md",
     "images/Cover/wheel.svg",
     "_posts/废文汇总.md",
@@ -227,33 +265,15 @@
     "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
     "images/Cover/storm.svg",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
-    "_posts/学习/⌨️软件编程/RSS使用手册.md",
     "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
     "images/Cover/r.svg",
     "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
     "_posts/学习/📒课程笔记/政治经济/置身事内.md",
     "images/Cover/剪影4.svg",
     "images/Cover/pic1.jpg",
-    "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
     "images/Cover/outside.svg",
-    "_posts/学习/⌨️软件编程/hexo/waline评论使用.md",
     "images/Cover/smallnotes.svg",
     "images/Cover/waline.svg",
-    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
-    "_posts/学习/⌨️软件编程/hexo/hexo-quickest.md",
-    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
-    "_posts/学习/⌨️软件编程/hexo/Hexo添加tikz支持.md",
-    "_posts/生活/priv/plan-for-review.md",
-    "_posts/生活/priv/Daily.md",
-    "_posts/生活/priv/祝你开心，就是今天啦.md",
-    "_posts/生活/priv/周记-week2.md",
-    "_posts/生活/priv/周记-week1.md",
-    "_posts/生活/📷摄影思考/模仿练习/蓝色沙漠.md",
-    "_posts/生活/priv/关于博客的思考.md",
-    "_posts/生活/📖涵泳/柳永.md",
-    "_posts/生活/📖涵泳/涵泳总录.md",
-    "images/blogimage/raw/master/mr-bean-historic-portraits-rodney-pike-30.jpg",
-    "images/20230506/DSC02673.jpg",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学",
     "images/20230506/大人学选择.epub",
