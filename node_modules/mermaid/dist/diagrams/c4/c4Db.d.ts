@@ -101,7 +101,7 @@ declare namespace _default {
     export { getAccDescription };
     export { setAccDescription };
     export { parseDirective };
-    export function getConfig(): import("../../config.type").C4DiagramConfig | undefined;
+    export function getConfig(): import("../../config.type.js").C4DiagramConfig | undefined;
     export { clear };
     export { LINETYPE };
     export { ARROWTYPE };
@@ -110,7 +110,7 @@ declare namespace _default {
     export { setC4Type };
 }
 export default _default;
-import { setAccTitle } from "../../commonDb";
-import { getAccTitle } from "../../commonDb";
-import { getAccDescription } from "../../commonDb";
-import { setAccDescription } from "../../commonDb";
+import { setAccTitle } from '../../commonDb.js';
+import { getAccTitle } from '../../commonDb.js';
+import { getAccDescription } from '../../commonDb.js';
+import { setAccDescription } from '../../commonDb.js';

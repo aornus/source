@@ -3,7 +3,7 @@ declare namespace _default {
     export { Cardinality };
     export { Identification };
     export { parseDirective };
-    export function getConfig(): import("../../config.type").ErDiagramConfig | undefined;
+    export function getConfig(): import("../../config.type.js").ErDiagramConfig | undefined;
     export { addEntity };
     export { addAttributes };
     export { getEntities };
@@ -23,6 +23,7 @@ declare namespace Cardinality {
     const ZERO_OR_MORE: string;
     const ONE_OR_MORE: string;
     const ONLY_ONE: string;
+    const MD_PARENT: string;
 }
 declare namespace Identification {
     const NON_IDENTIFYING: string;
@@ -42,9 +43,9 @@ declare function getEntities(): {};
 declare function addRelationship(entA: any, rolA: any, entB: any, rSpec: any): void;
 declare function getRelationships(): any[];
 declare function clear(): void;
-import { setAccTitle } from "../../commonDb";
-import { getAccTitle } from "../../commonDb";
-import { setAccDescription } from "../../commonDb";
-import { getAccDescription } from "../../commonDb";
-import { setDiagramTitle } from "../../commonDb";
-import { getDiagramTitle } from "../../commonDb";
+import { setAccTitle } from '../../commonDb.js';
+import { getAccTitle } from '../../commonDb.js';
+import { setAccDescription } from '../../commonDb.js';
+import { getAccDescription } from '../../commonDb.js';
+import { setDiagramTitle } from '../../commonDb.js';
+import { getDiagramTitle } from '../../commonDb.js';

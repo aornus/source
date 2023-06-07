@@ -1,4 +1,4 @@
-import { DiagramDb } from './types';
+import { DiagramDb } from './types.js';
 export declare const frontMatterRegex: RegExp;
 /**
  * Extract and parse frontmatter from text, if present, and sets appropriate

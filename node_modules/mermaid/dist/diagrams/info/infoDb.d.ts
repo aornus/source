@@ -10,4 +10,4 @@ declare namespace _default {
     export { clear };
 }
 export default _default;
-import { clear } from "../../commonDb";
+import { clear } from '../../commonDb.js';

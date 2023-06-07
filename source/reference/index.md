@@ -15,7 +15,7 @@ comments: false
 
 <p align="right">✍更新于2023.4.28</p>
 
-```shell
+
 - class_name: 值得参考的博客
   class_desc:  
   link_list:
@@ -89,10 +89,9 @@ comments: false
       avatar: https://qglimg.qinglm.com/qinggl/favicon.ico
       descr:   轻略+出品
 
-```
 
-<!-- 
-------
+
+
 
 如有来访者想要在此页面展示自己的信息（包括但不限于个人站点），请按照下面格式，发送邮件至 me@si-on.top
 
@@ -106,7 +105,7 @@ comments: false
       link: https://blog.si-on.top #博客地址/新媒体平台的链接/邮箱
       avatar: https://blog.si-on.top/images/logo.svg #头像地址
       deacr: 壮盛智惠，殊不再来。愛時進趣，将以惠誰？泛泛放逸，亦同何為？ #简短介绍自己
-``` -->
+```
 
 <!---
 ## 评论区等级说明

@@ -58,6 +58,7 @@ export namespace LINETYPE {
     const CRITICAL_END: number;
     const BREAK_START: number;
     const BREAK_END: number;
+    const PAR_OVER_START: number;
 }
 export namespace ARROWTYPE {
     const FILLED: number;
@@ -97,7 +98,7 @@ declare namespace _default {
     export { getDiagramTitle };
     export { setDiagramTitle };
     export { parseDirective };
-    export function getConfig(): import("../../config.type").SequenceDiagramConfig | undefined;
+    export function getConfig(): import("../../config.type.js").SequenceDiagramConfig | undefined;
     export { clear };
     export { parseMessage };
     export { parseBoxData };
@@ -113,9 +114,9 @@ declare namespace _default {
     export { hasAtLeastOneBoxWithTitle };
 }
 export default _default;
-import { getAccTitle } from "../../commonDb";
-import { getDiagramTitle } from "../../commonDb";
-import { setDiagramTitle } from "../../commonDb";
-import { setAccTitle } from "../../commonDb";
-import { setAccDescription } from "../../commonDb";
-import { getAccDescription } from "../../commonDb";
+import { getAccTitle } from '../../commonDb.js';
+import { getDiagramTitle } from '../../commonDb.js';
+import { setDiagramTitle } from '../../commonDb.js';
+import { setAccTitle } from '../../commonDb.js';
+import { setAccDescription } from '../../commonDb.js';
+import { getAccDescription } from '../../commonDb.js';

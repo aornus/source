@@ -5,7 +5,7 @@
  * @see https://www.w3.org/TR/svg-aam-1.0/
  *
  */
-import { D3Element } from './mermaidAPI';
+import { D3Element } from './mermaidAPI.js';
 /**
  * Add role and aria-roledescription to the svg element
  *

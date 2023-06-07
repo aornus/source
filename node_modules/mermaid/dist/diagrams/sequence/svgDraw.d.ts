@@ -3,8 +3,6 @@ export function drawPopup(elem: any, actor: any, minMenuWidth: any, textAttrs: a
     height: any;
     width: any;
 };
-export function drawImage(elem: any, x: any, y: any, link: any): void;
-export function drawEmbeddedImage(elem: any, x: any, y: any, link: any): void;
 export function popupMenu(popid: any): string;
 export function popdownMenu(popid: any): string;
 export function drawText(elem: any, textData: any): any[];
@@ -55,8 +53,6 @@ declare namespace _default {
     export { drawActor };
     export { drawBox };
     export { drawPopup };
-    export { drawImage };
-    export { drawEmbeddedImage };
     export { anchorElement };
     export { drawActivation };
     export { drawLoop };
@@ -76,4 +72,4 @@ declare namespace _default {
     export { sanitizeUrl };
 }
 export default _default;
-import { sanitizeUrl } from "@braintree/sanitize-url";
+import { sanitizeUrl } from '@braintree/sanitize-url';

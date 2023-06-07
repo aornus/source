@@ -12,6 +12,8 @@ declare namespace ERMarkers {
     const ONE_OR_MORE_END: string;
     const ZERO_OR_MORE_START: string;
     const ZERO_OR_MORE_END: string;
+    const MD_PARENT_END: string;
+    const MD_PARENT_START: string;
 }
 /**
  * Put the markers into the svg DOM for later use with edge paths

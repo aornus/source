@@ -32,7 +32,7 @@ export function setStyle(itemId: any, styleText: any): void;
 export function setTextStyle(itemId: any, cssClassName: any): void;
 declare namespace _default {
     export { parseDirective };
-    export function getConfig(): import("../../config.type").StateDiagramConfig | undefined;
+    export function getConfig(): import("../../config.type.js").StateDiagramConfig | undefined;
     export { addState };
     export { clear };
     export { getState };
@@ -85,9 +85,9 @@ declare function getRootDocV2(): {
  */
 declare function extract(_doc: any): void;
 declare function trimColon(str: any): any;
-import { getAccTitle } from "../../commonDb";
-import { setAccTitle } from "../../commonDb";
-import { getAccDescription } from "../../commonDb";
-import { setAccDescription } from "../../commonDb";
-import { setDiagramTitle } from "../../commonDb";
-import { getDiagramTitle } from "../../commonDb";
+import { getAccTitle } from '../../commonDb.js';
+import { setAccTitle } from '../../commonDb.js';
+import { getAccDescription } from '../../commonDb.js';
+import { setAccDescription } from '../../commonDb.js';
+import { setDiagramTitle } from '../../commonDb.js';
+import { getDiagramTitle } from '../../commonDb.js';

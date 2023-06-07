@@ -1,4 +1,4 @@
-import { MermaidConfig } from './config.type';
+import { MermaidConfig } from './config.type.js';
 /**
  * **Configuration methods in Mermaid version 8.6.0 have been updated, to learn more[[click
  * here](8.6.0_docs.md)].**

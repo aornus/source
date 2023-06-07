@@ -27,7 +27,7 @@ export namespace commitType {
 }
 declare namespace _default {
     export { parseDirective };
-    export function getConfig(): import("../../config.type").GitGraphDiagramConfig | undefined;
+    export function getConfig(): import("../../config.type.js").GitGraphDiagramConfig | undefined;
     export { setDirection };
     export { setOptions };
     export { getOptions };
@@ -55,9 +55,9 @@ declare namespace _default {
 }
 export default _default;
 declare let branches: typeof branches;
-import { setAccTitle } from "../../commonDb";
-import { getAccTitle } from "../../commonDb";
-import { getAccDescription } from "../../commonDb";
-import { setAccDescription } from "../../commonDb";
-import { setDiagramTitle } from "../../commonDb";
-import { getDiagramTitle } from "../../commonDb";
+import { setAccTitle } from '../../commonDb.js';
+import { getAccTitle } from '../../commonDb.js';
+import { getAccDescription } from '../../commonDb.js';
+import { setAccDescription } from '../../commonDb.js';
+import { setDiagramTitle } from '../../commonDb.js';
+import { getDiagramTitle } from '../../commonDb.js';
