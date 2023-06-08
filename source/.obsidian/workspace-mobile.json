@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "34c34f07efbc2958",
+        "id": "e24133ed0a6dfcc6",
         "type": "tabs",
         "children": [
           {
-            "id": "9372c7840ac8b26e",
+            "id": "d07b4fc3b809770e",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "cc595a5b35e47709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
-          }
+          "state": {}
         }
       },
       {
@@ -161,11 +144,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cc595a5b35e47709",
+  "active": "d07b4fc3b809770e",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-06-08.md",
+    "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-05.md",
     "images/20230506/IMG_20230605_183431.jpg",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/🪶杂谈/行李箱轮子被干掉了？不急，先来两罐儿可乐.md",
     "images/20230506/DSC02715.jpg",
     "images/20230506/DSC02673.jpg",
@@ -197,7 +182,6 @@
     "_posts/生活/日志/2023-05-26.md",
     "_posts/生活/日志/2023-05-23.md",
     "_posts/生活/日志/2023-05-20.md",
-    "_posts/学习/📒课程笔记/高等数学/微分学.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/生活/日志/2023-05-06.md.tacitpart",
     "_posts/生活/日志/2023-05-05.md.tacitpart",

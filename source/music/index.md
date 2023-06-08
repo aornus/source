@@ -4,6 +4,7 @@ mathjax: true
 date: 2022-02-03 11:00:32
 updated:
 type:
+aside: false
 description: 包含从初高中时代到大学时代喜欢的歌，有很多在导入时候丢失了，歌单没有特别的顺序。
 keywords: 歌单, Spotify
 top_img:
@@ -11,6 +12,23 @@ aplayer: true
 comments: false
 highlight_shrink:
 ---
+
+{% note success %}
+本页从属于秉蕳的**阅读、摄影、音乐、写作统计计划**
+<p align="right">✍更新于2023.5.12</p>
+{% endnote %}
+
+
+# 统计
+音乐不仅仅是一种消遣，更是一种记忆、情绪的寄托，每每听到曾经听过的歌，彼时的记忆便喷薄而出，今昔对比，回味无穷。
+
+Music serves as a powerful mood enhancer, shielding me from the disheartening sounds of  surroundings. More importantly, it ignites a fiery passion when its style resonates with my thoughts, so its valueable to record the music we listen in order to keep memories longer.
+
+记录音乐的方法有很多，最简单方便的就是歌单了，但如果想要更个性化的记录就不得不付诸所谓的Scrobbler服务了。
+第一次接触音乐统计是2020年第一次收到的Spotify年度报告[^1]，后来又断断续续用Last.fm来记录听歌历史，但是免费版的限制实在太多，但好在能跟声田联动，自己记录也不用管它。
+直到前两天（2023年5月8日晚），在Fdroid转悠，发现了[MusicBrainz](https://musicbrainz.org/)开发的[ListenBrainz](https://listenbrainz.org/)1.4.0版本的app发布了，便摸索了一番。ListenBrainz使用开源的数据来记录，完全开源，对于用户非常友好（开源的力量），不仅支持last.fm的导入，也支持与spotify的联动，还支持数据的导出。这好东西，怎能不用，当晚立时就转移到上面了。
+>安卓端上可以用[Pano Scrobbler ](https://sspai.com/post/66715#!)来辅助记录，(甚至可以记录radio-browser上的部分电台，比如：ASIA FM等)
+<iframe style="border-radius:12px" src="https://listenbrainz.org/user/siontin/" width="100%" height="719.8" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # 音乐之旅
 {% timeline 音乐之旅 %}
@@ -33,18 +51,6 @@ highlight_shrink:
 |  🥰喜好  | 流行音乐、节奏感、影视原声  |
 <!-- endtimeline -->
 {% endtimeline %}
-
----
-# 歌曲记录
-音乐不仅仅是一种消遣，更是一种记忆、情绪的寄托，每每听到曾经听过的歌，彼时的记忆便喷薄而出，今昔对比，回味无穷。
-
-Music serves as a powerful mood enhancer, shielding me from the disheartening sounds of  surroundings. More importantly, it ignites a fiery passion when its style resonates with my thoughts, so its valueable to record the music we listen in order to keep memories longer.
-
-记录音乐的方法有很多，最简单方便的就是歌单了，但如果想要更个性化的记录就不得不付诸所谓的Scrobbler服务了。
-第一次接触音乐统计是2020年第一次收到的Spotify年度报告[^1]，后来又断断续续用Last.fm来记录听歌历史，但是免费版的限制实在太多，但好在能跟声田联动，自己记录也不用管它。
-直到前两天（2023年5月8日晚），在Fdroid转悠，发现了[MusicBrainz](https://musicbrainz.org/)开发的[ListenBrainz](https://listenbrainz.org/)1.4.0版本的app发布了，便摸索了一番。ListenBrainz使用开源的数据来记录，完全开源，对于用户非常友好（开源的力量），不仅支持last.fm的导入，也支持与spotify的联动，还支持数据的导出。这好东西，怎能不用，当晚立时就转移到上面了。
->安卓端上可以用[Pano Scrobbler ](https://sspai.com/post/66715#!)来辅助记录，(甚至可以记录radio-browser上的部分电台，比如：ASIA FM等)
-<iframe style="border-radius:12px" src="https://listenbrainz.org/user/siontin/" width="100%" height="719.8" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # 歌单：秉蕳♥的歌（2016-2022.8）
 |                             歌名                             |                             歌手                             |                             专辑                             |

@@ -10,6 +10,14 @@ comments: false
 aside: false
 ---
 
+{% note success %}
+本页从属于秉蕳的**阅读、摄影、音乐、写作统计计划**
+<p align="right">✍更新于2023.6.8</p>
+{% endnote %}
+
+# 统计
+500px发表的作品统计：https://500px.com.cn/page/statistics/index?userId=dff7efb584b12a50d685e413b053d3302
+# 作品展
 {% flink %}
 - class_name: 
   class_desc: 
