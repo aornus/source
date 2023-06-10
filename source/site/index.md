@@ -399,11 +399,15 @@ highlight_shrink: true
 * 调整文章字体为`18px`，关闭了目录(大材小用)以提高阅读体验，对于复杂文章，采用思维导图的方式进行索引。
 <!-- endtimeline -->
 
-<!-- timeline 6-2  -->
+<!-- timeline 6-8  -->
 **阅读、摄影、音乐、写作统计计划** 
 - [x] 阅读采用[Notion](https://sionreading.notion.site/)统计+Excel分析的方法来统计
 - [ ] 摄影暂时采用500px自带的[统计](https://500px.com.cn/page/statistics/index?userId=dff7efb584b12a50d685e413b053d3302)（登录可见）
 - [x] 音乐采用[ListenBrainz](https://listenbrainz.org/user/siontin/)来统计
 - [x] 写作采用博客整理好的[室铭](/site)(即本页面)来统计。
+<!-- endtimeline -->
+
+<!-- timeline 6-10  换名字 -->
+* 更换id为秉耒，头像为第20号作品：serif
 <!-- endtimeline -->
 {% endtimeline %}

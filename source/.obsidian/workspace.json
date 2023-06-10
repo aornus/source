@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
+                "file": "_posts/生活/🪶杂谈/修轮要术.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/🪶杂谈/修轮要术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,11 +226,18 @@
   },
   "active": "350873461ee698ab",
   "lastOpenFiles": [
+    "images/avator/衬线-21.svg",
+    "images/avator/衬线-20.svg",
+    "images/avator/serif.svg",
+    "images/avator/衬线.svg",
+    "images/avator/serif-21-20.svg",
+    "images/avator/serif-21.svg",
+    "_posts/生活/📖涵泳/广义达尔文主义.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-08.md",
     "gallery/index.md",
     "pdf/500px.mhtml",
     "pdf/统计.mhtml",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
     "pdf/reading-hub/媒介.html",
     "pdf/reading-hub",
@@ -259,13 +267,6 @@
     "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
     "images/Cover/storm.svg",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
-    "images/Cover/r.svg",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
-    "images/Cover/剪影4.svg",
-    "images/Cover/pic1.jpg",
-    "images/Cover/outside.svg",
-    "images/Cover/smallnotes.svg",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学",
     "images/20230506/大人学选择.epub",
