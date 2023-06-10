@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+            "file": "about/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+            "file": "about/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md"
+            "file": "about/index.md"
           }
         }
       },
@@ -161,10 +161,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e98e86189bf71f7e",
+  "active": "43efc7c913f255cd",
   "lastOpenFiles": [
-    "about/index.md",
     "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+    "about/index.md",
     "_posts/生活/日志/2023-06-08.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",

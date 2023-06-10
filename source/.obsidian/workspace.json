@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md"
+                "file": "about/index.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/🪶杂谈/修轮要术.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +225,8 @@
   },
   "active": "350873461ee698ab",
   "lastOpenFiles": [
+    "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+    "_posts/生活/🪶杂谈/修轮要术.md",
     "images/avator/衬线-21.svg",
     "images/avator/衬线-20.svg",
     "images/avator/serif.svg",
@@ -260,12 +261,10 @@
     "_posts/生活/✒️随笔/Godzilla.md",
     "music/index.md",
     "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/🪶杂谈/修轮要术.md",
     "images/Cover/wheel.svg",
     "_posts/废文汇总.md",
     "reference/index.md",
     "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
-    "images/Cover/storm.svg",
     "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学",
