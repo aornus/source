@@ -196,9 +196,9 @@ index_post_content:
 anchor:
   button:
     enable: true
-    always_show: false
-    icon: # the unicode value of Font Awesome icon, such as '\3423'
-  auto_update: true # when you scroll in post, the URL will update according to header id.
+    always_show: true
+    icon: '\f5b7' # the unicode value of Font Awesome icon, such as '\3423'
+  auto_update: false # when you scroll in post, the URL will update according to header id.
 
 
 # Post

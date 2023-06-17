@@ -8,27 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d07b4fc3b809770e",
+            "id": "c384c80f47ec15ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6fb9f90dd26e5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8ec4eeb82ae428",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "43efc7c913f255cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about/index.md",
+            "file": "site/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about/index.md",
+            "file": "site/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about/index.md"
+            "file": "site/index.md"
           }
         }
       },
@@ -161,13 +173,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "43efc7c913f255cd",
+  "active": "6b8ec4eeb82ae428",
   "lastOpenFiles": [
-    "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
+    "_posts/生活/日志/2023-06-16.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/生活/日志/2023-06-14.md",
+    "site/index.md",
+    "_posts/生活/日志/2023-03-01.md",
+    "_posts/生活/日志/2023-06-13.md",
     "about/index.md",
+    "reference/index.md",
+    "rss/index.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/日志/2023-06-12.md",
+    "_posts/生活/日志/2023-06-10.md",
+    "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
     "_posts/生活/日志/2023-06-08.md",
     "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-05.md",
     "images/20230506/IMG_20230605_183431.jpg",
     "_posts/生活/🪶杂谈/行李箱轮子被干掉了？不急，先来两罐儿可乐.md",
@@ -189,16 +211,6 @@
     "_posts/生活/日志/2023-05-27.md",
     "_posts/生活/📖涵泳/涵泳总录.md",
     "_posts/生活/📖涵泳/柳永.md",
-    "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
-    "_posts/生活/📷摄影思考/雪原即景.md",
-    "_posts/生活/📷摄影思考/模仿练习/蓝色沙漠.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/万物皆可扣.md",
-    "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
-    "_drafts/未命名.md",
-    "_posts/生活/日志/2023-05-30.md",
-    "_posts/生活/日志/2023-05-28.md",
-    "_posts/生活/日志/2023-05-26.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/生活/日志/2023-05-06.md.tacitpart",
     "_posts/生活/日志/2023-05-05.md.tacitpart",

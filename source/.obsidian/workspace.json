@@ -16,57 +16,31 @@
             }
           },
           {
-            "id": "9494470268ade18c",
+            "id": "3cdaae273aeec753",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-06-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f043ea5d03be59e3",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a00f21319138b415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f86936b94dd47823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-06-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "350873461ee698ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "选择先于",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/index.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/index.md"
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
               }
             }
           },
@@ -181,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/index.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,19 +196,37 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "350873461ee698ab",
+  "active": "75c5ccbce35143e9",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-06-15.md",
+    "_posts/生活/日志/2023-06-16.md",
+    "_posts/学习/PS/P.md",
+    "_posts/学习/PS",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "images/vi-vim-cheat-sheet-sch1.gif",
+    "images/zishu.svg",
+    "images/sion (2).svg",
+    "images/sands4.svg",
+    "images/sands3.svg",
+    "images/sands2.svg",
+    "images/sands.svg",
+    "images/reward.png",
+    "images/reward.svg",
+    "images/diary.svg",
+    "_posts/生活/🪶杂谈/钢笔维护手册.md",
+    "_posts/生活/🪶杂谈/Sion头像衍变史.md",
+    "_posts/生活/🪶杂谈/岩石文.md",
+    "_posts/生活/🪶杂谈/选择唯物主义.md",
+    "_posts/生活/日志/2023-06-08.md",
+    "_posts/生活/日志/2023-06-11.md",
+    "images/Cover/select1.png.tmp$$",
+    "images/Cover/select-02.png.tmp$$",
+    "_posts/生活/📖涵泳/广义达尔文主义.md",
+    "_posts/生活/日志/2023-06-10.md",
+    "_posts/生活/🪶杂谈/未命名 1.md",
+    "about/index.md",
     "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
     "_posts/生活/🪶杂谈/修轮要术.md",
-    "images/avator/衬线-21.svg",
-    "images/avator/衬线-20.svg",
-    "images/avator/serif.svg",
-    "images/avator/衬线.svg",
-    "images/avator/serif-21-20.svg",
-    "images/avator/serif-21.svg",
-    "_posts/生活/📖涵泳/广义达尔文主义.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "_posts/生活/日志/2023-06-08.md",
     "gallery/index.md",
     "pdf/500px.mhtml",
     "pdf/统计.mhtml",
@@ -243,8 +234,6 @@
     "pdf/reading-hub/媒介.html",
     "pdf/reading-hub",
     "pdf/新建文件夹",
-    "images/Cover/neo-read.svg",
-    "images/Cover/neo-read_画板 1.svg",
     "Minds/2020-2023/index.md",
     "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
     "AwesomeHub/index.md",
@@ -253,23 +242,7 @@
     "_posts/学习/⚛️科学/鸟类的天赋.md",
     "_posts/生活/📖涵泳/柳永.md",
     "_posts/生活/日志/2023-02-07.md",
-    "_posts/生活/日志/2022-12-16.md",
-    "_posts/学习/⌨️软件编程/RSS使用手册.md",
-    "images/20230506/IMG_20230605_183431.jpg",
-    "_posts/生活/📖涵泳/我的优雅阅读流 (conflicted copy 2023-06-06 094653).md",
-    "_posts/生活/🪶杂谈/博客写作方法论.md",
-    "_posts/生活/✒️随笔/Godzilla.md",
-    "music/index.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "images/Cover/wheel.svg",
-    "_posts/废文汇总.md",
-    "reference/index.md",
-    "_posts/生活/🪶杂谈/《雷鸣风暴》技巧总结暨退坑声明.md",
-    "_posts/学习/⌨️软件编程/R/R基础与简易数据可视化笔记.md",
     "_posts/学习/⚛️科学",
-    "_posts/学习/科学",
-    "images/20230506/大人学选择.epub",
-    "gallery/Rhythm/index.html",
-    "gallery/Rhythm/index copy.html"
+    "_posts/学习/科学"
   ]
 }
