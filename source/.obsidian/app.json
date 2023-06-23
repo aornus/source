@@ -1,10 +1,10 @@
 {
   "showFrontmatter": true,
   "spellcheck": true,
-  "trashOption": "system",
+  "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "_drafts",
-  "attachmentFolderPath": "_posts/未命名",
+  "attachmentFolderPath": "images/20230506",
   "useMarkdownLinks": true,
   "promptDelete": false,
   "newLinkFormat": "relative",

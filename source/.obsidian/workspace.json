@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "3cdaae273aeec753",
+            "id": "118c945a1c56e0c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-06-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f043ea5d03be59e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
+                "file": "_posts/生活/✒️随笔/617仲夏雨记.md"
               }
             }
           },
@@ -155,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,23 +184,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75c5ccbce35143e9",
+  "active": "118c945a1c56e0c9",
   "lastOpenFiles": [
+    "about/index.md",
+    "site/index.md",
+    "_posts/生活/✒️随笔/仲夏雨记.md",
     "_posts/生活/日志/2023-06-15.md",
+    "images/20230506/IMG_20230617_111849.jpg",
+    "images/20230506/IMG_20230617_111849_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_110522_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_110406_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_104617_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_103838_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_103641_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_103133_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230617_103131_tempfile23893298021.jpg",
+    "images/20230506/IMG_20230605_183431_tempfile23893298021.jpg",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-16.md",
     "_posts/学习/PS/P.md",
     "_posts/学习/PS",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "images/vi-vim-cheat-sheet-sch1.gif",
-    "images/zishu.svg",
-    "images/sion (2).svg",
-    "images/sands4.svg",
-    "images/sands3.svg",
-    "images/sands2.svg",
-    "images/sands.svg",
-    "images/reward.png",
-    "images/reward.svg",
-    "images/diary.svg",
     "_posts/生活/🪶杂谈/钢笔维护手册.md",
     "_posts/生活/🪶杂谈/Sion头像衍变史.md",
     "_posts/生活/🪶杂谈/岩石文.md",
@@ -224,7 +215,6 @@
     "_posts/生活/📖涵泳/广义达尔文主义.md",
     "_posts/生活/日志/2023-06-10.md",
     "_posts/生活/🪶杂谈/未命名 1.md",
-    "about/index.md",
     "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
     "_posts/生活/🪶杂谈/修轮要术.md",
     "gallery/index.md",
@@ -240,8 +230,6 @@
     "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
     "_posts/学习/⌨️软件编程/博看电子书提取成pdf.md",
     "_posts/学习/⚛️科学/鸟类的天赋.md",
-    "_posts/生活/📖涵泳/柳永.md",
-    "_posts/生活/日志/2023-02-07.md",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学"
   ]

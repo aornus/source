@@ -63,6 +63,7 @@ comments: false
       link: https://blog.cool2645.com/posts/about-2645/
       avator: https://blog.cool2645.com/favicon-32x32.png?v=66cd2071129d27a5f9276caaf27103f2
       descr: 有意思的小站
+      http://zarya.cn/ +2023/6/21
 
 - class_name: 值得推荐的网站
   class_desc: 

@@ -8,39 +8,75 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c384c80f47ec15ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6fb9f90dd26e5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b8ec4eeb82ae428",
+            "id": "fddb66789d4c7291",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "f3b6f5ea21a3e597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-06-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96399d591f6474cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "864496821d7b7d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c623aa4e306d4d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-06-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe15ace732899386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,44 +209,45 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6b8ec4eeb82ae428",
+  "active": "fe15ace732899386",
   "lastOpenFiles": [
-    "_posts/生活/日志/2023-06-16.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "_posts/生活/日志/2023-06-14.md",
+    "_posts/生活/日志/2023-06-20.md",
+    "_posts/生活/日志/2023-06-19.md",
+    "_posts/生活/✒️随笔/617仲夏雨记.md",
     "site/index.md",
-    "_posts/生活/日志/2023-03-01.md",
-    "_posts/生活/日志/2023-06-13.md",
+    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "about/index.md",
+    "_posts/生活/日志/2023-06-22.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "images/20230506/IMG_20230621_100516.png",
+    "_posts/生活/日志/2023-06-21.md",
     "reference/index.md",
+    "_posts/生活/✒️随笔/日落随笔.md",
+    "_posts/生活/✒️随笔/清明小记.md",
+    "images/20230506/Pasted Image 20230620224418.jpeg",
+    "images/20230506/Pasted Image 20230620220326.jpeg",
+    "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
+    "_posts/生活/🪶杂谈/611选择唯物主义.md",
+    "_posts/生活/日志/2023-06-12.md",
+    "_posts/生活/日志/2023-06-13.md",
+    "_posts/生活/日志/2023-06-14.md",
+    "_posts/生活/日志/2023-06-15.md",
+    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
+    "_posts/学习/📒课程笔记/高等数学/极限100.md",
+    "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
+    "images/20230506/Pasted Image 20230619132316.jpeg",
+    "_posts/生活/日志/2023-06-18.md",
+    "IMG_20230617_103133.jpg",
+    "IMG_20230617_103131.jpg",
+    "IMG_20230617_110406.jpg",
+    "IMG_20230617_110522.jpg",
+    "IMG_20230617_111849.jpg",
+    "IMG_20230617_103641.jpg",
+    "images/Cover/summerrain.svg.tacitpart",
+    "_posts/生活/日志/2023-06-16.md",
+    "_posts/生活/日志/2023-03-01.md",
     "rss/index.md",
     "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/日志/2023-06-12.md",
-    "_posts/生活/日志/2023-06-10.md",
-    "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
-    "_posts/生活/日志/2023-06-08.md",
-    "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
-    "_posts/生活/日志/2023-06-05.md",
-    "images/20230506/IMG_20230605_183431.jpg",
-    "_posts/生活/🪶杂谈/行李箱轮子被干掉了？不急，先来两罐儿可乐.md",
-    "images/20230506/DSC02715.jpg",
-    "images/20230506/DSC02673.jpg",
-    "images/20230506/DSC02685.jpg",
-    "images/20230506/DSC02721.jpg",
-    "images/20230506/DSC02629.jpg",
-    "images/20230506/DSC02599 1.jpg",
-    "images/20230506/DSC02609.jpg",
-    "images/20230506/DSC02599.jpg",
-    "images/20230506/DSC02594.jpg",
-    "_posts/学习/⚛️科学/鸟类的天赋.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/云与坡.md",
-    "_posts/生活/💀死亡/姑息关怀.md",
-    "_posts/生活/日志/2023-06-01.md",
-    "_posts/生活/计划总结/大学小结.md",
-    "_posts/生活/📖涵泳/思考与读书.md",
-    "_posts/生活/日志/2023-05-27.md",
-    "_posts/生活/📖涵泳/涵泳总录.md",
-    "_posts/生活/📖涵泳/柳永.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/生活/日志/2023-05-06.md.tacitpart",
     "_posts/生活/日志/2023-05-05.md.tacitpart",
@@ -220,7 +257,6 @@
     "_posts/学习/📒课程笔记/政治经济/置身事内.md.tacitpart",
     "_posts/生活/日志/2023-05-02.md.tacitpart",
     "_posts/生活/日志/2023-05-01.md.tacitpart",
-    "_posts/学习/📒课程笔记/政治经济",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }

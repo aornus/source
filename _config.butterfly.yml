@@ -25,7 +25,7 @@ menu:
   分类: /categories/|| fas fa-folder-open
 #  参考: /reference/|| fas fa-link
 #  虫洞: https://www.foreverblog.cn/go.html/ || fas fa-rocket
- 室铭: /site/|| fas fa-clipboard-list
+ 阁志: /site/|| fas fa-clipboard-list
 nav:
   logo: # image
   display_title: true
@@ -260,7 +260,7 @@ post_pagination: 1
 
 # Displays outdated notice for a post (文章過期提醒)
 noticeOutdate:
-  enable: true
+  enable: false
   style: flat # style: simple/flat
   limit_day: 100 # When will it be shown
   position: top # position: top/bottom
@@ -810,7 +810,8 @@ aside:
   card_announcement:
   # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
     enable: true
-    content: 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
+    content: 开始耒耨期，为期半年。
+    # 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
     # 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
     # 所有过往，皆为序章！
     # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
