@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "118c945a1c56e0c9",
+            "id": "26ef1e58219a8602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/✒️随笔/617仲夏雨记.md"
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
+                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,11 +184,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "118c945a1c56e0c9",
+  "active": "26ef1e58219a8602",
   "lastOpenFiles": [
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
+    "images/Cover/summershot.svg",
+    "_posts/生活/✒️随笔/仲夏雨记.md",
+    "_posts/生活/✒️随笔/答往日之我书.md",
+    "images/Cover/letter.svg",
+    "_posts/生活/✒️随笔/平凡六月的一天.md",
+    "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
+    "_posts/生活/✒️随笔/日落随笔.md",
     "about/index.md",
     "site/index.md",
-    "_posts/生活/✒️随笔/仲夏雨记.md",
     "_posts/生活/日志/2023-06-15.md",
     "images/20230506/IMG_20230617_111849.jpg",
     "images/20230506/IMG_20230617_111849_tempfile23893298021.jpg",
@@ -198,8 +206,6 @@
     "images/20230506/IMG_20230617_103838_tempfile23893298021.jpg",
     "images/20230506/IMG_20230617_103641_tempfile23893298021.jpg",
     "images/20230506/IMG_20230617_103133_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_103131_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230605_183431_tempfile23893298021.jpg",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-16.md",
     "_posts/学习/PS/P.md",
@@ -220,16 +226,9 @@
     "gallery/index.md",
     "pdf/500px.mhtml",
     "pdf/统计.mhtml",
-    "_posts/生活/🎭人的底层逻辑/大人的Small Notes.md",
     "pdf/reading-hub/媒介.html",
     "pdf/reading-hub",
     "pdf/新建文件夹",
-    "Minds/2020-2023/index.md",
-    "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
-    "AwesomeHub/index.md",
-    "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
-    "_posts/学习/⌨️软件编程/博看电子书提取成pdf.md",
-    "_posts/学习/⚛️科学/鸟类的天赋.md",
     "_posts/学习/⚛️科学",
     "_posts/学习/科学"
   ]
