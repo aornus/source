@@ -396,7 +396,7 @@ waline:
       # level10: '甲',
       }
     emoji: [
-        'https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs',
+        '/pdf/BlobCats',
         ]
     reaction: [
     'https://www.emojiall.com/images/60/microsoft-teams/1f31e.png',

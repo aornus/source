@@ -43,12 +43,8 @@
             "id": "864496821d7b7d6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/✒️随笔/617仲夏雨记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -67,11 +63,9 @@
             "id": "fe15ace732899386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "site/index.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Cover/summershot.svg"
               }
             }
           }
@@ -150,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "site/index.md",
+            "file": "images/Cover/summershot.svg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "site/index.md",
+            "file": "images/Cover/summershot.svg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "site/index.md"
+            "file": "images/Cover/summershot.svg"
           }
         }
       },
@@ -211,10 +205,10 @@
   },
   "active": "fe15ace732899386",
   "lastOpenFiles": [
+    "site/index.md",
     "_posts/生活/日志/2023-06-20.md",
     "_posts/生活/日志/2023-06-19.md",
     "_posts/生活/✒️随笔/617仲夏雨记.md",
-    "site/index.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "about/index.md",
     "_posts/生活/日志/2023-06-22.md",
