@@ -63,9 +63,11 @@
             "id": "fe15ace732899386",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Cover/summershot.svg"
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "images/Cover/summershot.svg",
+            "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "images/Cover/summershot.svg",
+            "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "images/Cover/summershot.svg"
+            "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md"
           }
         }
       },
@@ -205,6 +207,29 @@
   },
   "active": "fe15ace732899386",
   "lastOpenFiles": [
+    "_posts/生活/🎭人的底层逻辑/629骑墙宝鉴.md.tacitpart",
+    "_posts/生活/✒️随笔/彼岸溪水无桃香.md.tacitpart",
+    "_posts/生活/priv/625往志辨.md.tacitpart",
+    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md.tacitpart",
+    "_posts/学习/🔡语言文字/写作诵读论.md.tacitpart",
+    "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
+    "images/20230506/IMG_20230701_094550.jpg",
+    "_posts/学习/🔡语言文字/630章法为先，字法末也.md",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "_posts/生活/🎭人的底层逻辑/629骑墙宝鉴.md",
+    "_posts/生活/日志/2023-07-01.md.tacitpart",
+    "_posts/学习/🔡语言学习/写作诵读论.md",
+    "_posts/学习/🔡语言学习",
+    "images/20230506/IMG_20230701_093945.jpg",
+    "_posts/生活/priv/625往志辨.md",
+    "images/20230506/IMG_20230701_093551.jpg",
+    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
+    "images/20230506/IMG_20230701_093230.jpg",
+    "_posts/生活/日志/2023-07-01.md",
+    "_posts/学习/🔡语言文字/写作诵读论.md",
+    "_posts/学习/🔡语言学习/写作诵读论.md.tacitpart",
+    "_posts/废文汇总.md",
+    "images/Cover/summershot.svg",
     "site/index.md",
     "_posts/生活/日志/2023-06-20.md",
     "_posts/生活/日志/2023-06-19.md",
@@ -224,33 +249,10 @@
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
     "_posts/生活/日志/2023-06-12.md",
     "_posts/生活/日志/2023-06-13.md",
-    "_posts/生活/日志/2023-06-14.md",
-    "_posts/生活/日志/2023-06-15.md",
-    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
-    "_posts/学习/📒课程笔记/高等数学/极限100.md",
-    "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
     "images/20230506/Pasted Image 20230619132316.jpeg",
-    "_posts/生活/日志/2023-06-18.md",
-    "IMG_20230617_103133.jpg",
-    "IMG_20230617_103131.jpg",
-    "IMG_20230617_110406.jpg",
-    "IMG_20230617_110522.jpg",
-    "IMG_20230617_111849.jpg",
-    "IMG_20230617_103641.jpg",
     "images/Cover/summerrain.svg.tacitpart",
-    "_posts/生活/日志/2023-06-16.md",
-    "_posts/生活/日志/2023-03-01.md",
-    "rss/index.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/生活/日志/2023-05-06.md.tacitpart",
-    "_posts/生活/日志/2023-05-05.md.tacitpart",
-    "_posts/生活/日志/2023-05-04.md.tacitpart",
-    "images/20230506",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md.tacitpart",
-    "_posts/学习/📒课程笔记/政治经济/置身事内.md.tacitpart",
-    "_posts/生活/日志/2023-05-02.md.tacitpart",
-    "_posts/生活/日志/2023-05-01.md.tacitpart",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }

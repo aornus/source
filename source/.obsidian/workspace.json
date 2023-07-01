@@ -16,19 +16,41 @@
             }
           },
           {
-            "id": "26ef1e58219a8602",
+            "id": "83248544a8bc8f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
+                "file": "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f7cc54864f61a9b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Cover/summer/骑墙宝鉴.svg"
+              }
+            }
+          },
+          {
+            "id": "55a55d880a80cfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "选择先于",
+                "query": "tag:#空军万岁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
+                "file": "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md"
+                "file": "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md"
               }
             }
           },
@@ -143,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
+                "file": "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,52 +206,53 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "26ef1e58219a8602",
+  "active": "55a55d880a80cfe6",
   "lastOpenFiles": [
-    "_drafts/Temolate/draft4obsidian.md",
+    "essay/index.md",
+    "essay",
+    "_data/essay.yml",
+    "images/Cover/summer/骑墙宝鉴.svg",
+    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
+    "_posts/生活/✒️随笔/日落随笔.md",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "Minds/2020-2023/index.md",
+    "_posts/学习/🔡语言文字/硬笔速写要义.md",
+    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+    "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
+    "images/Cover/summer/彼岸溪水无桃香.svg",
+    "images/Cover/summer/硬笔速写要义.svg",
+    "_posts/生活/priv/往志辨.md",
+    "images/Cover/summer/往志辨.svg",
+    "images/Cover/summer",
+    "images/Cover/新建文件夹",
+    "_posts/学习/🔡语言文字/写作诵读论.md",
+    "images/Cover/Symbian.svg",
+    "images/Cover/writing&reading-04.svg",
+    "images/Cover/writing&reading.svg",
+    "images/20230506/IMG_20230701_094550.jpg",
+    "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
+    "_posts/学习/💻操作系统/未命名.md",
+    "_posts/学习/🔡语言学习/写作诵读论.md",
+    "images/20230506/IMG_20230701_093945.jpg",
+    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md",
+    "_posts/学习/🔡语言文字/English",
+    "_posts/学习/🔡语言文字",
+    "_posts/生活/日志/2023-07-01.md",
     "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
-    "images/Cover/summershot.svg",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/✒️随笔/仲夏雨记.md",
     "_posts/生活/✒️随笔/答往日之我书.md",
-    "images/Cover/letter.svg",
     "_posts/生活/✒️随笔/平凡六月的一天.md",
     "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
-    "_posts/生活/✒️随笔/日落随笔.md",
     "about/index.md",
     "site/index.md",
     "_posts/生活/日志/2023-06-15.md",
-    "images/20230506/IMG_20230617_111849.jpg",
-    "images/20230506/IMG_20230617_111849_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_110522_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_110406_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_104617_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_103838_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_103641_tempfile23893298021.jpg",
-    "images/20230506/IMG_20230617_103133_tempfile23893298021.jpg",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/生活/日志/2023-06-16.md",
     "_posts/学习/PS/P.md",
     "_posts/学习/PS",
-    "_posts/生活/🪶杂谈/钢笔维护手册.md",
-    "_posts/生活/🪶杂谈/Sion头像衍变史.md",
-    "_posts/生活/🪶杂谈/岩石文.md",
-    "_posts/生活/🪶杂谈/选择唯物主义.md",
-    "_posts/生活/日志/2023-06-08.md",
-    "_posts/生活/日志/2023-06-11.md",
     "images/Cover/select1.png.tmp$$",
     "images/Cover/select-02.png.tmp$$",
-    "_posts/生活/📖涵泳/广义达尔文主义.md",
-    "_posts/生活/日志/2023-06-10.md",
-    "_posts/生活/🪶杂谈/未命名 1.md",
-    "_posts/学习/🔡语言学习/过了英语四六级，我终于听懂维语了.md",
-    "_posts/生活/🪶杂谈/修轮要术.md",
-    "gallery/index.md",
-    "pdf/500px.mhtml",
-    "pdf/统计.mhtml",
-    "pdf/reading-hub/媒介.html",
-    "pdf/reading-hub",
-    "pdf/新建文件夹",
-    "_posts/学习/⚛️科学",
-    "_posts/学习/科学"
+    "pdf/500px.mhtml"
   ]
 }

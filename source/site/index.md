@@ -458,4 +458,9 @@ highlight_shrink: true
 - 形式：以数字化的文字为主，但保持纸质影像化的比例
 <!-- endtimeline -->
 
+<!-- timeline 7-01 建党节修改-->
+1. 添加了巨多的BlobCat表情
+2. 添加了即刻短文，感谢@Heo的[教程](https://blog.zhheo.com/p/557c9e72.html)
+3. 文章先方出来再慢慢完善
+<!-- endtimeline -->
 {% endtimeline %}
