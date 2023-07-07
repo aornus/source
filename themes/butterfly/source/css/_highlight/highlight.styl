@@ -40,6 +40,7 @@ $code-block
   code
     padding: 2px 4px
     background: $code-background
+    color: $code-foreground
 
   pre
     @extend $code-block
@@ -73,6 +74,14 @@ $code-block
 
         &:hover
           border-bottom-color: var(--hl-color)
+
+    &.copy-true
+      user-select: all
+
+      & > table,
+      & > pre
+        display: block !important
+        opacity: 0
 
   .highlight-tools
     position: relative

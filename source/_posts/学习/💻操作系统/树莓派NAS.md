@@ -19,6 +19,7 @@ password:
 hidden:
 sticky:
 keywords:
+series: lala
 ---
 
 > <center>金就砺则利</center>

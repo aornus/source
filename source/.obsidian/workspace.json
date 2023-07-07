@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -210,8 +209,11 @@
   },
   "active": "55a55d880a80cfe6",
   "lastOpenFiles": [
-    "_drafts/塞班今用•音量调节_files/superscreenshot0043_jpg_thumb.jpg.md",
+    "_posts/学习/💻操作系统/树莓派NAS.md",
+    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+    "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
     "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "_drafts/塞班今用•音量调节_files/superscreenshot0043_jpg_thumb.jpg.md",
     "_drafts/塞班今用•音量调节_files",
     "_posts/生活/日志/2023-07-07.md",
     "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
@@ -223,7 +225,6 @@
     "_posts/生活/✒️随笔/日落随笔.md",
     "Minds/2020-2023/index.md",
     "_posts/学习/🔡语言文字/硬笔速写要义.md",
-    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
     "images/Cover/summer/彼岸溪水无桃香.svg",
     "images/Cover/summer/硬笔速写要义.svg",
     "_posts/生活/priv/往志辨.md",
@@ -251,8 +252,6 @@
     "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
     "about/index.md",
     "site/index.md",
-    "_posts/生活/日志/2023-06-15.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/学习/PS",
     "images/Cover/select1.png.tmp$$",
     "images/Cover/select-02.png.tmp$$"

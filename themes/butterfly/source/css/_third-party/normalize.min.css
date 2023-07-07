@@ -6,7 +6,7 @@ html {
   -webkit-filter: grayscale(100%); 变灰代码*/
 }
 body {
-  margin: 0;
+  margin: 0
 }
 
 main {
@@ -178,8 +178,4 @@ template {
 
 [hidden] {
   display: none
-}
-
-q{
-  quotes: "『" "』"
 }

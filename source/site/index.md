@@ -460,7 +460,12 @@ highlight_shrink: true
 
 <!-- timeline 7-01 建党节修改-->
 1. 添加了巨多的BlobCat表情
-2. 添加了即刻短文，感谢@Heo的[教程](https://blog.zhheo.com/p/557c9e72.html)
+2. ~~添加了即刻短文，感谢@Heo的[教程](https://blog.zhheo.com/p/557c9e72.html)~~(与主题css有冲突，暂时关闭)
 3. 文章先方出来再慢慢完善
+<!-- endtimeline -->
+
+<!-- timeline 7-01 小暑-->
+1. npm组件与主题更新(4.9.1)
+
 <!-- endtimeline -->
 {% endtimeline %}

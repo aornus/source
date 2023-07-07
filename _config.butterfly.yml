@@ -1,7 +1,13 @@
-# Main menu navigation (導航目錄)
-# see https://butterfly.js.org/posts/4aa8abbe/#導航菜單
+# Navigation bar settings (導航欄設置)
+# see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
 # --------------------------------------
 
+nav:
+  logo: # image
+  display_title: true
+  fixed: false # fixed navigation bar
+
+# Menu 目錄
 menu:
  工具||fas fa-briefcase:
 #  钢琴: https://www.xiwnn.com/piano/ || fas fa-music
@@ -26,10 +32,6 @@ menu:
 #  参考: /reference/|| fas fa-link
 #  虫洞: https://www.foreverblog.cn/go.html/ || fas fa-rocket
  阁志: /site/|| fas fa-clipboard-list
-nav:
-  logo: # image
-  display_title: true
-  fixed: false # fixed navigation bar
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -40,15 +42,6 @@ highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: false # unit: px
 code_word_wrap: false
-
-# copy settings
-# copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
-copy:
-  enable: true
-  copyright:
-    enable: false
-    limit_count: 50
-
 
 # social settings (社交圖標設置)
 # formal:
@@ -200,6 +193,16 @@ anchor:
     icon: '\f5b7' # the unicode value of Font Awesome icon, such as '\3423'
   auto_update: false # when you scroll in post, the URL will update according to header id.
 
+# figcaption (圖片描述文字)
+photofigcaption: true
+
+# copy settings
+# copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
+copy:
+  enable: true
+  copyright:
+    enable: false
+    limit_count: 50
 
 # Post
 # --------------------------------------
@@ -248,9 +251,6 @@ related_post:
   limit: 6 # Number of posts displayed
   date_type: updated # or created or updated 文章日期顯示創建日或者更新日
 
-# figcaption (圖片描述文字)
-photofigcaption: true
-
 # post_pagination (分頁)
 # value: 1 || 2 || false
 # 1: The 'next post' will link to old post
@@ -266,6 +266,152 @@ noticeOutdate:
   position: top # position: top/bottom
   message_prev: 这篇文章距离上次更新已经过了
   message_next: 天，有些内容可能已经过期了，请谨慎阅读！
+
+# Footer Settings
+# --------------------------------------
+footer:
+  owner:
+    enable: false
+    since: 2020
+  custom_text:
+  copyright: false # Copyright of theme and framework
+
+
+# aside (側邊欄)
+# --------------------------------------
+
+aside:
+  enable: fasle
+  hide: false
+  button: true
+  mobile: true # display on mobile
+  position: left # left or right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description:
+    button:
+      enable: false
+      icon: fab fa-500px
+      text: Follow Me
+      link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
+  card_announcement:
+  # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
+    enable: true
+    content: 开始耒耨期，为期半年。
+    # 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
+    # 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
+    # 所有过往，皆为序章！
+    # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
+    #虚室生白，吉祥止止。
+    # 深切缅怀江泽民同志!
+    #『创造它，使用它，改进它，与它融为一体。--李振藩』
+    # 沉静下来，才能发现更深微的世界。
+    #「 🎉一周年庆！」那家伙，那场面，那真是：🥁锣鼓喧天，🧨鞭炮齐鸣，🚩红旗招展，👨‍👩‍👧‍👦👨‍👨‍👧‍👧人山人海！
+    # 沉静下来，才能发现更深微的世界。
+    # 秉!旭!隼!迹! 这次六级我必过500！
+    # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
+  card_recent_post:
+    enable: true
+    limit: 2 # if set 0 will show all
+    sort: date # date or updated
+    sort_order: # Don't modify the setting unless you know how it works
+  card_categories:
+    enable: true
+    limit: 0 # if set 0 will show all
+    expand: false # none/true/false
+    sort_order: # Don't modify the setting unless you know how it works
+  card_tags:
+    enable: false
+    limit: 10 # if set 0 will show all
+    color: false
+    orderby: random # Order of tags, random/name/length
+    order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending
+    sort_order: # Don't modify the setting unless you know how it works
+  card_archives:
+    enable: false
+    type: monthly # yearly or monthly
+    format: MMMM YYYY # eg: YYYY年MM月
+    order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
+    limit: 8 # if set 0 will show all
+    sort_order: # Don't modify the setting unless you know how it works
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+    sort_order: # Don't modify the setting unless you know how it works
+  card_post_series:
+    enable: true
+    orderBy: 'title' # Order by title or date
+    order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
+
+# busuanzi count for PV / UV in site
+# 訪問人數
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
+
+# Time difference between publish date and now (網頁運行時間)
+# Formal: Month/Day/Year Time or Year/Month/Day Time
+runtimeshow:
+  enable: true
+  publish_date: 2021/8/25 15:10:05
+
+# Aside widget - Newest Comments
+newest_comments:
+  enable: false
+  sort_order: # Don't modify the setting unless you know how it works
+  limit: 0
+  storage: 10 # unit: mins, save data to localStorage
+  avatar: false
+
+# Bottom right button (右下角按鈕)
+# --------------------------------------
+
+# Conversion between Traditional and Simplified Chinese (簡繁轉換)
+translate:
+  enable: true
+  # The text of a button
+  default: 繁
+  # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
+  defaultEncoding: 2
+  # Time delay
+  translateDelay: 0
+  # The text of the button when the language is Simplified Chinese
+  msgToTraditionalChinese: '繁'
+  # The text of the button when the language is Traditional Chinese
+  msgToSimplifiedChinese: '簡'
+
+# Read Mode (閲讀模式)
+readmode: false
+
+# dark mode
+darkmode:
+  enable: true
+  # Toggle Button to switch dark/light mode
+  button: true
+  # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
+  # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
+  # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
+  autoChangeMode: 1
+  # Set the light mode time. The value is between 0 and 24. If not set, the default value is 6 and 18
+  start: # 8
+  end: # 22
+
+# show scroll percent in scroll-to-top button
+rightside_scroll_percent: true
+
+# Don't modify the following settings unless you know how they work (非必要請不要修改 )
+# Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
+# Don't repeat 不要重複
+rightside_item_order:
+  enable: true
+  hide: # readmode,translate,darkmode,hideAside
+  show: darkmode,hideAside,translate,comment
 
 # Share System (分享功能)
 # --------------------------------------
@@ -451,6 +597,21 @@ giscus:
     dark: dark
   option:
 
+# Remark42
+# https://remark42.com/docs/configuration/frontend/
+remark42:
+  host: # Your Host URL
+  siteId: # Your Site ID
+  option:
+
+# Artalk
+# https://artalk.js.org/guide/frontend/config.html
+artalk:
+  server:
+  site:
+  visitor: false
+  option:
+
 # Chat Services
 # --------------------------------------
 
@@ -474,16 +635,10 @@ tidio:
   public_key:
 
 # daovoice
-# http://daovoice.io/
+# http://dashboard.daovoice.io/app
 daovoice:
   enable: false
   app_id:
-
-# gitter
-# https://gitter.im/
-gitter:
-  enable: false
-  room:
 
 # crisp
 # https://crisp.chat/en/
@@ -491,14 +646,12 @@ crisp:
   enable: false
   website_id:
 
-# Footer Settings
-# --------------------------------------
-footer:
-  owner:
-    enable: false
-    since: 2020
-  custom_text:
-  copyright: false # Copyright of theme and framework
+# messenger
+# https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin/
+messenger:
+  enable: false
+  pageID:
+  lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
 
 # Analysis
 # --------------------------------------
@@ -633,12 +786,23 @@ background: repeating-linear-gradient(90deg, rgba(201,201,201, 0) 0px, rgba(201,
 
 # Footer Background
 footer_bg: repeating-linear-gradient(90deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(201,201,201, 0) 0px, rgba(201,201,201, 0) 1px,transparent 1px, transparent 96px),repeating-linear-gradient(0deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),repeating-linear-gradient(90deg, rgba(228,228,228, 0.35) 0px, rgba(228,228,228, 0.35) 1px,transparent 1px, transparent 6px),linear-gradient(90deg, rgb(255,255,255),rgb(255,255,255));
-
+# Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
+mask:
+  header: true
+  footer: true
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
 
 # Enter transitions (開啓網頁進入效果)
 enter_transitions: false
+# Typewriter Effect (打字效果)
+# https://github.com/disjukr/activate-power-mode
+activate_power_mode:
+  enable: true
+  colorful: true # open particle animation (冒光特效)
+  shake: false #  open shake (抖動特效)
+  mobile: true
+
 
 # Background effects (背景特效)
 # --------------------------------------
@@ -667,14 +831,6 @@ canvas_nest:
   zIndex: -1 # z-index property of the background, default: -1.画面层级
   count: 3 # the number of lines, default: 99.线条数量
   mobile: false 
-
-# Typewriter Effect (打字效果)
-# https://github.com/disjukr/activate-power-mode
-activate_power_mode:
-  enable: true
-  colorful: true # open particle animation (冒光特效)
-  shake: false #  open shake (抖動特效)
-  mobile: true
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
@@ -788,130 +944,15 @@ subtitle:
    - ———罗曼·罗兰
 
 # Loading Animation (加載動畫)
-preloader: false
-
-# aside (側邊欄)
-# --------------------------------------
-
-aside:
-  enable: fasle
-  hide: false
-  button: true
-  mobile: true # display on mobile
-  position: left # left or right
-  card_author:
-    enable: true
-    description:
-    button:
-      enable: false
-      icon: fab fa-500px
-      text: Follow Me
-      link: https://500px.com.cn/community/user-details/dff7efb584b12a50d685e413b053d3302
-  card_announcement:
-  # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
-    enable: true
-    content: 开始耒耨期，为期半年。
-    # 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
-    # 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
-    # 所有过往，皆为序章！
-    # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
-    #虚室生白，吉祥止止。
-    # 深切缅怀江泽民同志!
-    #『创造它，使用它，改进它，与它融为一体。--李振藩』
-    # 沉静下来，才能发现更深微的世界。
-    #「 🎉一周年庆！」那家伙，那场面，那真是：🥁锣鼓喧天，🧨鞭炮齐鸣，🚩红旗招展，👨‍👩‍👧‍👦👨‍👨‍👧‍👧人山人海！
-    # 沉静下来，才能发现更深微的世界。
-    # 秉!旭!隼!迹! 这次六级我必过500！
-    # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
-  card_recent_post:
-    enable: true
-    limit: 2 # if set 0 will show all
-    sort: date # date or updated
-    sort_order: # Don't modify the setting unless you know how it works
-  card_categories:
-    enable: true
-    limit: 0 # if set 0 will show all
-    expand: false # none/true/false
-    sort_order: # Don't modify the setting unless you know how it works
-  card_tags:
-    enable: false
-    limit: 10 # if set 0 will show all
-    color: false
-    sort_order: # Don't modify the setting unless you know how it works
-  card_archives:
-    enable: false
-    type: monthly # yearly or monthly
-    format: MMMM YYYY # eg: YYYY年MM月
-    order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
-    limit: 8 # if set 0 will show all
-    sort_order: # Don't modify the setting unless you know how it works
-  card_webinfo:
-    enable: true
-    post_count: true
-    last_push_date: true
-    sort_order: # Don't modify the setting unless you know how it works
-
-# busuanzi count for PV / UV in site
-# 訪問人數
-busuanzi:
-  site_uv: false
-  site_pv: false
-  page_pv: false
-
-# Time difference between publish date and now (網頁運行時間)
-# Formal: Month/Day/Year Time or Year/Month/Day Time
-runtimeshow:
-  enable: true
-  publish_date: 2021/8/25 15:10:05
-
-# Aside widget - Newest Comments
-newest_comments:
+preloader:
   enable: false
-  sort_order: # Don't modify the setting unless you know how it works
-  limit: 0
-  storage: 10 # unit: mins, save data to localStorage
-  avatar: false
+  # source
+  # 1. fullpage-loading
+  # 2. pace (progress bar)
+  source: 1
+  # pace theme (see https://codebyzach.github.io/pace/)
+  pace_css_url:
 
-# Bottom right button (右下角按鈕)
-# --------------------------------------
-
-# Conversion between Traditional and Simplified Chinese (簡繁轉換)
-translate:
-  enable: true
-  # The text of a button
-  default: 繁
-  # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
-  defaultEncoding: 2
-  # Time delay
-  translateDelay: 0
-  # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: '繁'
-  # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '簡'
-
-# Read Mode (閲讀模式)
-readmode: false
-
-# dark mode
-darkmode:
-  enable: true
-  # Toggle Button to switch dark/light mode
-  button: true
-  # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
-  # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
-  # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
-  autoChangeMode: 1
-
-# show scroll percent in scroll-to-top button
-rightside_scroll_percent: true
-
-# Don't modify the following settings unless you know how they work (非必要請不要修改 )
-# Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
-# Don't repeat 不要重複
-rightside_item_order:
-  enable: true
-  hide: # readmode,translate,darkmode,hideAside
-  show: darkmode,hideAside,translate,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------
@@ -928,6 +969,12 @@ fancybox: true
 # Tag Plugins settings (標籤外掛)
 # --------------------------------------
 
+# series (系列文章)
+series:
+  enable: true
+  orderBy: 'title' # Order by title or date
+  order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending
+  number: true
 # abcjs (樂譜渲染)
 # See https://github.com/paulrosen/abcjs
 abcjs:
@@ -1028,7 +1075,6 @@ Open_Graph_meta:
     # fb_admins:
     # fb_app_id:
 
-
 # Add the vendor prefixes to ensure compatibility
 css_prefix: true
 
@@ -1051,8 +1097,8 @@ inject:
     - <meta name="referrer" content="no-referrer" />
     - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4018434_wnqt1ow90ff.css">
     - <link rel="stylesheet" href="/css/mod.css">
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
-		- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
+    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+		# - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
   bottom:
   #  - <script type="text/javascript" src="https://hypothes.is/embed.js"></script>
   # - <script async defer src="https://analytics.umami.is/script.js" data-website-id="69effd41-cf9a-4c01-8076-cc697a15e7e6"></script>
@@ -1070,18 +1116,18 @@ inject:
 # 非必要請不要修改
 CDN:
   # The CDN provider of internal scripts (主題內部 js 的 cdn 配置)
-  # option: local/jsdelivr
-  # Dev version cannot choose jsdelivr (dev版的主題不能設置為 jsdelivr)
+  # option: local/jsdelivr/unpkg/cdnjs/custom
+  # Dev version can only choose. ( dev版的主題只能設置為 local )
   internal_provider: local
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: local/jsdelivr/unpkg/cdnjs/custom
   # when set it to local, you need to install hexo-butterfly-extjs
   third_party_provider: local 
 
-  # Add version number to CDN, true or false  
+  # Add version number to url, true or false
   version: false
 
-# Custom format
+ # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
   custom_format:
 
@@ -1092,8 +1138,10 @@ CDN:
     # translate:
     # local_search:
     # algolia_js:
-    # algolia_search_v4:
-    # instantsearch_v4:
+    # algolia_search:
+    # instantsearch:
+    # docsearch_js:
+    # docsearch_css:
     # pjax:
     # gitalk:
     # gitalk_css:
@@ -1104,12 +1152,12 @@ CDN:
     # twikoo:
     waline_js: https://unpkg.com/@waline/client@v2/dist/waline.js
     waline_css: https://unpkg.com/@waline/client@v2/dist/waline.css
+    # giscus:
     # sharejs:
     # sharejs_css:
     # mathjax:
     # katex:
     # katex_copytex:
-    # katex_copytex_css:
     # mermaid:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
@@ -1118,8 +1166,8 @@ CDN:
     # instantpage:
     # typed:
     # pangu:
-    # fancybox_css_v4:
-    # fancybox_v4:
+    # fancybox_css:
+    # fancybox:
     # medium_zoom:
     # snackbar_css:
     # snackbar:
@@ -1127,7 +1175,7 @@ CDN:
     # fireworks:
     # click_heart:
     # ClickShowText:
-    # fontawesomeV6:
+    # fontawesome:
     # flickr_justified_gallery_js:
     # flickr_justified_gallery_css:
     # aplayer_css:
@@ -1139,4 +1187,4 @@ CDN:
     # artalk_js:
     # artalk_css:
     # busuanzi:
-    
+    # abcjs_basic_js:
