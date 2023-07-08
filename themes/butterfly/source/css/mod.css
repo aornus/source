@@ -109,3 +109,7 @@ u {
   text-decoration: none;
   border-bottom: 1px solid #fe5f58;
 }
+
+.markmap-container div{
+  font-family: "LXGW WenKai Screen";
+}
