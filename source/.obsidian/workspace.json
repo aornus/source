@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "6f7cc54864f61a9b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Cover/summer/骑墙宝鉴.svg"
-              }
-            }
-          },
-          {
             "id": "55a55d880a80cfe6",
             "type": "leaf",
             "state": {
@@ -45,34 +35,12 @@
               "state": {
                 "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bfa007cd27206095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-07-08.md",
-                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "086cf10feaced8e5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/20230506/Pasted Image 20230708112831.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,12 +94,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -147,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/日志/2023-07-08.md",
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/日志/2023-07-08.md"
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md"
               }
             }
           },
@@ -188,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/日志/2023-07-08.md",
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,23 +197,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "de3aaaf759933888",
+  "active": "55a55d880a80cfe6",
   "lastOpenFiles": [
+    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
+    "images/Cover/summer/骑墙宝鉴.svg",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "images/20230506/Pasted Image 20230708112831.png",
     "_posts/生活/日志/2023-07-08.md",
-    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "_posts/学习/💻操作系统/树莓派NAS.md",
     "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
     "_posts/学习/💻操作系统/黑莓Priv高级交互.md",
     "_drafts/塞班今用•音量调节_files/superscreenshot0043_jpg_thumb.jpg.md",
     "_drafts/塞班今用•音量调节_files",
     "_posts/生活/日志/2023-07-07.md",
-    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
     "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
     "essay/index.md",
     "essay",
     "_data/essay.yml",
-    "images/Cover/summer/骑墙宝鉴.svg",
     "_posts/生活/✒️随笔/日落随笔.md",
     "Minds/2020-2023/index.md",
     "_posts/学习/🔡语言文字/硬笔速写要义.md",
