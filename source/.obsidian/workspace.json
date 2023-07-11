@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "746529824b0a6219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minds/2020-2023/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,12 +81,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#奥特曼",
+                "query": "艹",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md"
+                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +211,21 @@
   },
   "active": "55a55d880a80cfe6",
   "lastOpenFiles": [
+    "images/Cover/FuckGFW.svg",
+    "images/Cover/FuckGFW-13.svg",
+    "images/Cover/FuckGFW-10.svg",
+    "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+    "images/20230506/Pasted image 20230711152028.png",
+    "Minds/2020-2023/index.md",
+    "site/index.md",
+    "images/20230506/Pasted image 20230711140151.png",
+    "_posts/生活/日志/2022-12-24.md",
+    "_posts/生活/日志/2022-12-16.md",
+    "_posts/废文汇总.md",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "_posts/生活/日志/2023-07-10.md",
     "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
     "images/Cover/summer/骑墙宝鉴.svg",
-    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "images/20230506/Pasted Image 20230708112831.png",
     "_posts/生活/日志/2023-07-08.md",
     "_posts/学习/💻操作系统/树莓派NAS.md",
@@ -215,7 +239,6 @@
     "essay",
     "_data/essay.yml",
     "_posts/生活/✒️随笔/日落随笔.md",
-    "Minds/2020-2023/index.md",
     "_posts/学习/🔡语言文字/硬笔速写要义.md",
     "images/Cover/summer/彼岸溪水无桃香.svg",
     "images/Cover/summer/硬笔速写要义.svg",
@@ -225,22 +248,12 @@
     "images/Cover/新建文件夹",
     "_posts/学习/🔡语言文字/写作诵读论.md",
     "images/Cover/Symbian.svg",
-    "images/Cover/writing&reading-04.svg",
-    "images/Cover/writing&reading.svg",
-    "images/20230506/IMG_20230701_094550.jpg",
-    "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
     "_posts/学习/💻操作系统/未命名.md",
     "_posts/学习/🔡语言学习/写作诵读论.md",
     "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md",
     "_posts/学习/🔡语言文字/English",
     "_posts/学习/🔡语言文字",
     "_posts/生活/日志/2023-07-01.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/✒️随笔/仲夏雨记.md",
-    "_posts/生活/✒️随笔/答往日之我书.md",
-    "_posts/生活/✒️随笔/平凡六月的一天.md",
-    "_posts/生活/✒️随笔/雪夜乌鲁木齐.md",
     "_posts/学习/PS",
     "images/Cover/select1.png.tmp$$",
     "images/Cover/select-02.png.tmp$$"
