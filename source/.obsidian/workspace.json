@@ -21,19 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a55d880a80cfe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minds/2020-2023/index.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "艹",
+                "query": "文章痕迹",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md"
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
               }
             }
           },
@@ -167,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +196,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "55a55d880a80cfe6",
+  "active": "746529824b0a6219",
   "lastOpenFiles": [
+    "_posts/学习/🔡语言文字/写作诵读论.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "Minds/2020-2023/index.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_drafts/Temolate/sands.md",
+    "_posts/生活/🪶杂谈/611选择唯物主义.md",
+    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
+    "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
     "images/Cover/FuckGFW.svg",
     "images/Cover/FuckGFW-13.svg",
     "images/Cover/FuckGFW-10.svg",
-    "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
     "images/20230506/Pasted image 20230711152028.png",
-    "Minds/2020-2023/index.md",
     "site/index.md",
     "images/20230506/Pasted image 20230711140151.png",
     "_posts/生活/日志/2022-12-24.md",
@@ -224,7 +217,6 @@
     "_posts/废文汇总.md",
     "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "_posts/生活/日志/2023-07-10.md",
-    "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
     "images/Cover/summer/骑墙宝鉴.svg",
     "images/20230506/Pasted Image 20230708112831.png",
     "_posts/生活/日志/2023-07-08.md",
@@ -246,14 +238,9 @@
     "images/Cover/summer/往志辨.svg",
     "images/Cover/summer",
     "images/Cover/新建文件夹",
-    "_posts/学习/🔡语言文字/写作诵读论.md",
-    "images/Cover/Symbian.svg",
     "_posts/学习/💻操作系统/未命名.md",
-    "_posts/学习/🔡语言学习/写作诵读论.md",
-    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md",
     "_posts/学习/🔡语言文字/English",
     "_posts/学习/🔡语言文字",
-    "_posts/生活/日志/2023-07-01.md",
     "_posts/学习/PS",
     "images/Cover/select1.png.tmp$$",
     "images/Cover/select-02.png.tmp$$"
