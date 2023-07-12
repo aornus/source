@@ -4,7 +4,7 @@ abbrlink: 824ac3d0
 categories:
 tags:
 date: {{date:YYYY-MM-DD HH:mm:ss}}
-update: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
 cover:
 root: ../../
 copyright_author:

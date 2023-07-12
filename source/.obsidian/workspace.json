@@ -16,24 +16,12 @@
             }
           },
           {
-            "id": "83248544a8bc8f95",
+            "id": "9d13dec81b435d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "746529824b0a6219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "文章痕迹",
+                "query": "azu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 434.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🔡语言文字/写作诵读论.md"
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md"
               }
             }
           },
@@ -155,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
+                "file": "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,16 +184,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "83248544a8bc8f95",
+  "active": "9d13dec81b435d74",
   "lastOpenFiles": [
+    "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/生活/日志/2023-02-06.md",
+    "_posts/生活/日志/2023-02-15.md",
+    "_posts/生活/日志/2023-05-21.md",
+    "music/index.md",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "_posts/学习/🔡语言文字/硬笔速写要义.md",
+    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md",
     "_posts/学习/🔡语言文字/写作诵读论.md",
     "Minds/2020-2023/index.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "_drafts/Temolate/sands.md",
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
     "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
-    "_posts/生活/🪶杂谈/GFW，我日你妈个仙人板板哟！.md",
     "images/Cover/FuckGFW.svg",
     "images/Cover/FuckGFW-13.svg",
     "images/Cover/FuckGFW-10.svg",
@@ -215,7 +210,6 @@
     "_posts/生活/日志/2022-12-24.md",
     "_posts/生活/日志/2022-12-16.md",
     "_posts/废文汇总.md",
-    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "_posts/生活/日志/2023-07-10.md",
     "images/Cover/summer/骑墙宝鉴.svg",
     "images/20230506/Pasted Image 20230708112831.png",
@@ -226,19 +220,13 @@
     "_drafts/塞班今用•音量调节_files/superscreenshot0043_jpg_thumb.jpg.md",
     "_drafts/塞班今用•音量调节_files",
     "_posts/生活/日志/2023-07-07.md",
-    "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
-    "essay/index.md",
     "essay",
     "_data/essay.yml",
-    "_posts/生活/✒️随笔/日落随笔.md",
-    "_posts/学习/🔡语言文字/硬笔速写要义.md",
     "images/Cover/summer/彼岸溪水无桃香.svg",
     "images/Cover/summer/硬笔速写要义.svg",
-    "_posts/生活/priv/往志辨.md",
     "images/Cover/summer/往志辨.svg",
     "images/Cover/summer",
     "images/Cover/新建文件夹",
-    "_posts/学习/💻操作系统/未命名.md",
     "_posts/学习/🔡语言文字/English",
     "_posts/学习/🔡语言文字",
     "_posts/学习/PS",
