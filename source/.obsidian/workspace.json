@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md"
+                "file": "_posts/学习/🔡语言文字/写作诵读论.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "file": "_posts/学习/🔡语言文字/写作诵读论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +196,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "746529824b0a6219",
+  "active": "83248544a8bc8f95",
   "lastOpenFiles": [
-    "_posts/学习/🔡语言文字/写作诵读论.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "_posts/学习/🔡语言文字/写作诵读论.md",
     "Minds/2020-2023/index.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_drafts/Temolate/sands.md",
