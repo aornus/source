@@ -113,3 +113,14 @@ u {
 .markmap-container div{
   font-family: "LXGW WenKai Screen";
 }
+
+#post .tag_share .post-meta__tags {
+  display: inline-block;
+  margin: 8px 8px 16px 16px;
+  padding: 0 12px;
+  justify-content: center;
+}
+
+.layout > div:first-child:not(.recent-posts) {
+  padding: 4px 40px;
+}
