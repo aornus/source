@@ -106,7 +106,7 @@ waline:
 2. 网站地址：`https://si-on.top`
 3. 博主邮箱：（就是不提醒站长自己的评论） `agapehydor2@gmail.com`
 
-### waline变量设置
+### waline变量设置
 
 经过以上选择之后，我们可以得到以下变量列表，将其依次填入waline的环境变量里。
 

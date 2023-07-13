@@ -5,7 +5,7 @@ categories:
 tags:
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 updated: {{date:YYYY-MM-DD HH:mm:ss}}
-cover:
+cover: 
 root: ../../
 copyright_author:
 copyright_author_href:
