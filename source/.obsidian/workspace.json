@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⚛️科学/宇宙真相.md",
+                "file": "_posts/生活/日志/2023-07-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae70e6a5970a6bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-07-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⚛️科学/宇宙真相.md",
+                "file": "_posts/生活/日志/2023-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⚛️科学/宇宙真相.md"
+                "file": "_posts/生活/日志/2023-07-16.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⚛️科学/宇宙真相.md",
+                "file": "_posts/生活/日志/2023-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +208,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "931b0727cd133ebd",
+  "active": "ae70e6a5970a6bb1",
   "lastOpenFiles": [
+    "images/circle.svg",
+    "images/sharp.svg",
+    "_posts/生活/日志/2023-07-16.md",
+    "_drafts/Temolate/sands.md",
+    "Minds/2020-2023/index.md",
+    "_posts/生活/日志/2023-07-13.md",
+    "_posts/生活/计划总结/大学小结.md",
+    "_posts/生活/🪶杂谈/被墙的牢骚.md",
     "_posts/学习/⚛️科学/宇宙真相.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2023-06-20.md",
@@ -211,20 +231,13 @@
     "_posts/生活/🎭人的底层逻辑/骑墙宝鉴.md",
     "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md",
     "images/Cover/宇宙真相.svg",
-    "Minds/2020-2023/index.md",
     "_posts/学习/🛦钛金笔记/钛合金的分类、组织与性能.md",
     "_posts/生活/日志/2023-07-08.md",
     "_posts/学习/⚛️科学/彩虹观测指南.md",
     "_posts/生活/日志/2022-12-23.md",
     "_posts/生活/日志/2023-01-08.md",
     "_posts/生活/✒️随笔/彼岸溪水无桃香.md",
-    "_posts/生活/日志/2023-07-13.md",
     "_posts/生活/日志/2023-05-15.md",
-    "_posts/学习/⌨️软件编程/Python/图像处理.md",
-    "_posts/学习/⌨️软件编程/hexo/waline评论使用.md",
-    "_posts/生活/🪶杂谈/钢笔维护手册.md",
-    "_posts/生活/🪶杂谈/魔戒制造手册.md",
-    "_posts/废文汇总.md",
     "images/Cover/FuckGFW.svg",
     "images/Cover/FuckGFW-13.svg",
     "images/Cover/FuckGFW-10.svg",
@@ -235,8 +248,6 @@
     "_drafts/塞班今用•音量调节_files",
     "essay",
     "_data/essay.yml",
-    "images/Cover/summer/彼岸溪水无桃香.svg",
-    "images/Cover/summer/硬笔速写要义.svg",
     "images/Cover/summer",
     "images/Cover/新建文件夹",
     "_posts/学习/🔡语言文字/English",

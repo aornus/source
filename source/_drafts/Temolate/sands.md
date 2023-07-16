@@ -6,21 +6,24 @@ abbrlink: sands{{date:MM-DD}}
 tags:
 
 categories:
-cover: false
+cover: /images/sharp.svg
 katex: false
 comments: false
 copyright:
 aside: false
-password: 4Bingjian
+password:
 theme: xray
 hidden: true
-description: 
+description: 重复の螺旋|
 sticky: 
 keywords:
 root: ../../
 ---
+## 英语
+
+## 数学
+
+## 材料
+
 
 ## SeedCollecter
-
-
-## 日常
