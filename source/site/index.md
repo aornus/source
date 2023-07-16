@@ -465,10 +465,16 @@ highlight_shrink: true
 <!-- endtimeline -->
 
 <!-- timeline 7-01 小暑-->
-npm组件与主题更新(4.9.1)
+1. npm组件与主题更新到(4.9.0)
+2. 合并了魔改代码，cc`config.butterfly.yml`配置文件
 
 <!-- endtimeline -->
 <!-- timeline 7-11 ⛅-->
-被墙
+~~被墙~~(系Cloudflare CDN节点IP被污染所影响，非真正被墙)
 <!-- endtimeline -->
+<!-- timeline 7-17 ⛅-->
+1. 采用公开日志的方式主动学习，启发创造性思考能力
+2. 努力把每天过得一样
+<!-- endtimeline -->
+
 {% endtimeline %}

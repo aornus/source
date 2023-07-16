@@ -6,7 +6,7 @@ abbrlink: sands{{date:MM-DD}}
 tags:
 
 categories:
-cover: /images/sharp.svg
+cover: /images/circle.svg
 katex: false
 comments: false
 copyright:

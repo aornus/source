@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fddb66789d4c7291",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "f3b6f5ea21a3e597",
             "type": "leaf",
             "state": {
@@ -63,16 +55,12 @@
             "id": "fe15ace732899386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-07-07.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-07-07.md",
+            "file": "_posts/生活/日志/2023-06-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-07-07.md",
+            "file": "_posts/生活/日志/2023-06-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/日志/2023-07-07.md"
+            "file": "_posts/生活/日志/2023-06-20.md"
           }
         }
       },
@@ -207,8 +195,10 @@
   },
   "active": "fe15ace732899386",
   "lastOpenFiles": [
-    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
+    "images/20230506/Pasted Image 20230715181914.jpeg",
+    "_posts/生活/日志/2023-07-15.md",
     "_posts/生活/日志/2023-07-07.md",
+    "_posts/学习/💻操作系统/电子板蓝根·塞班手机妙用.md",
     "_posts/生活/🎭人的底层逻辑/629骑墙宝鉴.md.tacitpart",
     "_posts/生活/✒️随笔/彼岸溪水无桃香.md.tacitpart",
     "_posts/生活/priv/625往志辨.md.tacitpart",
@@ -248,8 +238,6 @@
     "images/20230506/Pasted Image 20230620220326.jpeg",
     "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
-    "_posts/生活/日志/2023-06-12.md",
-    "_posts/生活/日志/2023-06-13.md",
     "images/20230506/Pasted Image 20230619132316.jpeg",
     "images/Cover/summerrain.svg.tacitpart",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
