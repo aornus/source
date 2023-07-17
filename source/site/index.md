@@ -40,7 +40,7 @@ highlight_shrink: true
 
 
 {% folding red,2020年博客大事记%}
-{% timeline 2020,red %}
+{% timeline 🐭庚子2020,red %}
 
 <!-- timeline 3-20 -->
 起源：突发奇想，购买阿里云轻量级应用服务器，使用LNMP+WordPress建站。
@@ -76,7 +76,7 @@ highlight_shrink: true
 {% endfolding %}
 
 {% folding orange,2021年博客大事记 %}
-{% timeline 2021,orange %}
+{% timeline 🐮辛丑2021,orange %}
 <!-- timeline 2-14 -->
 有網不設，斯可惜也；設而不文，斯可悲也；既文而毀之，斯可恥也 無慾者，方可經營博客. *小雲雀 skylark.top 的心酸經歷*
 <!-- endtimeline -->
@@ -127,7 +127,7 @@ highlight_shrink: true
 {% endfolding %}
 
 {% folding yellow,2022年博客大事记%}
-{% timeline 2022,yellow %}
+{% timeline 🐯壬寅2022,yellow %}
 
 <!-- timeline 02-05 -->
 
@@ -466,15 +466,11 @@ highlight_shrink: true
 
 <!-- timeline 7-01 小暑-->
 1. npm组件与主题更新到(4.9.0)
-2. 合并了魔改代码，cc`config.butterfly.yml`配置文件
+2. 合并了魔改代码，`config.butterfly.yml`配置文件
 
 <!-- endtimeline -->
 <!-- timeline 7-11 ⛅-->
 ~~被墙~~(系Cloudflare CDN节点IP被污染所影响，非真正被墙)
-<!-- endtimeline -->
-<!-- timeline 7-17 ⛅-->
-1. 采用公开日志的方式主动学习，启发创造性思考能力
-2. 努力把每天过得一样
 <!-- endtimeline -->
 
 {% endtimeline %}
