@@ -470,7 +470,7 @@ highlight_shrink: true
 
 <!-- endtimeline -->
 <!-- timeline 7-11 ⛅-->
-~~被墙~~(系Cloudflare CDN节点IP被污染所影响，非真正被墙)
+~~被墙~~(系Cloudflare CDN节点IP被污染所致，非真正被墙)
 <!-- endtimeline -->
 
 {% endtimeline %}

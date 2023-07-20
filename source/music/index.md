@@ -52,7 +52,25 @@ Music serves as a powerful mood enhancer, shielding me from the disheartening so
 <!-- endtimeline -->
 {% endtimeline %}
 
-# 歌单：秉蕳♥的歌（2016-2022.8）
+## 癸卯歌单
+1. 初雪 班得瑞
+2. 后会无期 邓紫棋
+3. 平凡之路 朴树
+4. 太阳照常升起 久石让
+5. Journey Capozio
+6. Secrets AMFB Onerepublic
+7. 奥特曼 舞指如歌
+8. 奔跑进行曲 
+9. 夜斗
+10. tetrix(Dirty Saw Mix)
+11. Spontaneous Me(Inst.) Lindsey strling
+12. With an Orchid 雅尼
+13. Reunion Gray Burton
+14. 山丹丹开花红艳艳 陈东宝
+15. 贝多芬 C小调第七小提琴奏鸣曲
+
+
+## 歌单：秉蕳♥的歌（2016-2022.8）
 |                             歌名                             |                             歌手                             |                             专辑                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        Tell The Truth                        |                      The Avett Brothers                      |                     Closer Than Together                     |
