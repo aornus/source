@@ -26,33 +26,9 @@
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "d4ce64a9a22ff4d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6a5eb924c1d2749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
+                "file": "site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md"
+                "file": "site/index.md"
               }
             }
           },
@@ -167,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
+                "file": "site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,11 +184,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d4ce64a9a22ff4d3",
+  "active": "15067646cf3ee012",
   "lastOpenFiles": [
-    "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",
-    "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
+    "about/index.md",
     "site/index.md",
+    "images/20230506/Pasted Image 20230729132200.png",
+    "_posts/生活/日志/2023-07-29.md",
+    "_posts/生活/priv/耒耨月结(其一).md",
+    "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
+    "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
@@ -233,7 +213,6 @@
     "images/Cover/钢铁15.png.tmp$$",
     "images/Cover/钢铁15.png",
     "images/Cover/钢铁14.png.tmp$$",
-    "images/Cover/钢铁14.png",
     "images/Cover/钢铁13.png.tmp$$",
     "images/Cover/钢铁6.png.tmp$$",
     "images/Cover/钢铁1.png.tmp$$",
@@ -252,9 +231,6 @@
     "_posts/学习/⚛️科学/宇宙真相.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/生活/日志/2023-06-20.md",
-    "_posts/生活/日志/2023-06-21.md",
-    "_posts/生活/日志/2023-06-22.md",
-    "_posts/生活/日志/2023-07-01.md",
     "_drafts/塞班今用•音量调节_files"
   ]
 }

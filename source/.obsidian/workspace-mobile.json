@@ -58,9 +58,21 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "fff28737598b0de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/priv/耒耨月结(其一).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/日志/2023-06-20.md",
+            "file": "_posts/生活/priv/耒耨月结(其一).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/日志/2023-06-20.md",
+            "file": "_posts/生活/priv/耒耨月结(其一).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/日志/2023-06-20.md"
+            "file": "_posts/生活/priv/耒耨月结(其一).md"
           }
         }
       },
@@ -193,8 +205,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fe15ace732899386",
+  "active": "fff28737598b0de0",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-06-20.md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
     "_posts/生活/日志/2023-07-15.md",
     "_posts/生活/日志/2023-07-07.md",
@@ -222,7 +235,6 @@
     "_posts/废文汇总.md",
     "images/Cover/summershot.svg",
     "site/index.md",
-    "_posts/生活/日志/2023-06-20.md",
     "_posts/生活/日志/2023-06-19.md",
     "_posts/生活/✒️随笔/617仲夏雨记.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
@@ -238,7 +250,6 @@
     "images/20230506/Pasted Image 20230620220326.jpeg",
     "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
-    "images/20230506/Pasted Image 20230619132316.jpeg",
     "images/Cover/summerrain.svg.tacitpart",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
