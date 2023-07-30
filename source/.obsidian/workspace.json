@@ -33,19 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/priv/耒耨月结(其一).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "182222e2fac94a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📷摄影思考/摄影的意义.md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#观影",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/priv/耒耨月结(其一).md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/priv/耒耨月结(其一).md"
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md"
               }
             }
           },
@@ -167,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/priv/耒耨月结(其一).md",
+                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,51 +200,51 @@
   },
   "active": "2221be7858309953",
   "lastOpenFiles": [
-    "images/Cover/lei-09.svg",
+    "images/20230709/Pasted image 20230730134356_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730134251_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730134154_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730133740_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730133307_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730133138_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730132719_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730132624_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730130525_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730125717_tempfile23893298021.png",
+    "images/20230709/Pasted image 20230730125106_tempfile23893298021.png",
+    "images/20230709",
+    "images/未命名.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
+    "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/priv/耒耨月结(其一).md",
     "site/index.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
+    "_posts/生活/✒️随笔/Godzilla.md",
+    "_posts/生活/日志/2023-01-30.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
+    "_posts/生活/priv/耒耨月结(其一).md",
     "about/index.md",
-    "images/20230506/Pasted Image 20230729132200.png",
     "_posts/生活/日志/2023-07-29.md",
     "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
     "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
-    "images/Cover/kafuka-21.svg",
-    "images/Cover/钢铁.svg",
     "_drafts/未命名.md",
     "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
     "_posts/学习/🔡语言文字/硬笔速写要义.md",
-    "images/Cover/剪影4.svg",
-    "images/Cover/钢铁.png",
     "images/Cover/钢铁-20.png.tmp$$",
-    "images/Cover/钢铁19.png",
-    "images/Cover/钢铁18.png",
     "images/Cover/钢铁17.png.tmp$$",
-    "images/Cover/钢铁17.png",
     "images/Cover/钢铁16.png.tmp$$",
-    "images/Cover/钢铁16.png",
     "images/Cover/钢铁15.png.tmp$$",
-    "images/Cover/钢铁15.png",
     "images/Cover/钢铁14.png.tmp$$",
     "images/Cover/钢铁13.png.tmp$$",
     "images/Cover/钢铁6.png.tmp$$",
     "images/Cover/钢铁1.png.tmp$$",
-    "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/学习/📒课程笔记/金属固态相变",
     "music/index.md",
     "_drafts/Temolate/sands.md",
     "_posts/生活/日志/2023-07-17.md",
     "_posts/学习/⌨️软件编程/关注笔记本.md",
     "Minds/2020-2023/index.md",
-    "_posts/生活/日志/2023-07-16.md",
-    "_posts/生活/日志/2023-07-13.md",
-    "_posts/生活/日志/2023-07-15.md",
-    "_posts/生活/计划总结/大学小结.md",
-    "_posts/生活/🪶杂谈/被墙的牢骚.md",
-    "_posts/学习/⚛️科学/宇宙真相.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_drafts/塞班今用•音量调节_files"
+    "_posts/生活/日志/2023-07-16.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 title: 新·哥斯拉观影
 tags:
-  - 电影
+  - 观影
 categories:
   - 生活
   - ✒️随笔
