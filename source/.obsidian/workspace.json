@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
+                "file": "_posts/学习/⚛️科学/天气预报.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
+                "file": "_posts/学习/⚛️科学/天气预报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md"
+                "file": "_posts/学习/⚛️科学/天气预报.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
+                "file": "_posts/学习/⚛️科学/天气预报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +199,10 @@
   },
   "active": "2221be7858309953",
   "lastOpenFiles": [
+    "images/Cover/nwp-ai.svg",
+    "AwesomeHub/index.md",
+    "_posts/学习/⚛️科学/天气预报.md",
+    "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
     "images/20230709/Pasted image 20230730134356_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730134251_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730133740_tempfile23893298021.png",
@@ -208,10 +213,8 @@
     "images/20230709/Pasted image 20230730130525_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730125717_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730125106_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730124738_tempfile23893298021.png",
     "images/20230709",
     "images/未命名.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
     "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "site/index.md",
@@ -241,8 +244,6 @@
     "music/index.md",
     "_drafts/Temolate/sands.md",
     "_posts/生活/日志/2023-07-17.md",
-    "_posts/学习/⌨️软件编程/关注笔记本.md",
-    "Minds/2020-2023/index.md",
-    "_posts/生活/日志/2023-07-16.md"
+    "_posts/学习/⌨️软件编程/关注笔记本.md"
   ]
 }

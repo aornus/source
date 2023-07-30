@@ -146,6 +146,15 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
 > 在此分享一个搜索课件的经验(google)：课程的名称+`pdf`
 
 ## 使用☕
+### Spotify 跳过广告与随机播放
+(此方法仅适用于Windows系统,感谢[BlockTheSpot项目](https://github.com/mrpond/BlockTheSpot))，新建一个文件`spotify.bat`，内容为：
+```bat
+@echo off
+powershell -Command "& {[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/mrpond/BlockTheSpot/master/install.ps1' | Invoke-Expression}"
+pause
+exit /b
+```
+
 
 ### Anbox·https://anbox.io/
 
