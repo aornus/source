@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d67764549eb35bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⚛️科学/天气预报.md",
+                "file": "site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⚛️科学/天气预报.md"
+                "file": "site/index.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⚛️科学/天气预报.md",
+                "file": "site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +208,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2221be7858309953",
+  "active": "2d67764549eb35bb",
   "lastOpenFiles": [
+    "about/index.md",
+    "site/index.md",
+    "essay/index.md",
+    "_posts/生活/priv/耒耨月结(其一).md",
+    "_posts/学习/⚛️科学/天气预报.md",
     "images/Cover/nwp-ai.svg",
     "AwesomeHub/index.md",
-    "_posts/学习/⚛️科学/天气预报.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
     "images/20230709/Pasted image 20230730134356_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730134251_tempfile23893298021.png",
@@ -212,18 +227,14 @@
     "images/20230709/Pasted image 20230730131104_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730130525_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730125717_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730125106_tempfile23893298021.png",
     "images/20230709",
     "images/未命名.md",
     "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
-    "site/index.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/✒️随笔/Godzilla.md",
     "_posts/生活/日志/2023-01-30.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
-    "_posts/生活/priv/耒耨月结(其一).md",
-    "about/index.md",
     "_posts/生活/日志/2023-07-29.md",
     "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
     "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",

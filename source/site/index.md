@@ -405,7 +405,7 @@ highlight_shrink: true
 
 
 <!-- timeline 6-2  -->
-* 调整文章字体为`18px`，关闭了目录(大材小用)以提高阅读体验，对于复杂文章，采用思维导图的方式进行索引。
+调整文章字体为`18px`，关闭了目录(大材小用)以提高阅读体验，对于复杂文章，采用思维导图的方式进行索引。
 <!-- endtimeline -->
 
 <!-- timeline 6-8  -->
@@ -458,13 +458,13 @@ highlight_shrink: true
 - 形式：以数字化的文字为主，但保持纸质影像化的比例
 <!-- endtimeline -->
 
-<!-- timeline 7-01 建党节修改-->
+<!-- timeline 7-1 ${\color{red}\text{☭ }}$建党节修改-->
 1. 添加了巨多的BlobCat表情
 2. ~~添加了即刻短文，感谢@Heo的[教程](https://blog.zhheo.com/p/557c9e72.html)~~(与主题css有冲突，暂时关闭)
 3. 文章先方出来再慢慢完善
 <!-- endtimeline -->
 
-<!-- timeline 7-01 小暑-->
+<!-- timeline 7-7 小暑-->
 1. npm组件与主题更新到(4.9.0)
 2. 合并了魔改代码，`config.butterfly.yml`配置文件
 
@@ -473,4 +473,9 @@ highlight_shrink: true
 ~~被墙~~(系Cloudflare CDN节点IP被污染所致，非真正被墙)
 <!-- endtimeline -->
 
+<!-- timeline 8-1 $\color{red}\overset{八}{一}$ 建军节修改-->
+- 八月份二十篇写作规划
+- 博客内容整体整理、删减
+- 更改博客定位：转向更专业方向，减少杂感、生活类文章的写作
+<!-- endtimeline -->
 {% endtimeline %}
