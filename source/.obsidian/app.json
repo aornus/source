@@ -40,8 +40,6 @@
     "editor:configure-toolbar"
   ],
   "strictLineBreaks": true,
-  "spellcheckLanguages": [
-    "zh-CN"
-  ],
+  "spellcheckLanguages": null,
   "showUnsupportedFiles": false
 }

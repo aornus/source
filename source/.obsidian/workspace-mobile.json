@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "本质主义",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -134,7 +134,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "1db6b0c79e40954c",
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "site/index.md",
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "site/index.md",
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "site/index.md"
+            "file": "_posts/生活/🎭人的底层逻辑/本质主义迷思.md"
           }
         }
       },
@@ -205,8 +205,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fff28737598b0de0",
+  "active": "4c2ca5420268b264",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-04-16.md",
+    "site/index.md",
     "_posts/生活/日志/2023-06-20.md",
     "_posts/生活/priv/耒耨月结(其一).md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
@@ -235,7 +237,6 @@
     "_posts/学习/🔡语言学习/写作诵读论.md.tacitpart",
     "_posts/废文汇总.md",
     "images/Cover/summershot.svg",
-    "site/index.md",
     "_posts/生活/日志/2023-06-19.md",
     "_posts/生活/✒️随笔/617仲夏雨记.md",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
@@ -250,7 +251,6 @@
     "images/20230506/Pasted Image 20230620224418.jpeg",
     "images/20230506/Pasted Image 20230620220326.jpeg",
     "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
-    "_posts/生活/🪶杂谈/611选择唯物主义.md",
     "images/Cover/summerrain.svg.tacitpart",
     "_posts/学习/⌨️软件编程/R/Tidyverse入门.md.tacitpart",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"

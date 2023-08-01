@@ -273,7 +273,7 @@ noticeOutdate:
 footer:
   owner:
     enable: false
-    since: 2020
+    since: 2021/8/25 15:10:05
   custom_text:
   copyright: false # Copyright of theme and framework
 
@@ -302,12 +302,13 @@ aside:
   card_announcement:
   # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
     enable: true
-    content: 开始耒耨期，为期半年。
+    content: 这个八月，文章，我要写二十篇👊！
+    # 开始耒耨期，为期半年。
     # 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
     # 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
     # 所有过往，皆为序章！
     # 道不前定，临事仓促，然后骇而图之，则其所谓简易者，是乃支离耳。
-    #虚室生白，吉祥止止。
+    # 虚室生白，吉祥止止。
     # 深切缅怀江泽民同志!
     #『创造它，使用它，改进它，与它融为一体。--李振藩』
     # 沉静下来，才能发现更深微的世界。
@@ -318,7 +319,7 @@ aside:
   card_recent_post:
     enable: true
     limit: 2 # if set 0 will show all
-    sort: date # date or updated
+    sort: updated # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
     enable: true
