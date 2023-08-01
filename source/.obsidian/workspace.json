@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a0e2b36f833d35e",
+        "id": "d525921b6ae642e3",
         "type": "tabs",
         "children": [
           {
-            "id": "931b0727cd133ebd",
+            "id": "9b216b5f1be1e9bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15067646cf3ee012",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "2221be7858309953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/⚛️科学/天气预报.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d67764549eb35bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/index.md",
+                "file": "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site/index.md"
+                "file": "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md"
               }
             }
           },
@@ -167,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site/index.md",
+                "file": "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,13 +175,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2d67764549eb35bb",
+  "active": "9b216b5f1be1e9bd",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+    "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
+    "_posts/学习/📒课程笔记/高等数学/微分学.md",
+    "_posts/学习/📒课程笔记/高等数学/曲线积分与曲面积分.md",
+    "_posts/学习/📒课程笔记/高等数学/极限100.md",
+    "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
+    "music/index.md",
+    "Fm/index.md",
     "about/index.md",
     "site/index.md",
+    "_posts/学习/⚛️科学/天气预报.md",
+    "_posts/学习/⚛️科学/彩虹观测指南.md",
+    "_posts/学习/⚛️科学/宇宙真相.md",
     "essay/index.md",
     "_posts/生活/priv/耒耨月结(其一).md",
-    "_posts/学习/⚛️科学/天气预报.md",
     "images/Cover/nwp-ai.svg",
     "AwesomeHub/index.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
@@ -229,7 +206,6 @@
     "images/20230709/Pasted image 20230730125717_tempfile23893298021.png",
     "images/20230709",
     "images/未命名.md",
-    "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/✒️随笔/Godzilla.md",
@@ -238,11 +214,6 @@
     "_posts/生活/日志/2023-07-29.md",
     "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
     "_posts/学习/📒课程笔记/金属固态相变/铁的磁性是怎么来的？.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
-    "_drafts/未命名.md",
-    "_posts/生活/🎭人的底层逻辑/社会心理学阅读笔记.md",
-    "_posts/学习/🔡语言文字/硬笔速写要义.md",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
     "images/Cover/钢铁16.png.tmp$$",
@@ -251,10 +222,6 @@
     "images/Cover/钢铁13.png.tmp$$",
     "images/Cover/钢铁6.png.tmp$$",
     "images/Cover/钢铁1.png.tmp$$",
-    "_posts/学习/📒课程笔记/金属固态相变",
-    "music/index.md",
-    "_drafts/Temolate/sands.md",
-    "_posts/生活/日志/2023-07-17.md",
-    "_posts/学习/⌨️软件编程/关注笔记本.md"
+    "_posts/学习/📒课程笔记/金属固态相变"
   ]
 }

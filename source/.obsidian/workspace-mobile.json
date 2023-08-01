@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/priv/耒耨月结(其一).md",
+                "file": "site/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/priv/耒耨月结(其一).md",
+            "file": "site/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/priv/耒耨月结(其一).md",
+            "file": "site/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/priv/耒耨月结(其一).md"
+            "file": "site/index.md"
           }
         }
       },
@@ -208,6 +208,7 @@
   "active": "fff28737598b0de0",
   "lastOpenFiles": [
     "_posts/生活/日志/2023-06-20.md",
+    "_posts/生活/priv/耒耨月结(其一).md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
     "_posts/生活/日志/2023-07-15.md",
     "_posts/生活/日志/2023-07-07.md",
