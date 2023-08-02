@@ -383,19 +383,19 @@ highlight_shrink: true
 4. ~~增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）~~
 4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)
 5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
-6. 【测试】~~增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)~~(没什么鸟用，与5月10关闭)
+6. 【测试】~~增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)~~(没什么鸟用，于5月10关闭)
 <!-- endtimeline -->
 
 <!-- timeline 04-21 (Feature- - -) -->
 沉静期结束
 1. 关闭所有冗余特效
 2. 删除页脚`footer`、侧栏标签、首页轮播图等没用的元素
-3. 优化博文样式，细化背景
+3. 优化博文样式，细化背景（参考模仿了[Reimu's blog](https://blog.k8s.li/)）
 4. 添加小节与图片标题序号，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
 <!-- endtimeline -->
 
 <!-- timeline 5-2  -->
-把Kindle的阅读笔记转移到[阅读写作子域：细墨](https://ink.si-on.top)
+把Kindle的阅读笔记转移到 [阅读写作子域：细墨](https://ink.si-on.top)
 <!-- endtimeline -->
 
 <!-- timeline 5-20  -->
@@ -461,7 +461,8 @@ highlight_shrink: true
 <!-- timeline 7-1 ${\color{red}\text{☭ }}$建党节修改-->
 1. 添加了巨多的BlobCat表情
 2. ~~添加了即刻短文，感谢@Heo的[教程](https://blog.zhheo.com/p/557c9e72.html)~~(与主题css有冲突，暂时关闭)
-3. 文章先方出来再慢慢完善
+3. ~~文章先方出来再慢慢完善~~(这不是一个好策略！)
+
 <!-- endtimeline -->
 
 <!-- timeline 7-7 小暑-->

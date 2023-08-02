@@ -801,5 +801,19 @@ deploy:
 
 如果你转移了设备，或者不小心删除了文件。恢复部署似乎很麻烦，这篇文章[🌪️](https://si-on.top/2021/12/19/269f4f784bc3/)将主要的命令与步骤总结，可以大大节省你的时间。
 
+## 小技巧
+### windows开机自启动
+每次写个博客都要输一次命令，不胜其扰，最近摸索出来了一个简单的开机启动脚本，可以在windows11下自动运行，并最小化。
+1. 创建一个`hexo.ps1`文件，编码为<u>ANSI</u>内容为：
+```powershell
+cd "F:\博客\source"; hexo s -g
+```
+2. 创建一个名为`hexoboot.bat`的脚本文件，编码为<u>UTF-8</u>内容为：
+```bash
+PowerShell "C:\hexo.ps1"
+```
+3. 生成`hexoboot.bat`的快捷方式，放到启动文件夹里面
+
+
 [^1]:[Git-简明教程](https://github.com/rogerdudler/git-guide/issues)
 [^5]:[hexo官方建站指南](https://hexo.io/zh-cn/docs/setup)

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "01e05b53083a7a90",
+        "id": "cae3a8bb1ade13d3",
         "type": "tabs",
         "children": [
           {
-            "id": "111cb2f1c12be9df",
+            "id": "3f729afd3d66fd7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Cover/C-I.svg",
+                "file": "site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Cover/C-I.svg"
+                "file": "site/index.md"
               }
             }
           },
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Cover/C-I.svg",
+                "file": "site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +175,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75c5ccbce35143e9",
+  "active": "3f729afd3d66fd7b",
   "lastOpenFiles": [
-    "images/Cover/C-I.svg",
-    "images/Cover/C-I.svg",
+    "_posts/生活/priv/耒耨月结(其一).md",
+    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
     "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
+    "_posts/学习/⚛️科学/(稿)观云手册.md",
+    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
+    "_posts/学习/⌨️软件编程/hexo/Hexo添加tikz支持.md",
+    "images/Cover/C-I.svg",
+    "images/Cover/C-I.svg",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "_posts/学习/📒课程笔记/高等数学/微分学.md",
     "_posts/学习/📒课程笔记/高等数学/曲线积分与曲面积分.md",
@@ -190,7 +199,6 @@
     "_posts/学习/⚛️科学/彩虹观测指南.md",
     "_posts/学习/⚛️科学/宇宙真相.md",
     "essay/index.md",
-    "_posts/生活/priv/耒耨月结(其一).md",
     "images/Cover/nwp-ai.svg",
     "AwesomeHub/index.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
@@ -206,10 +214,6 @@
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/✒️随笔/Godzilla.md",
-    "_posts/生活/日志/2023-01-30.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
-    "_posts/生活/日志/2023-07-29.md",
-    "_posts/学习/📒课程笔记/金属固态相变/固态相变速率推导.md",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
     "images/Cover/钢铁16.png.tmp$$",

@@ -1111,6 +1111,10 @@ inject:
   #- <script type="module" src="https://cdn.staticfile.org/three.js/r128/three.module.min.js"></script>
   # <script type="module" src="https://cdn.skypack.dev/three@r120"></script>
    - <script src="/js/jike.js"></script>
+   - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+   - <script>LA.init({id:"3FTSqKbmLleEKwx9",ck:"3FTSqKbmLleEKwx9",autoTrack:true})</script>
+   - <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
+   - <script> new LingQue.Monitor().init({id:"3FTSzvJ4NLnOUYqy",sendSuspicious:true});</script>
 
   
 # CDN
