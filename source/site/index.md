@@ -475,9 +475,14 @@ highlight_shrink: true
 <!-- endtimeline -->
 
 <!-- timeline 8-1 $\color{red}\overset{八}{一}$ 建军节修改-->
-- 八月份二十篇写作规划
+- ~~八月份二十篇写作规划~~(我怎么急功近利到这个程度了)
 - 博客内容整体整理、删减
 - 更改博客定位：转向更专业方向，减少杂感、生活类文章的写作
-- 为期三天的全天制写作试验(8-1～8-3)
+- ~~为期三天的全天制写作试验(8-1～8-3)~~(8月2日放弃)
+- 添加了51.la统计
+<!-- endtimeline -->
+
+<!-- timeline 8-3 -->
+添加了国内CDN节点: [cn镜像站](https://cn.si-on.top)
 <!-- endtimeline -->
 {% endtimeline %}

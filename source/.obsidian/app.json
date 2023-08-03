@@ -25,6 +25,7 @@
     "editor:set-heading-3",
     "editor:set-heading-4",
     "editor:attach-file",
+    "editor:insert-link",
     "editor:undo",
     "editor:toggle-bold",
     "editor:toggle-blockquote",

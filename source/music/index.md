@@ -167,7 +167,7 @@ http://lhttp.qingting.fm/live/20210756/64k.mp3
 <!-- timeline 2019~2023 大学时代-->
 | 📱OS |        多平台        |
 |:------:|:------------------------:|
-| 🎵软件 |      Spotify音乐、~~豆瓣FM~~         |
+| 🎵软件 |      Spotify、~~豆瓣FM~~         |
 |  🥰喜好  | 流行音乐、节奏感、影视原声  |
 <!-- endtimeline -->
 {% endtimeline %}
