@@ -11,12 +11,8 @@
             "id": "f3b6f5ea21a3e597",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           },
           {
@@ -52,27 +48,31 @@
             }
           },
           {
-            "id": "fe15ace732899386",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "fff28737598b0de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/计划总结/耒耨月结(其一).md",
+                "file": "_posts/生活/📖涵泳/博客写作方法论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48b501de21be71cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about/index.md",
+            "file": "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about/index.md",
+            "file": "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about/index.md"
+            "file": "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md"
           }
         }
       },
@@ -205,11 +205,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e98e86189bf71f7e",
+  "active": "48b501de21be71cf",
   "lastOpenFiles": [
     "site/index.md",
-    "about/index.md",
+    "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
+    "_posts/生活/计划总结/耒耨月结(其一).md",
+    "_posts/生活/日志/2023-08-06.md",
     "_posts/生活/📖涵泳/博客写作方法论.md",
+    "_posts/生活/日志/2023-08-05.md",
+    "about/index.md",
     "_posts/生活/日志/2023-06-21.md",
     "_posts/生活/计划总结/三周年纪念.md",
     "music/index.md",
@@ -217,7 +221,6 @@
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md.tacitpart",
     "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
     "_posts/生活/日志/2023-04-16.md",
-    "_posts/生活/计划总结/耒耨月结(其一).md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
     "_posts/生活/日志/2023-07-15.md",
     "_posts/生活/日志/2023-07-07.md",
@@ -246,10 +249,7 @@
     "images/Cover/summershot.svg",
     "_posts/生活/日志/2023-06-19.md",
     "_posts/生活/✒️随笔/617仲夏雨记.md",
-    "_posts/生活/日志/2023-06-22.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "images/20230506/IMG_20230621_100516.png",
-    "reference/index.md",
     "images/20230506/Pasted Image 20230620224418.jpeg",
     "images/20230506/Pasted Image 20230620220326.jpeg",
     "images/Cover/summerrain.svg.tacitpart",
