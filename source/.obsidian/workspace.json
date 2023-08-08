@@ -11,15 +11,36 @@
             "id": "3f729afd3d66fd7b",
             "type": "leaf",
             "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d5e3ffdc2ddb8ec",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
-                "mode": "preview",
+                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04bdf50db4c776ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#观影",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md"
+                "file": "_posts/生活/✒️随笔/暑暮骑行志.md"
               }
             }
           },
@@ -135,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
+                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +198,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3f729afd3d66fd7b",
+  "active": "04bdf50db4c776ee",
   "lastOpenFiles": [
+    "images/Cover/summer-rider.svg",
+    "_posts/生活/✒️随笔/暑暮骑行志.md",
+    "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
+    "_posts/生活/🪶杂谈/611选择唯物主义.md",
+    "_posts/生活/日志/2023-08-07.md",
+    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
     "site/index.md",
     "_posts/生活/priv/耒耨月结(其一).md",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
@@ -202,20 +229,13 @@
     "_posts/学习/⚛️科学/宇宙真相.md",
     "essay/index.md",
     "images/Cover/nwp-ai.svg",
-    "AwesomeHub/index.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
     "images/20230709/Pasted image 20230730134356_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730134251_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730133740_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730133307_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730133138_tempfile23893298021.png",
     "images/20230709/Pasted image 20230730132624_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730131104_tempfile23893298021.png",
     "images/20230709",
-    "images/未命名.md",
-    "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
-    "_posts/生活/✒️随笔/Godzilla.md",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
     "images/Cover/钢铁16.png.tmp$$",

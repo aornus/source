@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3b6f5ea21a3e597",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "96399d591f6474cf",
             "type": "leaf",
             "state": {
@@ -60,7 +52,27 @@
             }
           },
           {
-            "id": "48b501de21be71cf",
+            "id": "b38919c8bc47da8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-08-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "549e03f4d0ce7291",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c86cc69f9bb31274",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -200,15 +211,19 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "48b501de21be71cf",
+  "active": "c86cc69f9bb31274",
   "lastOpenFiles": [
     "site/index.md",
+    "_posts/生活/日志/2023-08-07.md",
     "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
+    "pdf/积分要义.pdf",
+    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
     "_posts/生活/计划总结/耒耨月结(其一).md",
     "_posts/生活/日志/2023-08-06.md",
     "_posts/生活/📖涵泳/博客写作方法论.md",
@@ -245,14 +260,10 @@
     "_posts/生活/日志/2023-07-01.md",
     "_posts/学习/🔡语言文字/写作诵读论.md",
     "_posts/学习/🔡语言学习/写作诵读论.md.tacitpart",
-    "_posts/废文汇总.md",
     "images/Cover/summershot.svg",
-    "_posts/生活/日志/2023-06-19.md",
-    "_posts/生活/✒️随笔/617仲夏雨记.md",
     "images/20230506/IMG_20230621_100516.png",
     "images/20230506/Pasted Image 20230620224418.jpeg",
     "images/20230506/Pasted Image 20230620220326.jpeg",
-    "images/Cover/summerrain.svg.tacitpart",
     "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
   ]
 }
