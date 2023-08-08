@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -200,8 +199,9 @@
   },
   "active": "04bdf50db4c776ee",
   "lastOpenFiles": [
-    "images/Cover/summer-rider.svg",
+    "_posts/生活/✒️随笔/仲夏雨记.md",
     "_posts/生活/✒️随笔/暑暮骑行志.md",
+    "images/Cover/summer-rider.svg",
     "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
     "_posts/生活/日志/2023-08-07.md",
