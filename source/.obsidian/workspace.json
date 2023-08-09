@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f729afd3d66fd7b",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "2d5e3ffdc2ddb8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04bdf50db4c776ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
+                "file": "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
+                "file": "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/✒️随笔/暑暮骑行志.md"
+                "file": "_posts/学习/🌌科学艺术/管弦乐揽胜.md"
               }
             }
           },
@@ -155,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/✒️随笔/暑暮骑行志.md",
+                "file": "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,14 +172,28 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04bdf50db4c776ee",
+  "active": "2d5e3ffdc2ddb8ec",
   "lastOpenFiles": [
-    "_posts/生活/✒️随笔/仲夏雨记.md",
+    "images/20230709/Pasted image 20230809232500.png",
+    "images/20230709/Pasted image 20230809232426.png",
+    "images/20230709/Pasted image 20230809232351.png",
+    "images/20230709/Pasted image 20230809232229.png",
+    "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
+    "images/20230709/Pasted image 20230809232157.png",
+    "images/20230709/Pasted image 20230809232056.png",
+    "images/20230709/Pasted image 20230809232046.png",
+    "_posts/学习/🌌科学艺术/彩虹观测指南.md",
+    "_posts/学习/🌌科学艺术/(稿)观云手册.md",
     "_posts/生活/✒️随笔/暑暮骑行志.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/学习/🌌科学艺术/天气预报.md",
+    "_posts/学习/🌌科学艺术/宇宙真相.md",
+    "_posts/学习/🌌科学艺术/鸟类的天赋.md",
+    "_posts/生活/✒️随笔/仲夏雨记.md",
     "images/Cover/summer-rider.svg",
     "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
     "_posts/生活/🪶杂谈/611选择唯物主义.md",
@@ -210,7 +203,6 @@
     "_posts/生活/priv/耒耨月结(其一).md",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
     "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
-    "_posts/学习/⚛️科学/(稿)观云手册.md",
     "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "_posts/学习/⌨️软件编程/hexo/Hexo123.md",
     "_posts/学习/⌨️软件编程/hexo/Hexo添加tikz支持.md",
@@ -221,20 +213,7 @@
     "_posts/学习/📒课程笔记/高等数学/曲线积分与曲面积分.md",
     "_posts/学习/📒课程笔记/高等数学/极限100.md",
     "_posts/学习/📒课程笔记/高等数学/620通用技巧·等价代换法.md",
-    "music/index.md",
-    "Fm/index.md",
-    "about/index.md",
-    "_posts/学习/⚛️科学/天气预报.md",
-    "_posts/学习/⚛️科学/彩虹观测指南.md",
-    "_posts/学习/⚛️科学/宇宙真相.md",
-    "essay/index.md",
     "images/Cover/nwp-ai.svg",
-    "images/20230709/Pasted image 20230730134356_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730134251_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730133740_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730133307_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730133138_tempfile23893298021.png",
-    "images/20230709/Pasted image 20230730132624_tempfile23893298021.png",
     "images/20230709",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
