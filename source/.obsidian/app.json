@@ -38,7 +38,8 @@
     "editor:toggle-strikethrough",
     "editor:toggle-checklist-status",
     "editor:redo",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "obsidian-underline:toggle-underline-tag"
   ],
   "strictLineBreaks": true,
   "spellcheckLanguages": null,

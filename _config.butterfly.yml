@@ -496,7 +496,7 @@ waline:
 # 加载速度太慢舍弃，2022-3-19
 # 还可以吧，恢复部署2022-3-19
 # 我会配置了，真好玩2023-3-10 01:15
-  serverURL: https://www.sion.tk/
+  serverURL: https://comment.si-on.top/
   pageview: true
   avatar: mp # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
   avatarCDN: # Gravatar CDN baseURL
