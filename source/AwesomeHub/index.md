@@ -146,6 +146,33 @@ https://github.com/DavidsFiddle/Sonic-Pi-Code-Bits
 > 在此分享一个搜索课件的经验(google)：课程的名称+`pdf`
 
 ## 使用☕
+### Neko代理
+通过nekogram提供的脚本来代理telegram(通过Cloudflare)，工作原理：
+$$
+\text{客户端}\Longleftrightarrow\text{ws.neko脚本} \Longleftrightarrow\text{CloudFlare}\Longleftrightarrow\text{Telegram}$$
+
+1. 安装java(只需要安装JRE即可：[适用于所有操作系统的 Java 下载](https://www.java.com/zh-CN/download/manual.jsp))
+2. 下载[ws.neko](https://nekogram.app/zh-hans/proxy/)：[Releases · tehcneko/ws.neko](https://github.com/tehcneko/ws.neko/releases/)
+3. 新建脚本`neko.bat`
+
+```bat
+@echo off
+if "%1" == "h" goto begin 
+start mshta vbscript:createobject("wscript.shell").run("%~nx0 h",0)(window.close)&&exit 
+:begin
+
+java -jar ws.neko.jar
+```
+
+4. telegram里添加MTPROTO代理： ```
+
+```shell
+hostname=127.0.0.1
+port=6356
+secret=00000000000000000000000000000000
+```
+```
+
 ### Spotify 跳过广告与随机播放
 (此方法仅适用于Windows系统,感谢[BlockTheSpot项目](https://github.com/mrpond/BlockTheSpot))，新建一个文件`spotify.bat`，内容为：
 ```bat
@@ -154,8 +181,6 @@ powershell -Command "& {[Net.ServicePointManager]::SecurityProtocol = [Net.Secur
 pause
 exit /b
 ```
-
-
 ### Anbox·https://anbox.io/
 
    *Android in a Box*，在类unix操作系统中运行安卓程序的工具。它使用一个容器将安卓操作系统与主机隔离，这也让它们可以使用最新的安卓版本(官方镜像里最新的是安卓7，社区里有更新的版本)。运行的安卓应用不能直接访问硬件层。
