@@ -483,7 +483,16 @@ highlight_shrink: true
 <!-- endtimeline -->
 
 <!-- timeline 8-3 -->
-添加了国内CDN节点: [cn镜像站](https://cn.si-on.top)
+添加了国内CDN节点: [香港-镜像站(cn.si-on.top)](https://cn.si-on.top)
+评论系统的CDN节点：[Waline (commentcdn.si-on.top)](https://commentcdn.si-on.top/)
 <!-- endtimeline -->
 
+<!-- timeline 8-14 真·信球 -->
+> 同样是考研，人家白天学了一天，晚上熬夜到十二点半背政治、刷题，而我白天在每时每刻想写作的点子，晚上回去书包一扔，便熬夜写博客，写得好还说得过去，关键他妈的一直写不好，博客一直在向我不希望的方向——**哗众取宠、混乱浅薄**发展。这个状态大概已经持续三周了，是时候结束了。
+
+* 关闭了这狗日的垃圾博客
+* 停止二十篇的无聊、无益且有害的八月写作计划
+* 以后一个月写两篇文章！最多写四篇！
+* 重新他妈的进入耒耨期
+<!-- endtimeline -->
 {% endtimeline %}

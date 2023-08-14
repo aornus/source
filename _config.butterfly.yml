@@ -302,7 +302,8 @@ aside:
   card_announcement:
   # 颜色修改在 themes\butterfly\source\css\_layout\aside.styl 
     enable: true
-    content: 这个八月，文章，我要写二十篇👊！
+    content: 我真傻，真的。——祥林嫂
+    # 这个八月，文章，我要写二十篇👊！ 2023-8-7 ~ 2023-8-14
     # 开始耒耨期，为期半年。
     # 瞻望邈难逮，转欲志长勤。秉耒欢时务，解颜劝农人。
     # 从此我不再仰脸看青天，不再低头看白水，只谨慎着我双双的脚步，我要一步一步踏在泥土上，打上深深的脚印！
@@ -531,7 +532,7 @@ waline:
       level10: '🟪叶绿',
       level11: '🔴夜明',
       level12: '🟥天顶',
-      # level0: '一',
+      # level0: '一', 
       # level1: '癸',
       # level2: '壬',
       # level3: '辛',
