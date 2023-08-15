@@ -299,7 +299,7 @@ highlight_shrink: true
 明确了博客的定位：表达我，批评我，反思我。 我表达，我批评，我反思。
 <!-- endtimeline -->
 
-<!-- timeline 01-03 -->
+<!-- timeline 01-05 -->
 建立了基于树莓派的NAS系统与网盘聚合系统(感谢arozOS与Alist开源项目)
 * [NAS系统](https://nas.si-on.top)
 * [网盘聚合](https://hub.si-on.top)
@@ -483,8 +483,8 @@ highlight_shrink: true
 <!-- endtimeline -->
 
 <!-- timeline 8-3 -->
-添加了国内CDN节点: [香港-镜像站(cn.si-on.top)](https://cn.si-on.top)
-评论系统的CDN节点：[Waline (commentcdn.si-on.top)](https://commentcdn.si-on.top/)
+* 添加了国内CDN节点: [香港-镜像站(cn.si-on.top)](https://cn.si-on.top)
+* 评论系统的CDN节点：[Waline (commentcdn.si-on.top)](https://commentcdn.si-on.top/)
 <!-- endtimeline -->
 
 <!-- timeline 8-14 真·信球 -->

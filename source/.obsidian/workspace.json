@@ -8,31 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7824d385e9a3434",
+            "id": "d837dc08ffc98229",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f03ca7632b9a10e",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9bf841d8cb65936c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a5157f6dbdf2e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/📖涵泳/我的优雅阅读流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d893b98d9bb6c949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "和弦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md"
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md"
               }
             }
           },
@@ -147,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,17 +215,32 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1f03ca7632b9a10e",
+  "active": "d893b98d9bb6c949",
   "lastOpenFiles": [
-    "_posts/学习/🛦钛金笔记/最小可行笔记.md",
-    "images/Cover/pen.svg",
-    "_posts/生活/计划总结/建站二周年纪念.md",
+    "_posts/生活/📖涵泳/我的优雅阅读流.md",
+    "images/sounds/demo.wav",
+    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
+    "_posts/生活/📷摄影思考/摄影的意义.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/乐理与芯片音乐.md",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
+    "images/sounds",
+    "images/新建文件夹",
+    "_posts/学习/🌌科学艺术/🎶音乐",
+    "_posts/生活/计划总结/建站二周年纪念.md",
+    "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
+    "_posts/生活/📖涵泳/思考与读书.md",
+    "_posts/生活/🪶杂谈/密码设计指南.md",
+    "_posts/学习/🛦钛金笔记/钛工业的历程、现状与应用.md",
+    "_posts/学习/🛦钛金笔记/最小可行笔记.md",
+    "_posts/学习/🛦钛金笔记/开题报告.md",
+    "site/index.md",
+    "images/Cover/pen.svg",
     "AwesomeHub/index.md",
     "_posts/生活/🪶杂谈/博客写作方法论.md",
     "_posts/生活/🪶杂谈/耳机线缠绕与无人的宇宙.md",
-    "site/index.md",
-    "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
     "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
     "Minds/2020-2023/index.md",
     "images/20230709/Pasted image 20230810111538.png",
@@ -213,28 +255,12 @@
     "_posts/学习/🌌科学艺术/彩虹观测指南.md",
     "_posts/学习/🌌科学艺术/(稿)观云手册.md",
     "_posts/生活/✒️随笔/暑暮骑行志.md",
-    "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/🌌科学艺术/天气预报.md",
-    "_posts/学习/🌌科学艺术/宇宙真相.md",
-    "_posts/学习/🌌科学艺术/鸟类的天赋.md",
-    "_posts/生活/✒️随笔/仲夏雨记.md",
-    "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
-    "_posts/生活/🪶杂谈/611选择唯物主义.md",
-    "_posts/生活/日志/2023-08-07.md",
-    "_posts/学习/💻操作系统/奥卡姆计划-安卓篇.md",
-    "_posts/生活/priv/耒耨月结(其一).md",
-    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-    "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
-    "_posts/学习/⌨️软件编程/latex/博客不朽.md",
     "images/20230709",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
     "images/Cover/钢铁16.png.tmp$$",
     "images/Cover/钢铁15.png.tmp$$",
-    "images/Cover/钢铁14.png.tmp$$",
-    "images/Cover/钢铁13.png.tmp$$",
-    "images/Cover/钢铁6.png.tmp$$",
-    "images/Cover/钢铁1.png.tmp$$",
-    "_posts/学习/📒课程笔记/金属固态相变"
+    "images/Cover/钢铁14.png.tmp$$"
   ]
 }

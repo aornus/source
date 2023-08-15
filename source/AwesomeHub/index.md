@@ -171,7 +171,7 @@ hostname=127.0.0.1
 port=6356
 secret=00000000000000000000000000000000
 ```
-```
+
 
 ### Spotify 跳过广告与随机播放
 (此方法仅适用于Windows系统,感谢[BlockTheSpot项目](https://github.com/mrpond/BlockTheSpot))，新建一个文件`spotify.bat`，内容为：

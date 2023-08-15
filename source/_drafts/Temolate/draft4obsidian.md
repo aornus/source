@@ -16,7 +16,7 @@ comments:
 katex: false
 password:
 theme: xray
-hidden: true
+hidden: 
 published: false
 description:
 sticky:
@@ -26,6 +26,12 @@ keywords:
 > <center>当你在引用别人的时候，你在引用自己。</center>
 > <p align="right">——Sion</p>
 
+{% folding green, ✍文章痕迹 %}
+{% timeline 写作时间线, green %}
+<!-- timeline {{date:MM-DD}} -->
+<!-- endtimeline -->
+{% endtimeline %}
+{% endfolding %}
 {% markmap 300px %}
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
