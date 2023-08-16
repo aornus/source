@@ -8,87 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "864496821d7b7d6d",
+            "id": "89b75d3802c33193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+                "file": "_posts/生活/📷摄影思考/摄影的意义.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ad653af1f060067",
+            "id": "967f7a2035af9108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AwesomeHub/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c623aa4e306d4d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fff28737598b0de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/📖涵泳/博客写作方法论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b38919c8bc47da8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/日志/2023-08-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "549e03f4d0ce7291",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c86cc69f9bb31274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
+                "file": "_posts/生活/计划总结/建站二周年纪念.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "摄影的意义",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -162,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about/index.md",
+            "file": "_posts/生活/📷摄影思考/摄影的意义.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about/index.md",
+            "file": "_posts/生活/📷摄影思考/摄影的意义.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about/index.md"
+            "file": "_posts/生活/📷摄影思考/摄影的意义.md"
           }
         }
       },
@@ -216,21 +159,36 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "c623aa4e306d4d60",
+  "active": "89b75d3802c33193",
   "lastOpenFiles": [
-    "AwesomeHub/index.md",
+    "_posts/生活/计划总结/建站二周年纪念.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "Minds/2020-2023/index.md",
+    "_posts/生活/日志/2022-12-15.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "_posts/生活/📷摄影思考/摄影的意义.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
+    "about/index.md",
+    "_posts/生活/计划总结/耒耨月结(其一).md",
+    "site/index.md",
+    "_posts/生活/日志/2023-08-07.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+    "_posts/生活/日志/2023-08-15.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md.tacitpart",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md.tacitpart",
+    "_posts/学习/🌌科学艺术/🎶音乐",
+    "_posts/生活/📷摄影思考/摄影的意义.md.tacitpart",
+    "images/sounds/demo.wav",
+    "images/sounds/demo.wav.tacitpart",
+    "images/sounds",
+    "_drafts/Temolate/draft4obsidian.md.tacitpart",
+    "AwesomeHub/index.md",
     "images/20230709/2308.05143.pdf",
     "images/20230709/2307.12008.pdf",
-    "images/20230709/2307.16802.pdf",
-    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md.tacitpart",
-    "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/计划总结/建站二周年纪念.md",
     "gallery/Geometric/DSC02942-01.jpeg",
     "gallery/Geometric/index.md",
     "gallery/Composition/index.md",
@@ -239,29 +197,12 @@
     "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
     "gallery/500px/index.md",
     "_posts/生活/计划总结/三周年纪念.md",
-    "site/index.md",
     "reference/index.md",
-    "about/index.md",
     "_posts/生活/日志/2022-12-06.md",
-    "_posts/生活/日志/2023-08-07.md",
     "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
-    "pdf/积分要义.pdf",
     "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
-    "_posts/生活/计划总结/耒耨月结(其一).md",
     "_posts/生活/日志/2023-08-06.md",
-    "_posts/生活/📖涵泳/博客写作方法论.md",
-    "_posts/生活/日志/2023-08-05.md",
-    "_posts/生活/日志/2023-06-21.md",
-    "music/index.md",
-    "_posts/生活/日志/2023-06-20.md",
-    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md.tacitpart",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/生活/日志/2023-04-16.md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
-    "_posts/生活/🎭人的底层逻辑/629骑墙宝鉴.md.tacitpart",
-    "_posts/生活/✒️随笔/彼岸溪水无桃香.md.tacitpart",
-    "_posts/生活/priv/625往志辨.md.tacitpart",
-    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md.tacitpart",
     "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
     "images/20230506/IMG_20230701_094550.jpg",
     "images/20230506/IMG_20230701_093945.jpg",
