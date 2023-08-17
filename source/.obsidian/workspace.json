@@ -32,16 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "88de236833030c1f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "images/20230709/2307.12008.pdf"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -73,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,10 +194,11 @@
   },
   "active": "e2369ce27ae0a2ad",
   "lastOpenFiles": [
+    "images/Cover/lk-99.svg",
+    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "images/20230709/2307.12008.pdf",
     "images/20230709/2307.16802.pdf",
     "images/20230709/2308.05143.pdf",
-    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "AwesomeHub/index.md",
     "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
     "images/20230709/像素音乐波形.svg",
@@ -242,12 +234,10 @@
     "images/20230709/Pasted image 20230809232500.png",
     "images/20230709/Pasted image 20230809232426.png",
     "images/20230709/Pasted image 20230809232351.png",
-    "images/20230709/Pasted image 20230809232229.png",
     "_posts/学习/🌌科学艺术/彩虹观测指南.md",
     "_posts/学习/🌌科学艺术/(稿)观云手册.md",
     "images/20230709",
     "images/Cover/钢铁-20.png.tmp$$",
-    "images/Cover/钢铁17.png.tmp$$",
-    "images/Cover/钢铁16.png.tmp$$"
+    "images/Cover/钢铁17.png.tmp$$"
   ]
 }
