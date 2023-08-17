@@ -34,31 +34,17 @@
             }
           },
           {
-            "id": "cd340d70214a136e",
+            "id": "88de236833030c1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AwesomeHub/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8db1e39859dad60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
-                "mode": "source",
-                "source": false
+                "file": "images/20230709/2307.12008.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md"
+                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md"
               }
             }
           },
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "file": "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +201,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c8db1e39859dad60",
+  "active": "e2369ce27ae0a2ad",
   "lastOpenFiles": [
-    "images/20230709/Pasted image 20230817000526.png",
-    "images/20230709/Pasted image 20230816235932.png",
+    "images/20230709/2307.12008.pdf",
+    "images/20230709/2307.16802.pdf",
+    "images/20230709/2308.05143.pdf",
+    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "AwesomeHub/index.md",
     "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
-    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "images/20230709/像素音乐波形.svg",
+    "images/20230709/Pasted image 20230817000526.png",
+    "images/20230709/Pasted image 20230816235932.png",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/📷摄影思考/摄影哲学.md",
     "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
@@ -252,15 +243,11 @@
     "images/20230709/Pasted image 20230809232426.png",
     "images/20230709/Pasted image 20230809232351.png",
     "images/20230709/Pasted image 20230809232229.png",
-    "images/20230709/Pasted image 20230809232157.png",
-    "images/20230709/Pasted image 20230809232056.png",
     "_posts/学习/🌌科学艺术/彩虹观测指南.md",
     "_posts/学习/🌌科学艺术/(稿)观云手册.md",
     "images/20230709",
     "images/Cover/钢铁-20.png.tmp$$",
     "images/Cover/钢铁17.png.tmp$$",
-    "images/Cover/钢铁16.png.tmp$$",
-    "images/Cover/钢铁15.png.tmp$$",
-    "images/Cover/钢铁14.png.tmp$$"
+    "images/Cover/钢铁16.png.tmp$$"
   ]
 }
