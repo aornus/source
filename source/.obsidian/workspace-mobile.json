@@ -11,8 +11,12 @@
             "id": "89b75d3802c33193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
+                "file": "_posts/生活/priv/往志辨.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md",
+            "file": "_posts/生活/priv/往志辨.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md",
+            "file": "_posts/生活/priv/往志辨.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md"
+            "file": "_posts/生活/priv/往志辨.md"
           }
         }
       },
@@ -143,12 +147,26 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 2
+    ]
   },
-  "active": "967f7a2035af9108",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "e98e86189bf71f7e",
   "lastOpenFiles": [
     "_posts/生活/计划总结/建站二周年纪念.md",
+    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+    "_posts/生活/priv/卧云者之眼.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "Minds/2020-2023/index.md",
     "_posts/生活/日志/2022-12-15.md",
@@ -184,8 +202,6 @@
     "reference/index.md",
     "_posts/生活/日志/2022-12-06.md",
     "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
-    "_posts/学习/⌨️软件编程/部署你的专属Memos与Alist.md",
-    "_posts/生活/日志/2023-08-06.md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
     "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
     "images/20230506/IMG_20230701_094550.jpg",
