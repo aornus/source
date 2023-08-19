@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f356627a9476870d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "22911b013c2794dd",
@@ -109,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md"
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md"
               }
             }
           },
@@ -150,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +202,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7d599f6cf81194bc",
+  "active": "f356627a9476870d",
   "lastOpenFiles": [
+    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+    "images/Cover/8bit.svg",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
     "images/20230709/IMG_20230819_170518.jpg",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "AwesomeHub/index.md",
     "images/20230709/Pasted Image 20230819133401.png",
     "_posts/生活/日志/2023-08-19.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
     "images/sounds/合成试验.wav",
     "images/sounds/正弦波.wav",
     "images/sounds/三角波.wav",
@@ -219,7 +231,6 @@
     "_posts/学习/📒课程笔记/高等数学/微积分中值定理及其应用.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "_posts/学习/⌨️软件编程/博看电子书提取成pdf.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
     "images/sounds/demo.wav",
     "_posts/生活/📷摄影思考/摄影的意义.md",
     "_posts/学习/🌌科学艺术/🎶音乐/乐理与芯片音乐.md",
@@ -237,8 +248,6 @@
     "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
     "Minds/2020-2023/index.md",
     "images/20230709/Pasted image 20230810111538.png",
-    "images/20230709/Pasted image 20230810105210.png",
-    "images/20230709/Pasted image 20230809232500.png",
-    "images/20230709/Pasted image 20230809232426.png"
+    "images/20230709/Pasted image 20230810105210.png"
   ]
 }
