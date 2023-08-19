@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "967f7a2035af9108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "_posts/生活/priv/往志辨.md",
-                "mode": "source",
-                "source": false
+                "file": "images/sounds/合成试验.wav"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/priv/往志辨.md",
+            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/priv/往志辨.md",
+            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/priv/往志辨.md"
+            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md"
           }
         }
       },
@@ -162,11 +159,19 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e98e86189bf71f7e",
+  "active": "89b75d3802c33193",
   "lastOpenFiles": [
-    "_posts/生活/计划总结/建站二周年纪念.md",
+    "images/sounds/合成试验.wav",
+    "images/sounds/正弦波.wav",
+    "images/sounds/三角波.wav",
+    "images/sounds/方波.wav",
+    "images/sounds/脉冲波.wav",
+    "images/sounds/锯齿波.wav",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
     "_posts/生活/priv/卧云者之眼.md",
+    "_posts/生活/priv/往志辨.md",
+    "_posts/生活/计划总结/建站二周年纪念.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "Minds/2020-2023/index.md",
     "_posts/生活/日志/2022-12-15.md",
@@ -177,7 +182,6 @@
     "_posts/生活/计划总结/耒耨月结(其一).md",
     "site/index.md",
     "_posts/生活/日志/2023-08-07.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
     "_posts/生活/日志/2023-08-15.md",
     "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md.tacitpart",
     "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
@@ -185,12 +189,7 @@
     "_posts/学习/🌌科学艺术/🎶音乐",
     "_posts/生活/📷摄影思考/摄影的意义.md.tacitpart",
     "images/sounds/demo.wav",
-    "images/sounds/demo.wav.tacitpart",
-    "images/sounds",
-    "_drafts/Temolate/draft4obsidian.md.tacitpart",
     "AwesomeHub/index.md",
-    "images/20230709/2308.05143.pdf",
-    "images/20230709/2307.12008.pdf",
     "gallery/Geometric/DSC02942-01.jpeg",
     "gallery/Geometric/index.md",
     "gallery/Composition/index.md",
@@ -200,8 +199,6 @@
     "gallery/500px/index.md",
     "_posts/生活/计划总结/三周年纪念.md",
     "reference/index.md",
-    "_posts/生活/日志/2022-12-06.md",
-    "_posts/生活/🪶杂谈/西方古典音乐·阅听记.md",
     "images/20230506/Pasted Image 20230715181914.jpeg",
     "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
     "images/20230506/IMG_20230701_094550.jpg",
