@@ -38,4 +38,4 @@ keywords:
 由于本人电脑配置太低，处理速度极慢，
 ## 细节优化
 
-![image.png](https://pic.si-on.top/2023/04/20230409102132.png)
+![](https://pic.si-on.top/2023/04/20230409102132.png)

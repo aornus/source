@@ -23,10 +23,8 @@
             "id": "967f7a2035af9108",
             "type": "leaf",
             "state": {
-              "type": "audio",
-              "state": {
-                "file": "images/sounds/合成试验.wav"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
