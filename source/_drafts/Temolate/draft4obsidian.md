@@ -28,8 +28,6 @@ keywords:
 
 {% folding green, ✍文章痕迹 %}
 {% timeline 写作时间线, green %}
-<!-- timeline {{date:MM-DD}} -->
-<!-- endtimeline -->
 {% endtimeline %}
 {% endfolding %}
 {% markmap 300px %}
