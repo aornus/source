@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+                "file": "_posts/生活/计划总结/建站二周年纪念.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+            "file": "_posts/生活/计划总结/建站二周年纪念.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
+            "file": "_posts/生活/计划总结/建站二周年纪念.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md"
+            "file": "_posts/生活/计划总结/建站二周年纪念.md"
           }
         }
       },
@@ -142,7 +142,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,52 +160,16 @@
   },
   "active": "89b75d3802c33193",
   "lastOpenFiles": [
-    "images/20230709/IMG_20230819_170518.jpg",
-    "images/sounds/合成试验.wav",
-    "images/sounds/正弦波.wav",
-    "images/sounds/三角波.wav",
-    "images/sounds/方波.wav",
-    "images/sounds/脉冲波.wav",
-    "images/sounds/锯齿波.wav",
-    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
-    "_posts/生活/priv/卧云者之眼.md",
-    "_posts/生活/priv/往志辨.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
     "_posts/生活/计划总结/建站二周年纪念.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
-    "Minds/2020-2023/index.md",
-    "_posts/生活/日志/2022-12-15.md",
     "_drafts/Temolate/draft4obsidian.md",
-    "_posts/生活/📷摄影思考/摄影的意义.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
-    "about/index.md",
-    "_posts/生活/计划总结/耒耨月结(其一).md",
-    "site/index.md",
-    "_posts/生活/日志/2023-08-07.md",
-    "_posts/生活/日志/2023-08-15.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md.tacitpart",
-    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md.tacitpart",
-    "_posts/学习/🌌科学艺术/🎶音乐",
-    "_posts/生活/📷摄影思考/摄影的意义.md.tacitpart",
-    "AwesomeHub/index.md",
-    "gallery/Geometric/DSC02942-01.jpeg",
-    "gallery/Geometric/index.md",
-    "gallery/Composition/index.md",
-    "gallery/Color/index.md",
-    "gallery/Color/null21eaf986f818ab19-01.jpeg",
-    "_posts/学习/🌌科学艺术/管弦乐揽胜.md",
-    "gallery/500px/index.md",
-    "_posts/生活/计划总结/三周年纪念.md",
-    "reference/index.md",
-    "images/20230506/Pasted Image 20230715181914.jpeg",
-    "images/20230506/Screenshot_2023-07-01-10-02-57-317_com.xinhang.mobileclient-edit.jpg",
-    "images/20230506/IMG_20230701_094550.jpg",
-    "images/20230506/IMG_20230701_093945.jpg",
-    "images/20230506/IMG_20230701_093551.jpg",
-    "images/20230506/IMG_20230701_093230.jpg",
-    "images/Cover/summershot.svg",
-    "images/20230506/IMG_20230621_100516.png",
-    "_posts/学习/👨‍🎓毕业论文/未命名.canvas"
+    "_drafts/南阳方言研究.md",
+    "_posts/生活/priv/卧云者之眼.md",
+    "_posts/生活/日志/2023-05-23.md",
+    "_posts/生活/日志/2023-01-01.md",
+    "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
+    "_posts/生活/✒️随笔/大雨中.md",
+    "music/index.md"
   ]
 }

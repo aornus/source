@@ -3,7 +3,7 @@
   "theme": "system",
   "translucency": false,
   "interfaceFontFamily": "Microsoft YaHei UI",
-  "baseFontSize": 25,
+  "baseFontSize": 16,
   "cssTheme": "Obsidian You",
   "nativeMenus": true,
   "textFontFamily": "LXGW WenKai,Noto Serif SC"

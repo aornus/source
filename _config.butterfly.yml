@@ -1101,6 +1101,7 @@ inject:
     - <meta name="referrer" content="no-referrer" />
     - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4018434_wnqt1ow90ff.css">
     - <link rel="stylesheet" href="/css/mod.css">
+    # - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script>
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 		# - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
   bottom:
