@@ -14,9 +14,10 @@ highlight_shrink: true
 
  <center>
 {% calendar %}
-{"monthLang": "cn", "dayLang": "cn", "title": "博客活动历"}
+{"monthLang": "cn", "dayLang": "cn", "title": "博客代码仓库提交--活动历", "weeks": "60", "width": "100%"}
 {% endcalendar %}
 </center>
+
 <!-- <div id="posts-calendar" class="js-pjax"></div> -->
 <div id="posts-chart" class="js-pjax"></div>
 <div id="tags-chart" data-length="20" class="js-pjax"></div>
@@ -34,7 +35,10 @@ highlight_shrink: true
 
 子虚栈，始建于庚子年春。阁之初，以云伺服器为体，词媒阁枢(Wordpress blog builder)为用，然其内容支离琐碎，乏善可陈，期年之后，不了了之。后得新法，复兴于辛丑年秋，以码合(Github)为体，十六阁枢(hexo blog builder)为用，遂渐渐稳定之，至今已将近两年。
 
+...
+...
 
+待完善！
 
 
 
