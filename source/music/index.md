@@ -15,7 +15,7 @@ highlight_shrink:
 
 {% note success %}
 本页从属于秉蕳的**阅读、摄影、音乐、写作统计计划**
-<p align="right">✍更新于2023.5.12</p>
+<p align="right">✍更新于2023.8.26</p>
 {% endnote %}
 
 

@@ -34,43 +34,31 @@
             }
           },
           {
-            "id": "06890c228b9050e1",
+            "id": "bbd97980d1f8ee1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
+                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bad79499f8bcabf3",
+            "id": "f13058405d1ca97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/RSS使用手册.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d586e1d1bdd8826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/生活/🪶杂谈/密码设计指南.md",
+                "file": "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
+                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md"
+                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md"
               }
             }
           },
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
+                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +214,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2448b22e4af62e63",
+  "active": "bbd97980d1f8ee1e",
   "lastOpenFiles": [
-    "_posts/学习/⌨️软件编程/RSS使用手册.md",
+    "read/index.md",
+    "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
+    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
     "_posts/生活/计划总结/建站二周年纪念.md",
+    "_posts/学习/⌨️软件编程/RSS使用手册.md",
     "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
     "_posts/生活/🪶杂谈/南阳科目三经验汇总.md",
@@ -254,9 +245,6 @@
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
     "_posts/生活/日志/2023-08-25.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/芯片音乐.md",
-    "_posts/生活/日志/2023-08-20.md",
-    "_posts/生活/日志/2023-04-06.md",
     "images/Cover/8bit.svg",
     "images/20230709/IMG_20230819_170518.jpg",
     "images/20230709/Pasted Image 20230819133401.png",
