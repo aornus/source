@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
+                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,6 +52,18 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04703057191a1410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Temolate/draft4obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
+                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md"
+                "file": "_posts/学习/💻操作系统/树莓派NAS.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
+                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,9 +228,14 @@
   },
   "active": "bbd97980d1f8ee1e",
   "lastOpenFiles": [
-    "read/index.md",
-    "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
+    "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
+    "_posts/学习/💻操作系统/树莓派NAS.md",
+    "site/index.md",
+    "read/index.md",
+    "_posts/生活/🪶杂谈/岩石文.md",
+    "_posts/学习/🌌科学艺术/彩虹观测指南.md",
+    "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
     "_posts/生活/计划总结/建站二周年纪念.md",
     "_posts/学习/⌨️软件编程/RSS使用手册.md",
     "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
@@ -237,14 +254,9 @@
     "_posts/生活/📷摄影思考/图片与文本.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "_posts/生活/🎭人的底层逻辑/本质主义迷思.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "site/index.md",
     "images/20230709/Pasted image 20230825143035.png",
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
-    "_posts/生活/日志/2023-08-25.md",
     "images/Cover/8bit.svg",
     "images/20230709/IMG_20230819_170518.jpg",
     "images/20230709/Pasted Image 20230819133401.png",

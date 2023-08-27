@@ -24,36 +24,8 @@ series: lala
 
 > <center>金就砺则利</center>
 > <p align="right">——荀子</p>
-
-{% markmap 300px %}
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [文章痕迹](#-文章痕迹)
-- [楔子](#-楔子)
-- [安装与连接](#-安装与连接)
-  - [官方镜像](#-官方镜像)
-  - [第三方NAS系统](#-第三方nas系统)
-  - [ssh连接](#-ssh连接)
-- [换源](#-换源)
-- [软件部署](#-软件部署)
-  - [\*宝塔后台](#-宝塔后台)
-  - [arozOS自编译](#-arozos自编译)
-  - [\*OpenMediaVault安装](#-openmediavault安装)
-- [内网穿透](#-内网穿透)
-- [成果](#-成果)
-- [Alist 网盘Hub](#-alist-网盘hub)
-  - [安装](#-安装)
-  - [配置](#-配置)
-
-<!-- /code_chunk_output -->
-
-{% endmarkmap %}
-
-## 文章痕迹
-```
-{% timeline %}
+{% folding green, ✍文章痕迹 %}
+{% timeline 写作时间线, red%}
 <!-- timeline 2023-01-29-->
 1. 安装原版系统，解决了连接问题
 2. 安装OMV（失败）
@@ -75,7 +47,32 @@ series: lala
 2. 补充了亮灯状态的解释
 <!-- endtimeline -->
 {% endtimeline %}
-```
+{% endfolding %}
+{% markmap 300px %}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+- [楔子](#楔子)
+- [安装与连接](#安装与连接)
+  - [官方镜像](#官方镜像)
+  - [第三方NAS系统](#第三方nas系统)
+  - [ssh连接](#ssh连接)
+  - [指示灯状态解读](#指示灯状态解读)
+- [换源](#换源)
+- [软件部署](#软件部署)
+  - [\*宝塔后台](#宝塔后台)
+  - [arozOS自编译](#arozos自编译)
+  - [\*OpenMediaVault安装](#openmediavault安装)
+- [内网穿透](#内网穿透)
+- [成果](#成果)
+- [Alist 网盘Hub](#alist-网盘hub)
+  - [安装](#安装)
+  - [配置](#配置)
+
+<!-- /code_chunk_output -->
+{% endmarkmap %}
+
+
 -----
 ## 楔子
 春节期间拾掇了过去一年中各个设备上的照片，并转移到了家里专门备份的300G硬盘上，期间居然在十年前的一个1G内存卡发现了小时候的一部分照片，十分欣慰，原本以为永远找不到了。
