@@ -243,10 +243,10 @@ highlight_shrink: true
 域名整合:把各个镜像站以及几个小的工具站点都整合到主域名下的二级域名下,将home页设置为了主页。
 * 主页：[www.si-on.top](https://www.si-on.top/)
     * 博客：[blog.si-on.top](https://blog.si-on.top/)
-    * 云盘：[cloud.si-on.top](https://cloud.si-on.top/)
+    * ~~云盘：~~[cloud.si-on.top](https://cloud.si-on.top/)(Onedrive index项目跑路，站点已关闭)
     * ~~笔记：[note.si-on.top](https://note.si-on.top/)~~（于某月某日关闭））
     * 短文：[ink.si-on.top](https://ink.si-on.top/)
-    * 镜一：[vercel.si-on.top](https://vercel.si-on.top/)
+    * ~~镜一：~~[vercel.si-on.top](https://vercel.si-on.top/)(已关闭子域名，作为主站使用)
     * ~~镜二：[ipfs.si-on.top](https://ipfs.si-on.top/)~~（11-22 删除后无法重新部署，废弃之）
     * ~~镜三：[nelify.si-on.top](https://netlify.si-on.top/)~~（12-5 检查，停留在四个月前）
     * ~~国镜：[si-on.gitee.io](https://si-on.gitee.io/)~~ (6-19 恢复了gitee国内镜像)
@@ -258,7 +258,7 @@ highlight_shrink: true
 
 <!-- timeline 08-21 -->
 参考网上教程，对博客页面进行了修改
- * 首页轮播图
+ * ~~首页轮播图~~
  * 表格统计
 <!-- endtimeline -->
 
@@ -275,7 +275,7 @@ highlight_shrink: true
 <!-- timeline 11-19 -->
 * 搭配Obsidian，Nextcloud实现了多平台同步写作。
 * ~~添加了批注~~(于12-5删除)
-* ~~添加了Newsletter电子报订阅~~(与12-7日删除)
+* ~~添加了Newsletter电子报订阅~~(于12-7日删除)
 <!-- endtimeline -->
 
 <!-- timeline 11-23 -->
@@ -305,14 +305,14 @@ highlight_shrink: true
 
 <!-- timeline 01-05 -->
 建立了基于树莓派的NAS系统与网盘聚合系统(感谢arozOS与Alist开源项目)
-* [NAS系统](https://nas.si-on.top)
+* ~~[NAS系统](https://nas.*si-on.top)~~(树莓派炸了，死活连不上网，于2023-8-25彻底放弃)
 * [网盘聚合](https://hub.si-on.top)
 * ~~[开启了umami的访客统计服务](https://cloud.umami.is/analytics/websites/69effd41-cf9a-4c01-8076-cc697a15e7e6)~~(影响速度，于2023.3.9关闭)
 <!-- endtimeline -->
 
 <!-- timeline 02-18 -->
-* 优化了博客构建流程，转移到vercel进行自动部署。
-* 文章分类优化
+* 优化了博客构建流程，转移到vercel进行自动部署
+* 文章分类优化为“学习”与“生活”两大部分
 * 【聚沙成塔·九九九】计划结束
 <!-- endtimeline -->
 
@@ -327,7 +327,7 @@ highlight_shrink: true
 <!-- timeline 03-07 -->
 - [x] 添加了迟到的todo list支持，感谢[markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists)、[hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)项目
 - [x] 更改了淡色方格子背景
-- 部署了ChatGPT服务：chat.si-on.top
+- ~~部署了ChatGPT服务：chat.si-on.top~~(六月份秘钥失效，已删除部署)
 <!-- endtimeline -->
 
 <!-- timeline 03-10 -->
@@ -341,7 +341,7 @@ highlight_shrink: true
 * 更新了一些图标
 
 重新定位了个别子站点的功能，做出来特色，避免做的太宽泛而内容太多雷同
-- [RSS3上的乌有阁](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
+- [RSS3上的空影](https://rss3.si-on.top):摄影博客，照片展示，技术与人的思考。
 <!-- endtimeline -->
 <!-- timeline 03-23 刻意推广 -->
 - ~~加入了个站商店：[商店主页](https://storeweb.cn/site/o/1698)~~(04-05日关闭)
@@ -369,14 +369,14 @@ highlight_shrink: true
 
 <!-- timeline 04-03 -->
 1. 把Xlog上的文章转移到主站
-2. 采用R2作为图床
+2. 采用CloudFlare的R2作为图床
 <!-- endtimeline -->
 
 
 <!-- timeline 04-05 -->
 1. 隐藏了2月份以前字数比较少的日记
 2. 对部分文章进行了调整
-> ~~感谢个站商店管理员提出的宝贵意见（个屁）~~
+> ~~感谢个站商店管理员提出的**本站内容大部分是抄袭**的宝贵意见（个屁）~~
 <!-- endtimeline -->
 
 <!-- timeline 04-15 (Feature+++) -->
@@ -387,7 +387,7 @@ highlight_shrink: true
 4. ~~增加文章编辑入口（如果有来访者发现文章存在问题，或者想要添加/删减内容，欢迎在源文件上进行修改）~~
 4. 增加博客仓库提交日历图，感谢项目：[HCLonely/hexo-calendar](https://github.com/HCLonely/hexo-calendar)
 5. 开启[Pjax](https://github.com/MoOx/pjax)以实现页内跳转，减少资源浪费，提高加载速度
-6. 【测试】~~增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)~~(没什么鸟用，于5月10关闭)
+6. ~~增加文章推送服务，页面停留两分钟提醒订阅。参考[简单浏览器更新推送的实现 | CC的部落格 (ccknbc.cc)](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)~~(没什么鸟用，于5月10关闭)
 <!-- endtimeline -->
 
 <!-- timeline 04-21 (Feature- - -) -->
@@ -395,11 +395,11 @@ highlight_shrink: true
 1. 关闭所有冗余特效
 2. 删除页脚`footer`、侧栏标签、首页轮播图等没用的元素
 3. 优化博文样式，细化背景（参考模仿了[Reimu's blog](https://blog.k8s.li/)）
-4. 添加小节与图片标题序号，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
+4. 添加小节序号(二级标题往后)，参考：[markdown标题自动编号](https://duaduac.com/post/741d5d83.html)
 <!-- endtimeline -->
 
 <!-- timeline 5-2  -->
-把Kindle的阅读笔记转移到 [阅读写作子域：细墨](https://ink.si-on.top)
+~~把Kindle的阅读笔记转移到[阅读写作子域：细墨](https://ink.si-on.top)(简直弄的一塌糊涂，于某月某日弃置之)~~
 <!-- endtimeline -->
 
 <!-- timeline 5-20  -->
@@ -445,8 +445,8 @@ highlight_shrink: true
 然无可奈何，近日或将求诸其他载体也。异日成之，将公示以告诸来访者。诸多不便，尽请谅解。
 
 更新：
-- “关于”增加“成本与赞赏”
-- 微信公众号信息与博客同步，异日**或**将同步更新
+- ~~“关于”增加“成本与赞赏”~~(有个鸟用)
+- 微信公众号信息与博客同步，异日**或**将同步更新(冇球用)
 
 <!-- endtimeline -->
 
@@ -472,8 +472,8 @@ highlight_shrink: true
 <!-- timeline 7-7 小暑-->
 1. npm组件与主题更新到(4.9.0)
 2. 合并了魔改代码，`config.butterfly.yml`配置文件
-
 <!-- endtimeline -->
+
 <!-- timeline 7-11 ⛅-->
 ~~被墙~~(系Cloudflare CDN节点IP被污染所致，非真正被墙)
 <!-- endtimeline -->
@@ -497,6 +497,15 @@ highlight_shrink: true
 * 关闭了这狗日的垃圾博客
 * 停止二十篇的无聊、无益且有害的八月写作计划
 * 以后一个月写两篇文章！最多写四篇！
-* 重新他妈的进入耒耨期
+* 重新他妈的进入耒耨期！
 <!-- endtimeline -->
+
+<!-- timeline 9-1 第三年小计划·甲 -->
+- 增加“不朽”做为写作的目的
+- 减少博客对学习与生活的侵蚀
+- 增强文章的“雅”气，摆脱俗气
+<!-- endtimeline -->
+
+
+
 {% endtimeline %}

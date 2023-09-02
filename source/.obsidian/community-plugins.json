@@ -2,14 +2,7 @@
   "obsidian-custom-attachment-location",
   "obsidian-admonition",
   "obsidian-memos",
-  "dataview",
-  "table-editor-obsidian",
-  "tag-wrangler",
-  "obsidian-fuzzytag",
-  "obsidian-footnotes",
   "obsidian-enhancing-export",
-  "obsidian-underline",
-  "image-captions",
-  "open-in-new-tab",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "dataview"
 ]

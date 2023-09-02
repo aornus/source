@@ -4,30 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e24133ed0a6dfcc6",
+        "id": "4b75a23003e2c411",
         "type": "tabs",
         "children": [
           {
-            "id": "89b75d3802c33193",
+            "id": "43917696da54caf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
+                "file": "reference/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "967f7a2035af9108",
+            "id": "9d9345bb7152c562",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144348cb305454fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ad98b4ca51c99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/计划总结/耒耨月结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa433730543ab97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md",
+            "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md",
+            "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/生活/计划总结/建站二周年纪念.md"
+            "file": "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md"
           }
         }
       },
@@ -158,18 +199,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "89b75d3802c33193",
+  "active": "fa433730543ab97c",
   "lastOpenFiles": [
+    "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
+    "images/20230709/光影留声.jpeg",
     "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
+    "reference/index.md",
+    "site/index.md",
+    "Minds/Poems/index.md",
+    "_posts/生活/日志/2023-09-02.md",
+    "images/20230709/IMG_20230901_190403.jpg",
+    "images/20230709/IMG_20230901_213413.jpg",
+    "_posts/生活/计划总结/铀石周结010.md",
+    "_posts/生活/计划总结/耒耨月结.md",
+    "images/20230709/IMG_20230812_191947.jpg",
+    "images/20230709/IMG_20230830_165959.jpg",
+    "images/20230709/IMG_20230819_065105.jpg",
+    "images/20230709/IMG_20230814_135246.jpg",
+    "images/20230709/IMG_20230818_144101.jpg",
+    "images/20230709/IMG_20230813_075826.jpg",
+    "images/20230709/IMG_20230831_111117.jpg",
+    "pdf/书摘.pdf",
+    "_posts/生活/✒️随笔/大雨中.md",
+    "_posts/生活/✒️随笔/暑暮骑行志.md",
+    "_posts/生活/✒️随笔/平凡六月的一天.md",
+    "_posts/生活/✒️随笔/答往日之我书.md",
+    "_posts/学习/🔡语言文字/过了英语四六级，我终于听懂维语了.md",
+    "_posts/生活/计划总结/金石周刊003期.md",
+    "_posts/生活/计划总结/金石周刊004期.md",
+    "_posts/生活/日志/2023-09-01.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
     "_posts/生活/计划总结/建站二周年纪念.md",
+    "_posts/生活/日志/2023-08-30.md",
+    "music/index.md",
+    "_posts/生活/🪶杂谈/我想成为一个木得感情的高效跑步机器.md",
+    "_posts/生活/日志/2023-08-27.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "_drafts/Temolate/draft4obsidian.md",
-    "_drafts/南阳方言研究.md",
-    "_posts/生活/priv/卧云者之眼.md",
-    "_posts/生活/日志/2023-05-23.md",
-    "_posts/生活/日志/2023-01-01.md",
-    "_posts/生活/🎭人的底层逻辑/海边的卡夫卡.md",
-    "_posts/生活/✒️随笔/大雨中.md",
-    "music/index.md"
+    "_drafts/南阳方言研究.md"
   ]
 }

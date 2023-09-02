@@ -179,6 +179,7 @@ http://lhttp.qingting.fm/live/20210756/64k.mp3
 4. 手机
 
 ## 歌单
+喜欢的歌手:avicii
 
 {% folding purple, 耒耨·诺基亚时代歌单回听 %}
 

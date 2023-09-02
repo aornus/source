@@ -27,43 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/计划总结/建站二周年纪念.md",
+                "file": "AwesomeHub/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbd97980d1f8ee1e",
+            "id": "d30d351961b78814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f13058405d1ca97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04703057191a1410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Temolate/draft4obsidian.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/学习/💻操作系统/树莓派NAS.md"
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md"
               }
             }
           },
@@ -185,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/学习/💻操作系统/树莓派NAS.md",
+                "file": "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,21 +198,28 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bbd97980d1f8ee1e",
+  "active": "d30d351961b78814",
   "lastOpenFiles": [
+    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
+    "images/20230709/光影留声.jpeg",
+    "AwesomeHub/index.md",
+    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
+    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "_posts/废文汇总.md",
+    "_posts/生活/计划总结/建站二周年纪念.md",
+    "images/20230709/Pasted Image 20230902093103.png",
+    "_posts/学习/💻操作系统/树莓派NAS.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-    "_posts/学习/💻操作系统/树莓派NAS.md",
     "site/index.md",
     "read/index.md",
     "_posts/生活/🪶杂谈/岩石文.md",
     "_posts/学习/🌌科学艺术/彩虹观测指南.md",
     "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
-    "_posts/生活/计划总结/建站二周年纪念.md",
     "_posts/学习/⌨️软件编程/RSS使用手册.md",
     "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
     "_posts/生活/🪶杂谈/密码设计指南.md",
@@ -248,12 +231,6 @@
     "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
     "_posts/生活/📷摄影思考/🔦调色与影调/影调分析-曼达洛人III.md",
     "_posts/生活/📷摄影思考/🖼️摄影练习/夏日.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/剪影.md",
-    "_posts/生活/📷摄影思考/🪄图层与抠图/图层.md",
-    "_posts/生活/📷摄影思考/摄影哲学.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
-    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
     "images/20230709/Pasted image 20230825143035.png",
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
@@ -271,8 +248,6 @@
     "images/20230709/2307.16802.pdf",
     "images/20230709/2308.05143.pdf",
     "images/20230709/像素音乐波形.svg",
-    "images/20230709/Pasted image 20230817000526.png",
-    "images/20230709/Pasted image 20230816235932.png",
     "images/sounds/demo.wav"
   ]
 }
