@@ -22,19 +22,51 @@
             }
           },
           {
-            "id": "c3dcc822e7975a25",
+            "id": "614892bc97f07d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/计划总结/耒耨月结.md",
+                "file": "_posts/生活/日志/2023-09-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b069afdace6cd7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-09-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "233956b6850fd9f9",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "16b8980af64460ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"pdf/R/R Graphics Cookbook\" path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/生活/计划总结/耒耨月结.md",
+                "file": "site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/生活/计划总结/耒耨月结.md"
+                "file": "site/index.md"
               }
             }
           },
@@ -149,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/生活/计划总结/耒耨月结.md",
+                "file": "site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +222,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c3dcc822e7975a25",
+  "active": "16b8980af64460ca",
   "lastOpenFiles": [
+    "images/Cover/rocks1-07.svg",
+    "site/index.md",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "_data/地图与豆瓣widget.yml",
+    "_posts/生活/日志/2023-09-05.md",
+    "_posts/生活/计划总结/铀石周结010.md",
+    "_posts/生活/日志/2023-09-04.md",
+    "_posts/生活/📷摄影思考/图片与文本.md",
+    "gallery/Composition/index.md",
+    "_posts/生活/计划总结/耒耨月结.md",
+    "_posts/学习/🌌科学艺术/天气预报.md",
+    "_posts/学习/🌌科学艺术/鸟类的天赋.md",
     "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
     "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
     "music/index.md",
@@ -206,20 +249,10 @@
     "_posts/学习/💻操作系统/树莓派NAS.md",
     "_drafts/Temolate/draft4obsidian.md",
     "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-    "site/index.md",
     "read/index.md",
     "_posts/生活/🪶杂谈/岩石文.md",
     "_posts/学习/🌌科学艺术/彩虹观测指南.md",
     "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
-    "_posts/学习/⌨️软件编程/RSS使用手册.md",
-    "_posts/学习/⌨️软件编程/foliate阅读器安装.md",
-    "_posts/生活/🪶杂谈/密码设计指南.md",
-    "_posts/生活/🪶杂谈/南阳科目三经验汇总.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/调色练习.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/影调.md",
-    "_posts/生活/📷摄影思考/🔦调色与影调/构图分析·新假面骑士.md",
-    "_posts/生活/📷摄影思考/🖼️摄影练习/徒步漫游.md",
     "images/20230709/Pasted image 20230825143035.png",
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
@@ -236,7 +269,6 @@
     "images/20230709/2307.12008.pdf",
     "images/20230709/2307.16802.pdf",
     "images/20230709/2308.05143.pdf",
-    "images/20230709/像素音乐波形.svg",
-    "images/sounds/demo.wav"
+    "images/20230709/像素音乐波形.svg"
   ]
 }

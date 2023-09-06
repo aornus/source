@@ -506,6 +506,8 @@ highlight_shrink: true
 - 增强文章的“雅”气，摆脱俗气
 <!-- endtimeline -->
 
-
+<!-- timeline 9-6 精简 -->
+- 关闭所有统计代码
+<!-- endtimeline -->
 
 {% endtimeline %}
