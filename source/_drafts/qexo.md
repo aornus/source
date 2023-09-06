@@ -1,5 +1,5 @@
 ---
-abbrlink: qexio
+abbrlink: hello-qexo
 aside: null
 categories:
 - - 学习
@@ -16,8 +16,7 @@ password: true
 root: ../../
 sticky: null
 tags: []
-title: 测试
-update: ''
+title: qexo的问候
 updated: 2023-9-7T6:36:58.515+8:0
 ---
 > <center>当你在引用别人的时候，你在引用自己。</center>
