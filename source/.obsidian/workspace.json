@@ -27,34 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-09-05.md",
+                "file": "_posts/生活/日志/2023-09-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b069afdace6cd7a1",
+            "id": "251cab022e27bacf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/生活/日志/2023-09-04.md",
+                "file": "_posts/生活/priv/我.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "233956b6850fd9f9",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "16b8980af64460ca",
+            "id": "cbbe765a76e48283",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -222,13 +214,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "16b8980af64460ca",
+  "active": "cbbe765a76e48283",
   "lastOpenFiles": [
-    "images/Cover/rocks1-07.svg",
+    "_posts/生活/priv/我.md",
+    "_posts/生活/priv/卧云者之眼.md",
+    "_posts/生活/priv/迷匿畔.md",
+    "_posts/生活/priv/诗",
+    "_posts/生活/priv/往志辨.md",
+    "_posts/生活/priv/weekly.md",
+    "_posts/学习/🌌科学艺术/夏季星图.md",
     "site/index.md",
+    "_posts/生活/日志/2023-09-06.md",
+    "_posts/生活/日志/2023-09-05.md",
+    "images/Cover/rocks1-07.svg",
     "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "_data/地图与豆瓣widget.yml",
-    "_posts/生活/日志/2023-09-05.md",
     "_posts/生活/计划总结/铀石周结010.md",
     "_posts/生活/日志/2023-09-04.md",
     "_posts/生活/📷摄影思考/图片与文本.md",
@@ -246,13 +246,6 @@
     "_posts/废文汇总.md",
     "_posts/生活/计划总结/建站二周年纪念.md",
     "images/20230709/Pasted Image 20230902093103.png",
-    "_posts/学习/💻操作系统/树莓派NAS.md",
-    "_drafts/Temolate/draft4obsidian.md",
-    "_posts/学习/📒课程笔记/高等数学/紫晶·积分要義.md",
-    "read/index.md",
-    "_posts/生活/🪶杂谈/岩石文.md",
-    "_posts/学习/🌌科学艺术/彩虹观测指南.md",
-    "_posts/学习/⌨️软件编程/Hexo Echarts 图表可视化转换.md",
     "images/20230709/Pasted image 20230825143035.png",
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
@@ -267,8 +260,6 @@
     "images/sounds/方波.wav",
     "images/Cover/lk-99.svg",
     "images/20230709/2307.12008.pdf",
-    "images/20230709/2307.16802.pdf",
-    "images/20230709/2308.05143.pdf",
-    "images/20230709/像素音乐波形.svg"
+    "images/20230709/2307.16802.pdf"
   ]
 }

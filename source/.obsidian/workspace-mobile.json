@@ -89,7 +89,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "sonic",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -126,7 +126,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "1db6b0c79e40954c",
@@ -195,7 +195,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fa433730543ab97c",
+  "active": "ababd51487dc680d",
   "lastOpenFiles": [
     "site/index.md.tacitpart",
     "_posts/学习/🌌科学艺术/夏季星图.md",

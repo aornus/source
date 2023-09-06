@@ -180,7 +180,7 @@ hide_posts:
 # hexo-generator-feed /nofind/nosee/nowhere/none.xml  /atom.xml
 feed:
   type: atom
-  path: /atom.xml
+  path: /nofind/nosee/nowhere/none.xml
   limit: 30
   hub:
   content: true
@@ -188,7 +188,7 @@ feed:
   content_limit_delim: 
   order_by: -date
   icon: /images/logo.svg
-  autodiscovery: true
+  autodiscovery: false
   template:
 #hexo-generator-seo-friendly-sitemap
 sitemap:

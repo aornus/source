@@ -48,10 +48,10 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description
 social:
-   fas fa-envelope: mailto:me@si-on.top || 欢迎您给我发邮件📫
+   #fas fa-envelope: mailto:me@si-on.top || 欢迎您给我发邮件📫
 #   fas fa-paper-plane: https://t.me/Siontine || '#FFE411'
 #   fab fa-qq: http://wpa.qq.com/msgrd?v=3&uin=2322748973&site=qq&menu=yes || '#FFE411'
-   fas fa-rss: https://blog.si-on.top/atom.xml || 本站的RSS订阅地址
+   #fas fa-rss: https://blog.si-on.top/atom.xml || 本站的RSS订阅地址
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -502,14 +502,18 @@ waline:
   pageview: true
   avatar: mp # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
   avatarCDN: # Gravatar CDN baseURL
+  meta: 'nick'
+  commentSorting: 'latest'
   bg: /images/blogimg/bunny.gif # waline background
   visitor: false
+  requiredMeta: 'nick'
+  login: 
   option:
     locale: {
       nick: '署名',
       mail: '邮箱',
       link: '域名',
-      placeholder: '有朋自远方来，不亦乐乎！(无需登录，输入邮箱，回复可得通知)',
+      placeholder: '有朋自远方来，不亦乐乎！',
       requiredMeta: [],
       mailError: '你的邮件格式不对哦',
       nickError: 昵称不满足条件的错误信息,
@@ -557,7 +561,6 @@ waline:
     'https://www.emojiall.com/images/60/microsoft-teams/1f4a9.png',
     'https://www.emojiall.com/images/60/microsoft-teams/1f494.png',
         ]
-    requiredMeta: ['nick', 'mail']
     wordLimit: [5, 1000]
     copyright: false
 #关闭验证    turnstileKey: 0x4AAAAAAABDE4xYGUMuRttC
