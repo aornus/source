@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AwesomeHub/index.md",
+                "file": "_posts/生活/日志/2023-09-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AwesomeHub/index.md",
+            "file": "_posts/生活/日志/2023-09-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AwesomeHub/index.md",
+            "file": "_posts/生活/日志/2023-09-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AwesomeHub/index.md"
+            "file": "_posts/生活/日志/2023-09-07.md"
           }
         }
       },
@@ -195,14 +195,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ababd51487dc680d",
+  "active": "fa433730543ab97c",
   "lastOpenFiles": [
+    "reference/index.md",
     "site/index.md.tacitpart",
     "_posts/学习/🌌科学艺术/夏季星图.md",
     "images/20230709/IMG_20230906_063351.jpg",
     "_posts/生活/日志/2023-09-04.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md.tacitpart",
-    "reference/index.md",
     "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
     "images/20230709/光影留声.jpeg",
