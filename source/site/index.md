@@ -509,6 +509,7 @@ highlight_shrink: true
 <!-- timeline 9-6 乙·就简，自由地表达 -->
 - 关闭所有访客统计
 - 关闭rss
+- 把国内CDN作为主力使用，原站解析为[vercel.si-on.top](https://vercel.si-on.top)
 <!-- endtimeline -->
 
 {% endtimeline %}
