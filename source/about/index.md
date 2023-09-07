@@ -110,15 +110,18 @@ description: 关于站点与站长的简单介绍
 它(尽力)不会分享浮躁的、肤浅的、速朽的经验技巧。
 
 ### 对于来访者的态度
-🍬本站**坚决**尊重所有来访者对于隐私与个人信息保护的强烈要求，然而为了能让所有者可以更好地维护站点，本站使用了一些分析工具，它们会在访客浏览过程中，收集包括**浏览器标识、ip地址、地理位置、电子邮件**等信息。所有者**坚决**承诺不会将收集的数据泄露给任何其他组织机构！
+~~🍬本站**坚决**尊重所有来访者对于隐私与个人信息保护的强烈要求，然而为了能让所有者可以更好地维护站点，本站使用了一些分析工具，它们会在访客浏览过程中，收集包括**浏览器标识、ip地址、地理位置、电子邮件**等信息。所有者**坚决**承诺不会将收集的数据泄露给任何其他组织机构！~~
 
+本站不收集任何访客信息。
+
+<!-- 
 🎭本站用到的分析工具有
 1. [ClustrMaps](https://clustrmaps.com/policy)：会收集浏览器标识、ip地址。
 2. [Microsoft Clarity](https://privacy.microsoft.com/zh-cn/privacystatement)：收集访问操作过程和资源加载情况 。
 3. [Waline](https://waline.js.org/advanced/privacy.html)：收集评论者的浏览器标识、ip地址等(不评论则不会收集)。
 4. [51LA 统计](https://wap.51.la/)：收集评论者的浏览器标识、ip地址、资源加载等。
 
-温馨提醒：来访者可以利用浏览器自带的隐私保护功能、广告拦截插件等轻松地进行追踪的屏蔽。
+温馨提醒：来访者可以利用浏览器自带的隐私保护功能、广告拦截插件等轻松地进行追踪的屏蔽。 -->
 
 <!-- ### 互动与交流
 为了方便交流，来访者可以
@@ -256,7 +259,7 @@ SHA256:MUjOogdBrahUpUehhAuf9pj15EhqQZW75JpTWegYDwk me@si-on.top
 ```
 
 
-{% btn '/about',页面完善时间：2023/8/11, fa-solid fa-history,block center outline right green larger %}
+{% btn '/about',页面完善时间：2023/9/7, fa-solid fa-history,block center outline right green larger %}
 
 <!-- 唯一可以让人进步的就是深刻的自我剖析与自我批评
 2020-2-29[^1] 关于内心的批评

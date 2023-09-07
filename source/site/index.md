@@ -506,11 +506,9 @@ highlight_shrink: true
 - 增强文章的“雅”气，摆脱俗气
 <!-- endtimeline -->
 
-<!-- timeline 9-6 自由了 -->
-没有投入，没有成本，没有约束，所以我可以随意改变，让**我**~去表达吧
-
-- 关闭所有统计代码
-- 关闭rss地址
+<!-- timeline 9-6 乙·就简，自由地表达 -->
+- 关闭所有访客统计
+- 关闭rss
 <!-- endtimeline -->
 
 {% endtimeline %}

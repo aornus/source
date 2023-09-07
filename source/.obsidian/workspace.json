@@ -46,12 +46,24 @@
             }
           },
           {
-            "id": "cbbe765a76e48283",
+            "id": "ffc0b1f70d75f894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/index.md",
+                "file": "about/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a42c267e504f4ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/生活/日志/2023-09-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"pdf/R/R Graphics Cookbook\" path:",
+                "query": "八卦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "site/index.md",
+                "file": "about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site/index.md"
+                "file": "about/index.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site/index.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,52 +226,53 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cbbe765a76e48283",
+  "active": "ffc0b1f70d75f894",
   "lastOpenFiles": [
+    "_posts/生活/日志/2023-09-07.md",
+    "about/index.md",
     "_posts/生活/priv/我.md",
+    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
+    "_posts/qexo.md",
+    "_drafts/Temolate/draft4obsidian.md",
+    "images/Cover/rocks.svg",
+    "images/Cover/rocks-10.svg",
+    "_drafts/Temolate/sands.md",
+    "_posts/生活/日志/2023-03-23.md",
+    "images/Cover/rocks1.png.tmp$$",
+    "images/Cover/rocks1.png",
+    "_posts/生活/日志/2023-03-27.md",
+    "_posts/生活/日志/2023-03-26.md",
+    "_posts/生活/日志/2023-03-25.md",
+    "_posts/生活/日志/2023-03-24.md",
+    "_posts/生活/日志/2023-03-06.md",
+    "_posts/生活/日志/2023-03-10.md",
+    "_posts/生活/日志/2023-03-19.md",
+    "_posts/生活/日志/2023-03-21.md",
+    "_posts/废文汇总.md",
+    "site/index.md",
     "_posts/生活/priv/卧云者之眼.md",
     "_posts/生活/priv/迷匿畔.md",
     "_posts/生活/priv/诗",
     "_posts/生活/priv/往志辨.md",
     "_posts/生活/priv/weekly.md",
     "_posts/学习/🌌科学艺术/夏季星图.md",
-    "site/index.md",
     "_posts/生活/日志/2023-09-06.md",
     "_posts/生活/日志/2023-09-05.md",
     "images/Cover/rocks1-07.svg",
-    "_posts/学习/🛦钛金笔记/LK99高温超导研究笔记.md",
     "_data/地图与豆瓣widget.yml",
     "_posts/生活/计划总结/铀石周结010.md",
-    "_posts/生活/日志/2023-09-04.md",
-    "_posts/生活/📷摄影思考/图片与文本.md",
-    "gallery/Composition/index.md",
-    "_posts/生活/计划总结/耒耨月结.md",
-    "_posts/学习/🌌科学艺术/天气预报.md",
-    "_posts/学习/🌌科学艺术/鸟类的天赋.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/管弦乐揽胜.md",
-    "_posts/学习/🌌科学艺术/🎶音乐/室内乐欣赏·光影留声.md",
-    "music/index.md",
-    "AwesomeHub/index.md",
-    "_posts/生活/📖涵泳/我的优雅阅读流.md",
-    "_posts/学习/⌨️软件编程/hexo/主题使用备忘及魔改.md",
     "images/20230709/光影留声.jpeg",
-    "_posts/废文汇总.md",
-    "_posts/生活/计划总结/建站二周年纪念.md",
     "images/20230709/Pasted Image 20230902093103.png",
     "images/20230709/Pasted image 20230825143035.png",
     "images/20230709/map.jpg",
     "images/20230709/访客折线图.jpg",
     "images/Cover/8bit.svg",
-    "images/20230709/IMG_20230819_170518.jpg",
-    "images/20230709/Pasted Image 20230819133401.png",
     "images/sounds/合成试验.wav",
     "images/sounds/正弦波.wav",
     "images/sounds/三角波.wav",
     "images/sounds/脉冲波.wav",
     "images/sounds/锯齿波.wav",
     "images/sounds/方波.wav",
-    "images/Cover/lk-99.svg",
-    "images/20230709/2307.12008.pdf",
-    "images/20230709/2307.16802.pdf"
+    "images/20230709/2307.12008.pdf"
   ]
 }

@@ -1,25 +1,28 @@
 ---
-title: {{title}}
-abbrlink: 824ac3d0
-categories:
-tags:
-date: {{date:YYYY-MM-DD HH:mm:ss}}
-updated: {{date:YYYY-MM-DD HH:mm:ss}}
+title:
+  "{ title }": 
+abbrlink: unnamedPost
+categories: 
+tags: []
+date:
+  "{ date:YYYY-MM-DD HH:mm:ss }": 
+updated:
+  "{ date:YYYY-MM-DD HH:mm:ss }": 
 cover: 
 root: ../../
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-aside:
-comments:
+copyright_author: 
+copyright_author_href: 
+copyright_url: 
+copyright_info: 
+aside: 
+comments: 
 katex: false
-password:
+password: 
 theme: xray
 hidden: 
-published: false
-description:
-sticky:
+published: true
+description: 
+sticky: 
 keywords:
 ---
 

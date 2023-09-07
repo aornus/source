@@ -1,29 +1,32 @@
 ---
 title: 子虚栈日记{{date:MM-DD}}
-date: {{date:YYYY-MM-DD HH:mm:ss}}
-update: {{date:YYYY-MM-DD HH:mm:ss}}
-abbrlink: sands{{date:MM-DD}}
-tags:
-
-categories:
-cover: /images/circle.svg
-katex: false
-comments: false
-copyright:
+abbrlink: rocks{{date:MM-DD}}
+categories: 
+tags: []
+date:
+  "{ date:YYYY-MM-DD HH:mm:ss }": 
+updated:
+  "{ date:YYYY-MM-DD HH:mm:ss }": 
+cover: 
+root: ../../
+copyright_author: 
+copyright_author_href: 
+copyright_url: 
+copyright_info: 
 aside: false
-password:
+comments: 
+katex: false
+password: 
 theme: xray
-hidden: true
-description: 重复の螺旋|
+hidden: false
+published: false
+description: 
 sticky: 
 keywords:
-root: ../../
 ---
-## 英语
-
-## 数学
-
-## 材料
-
-
 ## SeedCollecter
+
+
+
+
+## 日志
