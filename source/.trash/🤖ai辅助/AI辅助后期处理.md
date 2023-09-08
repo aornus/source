@@ -4,7 +4,8 @@ abbrlink: aiadded
 katex: false
 root: ../../
 categories:
-  - 生活
+  - 学习
+  - "\U0001F30C科学艺术"
   - "\U0001F4F7摄影思考"
   - "\U0001F916ai辅助"
 hidden: true

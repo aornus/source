@@ -3,9 +3,9 @@ title: 子虚栈日记{{date:MM-DD}}
 abbrlink: rocks{{date:MM-DD}}
 categories: 
 tags: []
-date: {{date:YYYY-MM-DD HH:mm:ss }}
-updated: {{date:YYYY-MM-DD HH:mm:ss }}
-cover: 
+date: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
+cover: /images/Cover/rocks.svg
 root: ../../
 copyright_author: 
 copyright_author_href: 

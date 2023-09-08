@@ -8,14 +8,16 @@ tags:
   - 观影
   - 构图
 categories:
-  - 生活
+  - 学习
+  - "\U0001F30C科学艺术"
   - "\U0001F4F7摄影思考"
   - "\U0001F526调色与影调"
-hidden:
-published: 
+cover: false
+description: 《曼达洛人第三季》中运用到的影调、构图、配色的一些解读。
 date: 2023-04-20 11:29:28
 update: 2023-04-20 11:29:28
-cover: false
+hidden:
+published:
 comments:
 copyright_author:
 copyright_author_href:
@@ -23,7 +25,6 @@ copyright_url:
 copyright_info:
 aside:
 password:
-description: 《曼达洛人第三季》中运用到的影调、构图、配色的一些解读。
 sticky:
 keywords:
 ---

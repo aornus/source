@@ -1,13 +1,10 @@
 ---
-title:
-  "{ title }": 
+title: {{ title }}
 abbrlink: unnamedPost
 categories: 
 tags: []
-date:
-  "{ date:YYYY-MM-DD HH:mm:ss }": 
-updated:
-  "{ date:YYYY-MM-DD HH:mm:ss }": 
+date: {{ date:YYYY-MM-DD HH:mm:ss }}
+updated: {{ date:YYYY-MM-DD HH:mm:ss }}
 cover: 
 root: ../../
 copyright_author: 

@@ -379,7 +379,7 @@ search:
 
 auto_category:
  enable: true
- depth: 3
+ depth: 4
 
 hexo-calendar:
   width: 1400

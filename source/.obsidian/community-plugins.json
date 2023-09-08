@@ -1,15 +1,7 @@
 [
   "obsidian-custom-attachment-location",
   "obsidian-admonition",
-  "obsidian-memos",
   "obsidian-enhancing-export",
   "obsidian-image-auto-upload-plugin",
-  "dataview",
-  "image-captions",
-  "tag-wrangler",
-  "obsidian-underline",
-  "open-in-new-tab",
-  "obsidian-fuzzytag",
-  "obsidian-footnotes",
-  "table-editor-obsidian"
+  "obsidian-fuzzytag"
 ]
