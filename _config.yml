@@ -173,14 +173,14 @@ hide_posts:
   # 指定你想要传递隐藏文章的位置，比如让所有隐藏文章在存档页面可见
   # 常见的位置有：index, tag, category, archive, sitemap, feed, etc.
   # 留空则默认全部隐藏
-  public_generators: [archive,]
+  public_generators: [category,tag,]
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
   noindex: true
 
 # hexo-generator-feed /nofind/nosee/nowhere/none.xml  /atom.xml
 feed:
   type: atom
-  path: /nofind/nosee/nowhere/none.xml
+  path: /atom.xml
   limit: 30
   hub:
   content: true
@@ -188,7 +188,7 @@ feed:
   content_limit_delim: 
   order_by: -date
   icon: /images/logo.svg
-  autodiscovery: false
+  autodiscovery: true
   template:
 #hexo-generator-seo-friendly-sitemap
 sitemap:
@@ -213,7 +213,7 @@ aplayer:
 # Artitalk
 # see https://artitalk.js.org/
   artitalk:
-    enable: true
+    enable: false
     appId: OA9to9uVpT6e10WjslJ7MuLh-MdYXbMMI
     appKey: 78RU9tHO5Ayn4bw7GoF8aPdh
     path: shuoshuo

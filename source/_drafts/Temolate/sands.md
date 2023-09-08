@@ -3,10 +3,8 @@ title: 子虚栈日记{{date:MM-DD}}
 abbrlink: rocks{{date:MM-DD}}
 categories: 
 tags: []
-date:
-  "{ date:YYYY-MM-DD HH:mm:ss }": 
-updated:
-  "{ date:YYYY-MM-DD HH:mm:ss }": 
+date: {{date:YYYY-MM-DD HH:mm:ss }}
+updated: {{date:YYYY-MM-DD HH:mm:ss }}
 cover: 
 root: ../../
 copyright_author: 

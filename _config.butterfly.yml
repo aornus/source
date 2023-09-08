@@ -16,12 +16,13 @@ menu:
 #  广播: /Fm/ || fa fa-podcast
 #  查机: https://chatnext.si-on.top || fas fa-star-of-david
 #  示程: https://xuzi.si-on.top || fas fa-star-of-david
-#  闪念: https://seed.si-on.top/|| fas fa-seedling
+  
  私人||fas fa-coffee:
   捉影: /gallery/ || fas fa-camera
-  阅读: /read/ || fas fa-book
+  涵泳: /read/ || fas fa-book
   乱耳: /music/|| fas fa-headphones
-  过往: /Minds/|| fas fa-box
+  语屑: /Minds/Poems/|| fa fa-quote-left
+  日志: /categories/生活/日志/|| fas fa-seedling
 #  频道: https://tg.si-on.top/ || fas fa-paper-plane
   关于: /about/|| fas fa-heart
 
@@ -108,11 +109,11 @@ index_img: false #repeating-linear-gradient(90deg, rgba(201,201,201, 0) 0px, rgb
 default_top_img:  '#f5f6fa'
 
 # The banner image of archive page
-archive_img:
+archive_img: 
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: 
 
 # The banner image of tag page
 # format:
@@ -123,11 +124,12 @@ tag_per_img:
 # note: category page, not categories page (子分類頁面的 top_img)
 category_img:
 
+
 # The banner image of category page
 # format:
 #  - category name: xxxxx
 category_per_img:
-
+  日志: /images/diary.svg
 cover:
   # display the cover or not (是否顯示文章封面)
   index_enable: true
@@ -320,12 +322,12 @@ aside:
     # 秉!旭!隼!迹! 这次六级我必过500！
     # 💎四月十九| 琐事繁杂，心神涣散，短暂放空，为期一月。
   card_recent_post:
-    enable: true
+    enable: false
     limit: 2 # if set 0 will show all
     sort: updated # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
-    enable: true
+    enable: false
     limit: 0 # if set 0 will show all
     expand: false # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
